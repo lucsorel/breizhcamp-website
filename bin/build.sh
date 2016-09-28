@@ -20,7 +20,7 @@ REPO="git@github.com:breizhcamp/www-staging.git"
 for i in "$@"; do
   case $1 in
     -p|--prod)
-      REPO="git@github.com:breizhcamp/www.git"
+      REPO="git@github.com:breizhcamp/www-2017.git"
       ;;
     *)
       break
