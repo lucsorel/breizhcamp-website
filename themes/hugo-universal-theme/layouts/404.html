@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        <div id="content">
+            <div class="container">
+
+                <div class="col-sm-6 col-sm-offset-3" id="error-page">
+
+                    <div class="box">
+
+                        <h3>Oops, cette page n'existe pas / plus / n'a jamais existé</h3>
+
+                        <p class="text-center">
+                            <a href="/">
+                                <img src="/img/404.jpg" style="max-width: 100%;">
+                            </a>
+                        </p>
+
+                          <p class="buttons"><a href="/" class="btn btn-template-main"><i class="fa fa-home"></i> Retour à l'accueil</a>
+                        </p>
+                    </div>
+
+
+                </div>
+                <!-- /.col-sm-6 -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+  </body>
+</html>

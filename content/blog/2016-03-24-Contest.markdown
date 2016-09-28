@@ -1,0 +1,28 @@
++++
+title = "Contest"
+date = "2016-03-24T23:50:00+02:00"
+banner = "img/blog/2016-03-24/bache.jpg"
++++
+
+Pour aider nos participants à trouver le (nouveau) lieu de la conférence, nous avions prévu une belle banderole.
+Bon, notre dictateur bénévole n'étant pas très doué, la banderole a été commandée tardivement - certains dirons "à l'arrache" -
+et sans prendre l'option "Bon A Tirer" qui permet en principe de valider le rendu avant impression.
+
+Et donc ...
+
+![Bâche](/img/blog/2016-03-24/bache.jpg)
+
+Interrogé sur le sujet, le responsable de ce qui semble une belle boulette répond :
+"Pas du tout, il s'agit d'un challenge que nous proposons à nos participants"
+
+A vous donc de compléter le nom et le slogan de la conférence. Envoyez nous vos propositions sur twitter @breizhcamp, celle qui nous fera
+le plus rire gagnera ... un Pass BreizhCamp *A VIE*
+
+Attention, il y a du niveau, mais même si des propositions comme celles de [Sebastien](http://blog.blaisot.org/breizhcmp-2016.html) nous
+font bien rire, elles ne sont as conforme au cahier des charges : il faut respecter le patter:
+"
+BreizhCa....
+La conférence à l' ....
+"
+
+A vous de jouer, soyez créatifs !
