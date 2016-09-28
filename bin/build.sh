@@ -36,6 +36,7 @@ else
     rm -rf public
     git clone -b gh-pages "$REPO" public
   fi
+  (cd public; git clean -fdx; git checkout .)
 fi
 
 $HUGO
