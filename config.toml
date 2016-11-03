@@ -1,4 +1,4 @@
-baseurl = "http://www-staging.breizhcamp.org/"
+baseurl = "http://www.breizhcamp.org/"
 title = "BreizhCamp"
 theme = "hugo-universal-theme"
 languageCode = "fr-FR"
