@@ -4,7 +4,7 @@ title = "FAQ"
 
 ## Quand et où se tient le BreizhCamp 2017 ?
 
-La date du Breizhcamp 2017 n'est pas encore définie. Il devrait avoir lieu à l'université Rennes 1 comme l'année dernière. Toutes les informations pratiques pour venir sont sur la page [Venir]({{< ref "venir.md" >}}).
+La 7ème édition du BreizhCamp aura lieu du 19 au 21 avril 2017. Elle se tiendra dans le bâtiment 2A de l’Université Rennes 1 comme en 2016. Toutes les informations pratiques pour venir sont sur la page [Venir]({{< ref "venir.md" >}}).
 
 ## Combien coûte l'accès au BreizhCamp ?
 

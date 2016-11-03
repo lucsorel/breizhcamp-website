@@ -1,7 +1,7 @@
 +++
 title = "Un peu de sécurité"
 date = "2015-12-21T16:39:38+02:00"
-banner = "img/blog/2016-12-21/acme.jpg"
+banner = "img/blog/2015-12-21/acme.jpg"
 author = "Sylvain"
 +++
 
