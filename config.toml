@@ -111,7 +111,7 @@ paginate = 10
     # at 'exampleSite/data/sponsors'.
     # For more informtion take a look at the README.
     title = "Sponsors & Partenaires"
-    subtitle = "Nous sommes en train de finaliser notre dossier de sponsoring, mais vous pouvez nous contacter pour devenir partenaire de cette nouvelle édition 2017"
+    subtitle = "Le BreizhCamp n'est possible que grace au soutien de nos sponsors"
 
 [params.recent_posts]
     enable = true
