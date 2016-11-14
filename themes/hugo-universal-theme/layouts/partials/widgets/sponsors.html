@@ -1,0 +1,57 @@
+{{ range .Site.Data.sponsors.platinium }}
+<div class="col-md-3 col-sm-6">
+    <div class="box-image-text blog">
+        <div class="top">
+            <div class="image" style="overflow:hidden">
+              {{ if .url }}
+                <a href="{{ .url }}" target="_blank">
+                  <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                </a>
+              {{ else }}
+                <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+              {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
+
+<ul class="owl-carousel customers">
+    {{ range .Site.Data.sponsors.gold }}
+    <li class="item" title="{{ .name }}">
+        {{ if .url }}
+          <a href="{{ .url }}" target="_blank">
+            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+          </a>
+        {{ else }}
+          <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+        {{ end }}
+    </li>
+    {{ end }}
+</ul>
+<ul class="owl-carousel customers">
+    {{ range .Site.Data.sponsors.silver }}
+    <li class="item" title="{{ .name }}">
+        {{ if .url }}
+          <a href="{{ .url }}" target="_blank">
+            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+          </a>
+        {{ else }}
+          <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+        {{ end }}
+    </li>
+    {{ end }}
+</ul>
+<ul class="owl-carousel customers">
+    {{ range .Site.Data.sponsors.partenaires }}
+    <li class="item" title="{{ .name }}">
+        {{ if .url }}
+          <a href="{{ .url }}" target="_blank">
+            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+          </a>
+        {{ else }}
+          <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+        {{ end }}
+    </li>
+    {{ end }}
+</ul>

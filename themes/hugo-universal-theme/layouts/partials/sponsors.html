@@ -9,20 +9,7 @@
                   {{ .Site.Params.sponsors.subtitle }}
                 </p>
 
-                <ul class="owl-carousel customers">
-                    {{ range .Site.Data.sponsors }}
-                    <li class="item" title="{{ .name }}">
-                        {{ if .url }}
-                          <a href="{{ .url }}" target="_blank">
-                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                          </a>
-                        {{ else }}
-                          <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                        {{ end }}
-                    </li>
-                    {{ end }}
-                </ul>
-                <!-- /.owl-carousel -->
+                {{ partial "widgets/sponsors.html" . }}
             </div>
         </div>
     </div>
