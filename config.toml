@@ -112,7 +112,7 @@ paginate = 10
     # For more informtion take a look at the README.
     title = "Sponsors & Partenaires"
     subtitle = "Le BreizhCamp n'est possible que grace au soutien de nos sponsors. N'hésitez pas à nous contacter pour devenir vous aussi sponsor de l'évenement."
-    thankyou = "Un grand merci à tous nous Sponsors et Partenaires !"
+    thankyou = "Un grand merci à tous nos Sponsors et Partenaires !"
 
 [params.recent_posts]
     enable = true

@@ -19,7 +19,7 @@ Consulter la page [Venir]({{< ref "venir.md" >}}) pour obtenir toutes les inform
 
 ## Qui organise cet évènement ?
 
-Cet événement est organisé par [l'association loi 1901 BreizhCamp]({{ref "asso.md"}}). L'équie organisatrice est uniquement composé de bénévoles.
+Cet événement est organisé par [l'association loi 1901 BreizhCamp]({{<ref "asso.md">}}). L'équie organisatrice est uniquement composé de bénévoles.
 
 ## Comment devenir sponsor ou partenaire ?
 
