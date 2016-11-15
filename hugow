@@ -6,6 +6,7 @@ set -eu -o pipefail
 PROJECT_ROOT="$(cd -P "$( dirname "${BASH_SOURCE[0]}" )" && pwd)"
 cd "$PROJECT_ROOT"
 
+not_found=0
 HUGO=$(which hugo) || not_found=$?
 if [[ $not_found -ne 0 ]]; then
   if [[ ! -d .hugo ]]; then
@@ -16,4 +17,4 @@ if [[ $not_found -ne 0 ]]; then
   HUGO=".hugo/hugo_0.15_linux_amd64/hugo_0.15_linux_amd64"
 fi
 
-HUGO "$@"
+"$HUGO" "$@"
