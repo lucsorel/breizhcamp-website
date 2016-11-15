@@ -4,7 +4,7 @@ title = "Venir"
 
 # Billetterie
 
-La billetterie n'est pas encore ouverte, on attend d'avoir les dates !
+La [billetterie est ouverte](https://www.weezevent.com/bzhc4mp17). N'attendez pas le dernier moment, l'année dernière, nous étions à guichet fermé.
 
 # Lieu de la conférence
 
