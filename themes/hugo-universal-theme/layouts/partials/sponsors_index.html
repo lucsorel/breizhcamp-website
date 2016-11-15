@@ -5,12 +5,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="heading text-center">
-                  <a href="{{ .Site.BaseURL}}sponsors/">
-                    <h2>{{ .Site.Params.sponsors.title }}</h2>
-                  </a>
+                <div class="box-simple text-center">
+                  <h2>{{ .Site.Params.sponsors.thankyou }}</h2>
                 </div>
-
                 {{ partial "widgets/sponsors.html" . }}
             </div>
         </div>
