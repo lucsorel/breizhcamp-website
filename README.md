@@ -31,3 +31,9 @@ Les pages HTML générées sont servies par GitHub Pages et sont stockées dans:
 * [breizhcamp/www-2017](https://github.com/breizhcamp/www-2017) pour la branche `production`
 
 Les scripts de déploiement utilisé par l'intégration continue Jenkins sont dans le répertoire `bin`.
+
+# Dévelopment Web et Hugo
+
+Quelques liens pour les non professionels du CSS et de Hugo
+
+* http://cssreference.io/
