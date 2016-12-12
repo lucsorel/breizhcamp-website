@@ -4,7 +4,7 @@ title = "Conférence"
 
 # Call for Proposal
 
-Le CFP n'est pas encore ouvert.
+Envie de proposer un talk pour l'édition 2017 ? Viens sur le CFP https://breizhcamp.cfp.io 
 
 # Site des éditions précédentes
 
