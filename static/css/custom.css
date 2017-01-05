@@ -64,3 +64,7 @@ div#post-content img {
   width: 150px;
   height: 100px;
 }
+
+.carousel-img {
+  max-height: 350px;
+}
