@@ -3,7 +3,8 @@
     <h3>Sponsors Platinum</h3>
   </div>
 {{ range .Site.Data.sponsors.platinum }}
-<div class="col-md-6 col-sm-12 sponsor platinum">
+<div class="col-md-6 col-sm-12">
+  <div class="sponsor platinum">
     {{ if .url }}
       <a href="{{ .url }}" target="_blank">
         <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
@@ -11,6 +12,7 @@
     {{ else }}
       <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
     {{ end }}
+  </div>
 </div>
 {{ end }}
 </div>
@@ -19,7 +21,8 @@
     <h3>Sponsors Gold</h3>
   </div>
 {{ range .Site.Data.sponsors.gold }}
-<div class="col-md-3 col-sm-6 sponsor gold">
+<div class="col-md-3 col-sm-6">
+  <div class="sponsor gold">
     {{ if .url }}
       <a href="{{ .url }}" target="_blank">
         <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
@@ -27,6 +30,7 @@
     {{ else }}
       <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
     {{ end }}
+  </div>
 </div>
 {{ end }}
 </div>
@@ -35,7 +39,8 @@
     <h3>Sponsors Silver</h3>
   </div>
 {{ range .Site.Data.sponsors.silver }}
-<div class="col-md-2 col-sm-3 sponsor silver">
+<div class="col-md-2 col-sm-3">
+  <div class="sponsor silver">
     {{ if .url }}
       <a href="{{ .url }}" target="_blank">
         <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
@@ -43,13 +48,14 @@
     {{ else }}
       <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
     {{ end }}
+  </div>
 </div>
 {{ end }}
 </div>
 <div class="row">
-<div class="heading text-center">
-  <h3>Partenaires</h3>
-</div>
+  <div class="heading text-center">
+    <h3>Partenaires</h3>
+  </div>
 {{ range .Site.Data.sponsors.partenaires }}
 <div class="col-md-6 col-sm-12">
     {{ if .url }}
@@ -61,3 +67,4 @@
     {{ end }}
 </div>
 {{ end }}
+</div>
