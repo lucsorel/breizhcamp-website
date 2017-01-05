@@ -21,7 +21,7 @@
     <h3>Sponsors Gold</h3>
   </div>
 {{ range .Site.Data.sponsors.gold }}
-<div class="col-md-3 col-sm-6">
+<div class="col-md-3 col-sm-4 col-xs-6">
   <div class="sponsor gold">
     {{ if .url }}
       <a href="{{ .url }}" target="_blank">
@@ -39,7 +39,7 @@
     <h3>Sponsors Silver</h3>
   </div>
 {{ range .Site.Data.sponsors.silver }}
-<div class="col-md-2 col-sm-3">
+<div class="col-md-2 col-sm-3 col-xs-6">
   <div class="sponsor silver">
     {{ if .url }}
       <a href="{{ .url }}" target="_blank">
