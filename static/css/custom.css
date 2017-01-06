@@ -7,7 +7,8 @@
 }
 
 .home-carousel {
-  background: url('../img/programming-ide.jpg') center center repeat;
+  background: url('../img/rennes-background.jpg') center center repeat;
+  text-shadow: 3px 2px 6px #222;
 }
 
 .home-carousel .dark-mask {
