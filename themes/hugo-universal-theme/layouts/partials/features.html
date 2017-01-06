@@ -12,8 +12,14 @@
               {{ .Site.Params.features.subtitle }}
             </p>
 
+            {{ $.Scratch.Set "index" 0 }}
             <div class="row">
                 {{ range .Site.Data.features }}
+                {{ $index := $.Scratch.Get "index" }}
+                {{ if modBool $index 3 }}
+            </div>
+            <div class="row">
+                {{ end }}
                 <div class="col-md-4">
                     <div class="box-simple">
                         <div class="icon">
@@ -23,6 +29,7 @@
                         <p>{{ .description }}</p>
                     </div>
                 </div>
+                {{ $.Scratch.Add "index" 1 }}
                 {{ end }}
             </div>
         </div>
