@@ -33,7 +33,7 @@ Si vous souhaitez devenir sponsor ou partenaire, merci de nous contacter par mai
 
 ### Les présentations sont-elles filmées ?
 
-Certaines sessions seront filmé et nous essayerons de les mettre à disposition sur notre [chaîne YouTube](https://www.youtube.com/user/BreizhCamp). La mise en ligne des sessions est un travail im
+Certaines sessions seront filmé et nous essayerons de les mettre à disposition sur notre [chaîne YouTube](https://www.youtube.com/user/BreizhCamp).
 
 ### Dois-je emmener un ordinateur ?
 
