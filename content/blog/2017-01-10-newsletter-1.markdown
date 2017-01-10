@@ -98,4 +98,4 @@ Pour construire cette plateforme, nous recrutons des développeurs, testeurs et 
 
 --
 
-[Lien vers la lettre originale](https://docs.google.com/document/d/1jis2L5gzg2yij2iGbOlfWMZKEOSOobDkw3TOtvn-Cuk/pub)
+[Lien vers la lettre originale](http://us3.campaign-archive2.com/?u=c755301bcda62df78e338c60f&id=a4ae01e4e7&e=a2faed44ac)
