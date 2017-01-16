@@ -6,15 +6,38 @@ set -eu -o pipefail
 PROJECT_ROOT="$(cd -P "$( dirname "${BASH_SOURCE[0]}" )" && pwd)"
 cd "$PROJECT_ROOT"
 
+HUGO_VERSION=0.15
+
+install_hugo() {
+  mkdir .hugo
+  case "`uname`" in
+  Darwin* )
+    curl -L "https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_darwin_amd64.zip" > .hugo/hugo.zip
+    (cd .hugo; unzip hugo.zip)
+    ;;
+  Linux* )
+    curl -L "https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux_amd64.tar.gz" | \
+      (cd .hugo; tar xzf -)
+    ;;
+  esac
+}
+
 not_found=0
 HUGO=$(which hugo) || not_found=$?
 if [[ $not_found -ne 0 ]]; then
-  if [[ ! -d .hugo ]]; then
-    mkdir .hugo
-    curl -L https://github.com/spf13/hugo/releases/download/v0.15/hugo_0.15_linux_amd64.tar.gz | \
-      (cd .hugo; tar xzf -)
-  fi
-  HUGO=".hugo/hugo_0.15_linux_amd64/hugo_0.15_linux_amd64"
+  [[ ! -d .hugo ]] && install_hugo
+
+  case "`uname`" in
+  Darwin*)
+    HUGO=".hugo/hugo_${HUGO_VERSION}_darwin_amd64/hugo_${HUGO_VERSION}_darwin_amd64"
+    ;;
+  Linux*)
+    HUGO=".hugo/hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64"
+    ;;
+  *)
+    echo "Unable to find Hugo binary, exiting..."
+    exit 1
+  esac
 fi
 
 "$HUGO" "$@"
