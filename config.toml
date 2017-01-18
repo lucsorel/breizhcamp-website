@@ -2,6 +2,7 @@ baseurl = "http://www-staging.breizhcamp.org/"
 title = "BreizhCamp - 7ème édition"
 theme = "hugo-universal-theme"
 languageCode = "fr-FR"
+defaultContentLanguage = "fr"
 # Enable comments by entering your Disqus shortname
 #disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
