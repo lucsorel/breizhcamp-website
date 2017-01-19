@@ -32,7 +32,7 @@ HUGO=$(which hugo 2>/dev/null) || not_found=$?
 if [[ $not_found -ne 0 ]]; then
   case "`uname`" in
   Darwin*)
-    HUGO=".hugo/hugo_${HUGO_VERSION}_macOS_amd64/hugo_${HUGO_VERSION}_macOS_amd64"
+    HUGO=".hugo/hugo_${HUGO_VERSION}_darwin_amd64/hugo_${HUGO_VERSION}_darwin_amd64"
     ;;
   Linux*)
     HUGO=".hugo/hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64"
