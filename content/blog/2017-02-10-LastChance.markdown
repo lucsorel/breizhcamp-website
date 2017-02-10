@@ -1,6 +1,6 @@
 +++
 title = "CFP: last chance"
-date = "2016-02-10T09:00:38+02:00"
+date = "2017-02-10T09:00:38+02:00"
 banner = "img/blog/2016-11-28/logoCfp-500x500.png"
 +++
 
