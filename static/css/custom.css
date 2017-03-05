@@ -110,7 +110,13 @@ div#post-content img {
   margin-bottom: 5px;
 }
 
+.speaker-box {
+  display: flex;
+  padding: 7px;
+}
+
 .speaker {
+  width: 100%;
   display: block;
   position: relative;
   margin-right: 0;
@@ -119,5 +125,4 @@ div#post-content img {
   border: 1px solid #ddd;
   box-shadow: 2px 2px 2px 0px #ddd;
   padding: 15px 15px 15px;
-  margin: 7px -7px 7px -7px;
 }

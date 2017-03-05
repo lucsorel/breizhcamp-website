@@ -18,18 +18,11 @@
         <!--/.nav-collapse -->
          <div id="content">
             <div class="container">
-                {{ $.Scratch.Set "index" 0 }}
-                <div class="row">
+                <div class="row" style="flex-wrap:wrap;display:flex">
                   {{ range sort .Site.Data.speaker "lastname" "asc" }}
-                  {{ $index := $.Scratch.Get "index" }}
-                  {{ if modBool $index 3 }}
-                </div>
-                <div class="row">
-                  {{ end }}
-                  <div class="col-md-4 col-sm-6">
+                  <div class="col-md-4 col-sm-6 speaker-box">
                     {{ partial "widgets/speaker.html" . }}
                   </div>
-                  {{ $.Scratch.Add "index" 1 }}
                   {{ end }}
                 </div>
             </div>
