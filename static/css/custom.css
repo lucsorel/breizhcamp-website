@@ -109,3 +109,15 @@ div#post-content img {
 .calendar-filter-button {
   margin-bottom: 5px;
 }
+
+.speaker {
+  display: block;
+  position: relative;
+  margin-right: 0;
+  margin-left: 0;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 2px 2px 2px 0px #ddd;
+  padding: 15px 15px 15px;
+  margin: 7px -7px 7px -7px;
+}

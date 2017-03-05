@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ partial "breadcrumbs_with_sub.html" . }}
+
+        <!--/.nav-collapse -->
+         <div id="content">
+            <div class="container">
+                {{ $.Scratch.Set "index" 0 }}
+                <div class="row">
+                  {{ range sort .Site.Data.speaker "lastname" "asc" }}
+                  {{ $index := $.Scratch.Get "index" }}
+                  {{ if modBool $index 3 }}
+                </div>
+                <div class="row">
+                  {{ end }}
+                  <div class="col-md-4 col-sm-6">
+                    {{ partial "widgets/speaker.html" . }}
+                  </div>
+                  {{ $.Scratch.Add "index" 1 }}
+                  {{ end }}
+                </div>
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

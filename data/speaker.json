@@ -1,0 +1,77 @@
+[
+  {
+    "lastname": "IKEDJIAN",
+    "firstname": "Nathalie",
+    "company": "One #RH",
+    "bio": "8 ans d'expérience RH et \"pair-recruiting\" en environnement IT (ESN, cabinet de conseil, intégrateur). Milite avec Shirley Almosini CHICHE pour une relation IT/RH pleine de respect, de compréhension et d'amour durable !",
+    "social": "https://www.linkedin.com/in/nathalie-ikedjian-a2742712?trk=nav_responsive_tab_profile",
+    "twitter": "@nkedjian",
+    "googleplus": null,
+    "github": null,
+    "imageProfilURL": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkLAAAAJDNmOGYzYTAwLTdhNTYtNGQ0Yy05YWNiLTc4MTM5OWZlOTcxMQ.jpg",
+    "gender": "FEMALE",
+    "tshirtSize": "S"
+  },
+  {
+    "lastname": "De Loof",
+    "firstname": "Nicolas",
+    "company": "CloudBees",
+    "bio": "Hacker & DockerCaptain",
+    "social": "",
+    "twitter": "ndeloof",
+    "googleplus": null,
+    "github": "ndeloof",
+    "imageProfilURL": "https://lh5.googleusercontent.com/-Z9ZMAVrEX2U/AAAAAAAAAAI/AAAAAAAAIyI/4cOiiXrmDzQ/photo.jpg?sz=360",
+    "gender": "MALE",
+    "tshirtSize": "L"
+  },
+  {
+    "lastname": "ALMOSNI CHICHE",
+    "firstname": "Shirley",
+    "company": "CARBON IT",
+    "bio": "Il est difficile de me présenter en me mettant dans une seule case. Je me considère assez souvent comme un OVNI dans le monde du recrutement. J’ai fait une Prépa HEC puis un Master en Marketing/ Management de Projet au sein de Skema Business School. Puis, arrivant sur le marché du travail dans un contexte de crise, je me suis lancée en tant que Commerciale dans le monde de la téléphonie. J’ai ensuite été Ingénieur d’Affaires au sein d’un cabinet de recrutement. Le recrutement est venu à moi vraiment par hasard. J’ai endossé la casquette de Consultante en recrutement IT et maintenant je suis Responsable Recrutement et Communication RH au sein de Carbon IT, soit un joli dosage entre du coaching, du marketing, du recrutement, de la communication, de l’animation de communauté et une bonne dose d'énergie et de bonne humeur.",
+    "social": "shirleyalmosni.wordpress.com",
+    "twitter": "@shirleyalmosni",
+    "googleplus": "https://plus.google.com/u/0/+shirleyAlmosni",
+    "github": null,
+    "imageProfilURL": "https://secure.gravatar.com/avatar/df576cc890c166965ebe9aeb90b645aa?s=320",
+    "gender": "MALE",
+    "tshirtSize": "M"
+  },
+  {
+    "id": 2,
+    "lastname": "Dubreuil",
+    "firstname": "Yoann",
+    "company": "CloudBees",
+    "bio": "Yoann Dubreuil travaille chez CloudBees. A mi-chemin entre développeur et administrateur système, il s'occupe aujourd'hui du maintien de la solution hébergée DEV@cloud après avoir accompagné les clients CloudBees à tirer le meilleur de Jenkins dans l'équipe support. Il est aussi Gentil Organisateur du BreizhCamp",
+    "social": "",
+    "twitter": null,
+    "googleplus": "https://plus.google.com/109669109238504787835",
+    "github": "ydubreuil",
+    "imageProfilURL": "https://lh4.googleusercontent.com/-akAJz17Pv7c/AAAAAAAAAAI/AAAAAAAAUg4/GjCjZPR341Y/photo.jpg?sz=360"
+  },
+  {
+    "id": 4,
+    "lastname": "Thomazo",
+    "firstname": "Alexandre",
+    "company": null,
+    "bio": "C'est moi",
+    "social": "",
+    "twitter": null,
+    "googleplus": null,
+    "github": null,
+    "imageProfilURL": "http://www.gravatar.com/avatar/7f0f8eb16d51f705c01c8d5b9e383b24?s=250"
+  },
+  {
+    "id": 5,
+    "lastname": "Huet",
+    "firstname": "Laurent",
+    "company": null,
+    "bio": "--",
+    "social": "",
+    "twitter": null,
+    "googleplus": "https://plus.google.com/+LaurentHUET",
+    "github": null,
+    "imageProfilURL": "https://lh4.googleusercontent.com/-jSCzNvYqVpI/AAAAAAAAAAI/AAAAAAAAAZ8/zYUjcUYw48I/photo.jpg?sz=360"
+  }
+]
