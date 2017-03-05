@@ -1260,7 +1260,7 @@
     {
         "active": "Y",
         "description": "Nous calculerons des indicateurs en temps r\u00e9el depuis kafka pour traiter les donn\u00e9es avec spark streaming et enfin les stocker dans Mongo DB.\n\nNous visualiserons les donn\u00e9es avec une application web.\n\nPas besoin d'installer toutes ces technologies, une plateforme Saagie sera \u00e0 disposition. \n\nViens juste avec ton IDE favoris et un langage compatible (java 8 ou Scala)!",
-        "event_end": "2017-04-19T17:00:00",
+        "event_end": "2017-04-19T18:00:00",
         "event_key": "tobedefined",
         "event_start": "2017-04-19T16:00:00",
         "event_type": "BigData, Analytics et Machine Learning",
