@@ -105,3 +105,7 @@ div#post-content img {
   padding-top: 5px;
   padding-bottom: 5px;
 }
+
+.calendar-filter-button {
+  margin-bottom: 5px;
+}

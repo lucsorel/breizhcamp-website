@@ -1,5 +1,18 @@
 {{ template "_internal/google_analytics.html" . }}
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+<!-- 3rd party dependencies -->
+<script src="{{ .Site.BaseURL }}js/dependencies/jquery.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/dependencies/angular.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/dependencies/angular-animate.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/dependencies/angular-sanitize.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/dependencies/marked.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/dependencies/angular-marked.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/dependencies/angular-locale_fr.js"></script>
+<script src="{{ .Site.BaseURL }}js/dependencies/ui-bootstrap-tpls.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/dependencies/moment.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/dependencies/fullcalendar.min.js"></script>
+<script src="{{ .Site.BaseURL }}js/dependencies/calendar.js"></script>
+<script src="{{ .Site.BaseURL }}js/dependencies/lodash.min.js"></script>
 <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 
 <script src="{{ .Site.BaseURL }}js/jquery.cookie.js"></script>
@@ -11,3 +24,6 @@
 <!-- owl carousel -->
 <script src="{{ .Site.BaseURL }}js/owl.carousel.min.js"></script>
 <script src="{{ .Site.BaseURL }}js/main.js"></script>
+
+<!-- Angular & Cie. pour le programme -->
+<script src="{{ .Site.BaseURL }}js/programme.js"></script>
