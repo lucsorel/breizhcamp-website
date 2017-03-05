@@ -1206,7 +1206,7 @@
     {
         "active": "Y",
         "description": "La programmation visuelle, vous connaissez ? \n\nScratch, Blockly, MBlock font partie des langages que nous utilisons avec les enfants pour leur apprendre \u00e0 programmer. \n\nSi on l'utilise avec les enfants, on peut l'utiliser avec les grands aussi ! \n\nIOT, appels REST, tests fonctionnels... jusqu'o\u00f9 peut-on aller avec ces langages ? Comment sont-ils construits ?\n\nApr\u00e8s une pr\u00e9sentation de quelques outils, nous vous proposons de regarder sous le capot de Blockly et de cr\u00e9er vos propres blocs. Et pourquoi pas cr\u00e9er votre propre DSL pour faire coder \u00e0 votre place les tests fonctionnels ?",
-        "event_end": "2017-04-19T11:00:00",
+        "event_end": "2017-04-19T12:00:00",
         "event_key": "tobedefined",
         "event_start": "2017-04-19T10:00:00",
         "event_type": "Langages",
