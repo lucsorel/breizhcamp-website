@@ -110,9 +110,9 @@
     {
         "active": "Y",
         "description": "Les FPGAs sont des **puces configurables** servant \u00e0 l'origine \u00e0 tester des prototypes de puces \u00e9lectroniques. Ils entrent maintenant dans le monde du logiciel en tant qu'**acc\u00e9l\u00e9rateurs mat\u00e9riels reconfigurables**, bien plus versatiles que les GPUs. Ils sont m\u00eame propos\u00e9s par certains fournisseurs de cloud.\n\n**Traitement de trafic, compression, chiffrement, machine learning**, sont des domaines dans lesquels les FPGAs excellent. Des acc\u00e9l\u00e9rateurs existent qui peuvent \u00eatre utilis\u00e9s sans connaissances en \u00e9lectronique, rendant les FPGAs accessibles \u00e0 tous les d\u00e9veloppeurs. \n\nLes FPGAs n'imposent aucune architecture mat\u00e9rielle, et offrent un **parall\u00e9lisme massif** gr\u00e2ce \u00e0 leurs millions d'\u00e9l\u00e9ments (logiques, m\u00e9moire) fonctionnant ind\u00e9pendamment. \u00c0 travers l'exemple du **syst\u00e8me anti-DDoS d'OVH**, venez d\u00e9couvrir l'int\u00e9r\u00eat, les challenges et les solutions pour int\u00e9grer des FPGAs dans un environnement logiciel.",
-        "event_end": "2017-04-20T14:30:00",
+        "event_end": "2017-04-20T15:30:00",
         "event_key": "tobedefined",
-        "event_start": "2017-04-20T13:30:00",
+        "event_start": "2017-04-20T14:30:00",
         "event_type": "Architecture, Performance et S\u00e9curit\u00e9",
         "format": "Conf\u00e9rence",
         "goers": "tobedefined",
@@ -122,7 +122,7 @@
         "name": "Qu'apportent les acc\u00e9l\u00e9rateurs mat\u00e9riels sur FPGA ? L'exemple de l'anti-DDoS d'OVH",
         "seats": "tobedefined",
         "speakers": "Tristan Grol\u00e9at",
-        "venue": "Track2",
+        "venue": "Track1",
         "venue_id": 2
     },
     {
@@ -146,9 +146,9 @@
     {
         "active": "Y",
         "description": "Ce talk est une d\u00e9monstration de l'attaque de l'Homme du milieu (Man-In-The-Middle).\nL'objectif est de d\u00e9mystifier le hacking par la pratique (\u00e9thique!) et de sensibiliser aux risques que l'on court en permanence (au bureau, \u00e0 la maison ou dans un caf\u00e9 public).\n\nAu programme, le d\u00e9roulement complet d'une attaque :\n-  \u00e9coute r\u00e9seau\n- vol de mot de passes\n- cr\u00e9ation de trojan\n- \u00e9vasion antivirus\n- infection\n- prise de contr\u00f4le totale de la cible",
-        "event_end": "2017-04-20T18:00:00",
+        "event_end": "2017-04-20T17:30:00",
         "event_key": "tobedefined",
-        "event_start": "2017-04-20T17:30:00",
+        "event_start": "2017-04-20T17:00:00",
         "event_type": "Architecture, Performance et S\u00e9curit\u00e9",
         "format": "Tool in Action",
         "goers": "tobedefined",
@@ -164,9 +164,9 @@
     {
         "active": "Y",
         "description": "Au commencement il y avait \u00ab l\u2019audit de s\u00e9curit\u00e9 \u00bb qui \u00e9tait tr\u00e8s cadr\u00e9 et tr\u00e8s dirig\u00e9 et donc manquait de vision terrain. Nous sommes ensuite pass\u00e9 au \u00ab test d\u2019intrusion \u00bb, plus r\u00e9aliste d\u2019une cyberattaque car il permet une plus grande marge de man\u0153uvre pour les consultants tout en permettant l\u2019application des m\u00e9thodes des pirates. Cependant, le test d\u2019intrusion poss\u00e8de ses limites et face \u00e0 la g\u00e9n\u00e9ralisation des cyberattaques certains commencent \u00e0 se demander s\u2019il ne vaudrait pas mieux faire \u00e9voluer cette m\u00e9thodologie\u2026\nLe \u00ab Red Team \u00bb (qui nous vient tout droit d\u2019outre-atlantique) serait-il LA r\u00e9ponse \u00e0 cette probl\u00e9matique ? L\u2019objectif de ce talk est donc de pr\u00e9senter cette nouvelle m\u00e9thodologie qui petit \u00e0 petit commence \u00e0 faire son bout de chemin sur le vieux continent.",
-        "event_end": "2017-04-20T15:30:00",
+        "event_end": "2017-04-20T18:00:00",
         "event_key": "tobedefined",
-        "event_start": "2017-04-20T14:30:00",
+        "event_start": "2017-04-20T17:30:00",
         "event_type": "Architecture, Performance et S\u00e9curit\u00e9",
         "format": "Tool in Action",
         "goers": "tobedefined",
