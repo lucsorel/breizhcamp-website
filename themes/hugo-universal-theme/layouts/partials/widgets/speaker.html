@@ -1,13 +1,15 @@
 <div class="speaker">
   <div class="media">
     <div class="media-left">
-      <img class="media-object img-circle" alt="{{ .firstname | htmlEscape }} {{ .lastname | htmlEscape }}" src="{{ .imageProfilURL | safeHTML }}" width="100" height="100">
+      <img class="media-object img-circle" alt="{{ .firstname }} {{ .lastname }}" src="{{ .imageProfilURL }}" width="100" height="100">
     </div>
     <div class="media-body media-middle">
-      <h3 class="media-heading">{{ .firstname | safeHTML }} {{ .lastname | safeHTML }}</h3>
+      <h3 class="media-heading">{{ .firstname }} {{ .lastname }}</h3>
     </div>
   </div>
   <div>
-    <p>{{ .bio | markdownify }}</p>
+    {{ if .bio }}
+    <p>{{ .bio | plainify | markdownify }}</p>
+    {{ end }}
   </div>
 </div>
