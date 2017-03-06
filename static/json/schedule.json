@@ -1278,7 +1278,7 @@
     {
         "active": "Y",
         "description": "Venez participer pendant 2h \u00e0 ce challenge de conception d\u2019intelligence artificielle.\n\nLes r\u00e8gles sont simples :\n* une bataille de personnages m\u00e9di\u00e9vaux en un contre un\n* une API REST d\u2019attaque \u00e0 disposition\n* une application web de visualisation du combat en live\n\nVous n\u2019avez plus qu\u2019\u00e0 coder votre IA avec votre langage pr\u00e9f\u00e9r\u00e9, r\u00e9agir en cons\u00e9quence et affronter l\u2019IA du serveur ou d\u2019autres participants de ce lab.",
-        "event_end": "2017-04-20T11:30:00",
+        "event_end": "2017-04-20T12:30:00",
         "event_key": "tobedefined",
         "event_start": "2017-04-20T10:30:00",
         "event_type": "Web et mobile",
@@ -1296,7 +1296,7 @@
     {
         "active": "Y",
         "description": "Aujourd'hui, les frameworks hybrides imposent leur propre interface (e.g. Cordova et ses d\u00e9riv\u00e9s), faisant fi des recommandations de chaque plateforme, ou n\u00e9cessite d'utiliser des composants Web diff\u00e9rents pour cela (e.g. React Native), supprimant ainsi leur principal avantage, la mutualisation du code.\n\n[Cobalt](https://cobaltians.org/), \"Made in Breizh\", propose des composants natifs pour chaque plateforme, accessibles depuis une API Web commune et offre bien plus pour r\u00e9concilier d\u00e9veloppeurs Web et d\u00e9veloppeurs natifs.\n\nVenez prendre en main ce framework et d\u00e9couvrir ses avantages face aux g\u00e9ants avec les 2 contributeurs principaux du projet\n\nPr\u00e9-requis:\n\n- Derni\u00e8re version d'[Android Studio](https://developer.android.com/studio/index.html) et du [SDK Android](https://developer.android.com/studio/intro/update.html#sdk-manager) (Tools, Platform-Tools, Build-Tools, SDK Platform, Android Support Repository et Library) et au moins un simulateur (System Image) ou smartphone/tablette Android 2.3+\n- Pour les possesseurs de Mac qui voudraient tester sur iOS, derni\u00e8re version d'[Xcode](https://itunes.apple.com/fr/app/xcode/id497799835) et au moins un [simulateur](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/iOS_Simulator_Guide/GettingStartedwithiOSSimulator/GettingStartedwithiOSSimulator.html#//apple_ref/doc/uid/TP40012848-CH5-SW10) iOS 8+",
-        "event_end": "2017-04-20T14:30:00",
+        "event_end": "2017-04-20T15:30:00",
         "event_key": "tobedefined",
         "event_start": "2017-04-20T13:30:00",
         "event_type": "Web et mobile",
@@ -1314,7 +1314,7 @@
     {
         "active": "Y",
         "description": "3h \u2026 Certaines personnes sortent d\u2019un canyon en 127 heures et avec un bras en moins, nous vous proposons de gardez vos bras pour construire et mettre en place votre SI de demain : du docker, du cluster d\u2019OS et tout les outils n\u00e9c\u00e9ssaires \u00e0 l\u2019automatisation de vos projets pour partir dans le cloud d\u00e8s le lendemain, et tout \u00e7a en 3 heures !",
-        "event_end": "2017-04-20T17:00:00",
+        "event_end": "2017-04-20T18:00:00",
         "event_key": "tobedefined",
         "event_start": "2017-04-20T16:00:00",
         "event_type": "Cloud, Devops, Outils",
@@ -1350,7 +1350,7 @@
     {
         "active": "Y",
         "description": "Les Progressive Web Apps (PWA) combinent le meilleur du web et des apps. Les utilisateurs peuvent s'en servir directement d\u00e8s qu'ils s'y rendent avec leur navigateur, sans avoir besoin d'installer quoi que ce soit. Et ensuite, \u00e0 fur et \u00e0 mesure qu'ils passent du temps sur l'application, celle-ci devient plus puissante : elle charge tr\u00e8s rapidement, m\u00eame sur des r\u00e9seaux d\u00e9grad\u00e9s, envoie des notifications, s'installe sur la page d'accueil du t\u00e9l\u00e9phone ou sur le bureau de l'ordinateur, se charge en \u00e9cran compl\u00e8te sans la barre d'URL et recherche du navigateur... Bref, il offre \u00e0 l'utilisateur une exp\u00e9rience semblable \u00e0 une application native.\n\nEt depuis le dernier Google I/O, construire des PWA avec Polymer est devenu un jeu d'enfant ! En utilisant la puissance et la simplicit\u00e9 des composants web et le CLI de Polymer, toutes les \u00e9tapes fastidieuses de la construction manuelle d'une PWA sont  gomm\u00e9s.\n\nDans ce lab nous vous proposons de cr\u00e9er pas \u00e0 pas votre premi\u00e8re application web progressive, tout en apprenant les bases de Polymer si vous ne les connaissez pas.  Le tout autour d'un sujet qui rassemble, comme c'est la bi\u00e8re, car vous allez cr\u00e9er une application pour g\u00e9rer une base de donn\u00e9es de bi\u00e8res: *pwa-beers*. \n\nEn partant vous aurez cr\u00e9\u00e9 une PWA utilisable partout, vous aurez compris ce qui rend ces apps si puissantes et int\u00e9ressantes pour tout d\u00e9veloppeur web et ou mobile, et en bonus vous aurez les bases pour d\u00e9velopper des apps avec des web components en Polymer. Le tout bas\u00e9 sur notre syst\u00e8me de tutorials pas \u00e0 pas qui garanti que vous serez pas perdus en chemin, la bonne humeur et l'accent espagnol en plus...",
-        "event_end": "2017-04-21T11:30:00",
+        "event_end": "2017-04-21T12:30:00",
         "event_key": "tobedefined",
         "event_start": "2017-04-21T10:30:00",
         "event_type": "Web et mobile",
@@ -1368,7 +1368,7 @@
     {
         "active": "Y",
         "description": "Essayez de cr\u00e9er un code qui vous ne consid\u00e9rez pas comme \u00e9tant \u201clegacy\u201d.\n\nJe jouerai le r\u00f4le de votre client et j'utiliserai 20 techniques diff\u00e9rentes pour vous faire \u00e9chouer\n\nVous allez \u00e9chouer.\n\nNous allons d\u00e9battre les techniques utilis\u00e9es, comment elles arrivent dans la vraie vie et comment les combattre dans vos projets.\n\nTous les langages sont bienvenus. Vous aurez besoin d'un portable avec votre environment, le hands-on se fera par petites \u00e9quipes mont\u00e9s sur place.",
-        "event_end": "2017-04-21T14:30:00",
+        "event_end": "2017-04-21T15:30:00",
         "event_key": "tobedefined",
         "event_start": "2017-04-21T13:30:00",
         "event_type": "Agilit\u00e9, M\u00e9thodologie et Tests",
