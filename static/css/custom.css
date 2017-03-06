@@ -126,3 +126,7 @@ div#post-content img {
   box-shadow: 2px 2px 2px 0px #ddd;
   padding: 15px 15px 15px;
 }
+
+.fc-time-grid-event {
+  cursor: pointer;
+}
