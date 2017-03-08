@@ -2,7 +2,7 @@
     'use strict';
 
     angular.module('programme', ['ngSanitize', 'hc.marked', 'ngLocale', 'ngAnimate', 'ui.bootstrap', 'ui.calendar'])
-        .controller('ProgrammeCtrl', ['$scope', '$http', 'marked', 'dateFilter', '$uibModal', 'uiCalendarConfig', function($scope, $http, marked, dateFilter, $uibModal, uiCalendarConfig) {
+        .controller('ProgrammeCtrl', ['$scope', '$http', '$q', 'marked', 'dateFilter', '$uibModal', 'uiCalendarConfig', function($scope, $http, $q, marked, dateFilter, $uibModal, uiCalendarConfig) {
 
             var formatDefinitions = this.formatDefinitions = [
                 {format: 'Conférence', label: 'Conférence', icon: 'fa-slideshare'},
@@ -108,17 +108,21 @@
                 });
             });
 
-            $http(
+            $q.all([
+                $http.get('/json/others.json'),
+                $http(
                 { 
                     method: 'GET',
                     url: 'https://api.cfp.io/api/schedule',
                     headers: {
                         'X-Tenant-Id':'breizhcamp'
                     } 
-                }).then(function(response) {
-                    console.log(response);
+                })
+            ]).then(function(responses) {
+                return [].concat(responses[0].data, responses[1].data);
+            }).then(function(talks) {
 
-                var talks = response.data;
+                console.log(talks);
 
                 function activeFilters() {
                     return _.pick(filters, function(filterObject) {
