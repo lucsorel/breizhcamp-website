@@ -108,7 +108,15 @@
                 });
             });
 
-            $http.get('/json/schedule.json').then(function(response) {
+            $http(
+                { 
+                    method: 'GET',
+                    url: 'https://api.cfp.io/api/schedule',
+                    headers: {
+                        'X-Tenant-Id':'breizhcamp'
+                    } 
+                }).then(function(response) {
+                    console.log(response);
 
                 var talks = response.data;
 
