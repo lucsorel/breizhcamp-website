@@ -23,6 +23,10 @@ Il n'est pas possible d'acheter des billets pendant l'événement (de toute faç
 
 Si vous êtes un speaker, vous êtes notre invité ! Il n'est donc pas nécessaire d'acheter un billet. Néanmoins, nous limitons les invitations à 2 speakers par session.
 
+###  Puis-je me faire rembourser si je ne peux pas venir ?
+
+Nous ne remboursons pas les billets (trop compliqué en terme de comptabilité), par contre, vous pouvez ceder votre place à quelqu'un et nous en informez en envoyant un mail à contact@breizhcamp.org avec les coordonnées du chanceux ! Nous modifierons le billet en conséquence.
+
 ### Qui organise cet évènement ?
 
 Cet événement est organisé par [l'association BreizhCamp]({{<ref "asso.md">}}). L'équipe organisatrice est uniquement composée de bénévoles et n’est pas rémunérée.
