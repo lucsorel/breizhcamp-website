@@ -25,7 +25,7 @@ Si vous êtes un speaker, vous êtes notre invité ! Il n'est donc pas nécessai
 
 ###  Puis-je me faire rembourser si je ne peux pas venir ?
 
-Nous ne remboursons pas les billets (trop compliqué en terme de comptabilité), par contre, vous pouvez ceder votre place à quelqu'un et nous en informez en envoyant un mail à contact@breizhcamp.org avec les coordonnées du chanceux ! Nous modifierons le billet en conséquence.
+Nous ne remboursons pas les billets, par contre, vous pouvez céder votre place à quelqu'un d'autre et nous en informez en envoyant un mail à contact@breizhcamp.org avec les coordonnées du chanceux ! Nous modifierons le billet en conséquence.
 
 ### Qui organise cet évènement ?
 
