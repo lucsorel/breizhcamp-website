@@ -20,14 +20,14 @@
         "venue": "Track1"
     },
     {
-        "description": "Meet'n Grret",
+        "description": "Meet'n Greet",
         "event_start": "2017-04-20T18:30:00",
         "event_end": "2017-04-20T20:30:00",
         "event_key": "tobedefined",
-        "event_type": "Keynote",
-        "format": "Keynote",
-        "name": "Keynote",
-        "venue": "Track1"
+        "event_type": "Autre",
+        "format": "Party",
+        "name": "Meet'n Greet",
+        "venue": "Track6"
     },    
     {
         "description": "Keynote",
