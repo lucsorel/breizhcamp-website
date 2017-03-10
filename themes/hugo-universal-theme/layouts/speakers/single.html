@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ partial "breadcrumbs_with_sub.html" . }}
+
+        <!--/.nav-collapse -->
+         <div id="content">
+            <div class="container">
+                <div class="row" style="flex-wrap:wrap;display:flex">
+                  {{ range sort .Site.Data.speaker "lastname" "asc" }}
+                  <div class="col-md-4 col-sm-6 speaker-box">
+                    {{ partial "widgets/speaker.html" . }}
+                  </div>
+                  {{ end }}
+                </div>
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
