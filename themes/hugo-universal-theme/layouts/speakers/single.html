@@ -20,9 +20,7 @@
             <div class="container">
                 <div class="row" style="flex-wrap:wrap;display:flex">
                   {{ range sort .Site.Data.speaker "lastname" "asc" }}
-                  <div class="col-md-4 col-sm-6 speaker-box">
-                    {{ partial "widgets/speaker.html" . }}
-                  </div>
+                  {{ partial "widgets/speaker.html" . }}
                   {{ end }}
                 </div>
             </div>

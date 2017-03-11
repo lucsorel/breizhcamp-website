@@ -2,6 +2,16 @@
 title = "Conférence"
 +++
 
-# Call for Proposal
+# Plan du lieu
 
-Envie de proposer un talk pour l'édition 2017 ? Viens sur le CFP https://breizhcamp.cfp.io
+Si vous chercher comment venir, c'est expliqué [ici]({{< ref "venir.md" >}}).
+
+A VENIR : Plan de la conférence dans l'université
+
+# Meet & Greet
+
+Le jeudi soir 20 avril à partir de 18h30 se déroulera le Meet & Greet.
+
+# Call For Proposal
+
+Le CFP est hébergé sur https://breizhcamp.cfp.io. Le programme a été publié, c'est donc fermé ;)
