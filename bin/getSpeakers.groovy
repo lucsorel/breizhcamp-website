@@ -1,6 +1,6 @@
 
 
-def urlString = "https://api.cfp.io/api/speakers/accepted"
+def urlString = "https://api.cfp.io/v0/schedule/speakers"
 
 def url = new URL(urlString)
 def connection = url.openConnection()
