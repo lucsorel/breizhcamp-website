@@ -4,7 +4,7 @@ title = "Venir"
 
 # Billetterie
 
-La [billetterie est ouverte](https://www.weezevent.com/bzhc4mp17). N'attendez pas le dernier moment, l'année dernière, nous étions complet et nous avions fermé la billetterie 2 semaines avant l'événement.
+La [billetterie](https://www.weezevent.com/bzhc4mp17) est fermée. Comme les autres années, nous avons été victime de notre succès. Il reste peut-être quelques places à gagner avec nos sponsors.
 
 Tarifs disponibles:
 
@@ -32,11 +32,16 @@ Les sponsors et partenaires disposent de code spéciaux pour acheter les places 
 
 Le BreizhCamp se déroule dans le bâtiment 2A de l’Université Rennes 1, sur le campus de Beaulieu à Rennes.
 
-> Campus de Beaulieu
+{{< figure src="/img/plan-acces.png" title="Plan de l'université" class="figure-center" link="http://www.openstreetmap.org/export#map=18/48.11611/-1.63752" >}}
+
+L'adresse exacte est :
+
+> Université de Rennes 1, Campus de Beaulieu
 
 > 263, avenue du Général Leclerc
 
 > 35042 RENNES
+
 
 # Hébergement
 
