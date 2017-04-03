@@ -113,6 +113,11 @@
                 refreshCalendar('calendar');
             };
 
+            this.clearSearch = function() {
+                delete this.search;
+                refresh();
+            }.bind(this);
+
             // watch filters
             _.each(filters, function(filterObject) {
                 $scope.$watchCollection(function() {

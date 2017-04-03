@@ -63,14 +63,19 @@
                             </ul>
                         </div>
 
-                        <div class="form-group">
+                        <div class="form-group has-feedback">
                             <label class="control-label" for="searchInput"><strong>Filtre</strong></label>
-                            <input autofocus id="searchInput" class="form-control" ng-model="progCtrl.search" ng-change="progCtrl.refresh()">
+                            <input autofocus id="searchInput" class="form-control" ng-model="progCtrl.search"
+                                   ng-change="progCtrl.refresh()">
+                            <a class="form-control-feedback" href ng-click="progCtrl.clearSearch()"
+                               ng-show="progCtrl.search" style="pointer-events: initial">
+                                <i class="fa fa-close fa-lg"></i>
+                            </a>
                         </div>
-                    <form>
+                        <form>
 
                     <div ui-calendar="progCtrl.calendarConfig" ng-model="progCtrl.agenda" ng-if="progCtrl.agenda"
-                         calendar="calendar"></div>
+                                 calendar="calendar"></div>
                 </div>
             </div>
         </div>
