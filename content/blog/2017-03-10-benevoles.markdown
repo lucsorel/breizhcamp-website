@@ -1,12 +1,12 @@
 +++
 title = "Appel à bénévoles"
 date = "2017-03-10T12:00:00+02:00"
-banner = "img/blog/Benevoles.png"
+banner = "img/blog/2017-03-10/Benevoles.png"
 +++
 
 Plus de place, et vous arrivez trop tard. Pas de BreizhCamp pour vous en 2017 :'(
 
-Bien sûr il reste la possibilité de tenter le [tirage au sort](https://twitter.com/breizhcamp/status/839155864850292736) 
+Bien sûr il reste la possibilité de tenter le [tirage au sort](https://twitter.com/breizhcamp/status/839155864850292736)
 des dernières places libérées (?), mais ça reste assez incertain.
 
 Il reste cependant une autre possibilité : participer au BreizhCamp en tant que bénévole.
@@ -21,12 +21,12 @@ Accessoirement, depuis 2016 nous avons changé d'échelle en doublant la taille 
 
 # Le deal
 
-Voici donc notre proposition : 
+Voici donc notre proposition :
 
-* vous acceptez de vous mettre à notre disposition, du mardi 18 en fin d'après-midi (mise en place, consignes, 
+* vous acceptez de vous mettre à notre disposition, du mardi 18 en fin d'après-midi (mise en place, consignes,
 répétition keynote, etc) au vendredi soir jusqu'à un bon 20h (rangement).
 * Vous acceptez de _sacrifier_ une journée et demi (demi journée mercredi + jeudi ou vendredi) pour la bonne cause. Enfin, « sacrifier » à moitié :
-vous serez dans une des salles de conférence pour nous aider à installer chaque speaker, filtrer les accès à la salle, etc. 
+vous serez dans une des salles de conférence pour nous aider à installer chaque speaker, filtrer les accès à la salle, etc.
 Autrement dit, vous verrez les sessions, mais pas forcément celle que vous voulez (NB : pas de changement de salle en cours de journée,
 c'est un boulot à plein temps _justement_ pendant les périodes de changement de salle). Nous aurons aussi besoin de vous le matin pour l'accueil, donc faudra mettre votre réveil, et ce ne sera pas pour voir les keynotes…
 * Vous aurez un pass 3 jours pour profiter des autres journées à votre guise.
