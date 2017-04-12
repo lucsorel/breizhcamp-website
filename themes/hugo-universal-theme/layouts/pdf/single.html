@@ -35,7 +35,9 @@
                     return schedule;
                 });
             });
-        }).concat([fetch('/img/program-background.png'), fetch('/font/fontawesome-webfont.ttf')].map(function(promise) {
+        }).concat([fetch('/img/program-background.png'),
+            fetch('/font/fontawesome-webfont.ttf'),
+            fetch('/font/Heart Breaking Bad.otf')].map(function(promise) {
             return promise.then(function(response) {
                 return response.arrayBuffer();
             })
@@ -44,6 +46,7 @@
             var schedules = data.slice(0, 2);
             var backgroundBuffer = data[2];
             var fontawesomeBuffer = data[3];
+            var heartBreakingBadBuffer = data[4];
             var schedule = schedules.reduce(function(result, schedule) {
                 return result.concat(schedule);
             }, []);
@@ -70,6 +73,16 @@
 
             var dayFormat = 'dddd',
                 timeFormat = 'H:mm';
+
+            var breakingBadDays = {
+                dimanche: 'dImanche',
+                lundi: 'Çndi',
+                mardi: 'm)di',
+                mercredi: 'mÄcredi',
+                jeudi: 'jEdi',
+                vendredi: 'Vendredi',
+                samedi: 'Samedi'
+            };
 
             doc.font('Helvetica');
 
@@ -111,7 +124,7 @@
                     doc.addPage();
                 }
                 doc.image(backgroundBuffer, 0, 0, {width: a6Widht});
-                doc.fontSize(13).text(day, 0, 10, {
+                doc.font(heartBreakingBadBuffer).fontSize(20).text(breakingBadDays[day], 0, 10, {
                     width: a6Widht,
                     align: 'center'
                 }).fontSize(6).moveDown();
