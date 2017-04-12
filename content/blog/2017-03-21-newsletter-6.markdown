@@ -1,7 +1,7 @@
 +++
 title = "Lettre d’Information #6"
 date = "2017-03-21T12:00:00+02:00"
-banner = "img/blog/2017-03-21/image_1.png"
+banner = "img/blog/2017-03-21/image_1.jpg"
 +++
 
 ![BreizhCamp](/img/logo_big.png)
