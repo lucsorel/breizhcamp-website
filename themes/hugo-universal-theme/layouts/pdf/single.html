@@ -58,12 +58,13 @@
                     layout: 'portrait',
                     margins: 5
                 });
-                var a6Widht = 297.64;
+                var a6Widht = 297.64,
+                    a6Height = 419.53;
                 var stream = doc.pipe(blobStream());
                 var iframe = document.getElementById('pdfSchedule');
 
                 var dayFormat = 'dddd',
-                    timeFormat = 'HH:mm';
+                    timeFormat = 'H:mm';
 
                 doc.font('Helvetica');
 
@@ -114,14 +115,25 @@
                         return moment(a, timeFormat).isBefore(moment(b, timeFormat)) ? -1 : 1;
                     }).forEach(function(time) {
                         var slot = daySchedule[time];
-                        doc.font('Helvetica-Bold').moveDown(0.5).text(time, 10);
-                        slot.forEach(function(event) {
-                            doc.font('Helvetica-Oblique').text(event.venue, 30);
+                        doc.font('Helvetica-Bold').moveDown(0.5).text(time, 5, null, {
+                            width: 20,
+                            align: 'right'
+                        });
+                        slot.forEach(function(event, index) {
+                            if (!index) {
+                                doc.moveUp();
+                            }
+                            doc.font('Helvetica-Oblique').text(event.venue, 30, null);
                             doc.font('Helvetica').text(event.name, 60, null, {
-                                width: a6Widht - 70
+                                width: a6Widht - 70,
+                                continued: true
                             });
+                            var duration = moment.duration(event.event_end.diff(event.event_start)).asMinutes();
+                            doc.fillColor('grey').text(' (' + duration + ' min)');
+                            doc.fillColor('black');
                         });
                     });
+                    doc.fontSize(13).text('#BreizhCamp', a6Widht - 90, a6Height - 20);
                 });
 
                 doc.end();
