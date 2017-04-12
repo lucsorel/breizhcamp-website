@@ -6,7 +6,8 @@ title = "Conférence"
 
 Si vous chercher comment venir, c'est expliqué [ici]({{< ref "venir.md" >}}).
 
-A VENIR : Plan de la conférence dans l'université
+{{<figure src="/img/plan-lieu.png" title="Plan du batiment 2A" class="figure-center">}}
+
 
 # Meet & Greet
 
