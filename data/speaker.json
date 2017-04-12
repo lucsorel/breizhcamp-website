@@ -44,17 +44,6 @@
     "shortName": "E. SIBER"
   },
   {
-    "id": 844,
-    "lastname": "ALMOSNI CHICHE",
-    "firstname": "Shirley",
-    "company": "CARBON IT",
-    "bio": "Il est difficile de me présenter en me mettant dans une seule case. Je me considère assez souvent comme un OVNI dans le monde du recrutement. J’ai fait une Prépa HEC puis un Master en Marketing/ Management de Projet au sein de Skema Business School. Puis, arrivant sur le marché du travail dans un contexte de crise, je me suis lancée en tant que Commerciale dans le monde de la téléphonie. J’ai ensuite été Ingénieur d’Affaires au sein d’un cabinet de recrutement. Le recrutement est venu à moi vraiment par hasard. J’ai endossé la casquette de Consultante en recrutement IT et maintenant je suis Responsable Recrutement et Communication RH au sein de Carbon IT, soit un joli dosage entre du coaching, du marketing, du recrutement, de la communication, de l’animation de communauté et une bonne dose d'énergie et de bonne humeur.",
-    "twitter": "@shirleyalmosni",
-    "imageProfilURL": "https://secure.gravatar.com/avatar/df576cc890c166965ebe9aeb90b645aa?s=320",
-    "language": "fr",
-    "shortName": "S. ALMOSNI CHICHE"
-  },
-  {
     "id": 852,
     "lastname": "Mechling",
     "firstname": "Gautier",
@@ -518,7 +507,7 @@
     "lastname": "Bonnin",
     "firstname": "Bruno",
     "company": "MyScript",
-    "bio": "Développeur polymorphique/protéiforme/full stack (rayez les mentions ridicules!) avec une prédilection pour les langages de vieux (Java), de jeunes déjà vieux (JavaScript) et de jamais jeunes (Python), pour le NoSQL (MongoDB, Elasticsearch, ArangoDB) et pour le web sous toutes ses formes (API, UI).",
+    "bio": "Polymorphic developer. Dashboard builder. Data fan @MyScript.",
     "twitter": "@_bruno_b_",
     "imageProfilURL": "http://www.gravatar.com/avatar/bc34f46fdfa199da05a78f26584ecec3",
     "language": "fr",
@@ -551,7 +540,7 @@
     "lastname": "Pennec",
     "firstname": "Nicolas",
     "company": "OVH",
-    "bio": "Mercenaire codeur, passionné par le dév web front-end, co-fondateur du RennesJS et collectionneur de side-projects inachevés...",
+    "bio": "Mercenaire codeur chez [OVH](https://www.ovh.com), passionné par le dév web front-end depuis IE6, co-fondateur du [RennesJS](http://rennesjs.org) et collectionneur de side-projects inachevés... \n  \nRetrouvez-moi sur [@NicoPennec](https://twitter.com/NicoPennec) ou [pennec.io](http://pennec.io)",
     "twitter": "https://twitter.com/NicoPennec",
     "imageProfilURL": "https://avatars2.githubusercontent.com/u/493223?v=3&u=c2ed22aedc21d4b43fdd99f8c9003e3461dac9a7",
     "language": "fr",
@@ -837,17 +826,6 @@
     "shortName": "J. Paliès"
   },
   {
-    "id": 849,
-    "lastname": "IKEDJIAN",
-    "firstname": "Nathalie",
-    "company": "One #RH",
-    "bio": "8 ans d'expérience RH et \"pair-recruiting\" en environnement IT (ESN, cabinet de conseil, intégrateur). Milite avec Shirley Almosini CHICHE pour une relation IT/RH pleine de respect, de compréhension et d'amour durable !",
-    "twitter": "@nkedjian",
-    "imageProfilURL": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkLAAAAJDNmOGYzYTAwLTdhNTYtNGQ0Yy05YWNiLTc4MTM5OWZlOTcxMQ.jpg",
-    "language": "fr",
-    "shortName": "N. IKEDJIAN"
-  },
-  {
     "id": 292,
     "lastname": "Matagne",
     "firstname": "Yan",
@@ -887,8 +865,13 @@
   },
   {
     "id": 1431,
+    "lastname": "Petit",
+    "firstname": "Jean-Baptiste",
+    "company": "Xebia",
+    "bio": "Développeur Java en perpétuelle formation. Intérêts pour Rust, Golang, PonyLang...",
+    "imageProfilURL": "https://avatars0.githubusercontent.com/u/5137306?v=3&s=460",
     "language": "fr",
-    "shortName": ""
+    "shortName": "J. Petit"
   },
   {
     "id": 1557,
@@ -900,6 +883,16 @@
     "imageProfilURL": "https://avatars0.githubusercontent.com/u/6088236?v=3&s=460",
     "language": "fr",
     "shortName": "G. NICOLAS"
+  },
+  {
+    "id": 1734,
+    "lastname": "Le Coz",
+    "firstname": "Fabrice",
+    "company": "Telecom Sante",
+    "bio": "Amoureux du web depuis la préhistoire, J'en ai fait mon métier. A l'origine développeur Java et PHP, je me suis converti a JavaScript en 2009 et depuis je ne jure que par ce langage.",
+    "imageProfilURL": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/member/e/9/d/6/highres_203939862.jpeg",
+    "language": "fr",
+    "shortName": "F. Le Coz"
   },
   {
     "id": 1354,
@@ -936,8 +929,14 @@
   },
   {
     "id": 867,
+    "lastname": "PATCHANE",
+    "firstname": "Cédric",
+    "company": "Cozy Cloud",
+    "bio": "Développeur passionné de JavaScript et d'OpenSource. Actuellement développeur full-stack chez CozyCloud.",
+    "twitter": "https://twitter.com/CPatchane",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/702282382855041024/PUFJGWWB.jpg",
     "language": "fr",
-    "shortName": ""
+    "shortName": "C. PATCHANE"
   },
   {
     "id": 439,
