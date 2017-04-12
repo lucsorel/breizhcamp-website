@@ -35,111 +35,117 @@
                     return schedule;
                 });
             });
-        })).then(function(schedules) {
-            fetch('/img/program-background.png').then(function(response) {
+        }).concat([fetch('/img/program-background.png'), fetch('/font/fontawesome-webfont.ttf')].map(function(promise) {
+            return promise.then(function(response) {
                 return response.arrayBuffer();
-            }).then(function(backgroundBuffer) {
-                var schedule = schedules.reduce(function(result, schedule) {
-                    return result.concat(schedule);
-                }, []);
+            })
+        }))).then(function(data) {
 
-                var roomOrder = ['Amphi A', 'Amphi B', 'Amphi C', 'Amphi D', 'Esp Lab', 'Hall'];
-                var rooms = {
-                    'Amphi A': roomOrder[0],
-                    'Amphi B': roomOrder[1],
-                    'Amphi C': roomOrder[2],
-                    'Amphi D': roomOrder[3],
-                    'Lab': roomOrder[4],
-                    'Hall': roomOrder[5]
-                };
+            var schedules = data.slice(0, 2);
+            var backgroundBuffer = data[2];
+            var fontawesomeBuffer = data[3];
+            var schedule = schedules.reduce(function(result, schedule) {
+                return result.concat(schedule);
+            }, []);
 
-                var doc = new PDFDocument({
-                    size: 'A6',
-                    layout: 'portrait',
-                    margins: 5
+            var roomOrder = ['Amphi A', 'Amphi B', 'Amphi C', 'Amphi D', 'Esp Lab', 'Hall'];
+            var rooms = {
+                'Amphi A': roomOrder[0],
+                'Amphi B': roomOrder[1],
+                'Amphi C': roomOrder[2],
+                'Amphi D': roomOrder[3],
+                'Lab': roomOrder[4],
+                'Hall': roomOrder[5]
+            };
+
+            var doc = new PDFDocument({
+                size: 'A6',
+                layout: 'portrait',
+                margins: 5
+            });
+            var a6Widht = 297.64,
+                a6Height = 419.53;
+            var stream = doc.pipe(blobStream());
+            var iframe = document.getElementById('pdfSchedule');
+
+            var dayFormat = 'dddd',
+                timeFormat = 'H:mm';
+
+            doc.font('Helvetica');
+
+            schedule = schedule.map(function(event) {
+                ['event_start', 'event_end'].forEach(function(p) {
+                    event[p] = moment.utc(event[p]); // dates are in UTC in json :-(
                 });
-                var a6Widht = 297.64,
-                    a6Height = 419.53;
-                var stream = doc.pipe(blobStream());
-                var iframe = document.getElementById('pdfSchedule');
+                event.venue = rooms[event.venue];
+                return event;
+            }).sort(function(a, b) {
+                if (a.event_start.format(timeFormat) === b.event_start.format(timeFormat)) { // if same start time…
+                    return roomOrder.indexOf(a.venue) - roomOrder.indexOf(b.venue); // … sort by room
+                }
+                return a.event_start.isBefore(b.event_start) ? -1 : 1;
+            }).reduce(function(result, event) {
+                var day = event.event_start.format(dayFormat);
+                var dayProgram = result[day];
+                if (!dayProgram) {
+                    dayProgram = result[day] = [];
+                }
+                dayProgram.push(event);
+                return result;
+            }, {});
 
-                var dayFormat = 'dddd',
-                    timeFormat = 'H:mm';
-
-                doc.font('Helvetica');
-
-                schedule = schedule.map(function(event) {
-                    ['event_start', 'event_end'].forEach(function(p) {
-                        event[p] = moment.utc(event[p]); // dates are in UTC in json :-(
-                    });
-                    event.venue = rooms[event.venue];
-                    return event;
-                }).sort(function(a, b) {
-                    if (a.event_start.format(timeFormat) === b.event_start.format(timeFormat)) { // if same start time…
-                        return roomOrder.indexOf(a.venue) - roomOrder.indexOf(b.venue); // … sort by room
+            Object.keys(schedule).sort(function(a, b) { // key order is not guaranteed
+                return moment(a, dayFormat).isBefore(moment(b, dayFormat)) ? -1 : 1;
+            }).forEach(function(day, index) {
+                var daySchedule = schedule[day].reduce(function(result, event) {
+                    var startTime = event.event_start.format(timeFormat);
+                    var timeProgram = result[startTime];
+                    if (!timeProgram) {
+                        timeProgram = result[startTime] = [];
                     }
-                    return a.event_start.isBefore(b.event_start) ? -1 : 1;
-                }).reduce(function(result, event) {
-                    var day = event.event_start.format(dayFormat);
-                    var dayProgram = result[day];
-                    if (!dayProgram) {
-                        dayProgram = result[day] = [];
-                    }
-                    dayProgram.push(event);
+                    timeProgram.push(event);
                     return result;
                 }, {});
 
-                Object.keys(schedule).sort(function(a, b) { // key order is not guaranteed
-                    return moment(a, dayFormat).isBefore(moment(b, dayFormat)) ? -1 : 1;
-                }).forEach(function(day, index) {
-                    var daySchedule = schedule[day].reduce(function(result, event) {
-                        var startTime = event.event_start.format(timeFormat);
-                        var timeProgram = result[startTime];
-                        if (!timeProgram) {
-                            timeProgram = result[startTime] = [];
-                        }
-                        timeProgram.push(event);
-                        return result;
-                    }, {});
+                if (index) {
+                    doc.addPage();
+                }
+                doc.image(backgroundBuffer, 0, 0, {width: a6Widht});
+                doc.fontSize(13).text(day, 0, 10, {
+                    width: a6Widht,
+                    align: 'center'
+                }).fontSize(6).moveDown();
 
-                    if (index) {
-                        doc.addPage();
-                    }
-                    doc.image(backgroundBuffer, 0, 0, {width: a6Widht});
-                    doc.fontSize(13).text(day, 0, 10, {
-                        width: a6Widht,
-                        align: 'center'
-                    }).fontSize(6).moveDown();
-
-                    Object.keys(daySchedule).sort(function(a, b) {
-                        return moment(a, timeFormat).isBefore(moment(b, timeFormat)) ? -1 : 1;
-                    }).forEach(function(time) {
-                        var slot = daySchedule[time];
-                        doc.font('Helvetica-Bold').moveDown(0.5).text(time, 5, null, {
-                            width: 20,
-                            align: 'right'
-                        });
-                        slot.forEach(function(event, index) {
-                            if (!index) {
-                                doc.moveUp();
-                            }
-                            doc.font('Helvetica-Oblique').text(event.venue, 30, null);
-                            doc.font('Helvetica').text(event.name, 60, null, {
-                                width: a6Widht - 70,
-                                continued: true
-                            });
-                            var duration = moment.duration(event.event_end.diff(event.event_start)).asMinutes();
-                            doc.fillColor('grey').text(' (' + duration + ' min)');
-                            doc.fillColor('black');
-                        });
+                Object.keys(daySchedule).sort(function(a, b) {
+                    return moment(a, timeFormat).isBefore(moment(b, timeFormat)) ? -1 : 1;
+                }).forEach(function(time) {
+                    var slot = daySchedule[time];
+                    doc.font('Helvetica-Bold').moveDown(0.5).text(time, 5, null, {
+                        width: 20,
+                        align: 'right'
                     });
-                    doc.fontSize(13).text('#BreizhCamp', a6Widht - 90, a6Height - 20);
+                    slot.forEach(function(event, index) {
+                        if (!index) {
+                            doc.moveUp();
+                        }
+                        doc.font('Helvetica-Oblique').text(event.venue, 30, null);
+                        doc.font('Helvetica').text(event.name, 60, null, {
+                            width: a6Widht - 70,
+                            continued: true
+                        });
+                        var duration = moment.duration(event.event_end.diff(event.event_start)).asMinutes();
+                        doc.fillColor('grey').text(' (' + duration + ' min)');
+                        doc.fillColor('black');
+                    });
                 });
+                doc.font(fontawesomeBuffer).fillColor('#1DA1F2').fontSize(20).text('\uF099', a6Widht - 105, a6Height - 25, {continued: true});
+                doc.font('Helvetica').fillColor('black').fontSize(13).text('#BreizhCamp', null, a6Height - 20);
+                doc.font('Helvetica');
+            });
 
-                doc.end();
-                stream.on('finish', function() {
-                    iframe.src = stream.toBlobURL('application/pdf');
-                });
+            doc.end();
+            stream.on('finish', function() {
+                iframe.src = stream.toBlobURL('application/pdf');
             });
         });
     })();
