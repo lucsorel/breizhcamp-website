@@ -6,10 +6,6 @@ banner = "img/blog/2017-newsletters/newsletter.jpg"
 
 ![Logo](/img/logo_big.png)
 
-19 au 21 avril 2017 - 3 jours sur Rennes pour faire le plein de technologies
-
-# Lettre d’Information #1
-
 Une année de plus, encore une fois, l'équipe du BreizhCamp reprend du service pour organiser la 7ème édition du BreizhCamp. Et cette année encore, nous reprenons les lettres d'information qui, au rythme de deux par mois, vous tiendrons informé·e·s de tout ce qui entoure l'édition 2017.
 
 Et pour commencer, la date et le lieu : cette édition 2017 se tiendra du 19 au 21 avril sur le campus de Beaulieu à la faculté des sciences Rennes 1, comme l’année passée.

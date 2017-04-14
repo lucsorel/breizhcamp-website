@@ -4,12 +4,7 @@ date = "2017-01-24T12:00:38+02:00"
 banner = "img/blog/2017-newsletters/newsletter.jpg"
 +++
 
-
 ![BreizhCamp](/img/logo_big.png)
-Du 19 au 21 avril 2017 - 3 jours sur Rennes pour faire le plein de technologies
-
-
-# Lettre d’Information #2
 
 Et oui, deux semaines après la première, voici la deuxième lettre d'information du BreizhCamp 2017. Cette année nous avons prévu un rythme plus soutenu pour nos lettres d'information, avec une nouvelle lettre tous les quinze jours.
 

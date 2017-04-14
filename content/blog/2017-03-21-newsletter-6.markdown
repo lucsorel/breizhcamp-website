@@ -5,9 +5,6 @@ banner = "img/blog/2017-03-21/image_1.jpg"
 +++
 
 ![BreizhCamp](/img/logo_big.png)
-Du 19 au 21 avril 2017 - 3 jours sur Rennes pour faire le plein de technologies
-
-# Lettre d’Information #6
 
 Vous aimez le BreizhCamp, la conférence la plus extravagante de l’ouest ? Et bien vous allez adorer nos affiches. Oui "*nos*", parce qu’on ne s’est pas contenté d’en faire une, on en a fait deux ! Ce qui pourrait expliquer qu’elles arrivent si tard, mais non, en fait on est à la bourre, c’est tout.
 
