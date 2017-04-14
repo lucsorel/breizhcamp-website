@@ -19,7 +19,7 @@ Lors de cette soirée, vous pourrez aussi découvrir que David Pilato n’est pa
 
 Nous remercions les sponsors du Meet & Greet qui vous offrent cette soirée conviviale !
 
-![image alt text](/img/meetandgreet.jpg)
+![image alt text](/img/meetandgreet.png)
 
 # Un code de conduite ?
 
