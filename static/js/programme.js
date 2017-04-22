@@ -2,7 +2,7 @@
     'use strict';
 
     angular.module('programme', ['ngSanitize', 'hc.marked', 'ngLocale', 'ngAnimate', 'ui.bootstrap', 'ui.calendar'])
-        .controller('ProgrammeCtrl', ['$scope', '$http', '$q', 'marked', 'dateFilter', '$uibModal', 'uiCalendarConfig', '$window', function($scope, $http, $q, marked, dateFilter, $uibModal, uiCalendarConfig, $window) {
+        .controller('ProgrammeCtrl', ['$scope', '$http', '$q', 'marked', 'dateFilter', '$uibModal', 'uiCalendarConfig', '$window', '$filter', function($scope, $http, $q, marked, dateFilter, $uibModal, uiCalendarConfig, $window, $filter) {
 
             var moment = $window.moment;
 
@@ -57,7 +57,7 @@
                     (event.room ? ' <em>(' + event.room + ')</em>' : '');
             }
 
-            function refresh(calendar) {
+            function refreshCalendar(calendar) {
                 if (uiCalendarConfig.calendars[calendar]) {
                     uiCalendarConfig.calendars[calendar].fullCalendar('refetchEvents');
                 }
@@ -109,25 +109,27 @@
             filters.format = _.mapValues(formats, false);
             filters.room = _.mapValues(rooms, false);
 
+            var refresh = this.refresh = function() {
+                refreshCalendar('calendar');
+            };
+
             // watch filters
             _.each(filters, function(filterObject) {
                 $scope.$watchCollection(function() {
                     return filterObject;
-                }, function() {
-                    refresh('calendar');
-                });
+                }, refresh);
             });
 
             $q.all([
                 $http.get('/json/others.json'),
                 $http(
-                { 
-                    method: 'GET',
-                    url: 'https://api.cfp.io/api/schedule',
-                    headers: {
-                        'X-Tenant-Id':'breizhcamp'
-                    } 
-                })
+                    {
+                        method: 'GET',
+                        url: 'https://api.cfp.io/api/schedule',
+                        headers: {
+                            'X-Tenant-Id': 'breizhcamp'
+                        }
+                    })
             ]).then(function(responses) {
                 return [].concat(responses[0].data, responses[1].data);
             }).then(function(talks) {
@@ -141,7 +143,7 @@
                 this.agenda = {
                     events: function(start, end, timezone, callback) {
                         var filters = activeFilters();
-                        callback(_.filter(_.map(talks, function(talk) {
+                        callback($filter('filter')(_.filter(_.map(talks, function(talk) {
                             return {
                                 title: talk.name,
                                 format: talk.format,
@@ -157,8 +159,8 @@
                             return _.all(filters, function(filter, name) {
                                 return filter[talk[name]];
                             });
-                        }));
-                    }
+                        }), this.search));
+                    }.bind(this)
                 };
             }.bind(this));
 
