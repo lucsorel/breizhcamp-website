@@ -1,5 +1,5 @@
 +++
-title = "Lettre d’Information #8"
+title = "Retrouvez (pas tout) le BreizhCamp 2017 en replay"
 date = "2017-05-02T08:00:00+02:00"
 banner = "img/carousel/you-tube-8bit.png"
 +++
