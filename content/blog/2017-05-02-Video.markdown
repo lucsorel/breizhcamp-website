@@ -23,8 +23,7 @@ des prises sur socle pour éviter la casse ... Au final nous avons du rajouter u
 Mais le résultat est juste top, pour un budget final très raisonable. Il reste bien sur quelques points à améliorer, mais en tout cas nous sommes
 très fiers de la réussite de ce projet.
 
-En contre partie, seul l'amphi A a été équipé pour la captation, histoire de bien faire au moins un amphi plutt que de mal faire l'ensemble comme
-l'an dernier.
+En contre partie, seul l'amphi A a été équipé pour la captation, histoire de bien faire au moins un amphi plutôt que de mal faire l'ensemble comme l'an dernier.
 
 ## Montage
 Le montage est réalisé en live, l'expérience montrant une baisse de motivation et de temps libre _après_ le breizhcamp pour attaquer le montage
