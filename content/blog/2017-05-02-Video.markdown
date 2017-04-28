@@ -1,7 +1,7 @@
 +++
 title = "Lettre d’Information #8"
 date = "2017-05-02T08:00:00+02:00"
-banner = "img/carousel/youtube.png"
+banner = "img/carousel/you-tube-8bit.png"
 +++
 
 Nous sommes très fier de pouvoir annoncer la disponibilité sur [notre chaine Youtube](https://www.youtube.com/playlist?list=PLv7xGPH0RMUQoCtdnj4T-Hou9IbbQ0nm7) des vidéos de l'édition 2017.
