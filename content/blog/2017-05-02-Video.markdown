@@ -1,0 +1,49 @@
++++
+title = "Lettre d’Information #8"
+date = "2017-05-02T08:00:00+02:00"
+banner = "img/carousel/youtube.png"
++++
+
+Nous sommes très fier de pouvoir annoncer la disponibilité sur [notre chaine Youtube](https://www.youtube.com/playlist?list=PLv7xGPH0RMUQoCtdnj4T-Hou9IbbQ0nm7) des vidéos de l'édition 2017.
+Le tout, à peine une semaine après la cloture de l'événement, et encore elles étaient prètes avant mais nous avons attendu d'avoir accès à la fibre
+pour l'upload.
+
+## Ambition et réalité
+Depuis plusieurs années nous tentons d'assurer la captation des sessions du BreizhCamp. Nous ne passons pas par un prestataire, d'une part parce
+que ça coûte un bras, et d'autre part parce que l'équipement de l'Université Rennes 1 cablé en VGA est un point de blocage pour pas mal de 
+solutions existentes.
+
+Pour 2017, après le flop de l'an dernier (2 vidéos publiées, avec un son pourri) nous avons retroussé nos manches dès septembre pour monter une
+solution complète, packagée, solide et plug'n play, que nous avons testée tout au long de l'année lors des meetups.
+
+## Matos
+La liste du matériel c'est rapidement allongée avec notre envie de bien faire ...
+Aux cartes d'acquisition HDMI s'est ajouté une table de mixage, un micro sans fil numérique serre-tête, un comrpesseur audio, un écran de contrôle intégré au boitier, 
+des prises sur socle pour éviter la casse ... Au final nous avons du rajouter un diable pour rendre le tout transportable sans fatiguer nos vertèbres.
+Mais le résultat est juste top, pour un budget final très raisonable. Il reste bien sur quelques points à améliorer, mais en tout cas nous sommes
+très fiers de la réussite de ce projet.
+
+En contre partie, seul l'amphi A a été équipé pour la captation, histoire de bien faire au moins un amphi plutt que de mal faire l'ensemble comme
+l'an dernier.
+
+## Montage
+Le montage est réalisé en live, l'expérience montrant une baisse de motivation et de temps libre _après_ le breizhcamp pour attaquer le montage
+de dizaines de vidéos. Nous avons juste ajoutée une petite vidéo d'intro, avec la ligne de commande qui va bien et que nous vous donnons ici parce
+qu'elle le vaut bien et aussi pour nous en souvenir l'an prochain :
+
+```
+ffmpeg -i "$INPUT" -map 0 -c copy -f mpegts -bsf h264_mp4toannexb -absf aac_adtstoasc -y conf.ts
+ffmpeg -i "concat:intro.ts|conf.ts" -c copy -y "${NAME}_intro.mp4"
+```
+
+## Publication
+Youtube c'est pratique, mais y'a pas de CLI. Bon ce n'est peut être pas un outil à destination des développeurs, mais tout de même, 
+ça nous aurait bien arrangé. Mais ça n'a pas arrêté Alex, qui a décidé de "bricoler" une application web d'upload assurant l'authentification
+OAuth sur Youtube et l'upload en masse. D'où l'intért d'avoir la fibre, moins d'une minute par vidéo ... ça laisse rêveur pas mal d'entre nous :-\
+
+## Enjoy!
+Et voilà, le résultat de ces efforts, ce sont 25 vidéos disponibles en ligne, avec une chouette qualité. Certains d'entre nous poussent 
+à généraliser aux quatres amphis, ceux qui ont eu les mains dans le cambouis sont plus réservés ... en tout cas, pour 2018 et les prohcains
+meetups Rennais, vous savez déjà ce qui vous attend !
+
+
