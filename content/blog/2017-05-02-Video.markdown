@@ -39,7 +39,7 @@ ffmpeg -i "concat:intro.ts|conf.ts" -c copy -y "${NAME}_intro.mp4"
 ## Publication
 Youtube c'est pratique, mais y'a pas de CLI. Bon ce n'est peut être pas un outil à destination des développeurs, mais tout de même, 
 ça nous aurait bien arrangé. Mais ça n'a pas arrêté Alex, qui a décidé de "bricoler" une application web d'upload assurant l'authentification
-OAuth sur Youtube et l'upload en masse. D'où l'intért d'avoir la fibre, moins d'une minute par vidéo ... ça laisse rêveur pas mal d'entre nous :-\
+OAuth sur Youtube et l'upload en masse. D'où l'intért d'avoir la fibre, moins d'une minute par vidéo ... ça laisse rêveur pas mal d'entre nous 😕
 
 ## Enjoy!
 Et voilà, le résultat de ces efforts, ce sont 25 vidéos disponibles en ligne, avec une chouette qualité. Certains d'entre nous poussent 
