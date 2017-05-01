@@ -5,9 +5,6 @@ banner = "img/blog/2017-03-08/image_2.jpg"
 +++
 
 ![BreizhCamp](/img/logo_big.png)
-Du 19 au 21 avril 2017 - 3 jours sur Rennes pour faire le plein de technologies
-
-# Lettre d’Information #5
 
 Comme le temps passe vite ! Nous sommes déjà en mars, le BreizhCamp 2017 arrive dans un  mois et demi !
 

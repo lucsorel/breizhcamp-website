@@ -5,9 +5,6 @@ banner = "img/blog/2017-newsletters/newsletter.jpg"
 +++
 
 ![BreizhCamp](/img/logo_big.png)
-Du 19 au 21 avril 2017 - 3 jours sur Rennes pour faire le plein de technologies
-
-# Lettre d’Information #4
 
 Le CFP a fermé ses portes la semaine dernière, et nous allons rapidement nous attaquer à la lourde tâche d'établir le programme. En attendant, la billetterie continue sa progression, et l'équipe du BreizhCamp s'attaque aux différents sujets logistiques qui font de ces derniers mois avant la conf une période particulièrement *intéressante* à vivre...
 
