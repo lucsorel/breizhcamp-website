@@ -23,6 +23,8 @@ des prises sur socle pour éviter la casse ... Au final nous avons du rajouter u
 Mais le résultat est juste top, pour un budget final très raisonable. Il reste bien sur quelques points à améliorer, mais en tout cas nous sommes
 très fiers de la réussite de ce projet.
 
+![Camalooth](/img/blog/2017-05-02/camalooth.jpg)
+
 En contre partie, seul l'amphi A a été équipé pour la captation, histoire de bien faire au moins un amphi plutôt que de mal faire l'ensemble comme l'an dernier.
 
 ## Montage
