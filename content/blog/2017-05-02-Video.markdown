@@ -18,7 +18,7 @@ solution complète, packagée, solide et plug'n play, ... et compatible avec un 
 
 ## Matos
 La liste du matériel c'est rapidement allongée avec notre envie de bien faire ...
-Aux cartes d'acquisition HDMI s'est ajouté une table de mixage, un micro sans fil numérique serre-tête, un comrpesseur audio, un écran de contrôle intégré au boitier, 
+Aux cartes d'acquisition HDMI s'est ajouté une table de mixage, un micro sans fil numérique serre-tête, un compresseur audio, un écran de contrôle intégré au boitier, 
 des prises sur socle pour éviter la casse ... Au final nous avons du rajouter un diable pour rendre le tout transportable sans fatiguer nos vertèbres.
 Mais le résultat est juste top, pour un budget final très raisonable. Il reste bien sur quelques points à améliorer, mais en tout cas nous sommes
 très fiers de la réussite de ce projet.
@@ -26,7 +26,7 @@ très fiers de la réussite de ce projet.
 En contre partie, seul l'amphi A a été équipé pour la captation, histoire de bien faire au moins un amphi plutôt que de mal faire l'ensemble comme l'an dernier.
 
 ## Montage
-Le montage est réalisé en live, l'expérience montrant une baisse de motivation et de temps libre _après_ le breizhcamp pour attaquer le montage
+Le montage est réalisé en live avec [OBS](https://obsproject.com/), l'expérience montrant une baisse de motivation et de temps libre _après_ le breizhcamp pour attaquer le montage
 de dizaines de vidéos. Nous avons juste ajoutée une petite vidéo d'intro, avec la ligne de commande qui va bien et que nous vous donnons ici parce
 qu'elle le vaut bien et aussi pour nous en souvenir l'an prochain :
 
@@ -38,7 +38,9 @@ ffmpeg -i "concat:intro.ts|conf.ts" -c copy -y "${NAME}_intro.mp4"
 ## Publication
 Youtube c'est pratique, mais y'a pas de CLI. Bon ce n'est peut être pas un outil à destination des développeurs, mais tout de même, 
 ça nous aurait bien arrangé. Mais ça n'a pas arrêté Alex, qui a décidé de "bricoler" une application web d'upload assurant l'authentification
-OAuth sur Youtube et l'upload en masse. D'où l'intért d'avoir la fibre, moins d'une minute par vidéo ... ça laisse rêveur pas mal d'entre nous 😕
+OAuth sur Youtube et l'upload en masse. D'où l'intérêt d'avoir la fibre, moins d'une minute par vidéo ... ça laisse rêveur pas mal d'entre nous 😕
+
+Le projet est open source et disponible dans le répertoire video-uploader du repo https://github.com/breizhcamp/tools
 
 ## Enjoy!
 Et voilà, le résultat de ces efforts, ce sont 25 vidéos disponibles en ligne, avec une chouette qualité. Certains d'entre nous poussent 
