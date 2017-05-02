@@ -18,7 +18,7 @@ solution complète, packagée, solide et plug'n play, ... et compatible avec un 
 
 ## Matos
 La liste du matériel c'est rapidement allongée avec notre envie de bien faire ...
-Aux cartes d'acquisition HDMI s'est ajouté une table de mixage, un micro sans fil numérique serre-tête, un compresseur audio, un écran de contrôle intégré au boitier, 
+Aux cartes d'acquisition HDMI se sont ajoutés une table de mixage, un micro sans fil numérique serre-tête, un compresseur audio, un écran de contrôle intégré au boitier, 
 des prises sur socle pour éviter la casse ... Au final nous avons du rajouter un diable pour rendre le tout transportable sans fatiguer nos vertèbres.
 Mais le résultat est juste top, pour un budget final très raisonable. Il reste bien sur quelques points à améliorer, mais en tout cas nous sommes
 très fiers de la réussite de ce projet.
@@ -45,7 +45,7 @@ OAuth sur Youtube et l'upload en masse. D'où l'intérêt d'avoir la fibre, moin
 Le projet est open source et disponible dans le répertoire video-uploader du repo https://github.com/breizhcamp/tools
 
 ## Enjoy!
-Et voilà, le résultat de ces efforts, ce sont 25 vidéos disponibles en ligne, avec une chouette qualité. Certains d'entre nous poussent 
+Et voilà, le résultat de ces efforts, ce sont 30 vidéos disponibles en ligne, avec une chouette qualité. Certains d'entre nous poussent 
 à généraliser aux quatres amphis, ceux qui ont eu les mains dans le cambouis sont plus réservés ... en tout cas, pour 2018 et les prohcains
 meetups Rennais, vous savez déjà ce qui vous attend !
 
