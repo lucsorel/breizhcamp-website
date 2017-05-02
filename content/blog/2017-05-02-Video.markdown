@@ -18,7 +18,7 @@ solution complète, packagée, solide et plug'n play, ... et compatible avec un 
 
 ## Matos
 La liste du matériel c'est rapidement allongée avec notre envie de bien faire ...
-Aux cartes d'acquisition HDMI s'est ajouté une table de mixage, un micro sans fil numérique serre-tête, un compresseur audio, un écran de contrôle intégré au boitier, 
+Aux cartes d'acquisition HDMI se sont ajoutés une table de mixage, un micro sans fil numérique serre-tête, un compresseur audio, un écran de contrôle intégré au boitier, 
 des prises sur socle pour éviter la casse ... Au final nous avons du rajouter un diable pour rendre le tout transportable sans fatiguer nos vertèbres.
 Mais le résultat est juste top, pour un budget final très raisonnable. Il reste bien sur quelques points à améliorer, mais en tout cas nous sommes
 très fiers de la réussite de ce projet.
