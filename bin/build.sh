@@ -11,7 +11,7 @@ for i in "$@"; do
   case $1 in
     -p|--prod)
       REPO="git@github.com:breizhcamp/www-2017.git"
-      sed -i 's|^baseurl.*$|baseurl = "http://www.breizhcamp.org/"|' config.toml
+      sed -i 's|^baseurl.*$|baseurl = "http://2017.breizhcamp.org/"|' config.toml
       ;;
     *)
       break
