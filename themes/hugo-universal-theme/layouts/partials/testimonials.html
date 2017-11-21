@@ -9,9 +9,11 @@
                     <h2>{{ .Site.Params.testimonials.title }}</h2>
                 </div>
 
-                <p class="lead">
-                  {{ .Site.Params.testimonials.subtitle }}
-                </p>
+                {{ if isset .Site.Params.testimonials "subtitle" }}
+                    <p class="lead">
+                        {{ .Site.Params.testimonials.subtitle | markdownify }}
+                    </p>
+                {{ end }}
 
                 <!-- *** TESTIMONIALS CAROUSEL *** -->
 
@@ -20,7 +22,7 @@
                     <li class="item">
                         <div class="testimonial same-height-always">
                             <div class="text">
-                                <p>{{ .text }}</p>
+                                <p>{{ .text | markdownify }}</p>
                             </div>
                             <div class="bottom">
                                 <div class="icon"><i class="fa fa-quote-left"></i>

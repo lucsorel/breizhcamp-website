@@ -8,9 +8,11 @@
                 <h2>{{ .Site.Params.recent_posts.title }}</h2>
             </div>
 
-            <p class="lead">
-              {{ .Site.Params.recent_posts.subtitle }}
-            </p>
+            {{ if isset .Site.Params.recent_posts "subtitle" }}
+                <p class="lead">
+                    {{ .Site.Params.recent_posts.subtitle | markdownify }}
+                </p>
+            {{ end }}
 
             <!-- *** BLOG HOMEPAGE *** -->
 
@@ -31,7 +33,7 @@
                             <div class="bg"></div>
                             <div class="text">
                                 <p class="buttons">
-                                    <a href="{{ .Permalink }}" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
+                                    <a href="{{ .Permalink }}" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> {{ i18n "readMore" }}</a>
                                 </p>
                             </div>
                         </div>
@@ -40,13 +42,13 @@
                             <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                             <p class="author-category">
                             {{ with .Params.author }}
-                            By <a href="#">{{ . }}</a>
+                            {{ i18n "authorBy" }} <a href="#">{{ . }}</a>
                             {{ end }}
-                            on {{ .Date.Format "January 2, 2006" }}
+                            {{ i18n "publishedOn" }} {{ .Date.Format .Site.Params.date_format }}
                             </p>
                             <p class="intro">{{ .Summary }}</p>
                             <p class="read-more">
-                              <a href="{{ .Permalink }}" class="btn btn-template-main">Suite</a>
+                              <a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
                             </p>
                         </div>
                     </div>

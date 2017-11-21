@@ -1,5 +1,8 @@
 # Universal Theme for Hugo
 
+[![Build Status](https://travis-ci.org/devcows/hugo-universal-theme.svg?branch=master)](https://travis-ci.org/devcows/hugo-universal-theme)
+[![Code Climate](https://codeclimate.com/github/devcows/hugo-universal-theme/badges/gpa.svg)](https://codeclimate.com/github/devcows/hugo-universal-theme)
+
 Universal is a clean and stylish website template built with Bootstrap. It stands out with its clean design and elegant typography.
 
 This Hugo theme was ported from [Bootstrapious](http://bootstrapious.com/p/universal-business-e-commerce-template) for training and fun. It has a very nice and customizable landing page, a comments system by Disqus, site search by Google, contact forms by Formspree, Google Analytics, and optional widgets for the sidebar.
@@ -9,15 +12,17 @@ This Hugo theme was ported from [Bootstrapious](http://bootstrapious.com/p/unive
 
 ## Table of Contents
 
-* [Theme features](#theme-features)
+* [Features](#features)
 * [Installation](#installation)
 * [Configuration](#configuration)
+  * [Style](#style)
   * [Comments](#comments)
   * [Google Analytics](#google-analytics)
   * [Contact form](#contact-form)
   * [Menu](#menu)
   * [Sidebar widgets](#sidebar-widgets)
   * [Blog post thumbnails](#blog-post-thumbnails)
+  * [Top bar](#top-bar)
   * [Landing page](#landing-page)
     * [Carousel](#carousel)
     * [Features](#features)
@@ -25,6 +30,7 @@ This Hugo theme was ported from [Bootstrapious](http://bootstrapious.com/p/unive
     * [See more](#see-more)
     * [Clients](#clients)
     * [Recent posts](#recent-posts)
+    * [Meta tags](#meta-tags)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
@@ -65,6 +71,25 @@ After installing the Universal theme successfully, we recommend you to take a lo
 First, let's take a look at the [config.toml](//github.com/devcows/hugo-universal-theme/tree/master/exampleSite/config.toml). It will be useful to learn how to customize your site. Feel free to play around with the settings.
 
 
+### Language
+
+Available translations are in the `/i18n` directory. You can configure the language modifying the following key.
+
+```toml
+defaultContentLanguage = "en"
+```
+
+### Style
+
+You can change the color of the theme by modifying the following key.
+
+```toml
+style = "default"
+```
+
+Available options are: `default` (light-blue), `blue`, `green`, `marsala`, `pink`, `red`, `turquoise`, `violet`.
+
+
 ### Comments
 
 The optional comments system is powered by [Disqus](https://disqus.com). If you want to enable comments, create an account in Disqus and write down your shortname.
@@ -100,11 +125,22 @@ id = "contact"
 +++
 ```
 
+You can optionally add the google maps widget defining latitude and longitude in the section `params` at `config.toml`. On pin click  opens Google Maps directions with the coordinates. Additionally you can define direction if you want to have a different target set for directions or the google maps entry of your company.:
+
+```yaml
+[params]
+    ...
+    latitude = "-12.043333"
+    longitude = "-77.028333"
+    direction = "Desamparados Station, Distrito de Lima 15001, Peru"
+```
+
 Since this Hugo sites are static, the contact form uses [Formspree](https://formspree.io/) as a proxy. The form makes a POST request to their servers to send the actual email. Visitors can send up to a 1000 emails each month for free.
 
 To enable the form in the contact page, just type your Formspree email in the `config.toml` file.
 
 ```yaml
+[params]
 email = "your@email.com"
 ```
 
@@ -137,6 +173,34 @@ You can enable/disable them under `params.widgets`.
     search = true
     categories = true
     tags = true
+```
+
+### Top bar
+
+The top bar is typically used to provide contact information and social links. It is disabled by default, and it can be enabled inside the `params.topbar` settings.
+
+```toml
+[params.topbar]
+    enable = true
+    text = "<p>Contact us on +420 777 555 333 or hello@universal.com.</p>"
+```
+
+The `text` shows up on the left side and accepts HTML.
+
+The social links on the right side are configured as a top-level menu.
+
+```toml
+[[menu.topbar]]
+    weight = 1
+    name = "GitHub"
+    url = "https://github.com/devcows/hugo-universal-theme"
+    pre = "<i class='fa fa-2x fa-github'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Facebook"
+    url = "http://facebook.com"
+    pre = "<i class='fa fa-2x fa-facebook'></i>"
 ```
 
 ### Blog post thumbnails
@@ -318,6 +382,37 @@ You can enable it in the configuration file.
     title = "From our blog"
     subtitle = "Pellen
 ```
+
+
+#### Meta tags
+
+`Description` and `Keywords` meta tags are available and can be customized.
+You can set default values for all pages in the `config.toml` file as below.
+
+```toml
+[params]
+    defaultKeywords = ["devcows", "hugo", "go"]
+    defaultDescription = "Site template made by Devcows using Hugo"
+```
+
+The result in HTML will be the following.
+
+```html
+<meta name="keywords" content="devcows, hugo, go">
+<meta name="description" content="Site template made by Devcows using Hugo">
+```
+
+You can also override the default values from the `config.toml` by setting the `description` and `keywords` in the individual pages meta data.
+See the `faq.md` file in the `exampleSite` directory for an example.
+
+```yaml
++++
+title = "FAQ"
+description = "Frequently asked questions"
+keywords = ["FAQ","How do I","questions","what if"]
++++
+```
+
 
 ## Usage
 

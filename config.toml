@@ -15,6 +15,10 @@ paginate = 10
     viewMorePostLink     = "/blog/"
     author = "BreizhCamp"
 
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    # et orange !
+    style = "orange"
+
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
     # email. Visitors can send up to a 1000 emails each month for free.
@@ -31,7 +35,7 @@ paginate = 10
     email = "contact@breizhcamp.org"
 
     copyright = "Copyright (c) 2017, BreizhCamp team"
-    date_format = "2006-01-02"
+    date_format = "2 January 2006"
     logo = "img/logo.png"
 
 [Permalinks]
@@ -67,6 +71,14 @@ paginate = 10
     url  = "/asso/"
     weight = 7
 
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = false
+    text = """<p>
+        Lorem Ipsum
+      </p>
+      """
+
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = true
@@ -93,12 +105,23 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "La conférence du grand ouest"
+    # subtitle = ""
 
 [params.see_more]
     enable = true
     # icon = "fa fa-transgender"
     title = "Une équipe dévouée"
     subtitle = "Sous la houlette de Canard Man, une équipe de bénévoles se met en 4 rien que pour vous !"
+    # link_url = "#"
+    # link_text = "L'asso"
+
+[params.clients]
+    enable = false
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    # title = "Our Clients"
+    # subtitle = ""
 
 # Les sponsors
 [params.sponsors]
@@ -113,3 +136,4 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "Blog"
+    # subtitle = ""
