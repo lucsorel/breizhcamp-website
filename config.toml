@@ -1,5 +1,5 @@
 baseurl = "http://www-staging.breizhcamp.org/"
-title = "BreizhCamp - 7ème édition"
+title = "BreizhCamp - 8ème édition"
 theme = "hugo-universal-theme"
 languageCode = "fr-FR"
 defaultContentLanguage = "fr"
@@ -39,6 +39,33 @@ paginate = 10
         """
     date_format = "2 January 2006"
     logo = "img/logo.png"
+
+
+[params.breizhcamp]
+    edition_year = "2018"
+    edition_date_place = "28, 29 et 30 Mars à Rennes"
+    previous_editions = ["2011", "2012", "2013", "2014", "2015", "2016", "2017"]
+
+[[params.social_links]]
+    type = "twitter"
+    title = "Twitter"
+    url = "https://twitter.com/breizhcamp"
+
+[[params.social_links]]
+    type = "googleplus"
+    title = "Google Plus"
+    url = "https://plus.google.com/103143580610870538195"
+
+[[params.social_links]]
+    type = "youtube"
+    title = "YouTube"
+    url = "https://www.youtube.com/user/BreizhCamp"
+
+[[params.social_links]]
+    type = "flickr"
+    title = "flickr"
+    url = "https://www.flickr.com/photos/149773585@N06/albums"
+
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
