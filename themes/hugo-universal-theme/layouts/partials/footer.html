@@ -42,23 +42,22 @@ _________________________________________________________ -->
 </div>
 <div id="copyright">
     <div class="container text-center">
-      <div class="row">
-        <div class="col-md-4">
-          <p>{{ .Site.Params.copyright | safeHTML }}</p>
-          <p><a href="https://github.com/breizhcamp/website">Améliorer ce site</a></p>
-        </div>
-        <div class="col-md-4">
-          <p>contact@breizhcamp.org</p>
-        </div>
-        <div class="col-md-4">
-          <p class="pull-right">
+        <div class="row">
+            <div class="col-md-4">
+                {{ .Site.Params.copyright | safeHTML }}
+            </div>
+            <div class="col-md-4">
+                <p>{{ .Site.Params.email | safeHTML }}</p>
+            </div>
+            <div class="col-md-4">
+                <p class="pull-right">
                     {{ i18n "templateBy" }} <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
                     <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
 
                     {{ i18n "portedBy" }} <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>
                 </p>
+            </div>
         </div>
-      </div>
     </div>
 </div>
 <!-- /#copyright -->
