@@ -19,11 +19,12 @@ figcaption {
 }
 
 .navbar-default {
-  background-color: #f36f21;
+  background-color: #363033;
+  /*background-color: #f36f21;*/
 }
 
 .home-carousel {
-  background: url('../img/rennes-background.jpg') center center repeat;
+  background: url('../img/rennes-background-2018_dt_0001.jpg') center center repeat;
   text-shadow: 3px 2px 6px #222;
 }
 

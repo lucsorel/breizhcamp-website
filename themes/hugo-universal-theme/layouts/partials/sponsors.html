@@ -9,7 +9,9 @@
                   {{ .Site.Params.sponsors.subtitle }}
                 </p>
 
-                {{ partial "widgets/sponsors.html" . }}
+                {{ if .Site.Params.sponsors.show_list }}
+                    {{ partial "widgets/sponsors.html" . }}
+                {{ end }}
             </div>
         </div>
     </div>

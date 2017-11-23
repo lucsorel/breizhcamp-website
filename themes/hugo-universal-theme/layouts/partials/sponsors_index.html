@@ -1,6 +1,7 @@
 {{ if isset .Site.Params "sponsors" }}
 {{ if .Site.Params.sponsors.enable }}
 {{ if gt (len .Site.Data.sponsors) 0 }}
+{{ if .Site.Params.sponsors.show_list }}
 <section class="bar background-gray no-mb">
     <div class="container">
         <div class="row">
@@ -8,11 +9,13 @@
                 <div class="box-simple text-center">
                   <h2>{{ .Site.Params.sponsors.thankyou }}</h2>
                 </div>
+
                 {{ partial "widgets/sponsors.html" . }}
             </div>
         </div>
     </div>
 </section>
+{{ end }}
 {{ end }}
 {{ end }}
 {{ end }}

@@ -1,70 +1,47 @@
 <div class="row">
-  <div class="heading text-center">
-    <h3>Sponsors Platinum</h3>
-  </div>
-{{ range .Site.Data.sponsors.platinum }}
-<div class="col-md-6 col-sm-12">
-  <div class="sponsor platinum">
-    {{ if .url }}
-      <a href="{{ .url }}" target="_blank">
-        <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
-      </a>
-    {{ else }}
-      <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
+    <div class="heading text-center">
+        <h3>Sponsors Platinum</h3>
+    </div>
+
+    {{ range sort $.Site.Data.sponsors.platinum "name" }}
+    <div class="col-md-6 col-sm-12">
+        <div class="sponsor platinum">
+            {{ partial "widgets/sponsor.html" . }}
+        </div>
+    </div>
     {{ end }}
-  </div>
-</div>
-{{ end }}
 </div>
 <div class="row">
-  <div class="heading text-center">
-    <h3>Sponsors Gold</h3>
-  </div>
-{{ range .Site.Data.sponsors.gold }}
-<div class="col-md-3 col-sm-4 col-xs-6">
-  <div class="sponsor gold">
-    {{ if .url }}
-      <a href="{{ .url }}" target="_blank">
-        <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
-      </a>
-    {{ else }}
-      <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
+    <div class="heading text-center">
+        <h3>Sponsors Gold</h3>
+    </div>
+    {{ range sort $.Site.Data.sponsors.gold "name" }}
+    <div class="col-md-3 col-sm-4 col-xs-6">
+        <div class="sponsor gold">
+            {{ partial "widgets/sponsor.html" . }}
+        </div>
+    </div>
     {{ end }}
-  </div>
-</div>
-{{ end }}
 </div>
 <div class="row">
-  <div class="heading text-center">
-    <h3>Sponsors Silver</h3>
-  </div>
-{{ range .Site.Data.sponsors.silver }}
-<div class="col-md-2 col-sm-3 col-xs-6">
-  <div class="sponsor silver">
-    {{ if .url }}
-      <a href="{{ .url }}" target="_blank">
-        <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
-      </a>
-    {{ else }}
-      <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
+    <div class="heading text-center">
+        <h3>Sponsors Silver</h3>
+    </div>
+    {{ range sort $.Site.Data.sponsors.silver "name" }}
+    <div class="col-md-2 col-sm-3 col-xs-6">
+        <div class="sponsor silver">
+            {{ partial "widgets/sponsor.html" . }}
+        </div>
+    </div>
     {{ end }}
-  </div>
-</div>
-{{ end }}
 </div>
 <div class="row">
-  <div class="heading text-center">
-    <h3>Partenaires</h3>
-  </div>
-{{ range .Site.Data.sponsors.partenaires }}
-<div class="col-md-6 col-sm-12">
-    {{ if .url }}
-      <a href="{{ .url }}" target="_blank">
-        <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
-      </a>
-    {{ else }}
-      <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
+    <div class="heading text-center">
+        <h3>Partenaires</h3>
+    </div>
+    {{ range sort $.Site.Data.sponsors.partenaires "name" }}
+    <div class="col-md-6 col-sm-12">
+        {{ partial "widgets/sponsor.html" . }}
+    </div>
     {{ end }}
-</div>
-{{ end }}
 </div>

@@ -2,9 +2,12 @@
 title = "Venir"
 +++
 
-# Billetterie
+## Billetterie
 
-La [billetterie](https://www.weezevent.com/bzhc4mp17) est fermée. Comme les autres années, nous avons été victime de notre succès. Il reste peut-être quelques places à gagner avec nos sponsors.
+La billetterie n'est pas encore ouverte.
+{{< comment >}} 
+Comme les autres années, nous avons été victime de notre succès.
+Il reste peut-être quelques places à gagner avec nos sponsors.
 
 Tarifs disponibles:
 
@@ -22,13 +25,15 @@ Tarifs disponibles:
 
 * Fanboy (3 jours): **min. 100€**
 
-    Vous adorez le BreizhCamp, vous avez fait les 6 précédentes éditions, et vous voudriez le soutenir ?
+    Vous adorez le BreizhCamp, vous avez fait les 7 précédentes éditions, et vous voudriez le soutenir ?
     Ou encore, vous passez tout ça en note de frais, alors pourquoi ne pas nous donner un coup de pouce ? :P
     Définissez vous-même votre tarif pour un billet combo, en fonction de ce que vous pensez que vaut une place au BreizhCamp. A votre bon coeur M'sieurs Dames !
 
 Les sponsors et partenaires disposent de code spéciaux pour acheter les places incluses dans les conventions. Si vous êtes dans ce cas, n'achetez pas une place classique.
 
-# Lieu de la conférence
+{{< /comment >}}
+
+## Lieu de la conférence
 
 Le BreizhCamp se déroule dans le bâtiment 2A de l’Université Rennes 1, sur le campus de Beaulieu à Rennes.
 
@@ -43,11 +48,11 @@ L'adresse exacte est :
 > 35042 RENNES
 
 
-# Hébergement
+## Hébergement
 
 De nombreux hotels sont à votre disposition près de la gare de Rennes, avec accès à la salle de conférence en 15 minutes de transports en commun.
 
-# Venir en transport en commun
+## Venir en transport en commun
 
 Le bus vous permet de vous rendre facilement sur place depuis…
 
@@ -63,4 +68,4 @@ Le bus vous permet de vous rendre facilement sur place depuis…
 
   * En dehors de cette période, le plus simple est de prendre le métro direction __Kennedy__ jusqu'à __République__ avant d'emprunter l'un des bus indiqués ci-dessus.
 
-Dans tous les cas, pensez simplement à descendre à l'arrêt __Tournebride__!
+Dans tous les cas, pensez simplement à descendre à l'arrêt __Tournebride__ !
