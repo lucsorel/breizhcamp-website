@@ -72,8 +72,13 @@ paginate = 10
 
 [[params.menu]]
     name = "Conférence"
-    url  = "/conference/programme"
+    url  = "/conference"
     weight = 1
+
+[[params.menu]]
+    name = "CFP"
+    url  = "https://breizhcamp.cfp.io"
+    weight = 2
 
 [[params.menu]]
     name = "Venir"
