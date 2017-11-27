@@ -7,172 +7,191 @@ items:
 #    breizhcamp_level: "platinum" / "gold" / "silver" / "partenaire"
 
 
+
   # ========== PLATINUM ==========
-  - name: "OVH"
-    logo: "/img/sponsors/logo_ovh.png"
-    url: "https://www.ovh.com/fr/"
-    effective: false
-    breizhcamp_level: "platinum"
-
-  - name: "SII"
-    logo: "/img/sponsors/logo_sii.png"
-    url: "http://www.sii.fr/fr"
-    effective: false
-    breizhcamp_level: "platinum"
-
-  - name: "Solocal"
-    logo: "/img/sponsors/logo_solocal.png"
-    url: "http://www.solocalgroup.com/fr"
-    effective: false
-    breizhcamp_level: "platinum"
-
-  - name: "Zenika"
-    logo: "/img/sponsors/logo_zenika.png"
-    url: "https://www.zenika.com/"
-    asso_level: "licorne"
-    breizhcamp_level: "platinum"
-
-
-  # ========== GOLD ==========
-  - name: "AriadNEXT"
-    logo: "/img/sponsors/logo_ariadnext.png"
-    url: "http://www.ariadnext.com/"
-    effective: false
-    breizhcamp_level: "gold"
-
-  - name: "concerto"
-    logo: "/img/sponsors/logo_concerto.png"
-    url: "https://www.conserto.pro/"
-    effective: false
-    breizhcamp_level: "gold"
-
-  - name: "CREATIVE Ingénierie"
-    logo: "/img/sponsors/logo_creative.png"
-    url: "http://www.groupe-creative.fr/"
-    effective: false
-    breizhcamp_level: "gold"
-
-  - name: "Infotel"
-    logo: "/img/sponsors/logo_infotel.png"
-    url: "http://www.infotel.com/"
-    effective: false
-    breizhcamp_level: "gold"
-
-  - name: "JFrog"
-    logo: "/img/sponsors/logo_jfrog.png"
-    url: "https://www.jfrog.com/"
-    effective: false
-    breizhcamp_level: "gold"
-
-  - name: "Jouve"
-    logo: "/img/sponsors/logo_jouve.png"
-    url: "http://www.jouve.com/fr/"
-    effective: false
-    breizhcamp_level: "gold"
 
   - name: "Neo-Soft"
     logo: "/img/sponsors/logo_neosoft.png"
     url: "https://www.neo-soft.fr"
-    effective: false
+    breizhcamp_level: "platinum"
+
+  - name: "OVH"
+    logo: "/img/sponsors/logo_ovh.png"
+    url: "https://www.ovh.com/fr/"
+    breizhcamp_level: "platinum"
+
+  - name: "SII"
+    logo: "/img/sponsors/logo_sii.png"
+    url: "http://www.sii.fr/fr/"
+    breizhcamp_level: "platinum"
+
+  - name: "Zenika"
+    logo: "/img/sponsors/logo_zenika.png"
+    url: "https://www.zenika.com"
+    breizhcamp_level: "platinum"
+    asso_level: "licorne"
+
+
+
+  # ========== GOLD ==========
+
+  - name: "AriadNEXT"
+    logo: "/img/sponsors/logo_ariadnext.png"
+    url: "http://www.ariadnext.com"
     breizhcamp_level: "gold"
+
+  - name: "concerto"
+    logo: "/img/sponsors/logo_concerto.png"
+    url: "https://www.conserto.pro"
+    breizhcamp_level: "gold"
+
+  - name: "CREATIVE Ingénierie"
+    logo: "/img/sponsors/logo_creative.png"
+    url: "http://www.groupe-creative.fr"
+    breizhcamp_level: "gold"
+    asso_level: "meetup"
+
+  - name: "Infotel"
+    logo: "/img/sponsors/logo_infotel.png"
+    url: "http://www.infotel.com"
+    breizhcamp_level: "gold"
+
+  - name: "Liksi"
+    logo: "/img/sponsors/logo_liksi.png"
+    url: "http://www.liksi.fr"
+    breizhcamp_level: "gold"
+    asso_level: "nyancat"
 
   - name: "Netapsys"
     logo: "/img/sponsors/logo_netapsys.png"
-    url: "https://www.netapsys.fr/"
-    effective: false
+    url: "https://www.netapsys.fr"
+    breizhcamp_level: "gold"
+    asso_level: "usergroup"
+
+  - name: "Serli"
+    logo: "/img/sponsors/logo_serli.png"
+    url: "http://www.serli.com"
+    breizhcamp_level: "gold"
+
+  - name: "Solocal"
+    logo: "/img/sponsors/logo_solocal.png"
+    url: "http://www.solocalgroup.com/fr/"
     breizhcamp_level: "gold"
 
 
+
   # ========== SILVER ==========
+
   - name: "Adventiel"
     logo: "/img/sponsors/logo_adventiel.png"
-    url: "http://www.adventiel.com/"
-    effective: false
+    url: "http://www.adventiel.com"
+    breizhcamp_level: "silver"
+
+  - name: "Apside"
+    logo: "/img/sponsors/logo_apside.png"
+    url: "http://www.apside.com"
     breizhcamp_level: "silver"
 
   - name: "Claranet"
     logo: "/img/sponsors/logo_claranet.png"
     url: "https://www.claranet.fr"
-    effective: false
     breizhcamp_level: "silver"
 
   - name: "Clever Cloud"
     logo: "/img/sponsors/logo_clevercloud.png"
-    url: "https://www.clever-cloud.com/"
-    effective: false
+    url: "https://www.clever-cloud.com"
     breizhcamp_level: "silver"
 
   - name: "Cozy Cloud"
     logo: "/img/sponsors/logo_cozy.png"
     url: "https://www.cozy.io"
-    effective: false
     breizhcamp_level: "silver"
 
   - name: "Energiency"
     logo: "/img/sponsors/logo_energiency.png"
-    url: "http://www.energiency.com/"
-    effective: false
+    url: "http://www.energiency.com"
     breizhcamp_level: "silver"
 
-  - name: "Kristal"
-    logo: "/img/sponsors/logo_kristal.jpg"
-    url: "https://kristal.io/fr/"
-    effective: false
-    breizhcamp_level: "silver"
-
-  - name: "reThink"
-    logo: "/img/sponsors/logo_rethink.jpg"
-    url: "https://rethink-project.eu/"
-    effective: false
-    breizhcamp_level: "silver"
-
-  - name: "Adventiel"
+  - name: "Saagie"
     logo: "/img/sponsors/logo_saagie.png"
     url: "https://www.saagie.com"
-    effective: false
-    breizhcamp_level: "silver"
-
-  - name: "Serli"
-    logo: "/img/sponsors/logo_serli.png"
-    url: "http://www.serli.com/"
-    effective: false
     breizhcamp_level: "silver"
 
   - name: "Silicom"
     logo: "/img/sponsors/logo_silicom.png"
-    url: "http://www.silicom.fr/"
-    effective: false
+    url: "http://www.silicom.fr"
+    breizhcamp_level: "silver"
+
+  - name: "Slickteam"
+    logo: "/img/sponsors/logo_slickteam.png"
+    url: "http://slickteam.fr"
     breizhcamp_level: "silver"
 
   - name: "Softeam Cadextan"
     logo: "/img/sponsors/logo_softeam.png"
-    url: "http://www.softeam.fr/"
-    effective: false
+    url: "http://www.softeam.fr"
+    breizhcamp_level: "silver"
+    asso_level: "usergroup"
+
+  - name: "SonarSource"
+    logo: "/img/sponsors/logo_sonarsource.svg"
+    url: "https://www.sonarsource.com"
     breizhcamp_level: "silver"
 
-  - name: "Sogeti"
-    logo: "/img/sponsors/logo_sogeti.gif"
-    url: "http://www.fr.sogeti.com/"
-    effective: false
+  - name: "Sopra"
+    logo: "/img/sponsors/logo_soprasteria.png"
+    url: "https://www.soprasteria.com/fr/"
+    hidden: true
     breizhcamp_level: "silver"
+
 
 
   # ========== PARTENAIRE ==========
+
   - name: "ISTIC, UFR Informatique - Électronique"
     logo: "/img/sponsors/logo_istic.png"
     url: "http://www.istic.univ-rennes1.fr/"
-    effective: false
     breizhcamp_level: "partenaire"
 
   - name: "Université Rennes 1"
     logo: "/img/sponsors/logo_univ_rennes_1.png"
     url: "http://www.univ-rennes1.fr/"
-    effective: false
     breizhcamp_level: "partenaire"
 
 
+
   # ========== OTHER ==========
-  - name: "Liksi"
-    logo: "/img/sponsors/logo_liksi.png"
-    url: "http://www.liksi.fr/"
-    asso_level: "nyancat"
+
+  - name: "Orange"
+    logo: "/img/sponsors/logo_orange.png"
+    url: "https://www.orange.com"
+    asso_level: "usergroup"
+
+
+
+  # ========== OLD ==========
+
+  - name: "JFrog"
+    logo: "/img/sponsors/logo_jfrog.png"
+    url: "https://www.jfrog.com/"
+    hidden: true
+
+  - name: "Jouve"
+    logo: "/img/sponsors/logo_jouve.png"
+    url: "http://www.jouve.com/fr/"
+    hidden: true
+
+  - name: "Kristal"
+    logo: "/img/sponsors/logo_kristal.jpg"
+    url: "https://kristal.io/fr/"
+    hidden: true
+
+  - name: "reThink"
+    logo: "/img/sponsors/logo_rethink.jpg"
+    url: "https://rethink-project.eu/"
+    hidden: true
+
+  - name: "Sogeti"
+    logo: "/img/sponsors/logo_sogeti.gif"
+    url: "http://www.fr.sogeti.com/"
+    hidden: true
