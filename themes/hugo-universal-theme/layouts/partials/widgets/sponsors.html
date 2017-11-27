@@ -3,45 +3,85 @@
         <h3>Sponsors Platinum</h3>
     </div>
 
-    {{ range sort $.Site.Data.sponsors.platinum "name" }}
-    <div class="col-md-6 col-sm-12">
-        <div class="sponsor platinum">
-            {{ partial "widgets/sponsor.html" . }}
+    {{ if $.Site.Params.sponsors.visible }}
+        {{ range sort (where $.Site.Data.sponsors.items "breizhcamp_level" "platinum")  "name" }}
+            <div class="col-md-6 col-sm-12">
+                {{ partial "widgets/sponsor.html" . }}
+            </div>
+        {{ end }}
+    {{ else }}
+        {{ range (seq $.Site.Params.sponsors.anon_nbr_platinum) }}
+        <div class="col-md-6 col-sm-12">
+            <div class="sponsor platinum">
+                Bientot annoncé
+            </div>
         </div>
-    </div>
+        {{ end }}
     {{ end }}
 </div>
+
+
 <div class="row">
     <div class="heading text-center">
         <h3>Sponsors Gold</h3>
     </div>
-    {{ range sort $.Site.Data.sponsors.gold "name" }}
-    <div class="col-md-3 col-sm-4 col-xs-6">
-        <div class="sponsor gold">
-            {{ partial "widgets/sponsor.html" . }}
-        </div>
-    </div>
+    {{ if $.Site.Params.sponsors.visible }}
+        {{ range sort (where $.Site.Data.sponsors.items "breizhcamp_level" "gold") "name" }}
+            <div class="col-md-3 col-sm-4 col-xs-6">
+                {{ partial "widgets/sponsor.html" . }}
+            </div>
+        {{ end }}
+    {{ else }}
+        {{ range (seq $.Site.Params.sponsors.anon_nbr_gold) }}
+            <div class="col-md-3 col-sm-4 col-xs-6">
+                <div class="sponsor gold">
+                    Bientot annoncé
+                </div>
+            </div>
+        {{ end }}
     {{ end }}
 </div>
+
+
 <div class="row">
     <div class="heading text-center">
         <h3>Sponsors Silver</h3>
     </div>
-    {{ range sort $.Site.Data.sponsors.silver "name" }}
-    <div class="col-md-2 col-sm-3 col-xs-6">
-        <div class="sponsor silver">
-            {{ partial "widgets/sponsor.html" . }}
-        </div>
-    </div>
+    {{ if $.Site.Params.sponsors.visible }}
+        {{ range sort (where $.Site.Data.sponsors.items "breizhcamp_level" "silver") "name" }}
+            <div class="col-md-2 col-sm-3 col-xs-6">
+                {{ partial "widgets/sponsor.html" . }}
+            </div>
+        {{ end }}
+    {{ else }}
+        {{ range (seq $.Site.Params.sponsors.anon_nbr_silver) }}
+            <div class="col-md-2 col-sm-3 col-xs-6">
+                <div class="sponsor silver">
+                    Bientot annoncé
+                </div>
+            </div>
+        {{ end }}
     {{ end }}
 </div>
+
+
 <div class="row">
     <div class="heading text-center">
         <h3>Partenaires</h3>
     </div>
-    {{ range sort $.Site.Data.sponsors.partenaires "name" }}
-    <div class="col-md-6 col-sm-12">
-        {{ partial "widgets/sponsor.html" . }}
-    </div>
+    {{ if $.Site.Params.sponsors.visible }}
+        {{ range sort (where $.Site.Data.sponsors.items "breizhcamp_level" "partenaire") "name" }}
+            <div class="col-md-6 col-sm-12">
+                {{ partial "widgets/sponsor.html" . }}
+            </div>
+        {{ end }}
+    {{ else }}
+        {{ range (seq $.Site.Params.sponsors.anon_nbr_partenaire) }}
+            <div class="col-md-6 col-sm-12">
+                <div class="sponsor partenaire">
+                    Bientot annoncé
+                </div>
+            </div>
+        {{ end }}
     {{ end }}
 </div>

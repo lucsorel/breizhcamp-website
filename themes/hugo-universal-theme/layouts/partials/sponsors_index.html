@@ -10,7 +10,9 @@
                   <h2>{{ .Site.Params.sponsors.thankyou }}</h2>
                 </div>
 
-                {{ partial "widgets/sponsors.html" . }}
+                {{ if .Site.Params.sponsors.show_list }}
+                    {{ partial "widgets/sponsors.html" . }}
+                {{ end }}
             </div>
         </div>
     </div>

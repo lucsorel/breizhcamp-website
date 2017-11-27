@@ -52,7 +52,14 @@ div#post-content img {
 }
 
 .sponsor {
-  background: #f5f5f5;
+
+}
+
+.sponsor-platinum,
+.sponsor-gold,
+.sponsor-silver
+{
+  background-color: #f5f5f5;
   text-align:center;
   border: solid 1px #ddd;
   box-shadow: 7px 7px 3px 0px #ddd;
@@ -60,7 +67,10 @@ div#post-content img {
   margin-bottom: 20px;
 }
 
-.sponsor img {
+.sponsor-platinum img,
+.sponsor-gold img,
+.sponsor-silver img
+{
   max-width:100%;
   max-height:100%;
   display: inline;
@@ -69,16 +79,35 @@ div#post-content img {
   transform: perspective(1px) translateY(-50%);
 }
 
-.platinum {
+.sponsor-platinum {
   height: 250px;
 }
 
-.gold {
+.sponsor-gold {
   height: 150px;
 }
 
-.silver {
+.sponsor-silver {
   height: 100px;
+}
+
+
+.sponsor-partenaire {
+
+}
+
+.licorne {
+  background-image: url('/img/sponsors/sponsor_licorne.png');
+  background-size: 80px;
+  background-position: top 10px right 10px;
+  background-repeat: no-repeat;
+}
+
+.nyancat {
+  background-image: url('/img/sponsors/sponsor_nyancat.png');
+  background-size: 50px;
+  background-position: top 5px right 5px;
+  background-repeat: no-repeat;
 }
 
 .carousel-img {

@@ -1,11 +1,13 @@
-{{ if .effective }}
+<div class="sponsor sponsor-{{ .breizhcamp_level }} {{ if not .hidden }} {{ .asso_level }} {{ end }}">
+{{ if not .hidden }}
   {{ if .url }}
     <a href="{{ .url }}" target="_blank">
-      <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
+      <img src="{{ .logo }}" alt="{{ .name }}" class="img-responsive center-block" />
     </a>
   {{ else }}
-    <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive center-block" />
+    <img src="{{ .logo }}" alt="{{ .name }}" class="img-responsive center-block" />
   {{ end }}
 {{ else }}
   Bientot annoncé
 {{ end }}
+</div>

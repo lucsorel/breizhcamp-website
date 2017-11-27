@@ -166,7 +166,15 @@ paginate = 10
     title = "Sponsors & Partenaires"
     subtitle = "Le BreizhCamp n'est possible que grace au soutien de nos sponsors. N'hésitez pas à nous contacter pour devenir vous aussi sponsor de l'évenement."
     thankyou = "Un grand merci à tous nos Sponsors et Partenaires !"
+    # Lister les sponsors
     show_list = true
+    # Afficher les sponsors ou seulement des vignettes anonymes
+    visible = true
+    anon_nbr_platinum = 4
+    anon_nbr_gold = 8
+    anon_nbr_silver = 12
+    anon_nbr_partenaire = 2
+
 
 [params.recent_posts]
     enable = true
