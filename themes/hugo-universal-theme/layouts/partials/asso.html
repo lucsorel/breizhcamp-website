@@ -40,7 +40,7 @@
         <h2>Les sponsors</h2>
     </div>
     <div class="lead text-center">
-        {{ .Params.sponsor_text }}
+        {{ .Params.sponsor_subtitle }}
     </div>
 
 
@@ -48,7 +48,7 @@
         <h3>Sponsors licorne</h3>
     </div>
     <div class="lead text-center">
-        {{ .Params.sponsor_licorne_text }}
+        {{ .Params.sponsor_licorne_subtitle }}
     </div>
     <div class="row">
         {{ range $index, $ug := (where $.Site.Data.sponsors.items "asso_level" "licorne") }}
@@ -63,10 +63,6 @@
                     </a>
                 </div>
             </div>
-            {{ if not (modBool $index 2) }}
-                </div>
-                <div class="row">
-            {{ end }}
         {{ end }}
     </div>
     <!-- /.row -->
@@ -76,7 +72,7 @@
         <h3>Sponsors nyancat</h3>
     </div>
     <div class="lead text-center">
-        {{ .Params.sponsor_nyancat_text }}
+        {{ .Params.sponsor_nyancat_subtitle }}
     </div>
     <div class="row">
         {{ range $index, $ug := (where $.Site.Data.sponsors.items "asso_level" "nyancat") }}
@@ -91,10 +87,30 @@
                     </a>
                 </div>
             </div>
-            {{ if not (modBool $index 4) }}
+        {{ end }}
+    </div>
+    <!-- /.row -->
+
+
+    <div class="heading text-center">
+        <h3>Sponsors User Group</h3>
+    </div>
+    <div class="lead text-center">
+        {{ .Params.sponsor_usergroup_subtitle }}
+    </div>
+    <div class="row">
+        {{ range $index, $ug := (where $.Site.Data.sponsors.items "asso_level" "usergroup") }}
+            <div class="col-md-2 col-sm-3 col-xs-4 asso-sponsors">
+                <div class="sponsor usergroup">
+                    <a href="{{ .url }}" target="_blank">
+                        {{ if .logo }}
+                        <img src="{{ .logo }}" title="{{ .name }}" alt="{{ .name }}" />
+                        {{ else }}
+                        {{ .name }}
+                        {{ end }}
+                    </a>
                 </div>
-                <div class="row">
-            {{ end }}
+            </div>
         {{ end }}
     </div>
     <!-- /.row -->
