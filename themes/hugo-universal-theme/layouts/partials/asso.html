@@ -1,0 +1,103 @@
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div>
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+    <!-- /.row -->
+
+
+
+    <div class="heading text-center">
+        <h2>Les user groups</h2>
+    </div>
+    <div class="row">
+        {{ range $index, $ug := $.Site.Data.asso.usergroups.items }}
+            <div class="col-md-6 col-sm-12">
+                <div class="asso-usergroup">
+                    <a href="{{ .url }}">
+                        {{ if .logo }}<img src="{{ .logo }}" title="{{ .name }}" alt="{{ .name }}" class="asso-usergroup-logo" />{{ end }}
+                        <h3>{{ .name }}</h3>
+                    </a>
+                    {{ if .text }}
+                        {{ .text }}
+                    {{ end }}
+                </div>
+            </div>
+            {{ if not (modBool $index 2) }}
+                </div>
+                <div class="row">
+            {{ end }}
+        {{ end }}
+    </div>
+    <!-- /.row -->
+
+
+
+    <div class="heading text-center">
+        <h2>Les sponsors</h2>
+    </div>
+    <div class="lead text-center">
+        {{ .Params.sponsor_text }}
+    </div>
+
+
+    <div class="heading text-center">
+        <h3>Sponsors licorne</h3>
+    </div>
+    <div class="lead text-center">
+        {{ .Params.sponsor_licorne_text }}
+    </div>
+    <div class="row">
+        {{ range $index, $ug := (where $.Site.Data.sponsors.items "asso_level" "licorne") }}
+            <div class="col-md-6 col-sm-12 asso-sponsors">
+                <div class="sponsor licorne">
+                    <a href="{{ .url }}" target="_blank">
+                        {{ if .logo }}
+                            <img src="{{ .logo }}" title="{{ .name }}" alt="{{ .name }}" />
+                        {{ else }}
+                            {{ .name }}
+                        {{ end }}
+                    </a>
+                </div>
+            </div>
+            {{ if not (modBool $index 2) }}
+                </div>
+                <div class="row">
+            {{ end }}
+        {{ end }}
+    </div>
+    <!-- /.row -->
+
+
+    <div class="heading text-center">
+        <h3>Sponsors nyancat</h3>
+    </div>
+    <div class="lead text-center">
+        {{ .Params.sponsor_nyancat_text }}
+    </div>
+    <div class="row">
+        {{ range $index, $ug := (where $.Site.Data.sponsors.items "asso_level" "nyancat") }}
+            <div class="col-md-4 col-sm-6 asso-sponsors">
+                <div class="sponsor nyancat">
+                    <a href="{{ .url }}" target="_blank">
+                        {{ if .logo }}
+                            <img src="{{ .logo }}" title="{{ .name }}" alt="{{ .name }}" />
+                        {{ else }}
+                            {{ .name }}
+                        {{ end }}
+                    </a>
+                </div>
+            </div>
+            {{ if not (modBool $index 4) }}
+                </div>
+                <div class="row">
+            {{ end }}
+        {{ end }}
+    </div>
+    <!-- /.row -->
+
+</div>
+<!-- /.container -->

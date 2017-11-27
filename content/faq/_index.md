@@ -31,7 +31,7 @@ Nous ne remboursons pas les billets, par contre, vous pouvez céder votre place 
 
 ## Qui organise cet évènement ?
 
-Cet événement est organisé par [l'association BreizhCamp]({{<ref "asso.md">}}). L'équipe organisatrice est uniquement composée de bénévoles et n’est pas rémunérée.
+Cet événement est organisé par [l'association BreizhCamp](/asso). L'équipe organisatrice est uniquement composée de bénévoles et n’est pas rémunérée.
 
 ## Comment devenir sponsor ou partenaire ?
 

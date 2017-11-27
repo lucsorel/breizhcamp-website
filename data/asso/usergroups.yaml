@@ -1,0 +1,29 @@
+items:
+  - name: "BreizhJUG"
+    logo: "http://www.breizhjug.org/images/header/breizhjug-h300.jpg"
+    url: "http://www.breizhjug.org"
+    text: "Le Java User Group à l'origine du BreizhCamp en 2011"
+
+  - name: "Docker Meetup"
+    logo: "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/b/6/9/b/highres_461986747.jpeg"
+    url: "https://www.meetup.com/fr-FR/Docker-Rennes"
+
+  - name: "Rennes JS"
+    logo: "http://rennesjs.org/images/logo-rennesjs.jpg"
+    url: "http://www.rennesjs.org"
+
+  - name: "Golang Rennes"
+    logo: "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/c/4/b/8/global_451010360.jpeg"
+    url: "https://www.meetup.com/fr/Golang-Rennes/"
+
+  - name: "Android Rennes"
+    logo: "http://baug.fr/wp-content/uploads/2012/10/question-android.jpg"
+    url: "https://www.meetup.com/fr-FR/AndroidRennes/"
+
+  - name: "Sotware Crafts·wo·manship Rennes"
+    logo: "https://pbs.twimg.com/profile_images/869988942770307072/5eE0osqk_400x400.jpg"
+    url: "https://www.meetup.com/fr-FR/Software-Craftsmanship-Rennes/"
+
+  - name: "Rennes DevOps"
+    logo: "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/f/7/6/highres_328900822.jpeg"
+    url: "http://rennesdevops.fr/"

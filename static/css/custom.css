@@ -166,3 +166,50 @@ div#post-content img {
   margin-left: auto;
   margin-right: auto
 }
+
+
+.asso-usergroup {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  box-shadow: 2px 2px 2px 0px #ddd;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.asso-usergroup-logo {
+  display: block;
+  max-width: 90%;
+  max-height: 120px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.asso-sponsors .sponsor {
+  background-color: #f5f5f5;
+  text-align:center;
+  border: solid 1px #ddd;
+  box-shadow: 7px 7px 3px 0px #ddd;
+  padding: 7px;
+  margin-bottom: 20px;
+}
+
+.asso-sponsors .sponsor img
+{
+  max-width:100%;
+  max-height:100%;
+  display: inline;
+  position: relative;
+  top: 50%;
+  transform: perspective(1px) translateY(-50%);
+}
+
+
+.asso-sponsors .licorne {
+  padding: 30px;
+  height: 250px;
+}
+
+.asso-sponsors .nyancat {
+  padding: 10px;
+  height: 150px;
+}
