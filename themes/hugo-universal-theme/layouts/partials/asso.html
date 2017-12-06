@@ -51,7 +51,7 @@
         {{ .Params.sponsor_licorne_subtitle }}
     </div>
     <div class="row">
-        {{ range $index, $ug := (where $.Site.Data.sponsors.items "asso_level" "licorne") }}
+        {{ range $index, $ug := (sort (where $.Site.Data.sponsors.items "asso_level" "licorne") "name") }}
             <div class="col-md-6 col-sm-12 asso-sponsors">
                 <div class="sponsor licorne">
                     <a href="{{ .url }}" target="_blank">
@@ -75,7 +75,7 @@
         {{ .Params.sponsor_nyancat_subtitle }}
     </div>
     <div class="row">
-        {{ range $index, $ug := (where $.Site.Data.sponsors.items "asso_level" "nyancat") }}
+        {{ range $index, $ug := (sort (where $.Site.Data.sponsors.items "asso_level" "nyancat") "name") }}
             <div class="col-md-4 col-sm-6 asso-sponsors">
                 <div class="sponsor nyancat">
                     <a href="{{ .url }}" target="_blank">
@@ -99,7 +99,7 @@
         {{ .Params.sponsor_usergroup_subtitle }}
     </div>
     <div class="row">
-        {{ range $index, $ug := (where $.Site.Data.sponsors.items "asso_level" "usergroup") }}
+        {{ range $index, $ug := (sort (where $.Site.Data.sponsors.items "asso_level" "usergroup") "name") }}
             <div class="col-md-2 col-sm-3 col-xs-4 asso-sponsors">
                 <div class="sponsor usergroup">
                     <a href="{{ .url }}" target="_blank">
