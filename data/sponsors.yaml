@@ -24,6 +24,7 @@ items:
     logo: "/img/sponsors/logo_sii.png"
     url: "http://www.sii.fr/fr/"
     breizhcamp_level: "platinum"
+    asso_level: "usergroup"
 
   - name: "Zenika"
     logo: "/img/sponsors/logo_zenika.png"
