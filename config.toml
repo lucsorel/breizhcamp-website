@@ -131,7 +131,11 @@ paginate = 10
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
     title = "La conférence à l'ouest"
-    subtitle = "Le BreizhCamp, c'est 3 jours de conférence et de hacker-space à Rennes. Créé en 2011 à l’initiative du BreizhJUG, nous sommes en cours de planification de la 7ème edition. Le BreizhCamp propose de se faire rencontrer une communauté de développeurs et d’experts, avec un contenu à la carte sur plus de 100 thèmes présentés. Chaque participant est libre de suivre les sujets qui ont retenu son attention ou de préférer les ateliers pour mettre en pratique les connaissances acquises."
+    subtitle = """Le BreizhCamp, c'est 3 jours de conférence et de hacker-space à Rennes.
+    Créé en 2011 à l’initiative du BreizhJUG, nous sommes en cours de planification de la 8ème edition.
+    Le BreizhCamp propose de se faire rencontrer une communauté de développeurs et d’experts, avec un contenu à la carte sur plus de 100 thèmes présentés.
+    Chaque participant est libre de suivre les sujets qui ont retenu son attention ou de préférer les ateliers pour mettre en pratique les connaissances acquises.
+    """
 
 [params.testimonials]
     enable = false
