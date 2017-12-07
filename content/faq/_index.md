@@ -6,14 +6,12 @@ title = "FAQ"
 
 La 8ème édition du BreizhCamp aura lieu du 28 à 30 mars 2018. Elle se tiendra dans le bâtiment 2A de l’Université Rennes 1 comme en 2017. Consulter la page [Venir]({{< ref "venir.md" >}}) pour obtenir toutes les informations pratiques.
 
-{{< comment >}}
 ## Combien de temps dure le BreizhCamp ?
 
 Le BreizhCamp se déroule sur 3 jours :
 
-* le mercredi 19 avril est consacré à des sessions de type "introduction à...", des formats plus longs et des ateliers pour prendre en main une technologie
-* le jeudi 20 et le vendredi 21 avril regroupent toutes les sessions de conférence, pour balayer toutes les nouveautés et tous les écosystèmes en un temps record.
-{{< /comment >}}
+* le mercredi 28 mars est consacré à des sessions de type "introduction à...", des formats plus longs et des ateliers pour prendre en main une technologie
+* le jeudi 29 et le vendredi 30 mars regroupent toutes les sessions de conférence, pour balayer toutes les nouveautés et tous les écosystèmes en un temps record.
 
 ## Comment acheter un billet ?
 
@@ -45,13 +43,11 @@ Certaines sessions seront filmées et nous essayerons de les mettre à dispositi
 
 Si vous comptez suivre des ateliers, il est recommandé d'avoir son ordinateur. Néanmoins, pour profiter au mieux des sessions, mieux vaut oublier ses emails et écouter le speaker !
 
-{{< comment >}}
 ## Comment se fera l'accès Wifi pendant la conférence ?
 
 Comme en 2017, l’Université Rennes 1 nous met à disposition son réseau WiFi. L'accès au réseau se fait par un identifiant nominatif qui sera remis à chaque participant avant la conférence (la loi française est extrêmement contraignante sur les accès Wifi public et impose une identification de chaque utilisateur accédant à un réseau).
 
 Les identifiants de connexion seront envoyés sur l'adresse email fournie lors de l'achat de votre billet. Il est donc **très** important de fournir une adresse valide lors de l'achat de son billet. Venez avec ce code à la conférence, il sera nécessaire pour vous identifier sur le réseau.
-{{< /comment >}}
 
 ## J'ai quand même une question!
 
