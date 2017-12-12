@@ -1,6 +1,6 @@
 +++
 title = "Lettre d'Information #0"
-date = "2017-12-12T09:45:00+01:00"
+date = "2017-12-12T18:10:00+01:00"
 banner = "img/blog/2017-newsletters/newsletter.jpg"
 +++
 
@@ -101,5 +101,5 @@ Pour en savoir plus : [http://www.serli.com](www.serli.com)   [http://www.facebo
 
 --
 
-[Lien vers la lettre originale](https://us7.campaign-archive.com/?e=&u=e4309e9c9c151e88d960d5c1e&id=ecdb26fbb7)
+[Lien vers la lettre originale](http://mailchi.mp/c4baf0819330/jzzy9yfuew-1609553?e=e9554d1a7f)
 
