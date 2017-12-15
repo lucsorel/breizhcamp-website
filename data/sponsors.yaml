@@ -12,7 +12,7 @@ items:
 
   - name: "Neo-Soft"
     logo: "/img/sponsors/logo_neosoft.png"
-    url: "https://www.neo-soft.fr"
+    url: "http://www.neo-soft.fr"
     breizhcamp_level: "platinum"
 
   - name: "OVH"
