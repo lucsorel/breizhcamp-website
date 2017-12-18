@@ -41,7 +41,7 @@ items:
     url: "http://www.ariadnext.com"
     breizhcamp_level: "gold"
 
-  - name: "concerto"
+  - name: "Concerto"
     logo: "/img/sponsors/logo_concerto.png"
     url: "https://www.conserto.pro"
     breizhcamp_level: "gold"
@@ -63,9 +63,9 @@ items:
     breizhcamp_level: "gold"
     asso_level: "nyancat"
 
-  - name: "Netapsys"
-    logo: "/img/sponsors/logo_netapsys.png"
-    url: "https://www.netapsys.fr"
+  - name: "Sodifrance"
+    logo: "/img/sponsors/logo_sodifrance.png"
+    url: "http://www.sodifrance.fr/"
     breizhcamp_level: "gold"
     asso_level: "usergroup"
 
