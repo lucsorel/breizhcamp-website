@@ -24,12 +24,17 @@ figcaption {
 }
 
 .home-carousel {
-  background: url('../img/rennes-background-2018.jpg') center center repeat;
+  background: #d55740 url('../img/dolorean.png') no-repeat center center;
   text-shadow: 3px 2px 6px #222;
+  height: 500px;
 }
 
 .home-carousel .dark-mask {
   opacity: 0.1;
+}
+
+.home-carousel .owl-item .item > .row > .col-sm-7 > img.img-responsive {
+  max-height: 420px;
 }
 
 .navbar ul.nav > li > a {
