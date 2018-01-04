@@ -4,35 +4,40 @@ title = "Venir"
 
 ## Billetterie
 
-La billetterie n'est pas encore ouverte.
+La [billetterie](https://www.billetweb.fr/breizhcamp-2018) est ouverte !
 
-{{< comment >}} 
+
+{{<comment>}}
 Comme les autres années, nous avons été victime de notre succès.
 Il reste peut-être quelques places à gagner avec nos sponsors.
+{{</comment>}}
 
 Tarifs disponibles:
 
-* Université (mercredi):	**30€**
+* Université (mercredi) : **30€**
 
-    La journée de mercredi regroupe les sessions de type "introduction à...", des formats plus longs et des ateliers pour prendre en main une technologie.
+    > La journée de mercredi regroupe les sessions de type "introduction à...", des formats plus longs et des ateliers pour prendre en main une technologie.
 
-* Conférence (jeudi et vendredi):	**75€**
+* Conférences :
 
-    Les journées de jeudi et vendredi regroupent toutes les sessions de conférence, pour balayer toutes les nouveautés et tous les écosystèmes en un temps record. Le billet est pour deux jours, si vous voulez le partager avec un collègue, débrouillez-vous pour faire l'échange.
+    > Les journées de jeudi et vendredi regroupent toutes les sessions de conférence, pour balayer toutes les nouveautés et tous les écosystèmes en un temps record.
+
+    * Conférences (jeudi et vendredi) :	**75€**
+        
+        > Le billet est pour les deux jours de conférences. Si vous voulez le partager avec un collègue, débrouillez-vous pour faire l'échange.
+
+    * Journée de conférence (jeudi ou vendredi) :	**45€**
+        
+        > Le billet est pour un jour de conférence (le jeudi ou le vendredi).
 
 * Combo (3 jours): **90€**
 
-    La totale, pour ne rien rater
+    > La totale, pour ne rien rater
 
-* Fanboy (3 jours): **min. 100€**
-
-    Vous adorez le BreizhCamp, vous avez fait les 7 précédentes éditions, et vous voudriez le soutenir ?
-    Ou encore, vous passez tout ça en note de frais, alors pourquoi ne pas nous donner un coup de pouce ? :P
-    Définissez vous-même votre tarif pour un billet combo, en fonction de ce que vous pensez que vaut une place au BreizhCamp. A votre bon coeur M'sieurs Dames !
 
 Les sponsors et partenaires disposent de code spéciaux pour acheter les places incluses dans les conventions. Si vous êtes dans ce cas, n'achetez pas une place classique.
 
-{{< /comment >}}
+
 
 ## Lieu de la conférence
 
