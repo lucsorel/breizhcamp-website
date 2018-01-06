@@ -50,7 +50,7 @@ items:
     logo: "/img/sponsors/logo_creative.png"
     url: "http://www.groupe-creative.fr"
     breizhcamp_level: "gold"
-    asso_level: "meetup"
+    asso_level: "usergroup"
 
   - name: "Infotel"
     logo: "/img/sponsors/logo_infotel.png"
@@ -97,6 +97,7 @@ items:
     logo: "/img/sponsors/logo_claranet.png"
     url: "https://www.claranet.fr"
     breizhcamp_level: "silver"
+    asso_level: "usergroup"
 
   - name: "Clever Cloud"
     logo: "/img/sponsors/logo_clevercloud.png"
