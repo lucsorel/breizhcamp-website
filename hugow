@@ -12,8 +12,8 @@ install_hugo() {
   mkdir -p .hugo
   case "`uname`" in
   Darwin* )
-    curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_macOS-64bit.zip" > .hugo/hugo.zip
-    (cd .hugo; unzip hugo.zip)
+    curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_macOS-64bit.tar.gz" | \
+    zcat | (cd .hugo; tar -xf -)
     ;;
   Linux* )
     curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz" | \
