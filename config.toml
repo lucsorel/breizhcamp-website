@@ -81,29 +81,34 @@ paginate = 10
     weight = 2
 
 [[params.menu]]
+    name = "Billetterie"
+    url  = "https://www.billetweb.fr/breizhcamp-2018"
+    weight = 3
+
+[[params.menu]]
     name = "Venir"
     url  = "/venir/"
-    weight = 3
+    weight = 4
 
 [[params.menu]]
     name = "Sponsors"
     url  = "/sponsors/"
-    weight = 4
+    weight = 8
 
 [[params.menu]]
    name = "FAQ"
     url  = "/faq/"
-    weight = 5
+    weight = 9
 
 [[params.menu]]
     name = "Blog"
     url  = "/blog/"
-    weight = 6
+    weight = 10
 
 [[params.menu]]
     name = "Asso"
     url  = "/asso/"
-    weight = 7
+    weight = 11
 
 # Enable or disable top bar with social icons
 [params.topbar]
