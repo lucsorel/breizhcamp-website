@@ -23,7 +23,7 @@ Nous remercions les sponsors du Meet & Greet qui vous offrent cette soirée conv
 
 # Un code de conduite ?
 
-Nous n’avons pas de Code of conduct à proprement parler, nous comptons sur le bienveillant bon sens de nos participants, speakers et sponsors pour ne pas entacher cette belle fête annuelle qu’est le BreizhCamp d’un dérapage “inapproprié”.  Si jamais vous étiez témoin d’un tel comportement lors de votre participation au BreizhCamp, n’hésitez pas à nous en faire part rapidement (on est facilement repérables, on est ceux qui courent dans tous les sens tout le temps).
+Nous n’avons pas de Code of conduct à proprement parler, nous comptons sur le bienveillant bon sens de nos participants, speakers et sponsors pour ne pas entacher cette belle fête annuelle qu’est le BreizhCamp d’un dérapage inapproprié.  Si jamais vous étiez témoin d’un tel comportement lors de votre participation au BreizhCamp, n’hésitez pas à nous en faire part rapidement (on est facilement repérables, on est ceux qui courent dans tous les sens tout le temps).
 
 En dehors de ça, quelques recommandations, pour lesquelles nous nous sommes fortement inspirés de celles de  Django-fr, parce qu’elles étaient très bien :
 
