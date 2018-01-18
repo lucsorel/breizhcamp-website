@@ -143,7 +143,6 @@ items:
   - name: "Sopra"
     logo: "/img/sponsors/logo_soprasteria.png"
     url: "https://www.soprasteria.com/fr/"
-    hidden: true
     breizhcamp_level: "silver"
 
 
