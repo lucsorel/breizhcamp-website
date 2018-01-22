@@ -19,3 +19,10 @@
         });
     });
 })(document, window, $);
+
+
+function languageTroll() {
+    const languages = ['.Net', 'C', 'C++', 'C#', 'Go', 'Java', 'JavaScript', 'Objective-C', 'Perl', 'PHP', 'Python', 'R', 'Ruby', 'Rust', 'Swift'];
+    var index = Math.floor(Math.random() * Math.floor(languages.length));
+    jQuery('.language-troll').text(languages[index]);
+}

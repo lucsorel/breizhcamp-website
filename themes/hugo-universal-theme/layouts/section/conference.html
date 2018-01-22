@@ -34,5 +34,11 @@
 
     {{ partial "scripts.html" . }}
 
+    <script>
+        jQuery(document).ready(function() {
+            setInterval(languageTroll, 3000);
+        });
+    </script>
+
   </body>
 </html>
