@@ -17,9 +17,10 @@ Si vous n'étiez pas là les années précédentes, la formule est simple : jeud
 
 Nous remercions les sponsors du Meet & Greet qui vous offrent cette soirée conviviale !
 
-{{< comment >}}
-![image alt text](/img/meetandgreet.png)
-{{< /comment >}}
+<center>
+![Meet & Greet](/img/meetandgreet.png)
+</center>
+
 
 # Un code de conduite ?
 
