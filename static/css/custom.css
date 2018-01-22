@@ -223,3 +223,9 @@ div#post-content img {
   padding: 10px;
   height: 100px;
 }
+
+
+.language-troll {
+  font-family: monospace;
+  color: #c85d1b;
+}
