@@ -38,8 +38,18 @@ figcaption {
   opacity: 0;
 }
 
-.home-carousel .owl-item .item > .row > .col-sm-7 > img.img-responsive {
+.home-carousel .owl-item .item > .row > .col-sm-7 img.img-responsive {
   max-height: 420px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.home-carousel .owl-theme .owl-controls .owl-page span {
+    background: #FFA500;
+}
+
+.home-carousel .owl-theme .owl-controls .owl-page.active span {
+    background: #FFA500;
 }
 
 @media (min-width: 992px) {
