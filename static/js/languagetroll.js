@@ -29,7 +29,7 @@ const LANGUAGE_TROLL = (function () {
         // Fisher–Yates shuffle
         var i, j, temp;
         for (i = LANGUAGE.length - 1; i > 0; i--) {
-            j = Math.floor(Math.random() * Math.floor(i));
+            j = Math.floor(Math.random() * i);
             temp = languages_shuffle[i];
             languages_shuffle[i] = languages_shuffle[j];
             languages_shuffle[j] = temp;
