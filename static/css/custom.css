@@ -19,22 +19,33 @@ figcaption {
 }
 
 .navbar-default {
-  background-color: #363033;
-  /*background-color: #f36f21;*/
+  background-color: #40383C;
 }
 
+.navbar-affixed-top.affix {
+  box-shadow: 0 0 5px #2B282A;
+}
+
+
 .home-carousel {
-  background: #d55740 url('../img/dolorean.png') no-repeat center center;
+  background: #393336 url('../img/doloreanBTTC.png') no-repeat center center;
+  /* background: #d55740 url('../img/dolorean.png') no-repeat center center; */
   text-shadow: 3px 2px 6px #222;
   height: 500px;
 }
 
 .home-carousel .dark-mask {
-  opacity: 0.1;
+  opacity: 0;
 }
 
 .home-carousel .owl-item .item > .row > .col-sm-7 > img.img-responsive {
   max-height: 420px;
+}
+
+@media (min-width: 992px) {
+  .home-carousel .center {
+    text-align: center;
+  }
 }
 
 .navbar ul.nav > li > a {
