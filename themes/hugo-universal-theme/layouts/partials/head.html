@@ -65,9 +65,18 @@
   <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
 
   <!-- Facebook OpenGraph tags -->
+  <meta property="og:url" content="{{ .Site.BaseURL }}" />
   <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ .Site.Params.Features.Subtitle }}" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ .URL }}/" />
-  <meta property="og:image" content="{{ .Site.Params.logo }}" />
+  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.social_logo }}" />
+  <meta property="og:locale" content="{{ .Site.Params.social_locale }}" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="{{ .Site.Params.social_twitter }}" />
+  <meta name="twitter:creator" content="{{ .Site.Params.social_twitter }}" />
+  <meta name="twitter:title" content="{{ .Title }}" />
+  <meta name="twitter:description" content="{{ .Site.Params.Features.Subtitle }}" />
+  <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.social_logo }}" />
 
 </head>

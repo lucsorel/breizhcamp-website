@@ -1,7 +1,7 @@
 baseurl = "http://www-staging.breizhcamp.org/"
 title = "BreizhCamp - 8ème édition - 28, 29 et 30 Mars 2018"
 theme = "hugo-universal-theme"
-languageCode = "fr-FR"
+languageCode = "fr"
 defaultContentLanguage = "fr"
 # Enable comments by entering your Disqus shortname
 #disqusShortname = "devcows"
@@ -39,6 +39,11 @@ paginate = 10
         """
     date_format = "2 January 2006"
     logo = "img/logo.png"
+
+	#logo url for social network
+    social_logo = "img/carousel/breizh-to-the-camp.png"
+    social_locale = "fr_FR"
+    social_twitter = "@breizhcamp"
 
 
 [params.breizhcamp]
