@@ -4,7 +4,7 @@ title = "Conférence"
 
 # Plan du lieu
 
-Si vous chercher comment venir, c'est expliqué [ici]({{< ref "venir.md" >}}).
+Si vous cherchez comment venir, c'est expliqué [ici]({{< ref "venir.md" >}}).
 
 {{<figure src="/img/plan-lieu.png" title="Plan du batiment 2A" class="figure-center">}}
 
