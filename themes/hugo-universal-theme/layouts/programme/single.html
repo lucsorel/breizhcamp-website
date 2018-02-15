@@ -109,6 +109,14 @@
 
 
 <!-- Angular & Cie. pour le programme -->
+<script>
+    const PROGRAMME_CONFIG = (function () {
+        return {
+            "start" : "{{ .Site.Params.breizhcamp.edition_date_start }}",
+            "end" : "{{ .Site.Params.breizhcamp.edition_date_end }}"
+        }
+    })();
+</script>
 <script src="{{ .Site.BaseURL }}js/programme.js"></script>
 
 

@@ -16,22 +16,23 @@ puis accéder à http://localhost:1313. Hugo activera le rechargement automatiqu
 
 ### Passage à une nouvelle édition du breizhcamp
 
-1.  (Archivez l'ancien site)
+1.  Edition précédente :
+    1.  Passer la méthode de récupération du programme en `static`
+    1.  (Mettre à jour le fichier des talks)
+    1.  (Archivez l'ancien site)
 1.  Faire un tag de la version (ex : `www-2017`)
 1.  Fichier `config.toml`, mettre à jour :
     -   `title`
     -   `[params]`
         -   `social_logo`
     -   `[params.breizhcamp]`
-        -   `edition_year`
-        -   `edition_date_place`
-        -   `previous_editions`
     -   `[[params.menu]]` avec `name = "Billetterie"`
         -    `url`
-    -   `[params.features]` avec `name = "Billetterie"`
+    -   `[params.features]`
         -    `subtitle`
 1.  Fichier `build.sh`, mettre à jour :
     -   `REPO` dans le case `-p|--prod`
+1.  Passer les pages _programme_ et _speakers_ en draft
 1.  Mettre à jour les pages du site
 
 ### Mise à jours des données
@@ -42,6 +43,23 @@ puis accéder à http://localhost:1313. Hugo activera le rechargement automatiqu
     **NE FAITES PAS UN COMMIT DE CE FICHIER AVEC VOTRE TOCKEN DEDANS !**
 1.  Lancer le script `bin/update-json-speakers.sh`
 1.  Faire un commit du fichier `data/speakers.json`
+
+#### Liste des talks du programme
+
+Si vous utilisez la méthode de récupération `static` pour récupérer les talks du programme,
+il faut mettre à jour le fichier `static/json/talks.json` :
+
+1.  Lancer le script `bin/update-json-talks.sh`
+1.  Faire un commit du fichier `static/json/talks.json`
+
+
+## Configuration
+
+### Récupération des talks pour le programme
+
+Fichier `content/conference/programme.md`, paramètre `get_talks_method` :
+-   `"cfp_api"` : récupération via l'API du CFP
+-   `"static"` : récupération via le fichier `/static/json/talks.json` (pensez à mettre à jour ce fichier !)
 
 
 ## Organisation des branches
