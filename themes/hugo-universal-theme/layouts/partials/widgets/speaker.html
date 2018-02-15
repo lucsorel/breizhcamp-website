@@ -16,6 +16,14 @@
       <p>{{ .bio | plainify | markdownify }}</p>
       {{ end }}
     </div>
+    <div class="social">
+      {{ if .github }}<div><i class="fa fa-1g fa-github"></i> {{ .github }}</div>{{ end }}
+      {{ if .googleplus }}<div><i class="fa fa-1g fa-google-plus"></i> {{ .googleplus }}</div>{{ end }}
+      {{ if .twitter }}<div><i class="fa fa-1g fa-twitter"></i> {{ .twitter }}</div>{{ end }}
+      {{ range .social }}
+        <div><i class="fa fa-1g fa-link"></i> {{ . }}</div>
+      {{ end }}
+    </div>
   </div>
 </div>
 {{ end }}

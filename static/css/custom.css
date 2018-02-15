@@ -183,6 +183,11 @@ div#post-content img {
   padding: 15px 15px 15px;
 }
 
+.speaker .social {
+  font-size-adjust: 0.48;
+  font-style: italic;
+}
+
 .fc-time-grid-event {
   cursor: pointer;
 }

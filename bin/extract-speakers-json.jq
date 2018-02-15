@@ -7,7 +7,12 @@ def lowercase:
 
 
 def filter_object_data:
-    . | { id: .id, lastname: .lastname, firstname: .firstname, imageProfilURL: .imageProfilURL, bio: .bio };
+    . | { id: .id,
+            lastname: .lastname, firstname: .firstname,
+            imageProfilURL: .imageProfilURL, bio: .bio,
+            github: .github, googleplus: .googleplus, twitter: .twitter,
+            social: (.social | if (. | length) > 0 then split (", ") else [] end)
+        };
 
 
 def remove_duplicate:
