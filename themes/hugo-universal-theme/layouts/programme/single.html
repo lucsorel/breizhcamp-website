@@ -112,6 +112,7 @@
 <script>
     const PROGRAMME_CONFIG = (function () {
         return {
+            "get_talks_method": "{{ .Site.Params.breizhcamp.programme_get_talks_method | default "static" }}",
             "start" : "{{ .Site.Params.breizhcamp.edition_date_start }}",
             "end" : "{{ .Site.Params.breizhcamp.edition_date_end }}"
         }

@@ -132,16 +132,20 @@
                 }, refresh);
             });
 
-            $q.all([
-                $http.get('/json/others.json'),
-                $http(
-                    {
+            var http_talks
+                = (PROGRAMME_CONFIG == null || PROGRAMME_CONFIG.get_talks_method === "static")
+                ? $http.get('/json/talks.json')
+                : $http({
                         method: 'GET',
                         url: 'https://api.cfp.io/api/schedule',
                         headers: {
                             'X-Tenant-Id': 'breizhcamp'
                         }
-                    })
+                    });
+
+            $q.all([
+                $http.get('/json/others.json'),
+                http_talks
             ]).then(function(responses) {
                 return [].concat(responses[0].data, responses[1].data);
             }).then(function(talks) {
