@@ -14,6 +14,26 @@ A la racine se trouve un wrapper pour lancer Hugo, qui se chargera de téléchar
 
 puis accéder à http://localhost:1313. Hugo activera le rechargement automatique des pages modifiées. Etant donné la vitesse de génération, les modifications effectuées dans les sources sont visibles en quasi-temps réel dans le navigateur Web.
 
+### Passage à une nouvelle édition du breizhcamp
+
+1.  (Archivez l'ancien site)
+1.  Faire un tag de la version (ex : `www-2017`)
+1.  Fichier `config.toml`, mettre à jour :
+    -   `title`
+    -   `[params]`
+        -   `social_logo`
+    -   `[params.breizhcamp]`
+        -   `edition_year`
+        -   `edition_date_place`
+        -   `previous_editions`
+    -   `[[params.menu]]` avec `name = "Billetterie"`
+        -    `url`
+    -   `[params.features]` avec `name = "Billetterie"`
+        -    `subtitle`
+1.  Fichier `build.sh`, mettre à jour :
+    -   `REPO` dans le case `-p|--prod`
+1.  Mettre à jour les pages du site
+
 ### Mise à jours des données
 
 #### Liste des speakers
@@ -38,7 +58,8 @@ L'instance [Jenkins du BreizhCamp]( https://breizhcamp.ci.cloudbees.com) permet 
 Les pages HTML générées sont servies par GitHub Pages et sont stockées dans:
 
 * [breizhcamp/www-staging](https://github.com/breizhcamp/www-staging) pour la branche `staging`
-* [breizhcamp/www-2017](https://github.com/breizhcamp/www-2017) pour la branche `production`
+* [breizhcamp/www-\<year\>](https://github.com/breizhcamp) pour la branche `production`.
+  (`<year>` est l'année de l'édition. Ex : [breizhcamp/www-2018](https://github.com/breizhcamp/www-2018))
 
 Les scripts de déploiement utilisé par l'intégration continue Jenkins sont dans le répertoire `bin`.
 
