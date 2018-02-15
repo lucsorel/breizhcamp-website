@@ -1,540 +1,57 @@
 [
   {
-    "id": 3628,
-    "lastname": "Zemb",
-    "firstname": "Pierre",
-    "imageProfilURL": "https://pierrezemb.fr/myself.png",
-    "bio": "[Pierre Zemb](https://pierrezemb.fr) is a software engineer at [OVH](https://ovh.com). He’s working with the [Metrics Data Platform](https://twitter.com/ovhmetrics) team to build reliable distributed systems and analytics solution. He's also giving a hand to differents local events, such as the local Startup Weekend, Devoxx4Kids and FinistDevs."
+    "id": 2246,
+    "lastname": "Abgrall",
+    "firstname": "Franck",
+    "imageProfilURL": "https://lh3.google.com/u/0/d/0Byd-LUeERubiSl9Sbm13RHNDQ0k=w3840-h1988-iv1",
+    "bio": "Consultant et formateur à Zenika Nantes, Franck est un fan incontesté de JavaScript et de son écosystème. Sa passion pour le web et son désir de s’enrichir l’ont amené à réaliser de nombreux projets dans cet univers en plein mouvement."
   },
   {
-    "id": 2841,
-    "lastname": "Wursteisen",
-    "firstname": "David",
-    "imageProfilURL": "https://lh6.googleusercontent.com/-ik6pQvfCBVY/AAAAAAAAAAI/AAAAAAAAAL8/-Sfv4sKFObE/photo.jpg",
-    "bio": "David intervient chez différents clients au domaine fonctionnel varié, pour les aider à réaliser leurs projets.\nPour lui le développement logiciel n’est pas qu’une affaire de technique.\nSon rôle est d’aider ses clients à prendre en compte d’autres aspects, pour que leurs développements informatiques ne soient plus un frein à leur activité mais un atout."
-  },
-  {
-    "id": 108,
-    "lastname": "Vinas",
-    "firstname": "Emmanuel",
+    "id": 3001,
+    "lastname": "AICI",
+    "firstname": "Mahdi",
     "imageProfilURL": null,
     "bio": null
   },
   {
-    "id": 3398,
-    "lastname": "Viau",
-    "firstname": "Antoine",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/806962997591674881/NiUOjlSh_400x400.jpg",
-    "bio": "Je suis un développeur passionné et un ancien Rennais (Saint-Hélier, représente !). Alors le Breizhcamp, c'est comme les crêpes, ça me parle.  \nAprès une décennie dans le jeu vidéo (C/C++ et assembleur x86), j'ai profité de l'explosion de la bulle Internet pour devenir développeur web (true story). Comme j'aime autant jouer avec le back que le front, je suis full-stack : `AngularJs`, `Angular`, `Node`, `PHP`, `Symfony`.  \nUn peu d'Android aussi parce qu'on est pas des sauvages."
+    "id": 2631,
+    "lastname": "Aillet",
+    "firstname": "Pierre-Yves",
+    "imageProfilURL": "https://pyaillet.github.io/me/images/photo.jpg",
+    "bio": "Je travaille dans l’informatique depuis 15 ans sur des technologies variées allant de PHP à Java en passant par Javascript. Mon IHM de prédilection est la ligne de commande, et côté perso je reste fan du langage C et de tout ce qui est bas niveau. Je suis consultant chez Zenika Nantes et j’interviens sur des missions d’audit, d’expertise technique ou d’appui pour la mise en place d’outillages de développement."
   },
   {
-    "id": 673,
-    "lastname": "Thebault",
-    "firstname": "Erwann",
-    "imageProfilURL": null,
-    "bio": null
+    "id": 3863,
+    "lastname": "Allain",
+    "firstname": "Patrick",
+    "imageProfilURL": "53 rue Jenner",
+    "bio": "Open Source addict, Patrick est linuxien, avant tout javaiste mais également pythoniste avec un léger penchant DevOps. De Docker à Spring-Boot en passant par Terraform, il apprécie découvrir de nouveaux challenges chez ses clients afin de leur apporter la meilleur des solutions."
   },
   {
-    "id": 2223,
-    "lastname": "Steinmetz",
-    "firstname": "Nicolas",
-    "imageProfilURL": "https://nicolas.steinmetz.fr/public/ns_1024x683.jpg",
-    "bio": "\"Architecte plateforme\", mi Dev, mi Ops et réciproquement. Je vise la transversalité plutôt que la spécialisation pour mieux appréhender les projets et répondre aux besoins métiers. Préfère être dans les tranchés que dans une tour d'ivoire, l'expérience  et la pertinence se gagnent sur le terrain."
-  },
-  {
-    "id": 679,
-    "lastname": "Serge",
-    "firstname": "HARDY",
-    "imageProfilURL": null,
-    "bio": null
-  },
-  {
-    "id": 2608,
-    "lastname": "SABLONNIÈRE",
-    "firstname": "Hubert",
-    "imageProfilURL": "https://fr.gravatar.com/userimage/13472948/38009733493b55d52223205e85c6e86d.png?size=500",
-    "bio": "Hubert est passionné par le Web. Il est toujours à la recherche de nouvelles idées et autres bidouilles pour améliorer l'expérience des utilisateurs et des développeurs."
-  },
-  {
-    "id": 841,
-    "lastname": "Rousseau",
-    "firstname": "Yoan",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/820007283828682752/HlaNAFIu.jpg",
-    "bio": "Développeur & Formateur chez Zenika Rennes, je me passionne pour les sujets gravitant autour du Devops, de l'agilité, du Cloud et de l'IOT."
-  },
-  {
-    "id": 976,
-    "lastname": "Ribreau",
-    "firstname": "Francois-Guillaume",
-    "imageProfilURL": "https://avatars.io/twitter/fgribreau/large",
-    "bio": "Architect & head of digital development [@Ouest-France](https://www.ouest-france.fr/) - \nCTO & Founder [@image-charts](https://image-charts.com) [@Redsmin](https://redsmin.com) [@KillBug](https://www.killbug.today/)\n`#FullStackHacker`"
-  },
-  {
-    "id": 147,
-    "lastname": "REVEREAULT",
-    "firstname": "Sylvain",
-    "imageProfilURL": "http://0.gravatar.com/avatar/6bb659f89ed416dd611a28521557e1dc?s=200",
-    "bio": "Travaillant depuis une quinzaine d’années dans l’informatique, je me suis progressivement spécialisé dans les technologies systèmes et réseaux, en particulier autour des systèmes GNU/Linux, avant de m'orienter vers les problématiques d'industrialisation des environnements Web, puis vers les thématiques DevOps et agilité dans le monde \"Ops\". Je suis actuellement consultant DevOps et Infrastructure as Code chez Zenika, tout en portant la casquette de CTO de l'agence de Rennes."
-  },
-  {
-    "id": 3820,
-    "lastname": "POUSSE",
+    "id": 1033,
+    "lastname": "ANCELIN",
     "firstname": "Mathieu",
-    "imageProfilURL": "https://avatars3.githubusercontent.com/u/2642023?s=460&v=4",
-    "bio": "Lead développeur backend chez Ouest France autour de Java et son ecosytème, de la conception à l’industrialisation, du déploiement au monitoring, j’aime le code bien fait et comprendre les paradigmes des outils pour en tirer le meilleur"
-  },
-  {
-    "id": 1812,
-    "lastname": "Ponge",
-    "firstname": "Julien",
-    "imageProfilURL": "https://julien.ponge.org/images/me.png",
-    "bio": "Maître de Conférences INSA Lyon Telecom, chercheur au laboratoire CITI-Inria, actuellement en délégation chez  Red Hat pour contribuer à Vert.x."
-  },
-  {
-    "id": 653,
-    "lastname": "Plouzennec",
-    "firstname": "Benjamin",
-    "imageProfilURL": "https://img15.hostingpics.net/pics/132595speakerphotoBP.jpg",
-    "bio": "Créatif dans l’âme, je touche un peu à tout : Musique, dessins… Je me suis vite tourné vers le développement web, plus précisément front-end et je suis devenu accro de l’univers Javascript. En poste de développeur/formateur front-end chez Zenika je m’investi dans le monde du web où je m’amuse à développer des outils originaux tels que [Rythm.js](https://okazari.github.io/Rythm.js/)"
-  },
-  {
-    "id": 1857,
-    "lastname": "Piot",
-    "firstname": "Ludovic",
-    "imageProfilURL": "https://lh3.googleusercontent.com/o2v_iy-OVUCtsTBZo6a5ww8yMVhzgwzr6pw26kgPbw1Xu32chsrTxuDxbDpr5zy2j2rjct4jyqmo57mm3-aqkpOTvBhtN3WvWdUQTOnimtNlISZ2bQ680zS3vA9Z1K0IRZEM-zHQ=w963-h1566-no",
-    "bio": "Ludovic felt into _DevOps_ in 2004 with first _Infra as Code_ deployments on _bare-metal_ _blade_ servers. He's found of empowering project teams through automated tools and friendly collaboration, and then welcome `Docker` and `Kubernetes` as the ultimate tools to leverage his favorite practice. Through meetups, conferences and forums, he shares his love for _Cloud_, _Infra as Code_, _DevOps_ and performance topics."
-  },
-  {
-    "id": 510,
-    "lastname": "Pilato",
-    "firstname": "David",
-    "imageProfilURL": "https://dl.dropboxusercontent.com/u/41530933/elastic/PhotoSlack.jpeg",
-    "bio": "Depuis 2013, David Pilato est développeur et évangéliste chez elastic.co, après avoir passé les deux années précédentes à promouvoir le projet open-source Elasticsearch. Il en anime la communauté française."
-  },
-  {
-    "id": 916,
-    "lastname": "Pessu",
-    "firstname": "Adrien",
     "imageProfilURL": null,
     "bio": null
   },
   {
-    "id": 1744,
-    "lastname": "Pennec",
-    "firstname": "Nicolas",
-    "imageProfilURL": "https://avatars2.githubusercontent.com/u/493223?v=3&u=c2ed22aedc21d4b43fdd99f8c9003e3461dac9a7",
-    "bio": "Développeur JavaScript chez [OVH](https://www.ovh.com), passionné par le dev web front-end depuis IE6, co-fondateur du [RennesJS](http://rennesjs.org) et collectionneur de side-projects inachevés... \n  \nRetrouvez-moi sur [@NicoPennec](https://twitter.com/NicoPennec) ou [pennec.io](http://pennec.io)"
+    "id": 1645,
+    "lastname": "Antoine",
+    "firstname": "Cailly",
+    "imageProfilURL": "https://gist.github.com/acailly/365616a4b59c6c8c71772c0ce7dac7f7/raw/1e4e69401f1eac7713a6672dfdce78aa5136fbe9/profil2.jpg",
+    "bio": "Développeur et formateur au sein de l'agence Rennaise de Zenika.\nJe suis le fil de ma curiosité pour approfondir des sujets divers."
   },
   {
-    "id": 3697,
-    "lastname": "PAVIE",
-    "firstname": "Adrien",
-    "imageProfilURL": "https://www.pavie.info/img/speaker.png",
-    "bio": "Adrien Pavie est géomaticien et développeur logiciel de formation. Il est également contributeur au projet OpenStreetMap depuis 2010. Il enrichit les données, et développe des outils pour simplifier la contribution ou la visualisation de celles-ci. On citera par exemple OpenLevelUp, carte de l'intérieur des bâtiments présents dans OpenStreetMap, ou Pic4Carto, outil de revue des photos de rues pour cartographier précisément les villes."
+    "id": 3710,
+    "lastname": "Bentz",
+    "firstname": "Romain",
+    "imageProfilURL": "http://beta.hackndo.com/assets/icones/logo.png",
+    "bio": "Autodidacte et passionné, j'aime monter des projets, écrire des articles, partager mes connaissances notamment via mon blog [hackndo](http://beta.hackndo.com).\n\nToujours à l'affût des nouveautés, en veille permanente sur les réseaux sociaux ou sur IRC, je suis actif sur la scène de la sécurité informatique via mon blog, mon équipe de CTF (0x90r00t) ainsi que via mon rôle d'administrateur du site de challenges de sécurité informatique [Newbiecontest](https://newbiecontest.org)."
   },
   {
-    "id": 867,
-    "lastname": "PATCHANE",
-    "firstname": "Cédric",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/702282382855041024/PUFJGWWB.jpg",
-    "bio": "Développeur passionné de JavaScript et d'OpenSource. Actuellement développeur full-stack (team Front) chez CozyCloud."
-  },
-  {
-    "id": 863,
-    "lastname": "PAITRY",
-    "firstname": "Fabien",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/663477469987659776/Nh5KSiQP.jpg",
-    "bio": "Lead dev PHP / Symfony et Devops enthusiast"
-  },
-  {
-    "id": 71,
-    "lastname": "Odye",
-    "firstname": "Maxime",
-    "imageProfilURL": null,
-    "bio": null
-  },
-  {
-    "id": 3250,
-    "lastname": "Nicolas",
-    "firstname": "Comet",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/902617589871894528/KPEQffoE_400x400.jpg",
-    "bio": "​\nDéveloppeur passionné, Speaker, grand curieux, j'aime apprendre en permanence. Je ne m'attache pas à une technologie en particulier, même si je gravite plus souvent du côté Java / JavaEE. J'aime les principes fondateurs du TDD. Je porte également un grand intérêt pour la synergie entre DDD et documentation vivante ou \"Living Documentation\". \n\nJe suis actuellement ingénieur d'études R&D chez Lectra, numéro un mondial des solutions dédiées à l'industrie textile (logiciels & machines)."
-  },
-  {
-    "id": 852,
-    "lastname": "Mechling",
-    "firstname": "Gautier",
-    "imageProfilURL": "https://avatars2.githubusercontent.com/u/1016119?s=460&v=4",
-    "bio": "Gautier est développeur Android et Google Developer Expert #IoT"
-  },
-  {
-    "id": 2588,
-    "lastname": "Masson",
-    "firstname": "Benoît",
-    "imageProfilURL": "https://www.open-agora.com/assets/img/team/benoit.jpg",
-    "bio": "Depuis toujours dans l'informatique, d'abord bidouilleur et développeur sur calculatrice, puis chercheur et formateur, et depuis 3 ans de retour au développement. Actuellement CTO chez Open Agora (https://www.open-agora.com), dont je suis co-fondateur."
-  },
-  {
-    "id": 3696,
-    "lastname": "Martinet Sanchez",
-    "firstname": "Céline",
-    "imageProfilURL": "https://github.com/celine-m-s/sitepro/blob/master/cms_carree.jpg?raw=true",
-    "bio": "Développeuse et formatrice, j'ai créé un [parcours de formation dédié à Python](https://openclassrooms.com/paths/developpeur-se-dapplication-python) pour OpenClassrooms. Avant cela, j'ai gravité dans l'univers des startups en créant la mienne. Mouton à cinq pattes et autodidacte, je suis passée de l'univers des lettres à celui des ordinateurs."
-  },
-  {
-    "id": 911,
-    "lastname": "LOURS",
-    "firstname": "Guillaume",
-    "imageProfilURL": "https://www.saagie.com/user/themes/saagie-website/dist/assets/img/team/Guillaume.jpg",
-    "bio": "Developpeur Senior à Saagie, touchant aussi bien au backend qu'au front  \nCo-fondateur des conferences Lean Kanban France et Codeurs en Seine  \nRed Coat à Devoxx France"
-  },
-  {
-    "id": 2685,
-    "lastname": "Leray",
-    "firstname": "Sylvain",
-    "imageProfilURL": "https://image.ibb.co/bzgTy7/IMG_3071.jpg",
-    "bio": "Développeur passionné depuis 15 ans, j'ai évolué dans plusieurs ESN nantaises sans jamais perdre l'amour du code. J'aime former, informer et partager ma passion."
-  },
-  {
-    "id": 498,
-    "lastname": "LEMAIRE",
-    "firstname": "Arnaud",
-    "imageProfilURL": "https://scontent-fra3-1.xx.fbcdn.net/v/t31.0-8/15723446_10154866679837264_8526737397678099706_o.jpg?oh=900b7d3a43e4f78657afc549c7ef02bb&oe=5934DBCC",
-    "bio": "J’ai été tour à tour (et pas dans le bon ordre) : CTO d’une startup, directeur de la production chez un éditeur logiciel, architecte logiciel, consultant et développeur.\n\nAprès avoir travaillé pour des Startups, des PME, des grands groupes et le secteur public, je suis maintenant membre d’un bureau d’étude pour aider des clients de toute taille à réussir leurs projets logiciels depuis la conception jusqu’au déploiement en production. \n\nAu quotidien je pratique du JS, PHP, le Python, Java et Ruby et tout les outils qui me permettent de répondre au mieux à la problématique métier du moment.\n\nC’est ce mélange d’expérience que je souhaite partager et transmettre lors des évènements auxquelles je participe (PyConFr, Breizhcamp, Agile France, nCraft, RivieraDev, Bdx.io, FPDays, Socrates …). En parlant de bonnes pratiques, de programmation fonctionnelle, d’agilité et de software craftsmanship."
-  },
-  {
-    "id": 3761,
-    "lastname": "Leclercq",
-    "firstname": "Jean-Michel",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/704813248021983236/at-Mqhen.jpg",
-    "bio": "Consultant passionné de judo, bières et PHP, en particulier Symfony"
-  },
-  {
-    "id": 3678,
-    "lastname": "Lecharpentier",
-    "firstname": "Adrien",
-    "imageProfilURL": "https://gravatar.com/avatar/8254814a3136a30724cd428841f8e155?size=500.png",
-    "bio": "Adrien travaille pour CloudBees, comme Support Engineer. À ce titre, il aide les clients de CloudBees à utiliser au mieux leurs instance Jenkins, en faisant des patchs sur des plugins OpenSource ou en conseillant sur de \"bonnes\" pratique."
-  },
-  {
-    "id": 1847,
-    "lastname": "LECACHEUR",
-    "firstname": "Sébastien",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/722358213836992512/nfBoZl5a_400x400.jpg",
-    "bio": "Très attaché au logiciel libre pour découvrir comment les autres développeurs programment et comment ces projets fonctionnent, j’aime le code !\n\nDéveloppeur C, puis web, puis Java EE, puis PHP, puis Android, puis… Le langage de programmation n’est qu’un moyen pour moi.\n\nEn tant qu’architecte je suis continuellement partagé entre “aller vite” et “s’attarder sur les détails”."
-  },
-  {
-    "id": 3432,
-    "lastname": "Le Merrer",
-    "firstname": "Pascal",
-    "imageProfilURL": "https://www.dropbox.com/s/6kbcgdgq19npidp/PLM-profile-image-360-360.jpeg?dl=0",
-    "bio": "Pascal Le Merrer est développeur chez Orange Labs à Rennes, dans le domaine de la Cybersécurité.\nAdepte de l'eXtreme Programming depuis 2001, et pratiquant le Software Craftsmanship depuis longtemps, il contribue à diffuser de bonnes pratiques de développement logiciel au sein de l'entreprise."
-  },
-  {
-    "id": 821,
-    "lastname": "Le Gallo",
-    "firstname": "Cédric",
-    "imageProfilURL": "https://lh3.googleusercontent.com/-xO980jcE9nU/Viom1elM9lI/AAAAAAAAANU/srwerm__bhw/s530-p/63585-1600x900-%255BDesktopNexus.com%255D.jpg",
-    "bio": "formateur, consultant et leader technique sur les technologies du web."
-  },
-  {
-    "id": 2288,
-    "lastname": "Laborie",
-    "firstname": "Igor",
-    "imageProfilURL": "https://ilaborie.org/images/947f7969.me.jpg",
-    "bio": "Développeur passionné depuis + de 15 ans. Expert dans les technos Java et Web. Je participe souvent et anime aussi des rdv techniques au travers de ma société ou dans des meetings comme le Toulouse JUG, Software Craftsmanship Toulouse."
-  },
-  {
-    "id": 3014,
-    "lastname": "KOOLI",
-    "firstname": "Nihel",
-    "imageProfilURL": "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/14502766_10210673146174315_843879056553587172_n.jpg?oh=373407bdf9a16764ebf0c11f55a91dc4&oe=5AF2DAAE",
-    "bio": "Docteur en informatique, spécialisée en traitement automatique de langues et machine learning\nData scientist et chercheuse à Pages Jaunes - Solocal group"
-  },
-  {
-    "id": 688,
-    "lastname": "Knuchel",
-    "firstname": "Loïc",
-    "imageProfilURL": "http://1.gravatar.com/avatar/f755e6e8914df5cbaa74d30dd7de1ae2?size=400",
-    "bio": "Développeur Scala chez Criteo et aussi formateur Scala indépendant, je suis devenu fan de programmation fonctionnelle il y a 5 ans et depuis j’essaie chaque jour de m’améliorer et d’évangéliser autour de mes centres d'intérêts. Notamment sur la qualité du code, le DDD, l’event sourcing..."
-  },
-  {
-    "id": 780,
-    "lastname": "JUIF",
-    "firstname": "Fabien",
-    "imageProfilURL": "https://avatars0.githubusercontent.com/u/17828231?v=3&u=00cbd55c16ea7e7f6e7aedaa25e3045a9e601a30&s=400",
-    "bio": "Fabien JUIF a baigné dans l’informatique depuis son adolescence. Il installait sa première Gentoo stage 1 en 1ère pour migrer vers Archlinux quelques années après.\nPour lui pacman n’est pas un jeu, on ne rigole pas avec ça."
-  },
-  {
-    "id": 3237,
-    "lastname": "Hébert",
-    "firstname": "Aurélien",
-    "imageProfilURL": null,
-    "bio": null
-  },
-  {
-    "id": 68,
-    "lastname": "HUET",
-    "firstname": "Laurent",
-    "imageProfilURL": null,
-    "bio": "Après avoir fait du développement dans le bâtiment (gestion technique des bâtiments), j'ai passé un peu plus de 15 ans dans le monde des SSII pour faire du Java, du Web, ... puis utilisé cette expérience dans l'industrie de la robotique. Récemment, j'ai intégré Elastic dans l'équipe Consulting pour contribuer à la réussite des projets des clients d'Elastic.\n\nEn parallèle de ma vie professionnelle, je suis également impliqué depuis plusieurs années dans le BreizhJUG (dont je suis le leader depuis 2 ans) et le BreizhCamp."
-  },
-  {
-    "id": 667,
-    "lastname": "Huchet",
-    "firstname": "Jérémie",
-    "imageProfilURL": null,
-    "bio": "Développeur java passionné par l'automatisation, avec quelques cacractérisques d'ops"
-  },
-  {
-    "id": 3281,
-    "lastname": "Herbert",
-    "firstname": "Mathieu",
-    "imageProfilURL": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAg_AAAAJDdiMzI2MWNlLTU0YmMtNGU4Yi1hZDNmLTk3YmY5M2M4MmU0Nw.jpg",
-    "bio": "Mathieu est DevOps Engineer chez Talend et ex Consultant chez OCTO Technology. Il a développé des compétences autour de l’intégration des systèmes Cloud et de l’automatisation. Il intervient dans des équipes de développement pour assurer l’automatisation des infrastructures Cloud, l’architecture ainsi que sur l’intégration et le déploiement continue."
-  },
-  {
-    "id": 894,
-    "lastname": "HELIOU",
-    "firstname": "Clément",
-    "imageProfilURL": "https://avatars0.githubusercontent.com/u/10561933?v=3&s=460",
-    "bio": "Domain-Driven Developer passionate about xDD (TDD/BDD/DDD), clean architectures (Event Sourcing, CQRS and al.) and code quality. Enthusiastic defender of knowledge sharing and human skills."
-  },
-  {
-    "id": 442,
-    "lastname": "Hassler",
-    "firstname": "Alexis",
-    "imageProfilURL": "https://dl.dropboxusercontent.com/u/2133194/moi/alexis-hassler-nb2-500x500.png",
-    "bio": "Alexis Hassler est développeur Java depuis la fin du siècle dernier. Il exerce son métier comme indépendant, en codant, mais aussi en accompagnant ou formant les entreprises pour les aider à améliorer leur façon de développer et de déployer leurs applications Java."
-  },
-  {
-    "id": 439,
-    "lastname": "Grangeau",
-    "firstname": "Laurent",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/593533853383299072/172hHzea.jpg",
-    "bio": "Laurent Grangeau is a Cloud Solution Architect at Sogeti with more than 10+ years of experience. Former Java developer, he has since developed in .NET, with Agile and DevOps mindsets. He has been experimenting with cloud providers for more than 5+ years. Docker enthusiast from the beginning, he has experienced with building microservices and distributed systems. He loves to automate things and run distributed applications at scale."
-  },
-  {
-    "id": 3673,
-    "lastname": "Gouigoux",
-    "firstname": "Jean-Philippe",
-    "imageProfilURL": "http://gouigoux.com/download/Bouba.png",
-    "bio": "JP est directeur technique de MGDIS, un éditeur de logiciels pour les collectivités publics, pour lequel il a mené 50 personnes entre 2013 et 2016 sur une opération de transformation agile d'une architecture monolithique en services. Blogueur, auteur de plusieurs livres et articles scientifiques, intervenant dans de nombreuses écoles et conférences, Microsoft MVP, il est aussi Lego VIP :-)"
-  },
-  {
-    "id": 120,
-    "lastname": "Gonzalez",
-    "firstname": "Horacio",
-    "imageProfilURL": null,
-    "bio": null
-  },
-  {
-    "id": 3726,
-    "lastname": "Gillon",
-    "firstname": "Guillaume",
-    "imageProfilURL": "https://lh3.googleusercontent.com/-3BnTobE2qk4/AAAAAAAAAAI/AAAAAAAAAAA/AA6ZPT7FgEEl_3wNGn90YygdPlXrNJhacw/s64-c-mo/photo.jpg",
-    "bio": "Responsable produit API Management chez Decathlon et contributeur au produit Gravitee.io. J’accompagne les équipes business dans l’APIsasion de leurs applications, le design de leurs APIs et leur architecture. Passionné par l'écosystème Front et l’architecture logiciel en général. Je travaille sur des environnements cloud, mes langages de prédilection sont java, javascript, typescript"
-  },
-  {
-    "id": 2270,
-    "lastname": "GATAY",
-    "firstname": "Cedric",
-    "imageProfilURL": "https://fr.gravatar.com/userimage/11929533/1f05ca723f3d5dc87b74de87d00354af.jpg?size=360",
-    "bio": "Après un passage par une start-up qui n'a malheureusement pas su déployer ses ailes, Cedric a co-fondé Code-Troopers : un studio de développement agile basé à Tours. \n\nÀ côté de cette activité principale, il a aussi participé à plusieurs ouvrages chez Packt Publishing et a co-fondé le Google Developer Group de Tours. Il a aussi lancé l'OpenDeviceLab de Tours. Il fait également partie de l'équipe derrière la conférence Touraine.Tech (qui déploie ses ailes pour sa première session en février 2018)"
-  },
-  {
-    "id": 2625,
-    "lastname": "Garreau",
-    "firstname": "Audrey",
-    "imageProfilURL": "https://plus.google.com/u/0/photos/108363658071391570134/albums/profile/6061861956208174258",
-    "bio": "Audrey est Intégratrice Web senior. Elle a co-fondé l'agence Yumigo en 2015.\nMue par une insatiable soif d'apprendre et consciente que le diable est dans les détails, elle perfectionne sans cesse sa technique à 360°.\nSes chantiers de prédilection : responsive, accessibilité, performance.\nElle s'engage pour améliorer la place de la femme dans le numérique.\nSigne particulier : enchaine les escape rooms nantaises comme des M&Ms (aucune défaite à ce jour ^^)."
-  },
-  {
-    "id": 3512,
-    "lastname": "Gageot",
-    "firstname": "David",
-    "imageProfilURL": "http://gravatar.com/avatar/f0887bf6175ba40dca795eb37883a8cf?s=800",
-    "bio": "I used to be Java Champion, then GoNoob @Docker. Now I'm a Cloud Platform Developer Advocate at Google. I run Docker in Docker in Docker... recursively"
-  },
-  {
-    "id": 1541,
-    "lastname": "Fournaise",
-    "firstname": "Thomas",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/537329173891522560/Zx9F5Lyu_400x400.jpeg",
-    "bio": "Après avoir commencé à développer sur CPC 6128. J'ai choisi de bosser dans l'informatique.\n\nJ'ai fait 10 ans d'architecture technique SAP avant de devenir chef de projet innovation au sein du groupe La Poste. Je m'occupe entre autre de l'opendata et de certaines applis bigdata. J'ai également réalisé des dataviz utilisées en interne du groupe : https://datanova.laposte.io/DatavizRSE/index.html\n\nA mes heures \"perdues\" je fais un peu de développement sur différentes technos.\nwww.evhunt.com\nmacarto.evhunt.com"
-  },
-  {
-    "id": 721,
-    "lastname": "Feller",
-    "firstname": "Emmanuel",
-    "imageProfilURL": null,
-    "bio": null
-  },
-  {
-    "id": 1583,
-    "lastname": "FAUCOGNEY",
-    "firstname": "Anthony",
-    "imageProfilURL": "https://secure.gravatar.com/avatar/d7835902097e3e7788662a70ca383f5e",
-    "bio": "Du commerce à la technique, de l'automobile au mobile ou encore du test au développement, sont les différents sauts non usuels mais plutôt enrichissants que j'ai effectué dans ma carrière d'ingénieur. Aujourd'hui lead dév Android chez Niji, je développe aussi en parallèle une application d'initiation à la dégustation du vin : MilleZimU - A votre santé !"
-  },
-  {
-    "id": 3728,
-    "lastname": "Durillon",
-    "firstname": "Julien",
-    "imageProfilURL": "https://lh3.googleusercontent.com/umHVAEKmovnhQwjVEPt2NTXJCme6uUggzF7wgJqiVuC00Zj2w6i5-iAdTIi7nXPDWGQaJDike7n77Q=x0-y0-z0",
-    "bio": "Développeur, ops et cofondateur de Clever Cloud. Je travaille dans l'ombre, autant sur l'API publique que sur la maintenance de divers clusters et des hyperviseurs."
-  },
-  {
-    "id": 577,
-    "lastname": "DUQUE",
-    "firstname": "Alexis",
-    "imageProfilURL": "http://www.gravatar.com/avatar/83124b745752d1a1b0ca2eee1af0bd48?s=240",
-    "bio": "Je suis ingénieur software, du micro-contrôleur aux applications web Java, en passant par le dev mobile, dans le domaine des objets connectés .\nJe partage mon temps entre les projets d'Rtone, un bureau d'étude spécialisé dans l'IoT en région lyonnaise, et mes travaux de recherche au laboratoire CITI de l'INSA de Lyon où je poursuis une thèse sur le Visible Light Communication, dans le cadre d'un contrat CIFRE."
-  },
-  {
-    "id": 437,
-    "lastname": "Duportal",
-    "firstname": "Damien",
-    "imageProfilURL": "http://dduportal.github.io/public/dduportal.jpg",
-    "bio": "Training Engineer chez Cloudbees, je suis un touche à tout technique, qui adore faire progresser mes interlocuteurs sur des sujets complexes. Fan de Docker de la première heure, j'adore jouer avec les techniques des devs, des ops et de tout ce qui va au milieu !"
-  },
-  {
-    "id": 3899,
-    "lastname": "Dugué",
-    "firstname": "Matthias",
-    "imageProfilURL": "https://m4dz.cozycloud.cc/public/files/files/3248bd8fbd44141cec6da9daea3450bf/attach/m4dz-2016-L.jpg",
-    "bio": "Le _m4dz_ est un animal curieux. Au travers de plusieurs vies, il a toujours cherché à transmettre aux autres ce qu'il avait pu comprendre et connaître. Au départ developpeur web (personne n'est parfait), soucieux de vie privée, de l'usage respecteux des données de chacun, et de sécurité, Il est maintenant _Tech Evangelist_ chez _alwaysdata_. Il essaie de sensibiliser les autres aux enjeux d'aujourd'hui et de demain sur les réalités du numérique. Son livre préféré restera toujours « Alice au Pays des Merveilles »."
-  },
-  {
-    "id": 3845,
-    "lastname": "Doudoux",
-    "firstname": "Jean-Michel",
-    "imageProfilURL": "https://lh3.googleusercontent.com/-fwhr1-qwoiI/AAAAAAAAAAI/AAAAAAAAAH0/PkWDrF9RfiU/photo.jpg",
-    "bio": "Passionné par le développement de logiciels et par la veille technologique, je possède une longue expérience, en SSII/ESN et personnelle, dans l'écriture d'applications avec différents langages. Je suis actuellement le CTO d’Oxiane Luxembourg et du groupe Oxiane. Utilisant Java depuis sa version 1.0, j'aime partager ma passion pour cette plateforme et son écosystème notamment en me consacrant, depuis presque vingt années, à la rédaction de deux tutoriels, intitulés \"Développons en Java\", diffusés sous licence GNU FDL. Ce travail m'a permis d'être nommé Java Champion. Je suis également un des cofondateurs du Lorraine JUG."
-  },
-  {
-    "id": 3754,
-    "lastname": "Depaulis",
-    "firstname": "Fabrice",
-    "imageProfilURL": null,
-    "bio": "De formation très générale en informatique, j'ai obtenu mon doctorat en 2002 sur un sujet traitant d'interaction utilisateur et de programmation sur exemple. Lors de ma formation de chercheur, j'ai été amené à donner des cours dans différentes filières et à présenter des travaux en français et en anglais dans plusieurs conférences.\nDepuis presque 10 ans, je suis travaille aux PagesJaunes en tant que Technical Leader. J'anime une session bi mensuelle de partage de connaissance pour technophiles et je suis régulièrement amené à présenter des BBL dans des entreprises locales (ElasticSearch et Machine Learning)."
-  },
-  {
-    "id": 3782,
-    "lastname": "Delègue",
-    "firstname": "Alexandre",
-    "imageProfilURL": "http://gravatar.com/avatar/1934ffa11308e60bff5ee35a54adc74b?size=200",
-    "bio": "Alexandre Delègue est ingénieur d'études chez SERLI. Développeur touche à tout il apprécie tout particulièrement la programmation fonctionnelle et les framework réactifs."
-  },
-  {
-    "id": 776,
-    "lastname": "de Saint Martin Lacaze",
-    "firstname": "Gautier",
-    "imageProfilURL": "http://jabby-techs.fr/images/avatar.png",
-    "bio": "Développeur freelance passionné, Gautier travaille principalement sur les technologies Java et JavaScript. Afin de rester au fait des nouveautés, il participe régulièrement à des conférences nantaises ou nationales. Il coorganise également le Nantes JUG depuis juin 2014.\n\nAyant appris à dompter l'IDE Eclipse lors de ses premières années de travail, il contribue aujourd'hui à l'amélioration de son outil de travail via des patchs et la formation de ses clients."
-  },
-  {
-    "id": 3563,
-    "lastname": "De Loof",
-    "firstname": "Thomas",
-    "imageProfilURL": null,
-    "bio": null
-  },
-  {
-    "id": 2,
-    "lastname": "De Loof",
-    "firstname": "Nicolas",
-    "imageProfilURL": "https://lh5.googleusercontent.com/-Z9ZMAVrEX2U/AAAAAAAAAAI/AAAAAAAAIyI/4cOiiXrmDzQ/photo.jpg?sz=360",
-    "bio": "Hacker & DockerCaptain"
-  },
-  {
-    "id": 2029,
-    "lastname": "CRESPEL",
-    "firstname": "Guillaume",
-    "imageProfilURL": null,
-    "bio": null
-  },
-  {
-    "id": 1149,
-    "lastname": "Chollet",
-    "firstname": "Stanislas",
-    "imageProfilURL": "http://stan.life/stan-chollet-social.jpg",
-    "bio": "Au delà d'un métier, le développement et l'IT de manière générale sont avant tout une passion.\n\nJe passe la majorité de mon temps chez Dailymotion en tant que software engineer. J'utilise mon \ntemps libre pour organiser des évènements tech, notamment pour l'association \"Orléans Tech\" que je préside.\nJe donne également des formations autour de GraphQL et je participe, dès que possible, à l'évangélisation du développement _(dans les écoles, les startups week-end, meetups ...)_."
-  },
-  {
-    "id": 1772,
-    "lastname": "Charrière",
-    "firstname": "Philippe",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/780741273942626306/T5ky8w3k.jpg",
-    "bio": "- CSO @Clever_Cloud \n- TAM France @GitLab\n- Eleveur de bots @BotsGarden\n- Eclipse Golo core committer @TypeUnsafe\n- @ScalaIO_FR member"
-  },
-  {
-    "id": 1651,
-    "lastname": "Chantrel",
-    "firstname": "Frederic",
-    "imageProfilURL": null,
-    "bio": null
-  },
-  {
-    "id": 2633,
-    "lastname": "champenois",
-    "firstname": "ludovic",
-    "imageProfilURL": "",
-    "bio": "Google App Engine Java TL."
-  },
-  {
-    "id": 615,
-    "lastname": "Champeau",
-    "firstname": "Cédric",
-    "imageProfilURL": "https://lh3.googleusercontent.com/-G_v8HTWswjo/V6g0d2DAjKI/AAAAAAAAAIg/Bk4Al3torrEC1laV5BJgO82uHgdQ-AkPgCEw/w280-h278-p/IMG_4341.JPG",
-    "bio": "Cédric Champeau travaille depuis 2 ans chez Gradle Inc. où il développe l'outil de build open-source du même nom. Il a notamment contribué à l'amélioration des performances, le support de Java 9 et travaille désormais sur la problématique de gestion de dépendances. Cédric est aussi committer sur Apache Groovy: il a implémenté le compilateur statique de ce langage et contribué sur le sujet des DSLs et transformations à compile time."
-  },
-  {
-    "id": 3862,
-    "lastname": "Carton",
-    "firstname": "Cérès",
-    "imageProfilURL": null,
-    "bio": "Data scientist chez Energiency"
-  },
-  {
-    "id": 2374,
-    "lastname": "Bévan",
-    "firstname": "Grégory",
-    "imageProfilURL": null,
-    "bio": null
-  },
-  {
-    "id": 571,
-    "lastname": "Briand",
-    "firstname": "Eric",
-    "imageProfilURL": null,
-    "bio": null
-  },
-  {
-    "id": 1503,
-    "lastname": "Brassely",
-    "firstname": "David",
-    "imageProfilURL": null,
-    "bio": null
-  },
-  {
-    "id": 124,
-    "lastname": "Bossard",
-    "firstname": "Cécilia",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/2212897799/cecilia_400x400.png",
-    "bio": "Développeuse, agiliste, boîte à outils, ... Je fais partie de l'équipe du laboratoire hôpital numérique du CHU Nantes. Notre but : améliorer la prise en charge des patients pour le futur hôpital."
-  },
-  {
-    "id": 1820,
-    "lastname": "BOCHET",
-    "firstname": "Charles",
-    "imageProfilURL": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAeMAAAAJGI0NTE2Y2NiLTk2ZTAtNDBlMS1iNDljLWVlMjgxMDg0OWU4MA.jpg",
-    "bio": "- 25 ans, de Lyon, diplômé des Ponts & Chaussées\n- Développeur web agile chez [Sicara](https://www.sicara.com/) / [Theodo](http://www.theodo.fr/fr/)]\n- co-créateur du MeetUp Progressive Web App Paris\n- Apprenti hacker à mes heures perdues"
-  },
-  {
-    "id": 3778,
-    "lastname": "BLOQUEL",
-    "firstname": "Grégory",
+    "id": 3760,
+    "lastname": "Bernard",
+    "firstname": "Tanguy",
     "imageProfilURL": null,
     "bio": null
   },
@@ -546,59 +63,542 @@
     "bio": null
   },
   {
-    "id": 3760,
-    "lastname": "Bernard",
-    "firstname": "Tanguy",
+    "id": 3778,
+    "lastname": "BLOQUEL",
+    "firstname": "Grégory",
     "imageProfilURL": null,
     "bio": null
   },
   {
-    "id": 3710,
-    "lastname": "Bentz",
-    "firstname": "Romain",
-    "imageProfilURL": "http://beta.hackndo.com/assets/icones/logo.png",
-    "bio": "Autodidacte et passionné, j'aime monter des projets, écrire des articles, partager mes connaissances notamment via mon blog [hackndo](http://beta.hackndo.com).\n\nToujours à l'affût des nouveautés, en veille permanente sur les réseaux sociaux ou sur IRC, je suis actif sur la scène de la sécurité informatique via mon blog, mon équipe de CTF (0x90r00t) ainsi que via mon rôle d'administrateur du site de challenges de sécurité informatique [Newbiecontest](https://newbiecontest.org)."
+    "id": 1820,
+    "lastname": "BOCHET",
+    "firstname": "Charles",
+    "imageProfilURL": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAeMAAAAJGI0NTE2Y2NiLTk2ZTAtNDBlMS1iNDljLWVlMjgxMDg0OWU4MA.jpg",
+    "bio": "- 25 ans, de Lyon, diplômé des Ponts & Chaussées\n- Développeur web agile chez [Sicara](https://www.sicara.com/) / [Theodo](http://www.theodo.fr/fr/)]\n- co-créateur du MeetUp Progressive Web App Paris\n- Apprenti hacker à mes heures perdues"
   },
   {
-    "id": 1645,
-    "lastname": "Antoine",
-    "firstname": "Cailly",
-    "imageProfilURL": "https://gist.github.com/acailly/365616a4b59c6c8c71772c0ce7dac7f7/raw/1e4e69401f1eac7713a6672dfdce78aa5136fbe9/profil2.jpg",
-    "bio": "Développeur et formateur au sein de l'agence Rennaise de Zenika.\nJe suis le fil de ma curiosité pour approfondir des sujets divers."
+    "id": 124,
+    "lastname": "Bossard",
+    "firstname": "Cécilia",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/2212897799/cecilia_400x400.png",
+    "bio": "Développeuse, agiliste, boîte à outils, ... Je fais partie de l'équipe du laboratoire hôpital numérique du CHU Nantes. Notre but : améliorer la prise en charge des patients pour le futur hôpital."
   },
   {
-    "id": 1033,
-    "lastname": "ANCELIN",
+    "id": 1503,
+    "lastname": "Brassely",
+    "firstname": "David",
+    "imageProfilURL": null,
+    "bio": null
+  },
+  {
+    "id": 571,
+    "lastname": "Briand",
+    "firstname": "Eric",
+    "imageProfilURL": null,
+    "bio": null
+  },
+  {
+    "id": 2374,
+    "lastname": "Bévan",
+    "firstname": "Grégory",
+    "imageProfilURL": null,
+    "bio": null
+  },
+  {
+    "id": 3862,
+    "lastname": "Carton",
+    "firstname": "Cérès",
+    "imageProfilURL": null,
+    "bio": "Data scientist chez Energiency"
+  },
+  {
+    "id": 615,
+    "lastname": "Champeau",
+    "firstname": "Cédric",
+    "imageProfilURL": "https://lh3.googleusercontent.com/-G_v8HTWswjo/V6g0d2DAjKI/AAAAAAAAAIg/Bk4Al3torrEC1laV5BJgO82uHgdQ-AkPgCEw/w280-h278-p/IMG_4341.JPG",
+    "bio": "Cédric Champeau travaille depuis 2 ans chez Gradle Inc. où il développe l'outil de build open-source du même nom. Il a notamment contribué à l'amélioration des performances, le support de Java 9 et travaille désormais sur la problématique de gestion de dépendances. Cédric est aussi committer sur Apache Groovy: il a implémenté le compilateur statique de ce langage et contribué sur le sujet des DSLs et transformations à compile time."
+  },
+  {
+    "id": 2633,
+    "lastname": "champenois",
+    "firstname": "ludovic",
+    "imageProfilURL": "",
+    "bio": "Google App Engine Java TL."
+  },
+  {
+    "id": 1651,
+    "lastname": "Chantrel",
+    "firstname": "Frederic",
+    "imageProfilURL": null,
+    "bio": null
+  },
+  {
+    "id": 1772,
+    "lastname": "Charrière",
+    "firstname": "Philippe",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/780741273942626306/T5ky8w3k.jpg",
+    "bio": "- CSO @Clever_Cloud \n- TAM France @GitLab\n- Eleveur de bots @BotsGarden\n- Eclipse Golo core committer @TypeUnsafe\n- @ScalaIO_FR member"
+  },
+  {
+    "id": 1149,
+    "lastname": "Chollet",
+    "firstname": "Stanislas",
+    "imageProfilURL": "http://stan.life/stan-chollet-social.jpg",
+    "bio": "Au delà d'un métier, le développement et l'IT de manière générale sont avant tout une passion.\n\nJe passe la majorité de mon temps chez Dailymotion en tant que software engineer. J'utilise mon \ntemps libre pour organiser des évènements tech, notamment pour l'association \"Orléans Tech\" que je préside.\nJe donne également des formations autour de GraphQL et je participe, dès que possible, à l'évangélisation du développement _(dans les écoles, les startups week-end, meetups ...)_."
+  },
+  {
+    "id": 2029,
+    "lastname": "CRESPEL",
+    "firstname": "Guillaume",
+    "imageProfilURL": null,
+    "bio": null
+  },
+  {
+    "id": 2,
+    "lastname": "De Loof",
+    "firstname": "Nicolas",
+    "imageProfilURL": "https://lh5.googleusercontent.com/-Z9ZMAVrEX2U/AAAAAAAAAAI/AAAAAAAAIyI/4cOiiXrmDzQ/photo.jpg?sz=360",
+    "bio": "Hacker & DockerCaptain"
+  },
+  {
+    "id": 3563,
+    "lastname": "De Loof",
+    "firstname": "Thomas",
+    "imageProfilURL": null,
+    "bio": null
+  },
+  {
+    "id": 776,
+    "lastname": "de Saint Martin Lacaze",
+    "firstname": "Gautier",
+    "imageProfilURL": "http://jabby-techs.fr/images/avatar.png",
+    "bio": "Développeur freelance passionné, Gautier travaille principalement sur les technologies Java et JavaScript. Afin de rester au fait des nouveautés, il participe régulièrement à des conférences nantaises ou nationales. Il coorganise également le Nantes JUG depuis juin 2014.\n\nAyant appris à dompter l'IDE Eclipse lors de ses premières années de travail, il contribue aujourd'hui à l'amélioration de son outil de travail via des patchs et la formation de ses clients."
+  },
+  {
+    "id": 3782,
+    "lastname": "Delègue",
+    "firstname": "Alexandre",
+    "imageProfilURL": "http://gravatar.com/avatar/1934ffa11308e60bff5ee35a54adc74b?size=200",
+    "bio": "Alexandre Delègue est ingénieur d'études chez SERLI. Développeur touche à tout il apprécie tout particulièrement la programmation fonctionnelle et les framework réactifs."
+  },
+  {
+    "id": 3754,
+    "lastname": "Depaulis",
+    "firstname": "Fabrice",
+    "imageProfilURL": null,
+    "bio": "De formation très générale en informatique, j'ai obtenu mon doctorat en 2002 sur un sujet traitant d'interaction utilisateur et de programmation sur exemple. Lors de ma formation de chercheur, j'ai été amené à donner des cours dans différentes filières et à présenter des travaux en français et en anglais dans plusieurs conférences.\nDepuis presque 10 ans, je suis travaille aux PagesJaunes en tant que Technical Leader. J'anime une session bi mensuelle de partage de connaissance pour technophiles et je suis régulièrement amené à présenter des BBL dans des entreprises locales (ElasticSearch et Machine Learning)."
+  },
+  {
+    "id": 3845,
+    "lastname": "Doudoux",
+    "firstname": "Jean-Michel",
+    "imageProfilURL": "https://lh3.googleusercontent.com/-fwhr1-qwoiI/AAAAAAAAAAI/AAAAAAAAAH0/PkWDrF9RfiU/photo.jpg",
+    "bio": "Passionné par le développement de logiciels et par la veille technologique, je possède une longue expérience, en SSII/ESN et personnelle, dans l'écriture d'applications avec différents langages. Je suis actuellement le CTO d’Oxiane Luxembourg et du groupe Oxiane. Utilisant Java depuis sa version 1.0, j'aime partager ma passion pour cette plateforme et son écosystème notamment en me consacrant, depuis presque vingt années, à la rédaction de deux tutoriels, intitulés \"Développons en Java\", diffusés sous licence GNU FDL. Ce travail m'a permis d'être nommé Java Champion. Je suis également un des cofondateurs du Lorraine JUG."
+  },
+  {
+    "id": 3899,
+    "lastname": "Dugué",
+    "firstname": "Matthias",
+    "imageProfilURL": "https://m4dz.cozycloud.cc/public/files/files/3248bd8fbd44141cec6da9daea3450bf/attach/m4dz-2016-L.jpg",
+    "bio": "Le _m4dz_ est un animal curieux. Au travers de plusieurs vies, il a toujours cherché à transmettre aux autres ce qu'il avait pu comprendre et connaître. Au départ developpeur web (personne n'est parfait), soucieux de vie privée, de l'usage respecteux des données de chacun, et de sécurité, Il est maintenant _Tech Evangelist_ chez _alwaysdata_. Il essaie de sensibiliser les autres aux enjeux d'aujourd'hui et de demain sur les réalités du numérique. Son livre préféré restera toujours « Alice au Pays des Merveilles »."
+  },
+  {
+    "id": 437,
+    "lastname": "Duportal",
+    "firstname": "Damien",
+    "imageProfilURL": "http://dduportal.github.io/public/dduportal.jpg",
+    "bio": "Training Engineer chez Cloudbees, je suis un touche à tout technique, qui adore faire progresser mes interlocuteurs sur des sujets complexes. Fan de Docker de la première heure, j'adore jouer avec les techniques des devs, des ops et de tout ce qui va au milieu !"
+  },
+  {
+    "id": 577,
+    "lastname": "DUQUE",
+    "firstname": "Alexis",
+    "imageProfilURL": "http://www.gravatar.com/avatar/83124b745752d1a1b0ca2eee1af0bd48?s=240",
+    "bio": "Je suis ingénieur software, du micro-contrôleur aux applications web Java, en passant par le dev mobile, dans le domaine des objets connectés .\nJe partage mon temps entre les projets d'Rtone, un bureau d'étude spécialisé dans l'IoT en région lyonnaise, et mes travaux de recherche au laboratoire CITI de l'INSA de Lyon où je poursuis une thèse sur le Visible Light Communication, dans le cadre d'un contrat CIFRE."
+  },
+  {
+    "id": 3728,
+    "lastname": "Durillon",
+    "firstname": "Julien",
+    "imageProfilURL": "https://lh3.googleusercontent.com/umHVAEKmovnhQwjVEPt2NTXJCme6uUggzF7wgJqiVuC00Zj2w6i5-iAdTIi7nXPDWGQaJDike7n77Q=x0-y0-z0",
+    "bio": "Développeur, ops et cofondateur de Clever Cloud. Je travaille dans l'ombre, autant sur l'API publique que sur la maintenance de divers clusters et des hyperviseurs."
+  },
+  {
+    "id": 1583,
+    "lastname": "FAUCOGNEY",
+    "firstname": "Anthony",
+    "imageProfilURL": "https://secure.gravatar.com/avatar/d7835902097e3e7788662a70ca383f5e",
+    "bio": "Du commerce à la technique, de l'automobile au mobile ou encore du test au développement, sont les différents sauts non usuels mais plutôt enrichissants que j'ai effectué dans ma carrière d'ingénieur. Aujourd'hui lead dév Android chez Niji, je développe aussi en parallèle une application d'initiation à la dégustation du vin : MilleZimU - A votre santé !"
+  },
+  {
+    "id": 721,
+    "lastname": "Feller",
+    "firstname": "Emmanuel",
+    "imageProfilURL": null,
+    "bio": null
+  },
+  {
+    "id": 1541,
+    "lastname": "Fournaise",
+    "firstname": "Thomas",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/537329173891522560/Zx9F5Lyu_400x400.jpeg",
+    "bio": "Après avoir commencé à développer sur CPC 6128. J'ai choisi de bosser dans l'informatique.\n\nJ'ai fait 10 ans d'architecture technique SAP avant de devenir chef de projet innovation au sein du groupe La Poste. Je m'occupe entre autre de l'opendata et de certaines applis bigdata. J'ai également réalisé des dataviz utilisées en interne du groupe : https://datanova.laposte.io/DatavizRSE/index.html\n\nA mes heures \"perdues\" je fais un peu de développement sur différentes technos.\nwww.evhunt.com\nmacarto.evhunt.com"
+  },
+  {
+    "id": 3512,
+    "lastname": "Gageot",
+    "firstname": "David",
+    "imageProfilURL": "http://gravatar.com/avatar/f0887bf6175ba40dca795eb37883a8cf?s=800",
+    "bio": "I used to be Java Champion, then GoNoob @Docker. Now I'm a Cloud Platform Developer Advocate at Google. I run Docker in Docker in Docker... recursively"
+  },
+  {
+    "id": 2625,
+    "lastname": "Garreau",
+    "firstname": "Audrey",
+    "imageProfilURL": "https://plus.google.com/u/0/photos/108363658071391570134/albums/profile/6061861956208174258",
+    "bio": "Audrey est Intégratrice Web senior. Elle a co-fondé l'agence Yumigo en 2015.\nMue par une insatiable soif d'apprendre et consciente que le diable est dans les détails, elle perfectionne sans cesse sa technique à 360°.\nSes chantiers de prédilection : responsive, accessibilité, performance.\nElle s'engage pour améliorer la place de la femme dans le numérique.\nSigne particulier : enchaine les escape rooms nantaises comme des M&Ms (aucune défaite à ce jour ^^)."
+  },
+  {
+    "id": 2270,
+    "lastname": "GATAY",
+    "firstname": "Cedric",
+    "imageProfilURL": "https://fr.gravatar.com/userimage/11929533/1f05ca723f3d5dc87b74de87d00354af.jpg?size=360",
+    "bio": "Après un passage par une start-up qui n'a malheureusement pas su déployer ses ailes, Cedric a co-fondé Code-Troopers : un studio de développement agile basé à Tours. \n\nÀ côté de cette activité principale, il a aussi participé à plusieurs ouvrages chez Packt Publishing et a co-fondé le Google Developer Group de Tours. Il a aussi lancé l'OpenDeviceLab de Tours. Il fait également partie de l'équipe derrière la conférence Touraine.Tech (qui déploie ses ailes pour sa première session en février 2018)"
+  },
+  {
+    "id": 3726,
+    "lastname": "Gillon",
+    "firstname": "Guillaume",
+    "imageProfilURL": "https://lh3.googleusercontent.com/-3BnTobE2qk4/AAAAAAAAAAI/AAAAAAAAAAA/AA6ZPT7FgEEl_3wNGn90YygdPlXrNJhacw/s64-c-mo/photo.jpg",
+    "bio": "Responsable produit API Management chez Decathlon et contributeur au produit Gravitee.io. J’accompagne les équipes business dans l’APIsasion de leurs applications, le design de leurs APIs et leur architecture. Passionné par l'écosystème Front et l’architecture logiciel en général. Je travaille sur des environnements cloud, mes langages de prédilection sont java, javascript, typescript"
+  },
+  {
+    "id": 120,
+    "lastname": "Gonzalez",
+    "firstname": "Horacio",
+    "imageProfilURL": null,
+    "bio": null
+  },
+  {
+    "id": 3673,
+    "lastname": "Gouigoux",
+    "firstname": "Jean-Philippe",
+    "imageProfilURL": "http://gouigoux.com/download/Bouba.png",
+    "bio": "JP est directeur technique de MGDIS, un éditeur de logiciels pour les collectivités publics, pour lequel il a mené 50 personnes entre 2013 et 2016 sur une opération de transformation agile d'une architecture monolithique en services. Blogueur, auteur de plusieurs livres et articles scientifiques, intervenant dans de nombreuses écoles et conférences, Microsoft MVP, il est aussi Lego VIP :-)"
+  },
+  {
+    "id": 439,
+    "lastname": "Grangeau",
+    "firstname": "Laurent",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/593533853383299072/172hHzea.jpg",
+    "bio": "Laurent Grangeau is a Cloud Solution Architect at Sogeti with more than 10+ years of experience. Former Java developer, he has since developed in .NET, with Agile and DevOps mindsets. He has been experimenting with cloud providers for more than 5+ years. Docker enthusiast from the beginning, he has experienced with building microservices and distributed systems. He loves to automate things and run distributed applications at scale."
+  },
+  {
+    "id": 442,
+    "lastname": "Hassler",
+    "firstname": "Alexis",
+    "imageProfilURL": "https://dl.dropboxusercontent.com/u/2133194/moi/alexis-hassler-nb2-500x500.png",
+    "bio": "Alexis Hassler est développeur Java depuis la fin du siècle dernier. Il exerce son métier comme indépendant, en codant, mais aussi en accompagnant ou formant les entreprises pour les aider à améliorer leur façon de développer et de déployer leurs applications Java."
+  },
+  {
+    "id": 894,
+    "lastname": "HELIOU",
+    "firstname": "Clément",
+    "imageProfilURL": "https://avatars0.githubusercontent.com/u/10561933?v=3&s=460",
+    "bio": "Domain-Driven Developer passionate about xDD (TDD/BDD/DDD), clean architectures (Event Sourcing, CQRS and al.) and code quality. Enthusiastic defender of knowledge sharing and human skills."
+  },
+  {
+    "id": 3281,
+    "lastname": "Herbert",
     "firstname": "Mathieu",
+    "imageProfilURL": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAg_AAAAJDdiMzI2MWNlLTU0YmMtNGU4Yi1hZDNmLTk3YmY5M2M4MmU0Nw.jpg",
+    "bio": "Mathieu est DevOps Engineer chez Talend et ex Consultant chez OCTO Technology. Il a développé des compétences autour de l’intégration des systèmes Cloud et de l’automatisation. Il intervient dans des équipes de développement pour assurer l’automatisation des infrastructures Cloud, l’architecture ainsi que sur l’intégration et le déploiement continue."
+  },
+  {
+    "id": 667,
+    "lastname": "Huchet",
+    "firstname": "Jérémie",
+    "imageProfilURL": null,
+    "bio": "Développeur java passionné par l'automatisation, avec quelques cacractérisques d'ops"
+  },
+  {
+    "id": 68,
+    "lastname": "HUET",
+    "firstname": "Laurent",
+    "imageProfilURL": null,
+    "bio": "Après avoir fait du développement dans le bâtiment (gestion technique des bâtiments), j'ai passé un peu plus de 15 ans dans le monde des SSII pour faire du Java, du Web, ... puis utilisé cette expérience dans l'industrie de la robotique. Récemment, j'ai intégré Elastic dans l'équipe Consulting pour contribuer à la réussite des projets des clients d'Elastic.\n\nEn parallèle de ma vie professionnelle, je suis également impliqué depuis plusieurs années dans le BreizhJUG (dont je suis le leader depuis 2 ans) et le BreizhCamp."
+  },
+  {
+    "id": 3237,
+    "lastname": "Hébert",
+    "firstname": "Aurélien",
     "imageProfilURL": null,
     "bio": null
   },
   {
-    "id": 3863,
-    "lastname": "Allain",
-    "firstname": "Patrick",
-    "imageProfilURL": "53 rue Jenner",
-    "bio": "Open Source addict, Patrick est linuxien, avant tout javaiste mais également pythoniste avec un léger penchant DevOps. De Docker à Spring-Boot en passant par Terraform, il apprécie découvrir de nouveaux challenges chez ses clients afin de leur apporter la meilleur des solutions."
+    "id": 780,
+    "lastname": "JUIF",
+    "firstname": "Fabien",
+    "imageProfilURL": "https://avatars0.githubusercontent.com/u/17828231?v=3&u=00cbd55c16ea7e7f6e7aedaa25e3045a9e601a30&s=400",
+    "bio": "Fabien JUIF a baigné dans l’informatique depuis son adolescence. Il installait sa première Gentoo stage 1 en 1ère pour migrer vers Archlinux quelques années après.\nPour lui pacman n’est pas un jeu, on ne rigole pas avec ça."
   },
   {
-    "id": 2631,
-    "lastname": "Aillet",
-    "firstname": "Pierre-Yves",
-    "imageProfilURL": "https://pyaillet.github.io/me/images/photo.jpg",
-    "bio": "Je travaille dans l’informatique depuis 15 ans sur des technologies variées allant de PHP à Java en passant par Javascript. Mon IHM de prédilection est la ligne de commande, et côté perso je reste fan du langage C et de tout ce qui est bas niveau. Je suis consultant chez Zenika Nantes et j’interviens sur des missions d’audit, d’expertise technique ou d’appui pour la mise en place d’outillages de développement."
+    "id": 688,
+    "lastname": "Knuchel",
+    "firstname": "Loïc",
+    "imageProfilURL": "http://1.gravatar.com/avatar/f755e6e8914df5cbaa74d30dd7de1ae2?size=400",
+    "bio": "Développeur Scala chez Criteo et aussi formateur Scala indépendant, je suis devenu fan de programmation fonctionnelle il y a 5 ans et depuis j’essaie chaque jour de m’améliorer et d’évangéliser autour de mes centres d'intérêts. Notamment sur la qualité du code, le DDD, l’event sourcing..."
   },
   {
-    "id": 3001,
-    "lastname": "AICI",
-    "firstname": "Mahdi",
+    "id": 3014,
+    "lastname": "KOOLI",
+    "firstname": "Nihel",
+    "imageProfilURL": "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/14502766_10210673146174315_843879056553587172_n.jpg?oh=373407bdf9a16764ebf0c11f55a91dc4&oe=5AF2DAAE",
+    "bio": "Docteur en informatique, spécialisée en traitement automatique de langues et machine learning\nData scientist et chercheuse à Pages Jaunes - Solocal group"
+  },
+  {
+    "id": 2288,
+    "lastname": "Laborie",
+    "firstname": "Igor",
+    "imageProfilURL": "https://ilaborie.org/images/947f7969.me.jpg",
+    "bio": "Développeur passionné depuis + de 15 ans. Expert dans les technos Java et Web. Je participe souvent et anime aussi des rdv techniques au travers de ma société ou dans des meetings comme le Toulouse JUG, Software Craftsmanship Toulouse."
+  },
+  {
+    "id": 821,
+    "lastname": "Le Gallo",
+    "firstname": "Cédric",
+    "imageProfilURL": "https://lh3.googleusercontent.com/-xO980jcE9nU/Viom1elM9lI/AAAAAAAAANU/srwerm__bhw/s530-p/63585-1600x900-%255BDesktopNexus.com%255D.jpg",
+    "bio": "formateur, consultant et leader technique sur les technologies du web."
+  },
+  {
+    "id": 3432,
+    "lastname": "Le Merrer",
+    "firstname": "Pascal",
+    "imageProfilURL": "https://www.dropbox.com/s/6kbcgdgq19npidp/PLM-profile-image-360-360.jpeg?dl=0",
+    "bio": "Pascal Le Merrer est développeur chez Orange Labs à Rennes, dans le domaine de la Cybersécurité.\nAdepte de l'eXtreme Programming depuis 2001, et pratiquant le Software Craftsmanship depuis longtemps, il contribue à diffuser de bonnes pratiques de développement logiciel au sein de l'entreprise."
+  },
+  {
+    "id": 1847,
+    "lastname": "LECACHEUR",
+    "firstname": "Sébastien",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/722358213836992512/nfBoZl5a_400x400.jpg",
+    "bio": "Très attaché au logiciel libre pour découvrir comment les autres développeurs programment et comment ces projets fonctionnent, j’aime le code !\n\nDéveloppeur C, puis web, puis Java EE, puis PHP, puis Android, puis… Le langage de programmation n’est qu’un moyen pour moi.\n\nEn tant qu’architecte je suis continuellement partagé entre “aller vite” et “s’attarder sur les détails”."
+  },
+  {
+    "id": 3678,
+    "lastname": "Lecharpentier",
+    "firstname": "Adrien",
+    "imageProfilURL": "https://gravatar.com/avatar/8254814a3136a30724cd428841f8e155?size=500.png",
+    "bio": "Adrien travaille pour CloudBees, comme Support Engineer. À ce titre, il aide les clients de CloudBees à utiliser au mieux leurs instance Jenkins, en faisant des patchs sur des plugins OpenSource ou en conseillant sur de \"bonnes\" pratique."
+  },
+  {
+    "id": 3761,
+    "lastname": "Leclercq",
+    "firstname": "Jean-Michel",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/704813248021983236/at-Mqhen.jpg",
+    "bio": "Consultant passionné de judo, bières et PHP, en particulier Symfony"
+  },
+  {
+    "id": 498,
+    "lastname": "LEMAIRE",
+    "firstname": "Arnaud",
+    "imageProfilURL": "https://scontent-fra3-1.xx.fbcdn.net/v/t31.0-8/15723446_10154866679837264_8526737397678099706_o.jpg?oh=900b7d3a43e4f78657afc549c7ef02bb&oe=5934DBCC",
+    "bio": "J’ai été tour à tour (et pas dans le bon ordre) : CTO d’une startup, directeur de la production chez un éditeur logiciel, architecte logiciel, consultant et développeur.\n\nAprès avoir travaillé pour des Startups, des PME, des grands groupes et le secteur public, je suis maintenant membre d’un bureau d’étude pour aider des clients de toute taille à réussir leurs projets logiciels depuis la conception jusqu’au déploiement en production. \n\nAu quotidien je pratique du JS, PHP, le Python, Java et Ruby et tout les outils qui me permettent de répondre au mieux à la problématique métier du moment.\n\nC’est ce mélange d’expérience que je souhaite partager et transmettre lors des évènements auxquelles je participe (PyConFr, Breizhcamp, Agile France, nCraft, RivieraDev, Bdx.io, FPDays, Socrates …). En parlant de bonnes pratiques, de programmation fonctionnelle, d’agilité et de software craftsmanship."
+  },
+  {
+    "id": 2685,
+    "lastname": "Leray",
+    "firstname": "Sylvain",
+    "imageProfilURL": "https://image.ibb.co/bzgTy7/IMG_3071.jpg",
+    "bio": "Développeur passionné depuis 15 ans, j'ai évolué dans plusieurs ESN nantaises sans jamais perdre l'amour du code. J'aime former, informer et partager ma passion."
+  },
+  {
+    "id": 911,
+    "lastname": "LOURS",
+    "firstname": "Guillaume",
+    "imageProfilURL": "https://www.saagie.com/user/themes/saagie-website/dist/assets/img/team/Guillaume.jpg",
+    "bio": "Developpeur Senior à Saagie, touchant aussi bien au backend qu'au front  \nCo-fondateur des conferences Lean Kanban France et Codeurs en Seine  \nRed Coat à Devoxx France"
+  },
+  {
+    "id": 3696,
+    "lastname": "Martinet Sanchez",
+    "firstname": "Céline",
+    "imageProfilURL": "https://github.com/celine-m-s/sitepro/blob/master/cms_carree.jpg?raw=true",
+    "bio": "Développeuse et formatrice, j'ai créé un [parcours de formation dédié à Python](https://openclassrooms.com/paths/developpeur-se-dapplication-python) pour OpenClassrooms. Avant cela, j'ai gravité dans l'univers des startups en créant la mienne. Mouton à cinq pattes et autodidacte, je suis passée de l'univers des lettres à celui des ordinateurs."
+  },
+  {
+    "id": 2588,
+    "lastname": "Masson",
+    "firstname": "Benoît",
+    "imageProfilURL": "https://www.open-agora.com/assets/img/team/benoit.jpg",
+    "bio": "Depuis toujours dans l'informatique, d'abord bidouilleur et développeur sur calculatrice, puis chercheur et formateur, et depuis 3 ans de retour au développement. Actuellement CTO chez Open Agora (https://www.open-agora.com), dont je suis co-fondateur."
+  },
+  {
+    "id": 852,
+    "lastname": "Mechling",
+    "firstname": "Gautier",
+    "imageProfilURL": "https://avatars2.githubusercontent.com/u/1016119?s=460&v=4",
+    "bio": "Gautier est développeur Android et Google Developer Expert #IoT"
+  },
+  {
+    "id": 3250,
+    "lastname": "Nicolas",
+    "firstname": "Comet",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/902617589871894528/KPEQffoE_400x400.jpg",
+    "bio": "​\nDéveloppeur passionné, Speaker, grand curieux, j'aime apprendre en permanence. Je ne m'attache pas à une technologie en particulier, même si je gravite plus souvent du côté Java / JavaEE. J'aime les principes fondateurs du TDD. Je porte également un grand intérêt pour la synergie entre DDD et documentation vivante ou \"Living Documentation\". \n\nJe suis actuellement ingénieur d'études R&D chez Lectra, numéro un mondial des solutions dédiées à l'industrie textile (logiciels & machines)."
+  },
+  {
+    "id": 71,
+    "lastname": "Odye",
+    "firstname": "Maxime",
     "imageProfilURL": null,
     "bio": null
   },
   {
-    "id": 2246,
-    "lastname": "Abgrall",
-    "firstname": "Franck",
-    "imageProfilURL": "https://lh3.google.com/u/0/d/0Byd-LUeERubiSl9Sbm13RHNDQ0k=w3840-h1988-iv1",
-    "bio": "Consultant et formateur à Zenika Nantes, Franck est un fan incontesté de JavaScript et de son écosystème. Sa passion pour le web et son désir de s’enrichir l’ont amené à réaliser de nombreux projets dans cet univers en plein mouvement."
+    "id": 863,
+    "lastname": "PAITRY",
+    "firstname": "Fabien",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/663477469987659776/Nh5KSiQP.jpg",
+    "bio": "Lead dev PHP / Symfony et Devops enthusiast"
+  },
+  {
+    "id": 867,
+    "lastname": "PATCHANE",
+    "firstname": "Cédric",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/702282382855041024/PUFJGWWB.jpg",
+    "bio": "Développeur passionné de JavaScript et d'OpenSource. Actuellement développeur full-stack (team Front) chez CozyCloud."
+  },
+  {
+    "id": 3697,
+    "lastname": "PAVIE",
+    "firstname": "Adrien",
+    "imageProfilURL": "https://www.pavie.info/img/speaker.png",
+    "bio": "Adrien Pavie est géomaticien et développeur logiciel de formation. Il est également contributeur au projet OpenStreetMap depuis 2010. Il enrichit les données, et développe des outils pour simplifier la contribution ou la visualisation de celles-ci. On citera par exemple OpenLevelUp, carte de l'intérieur des bâtiments présents dans OpenStreetMap, ou Pic4Carto, outil de revue des photos de rues pour cartographier précisément les villes."
+  },
+  {
+    "id": 1744,
+    "lastname": "Pennec",
+    "firstname": "Nicolas",
+    "imageProfilURL": "https://avatars2.githubusercontent.com/u/493223?v=3&u=c2ed22aedc21d4b43fdd99f8c9003e3461dac9a7",
+    "bio": "Développeur JavaScript chez [OVH](https://www.ovh.com), passionné par le dev web front-end depuis IE6, co-fondateur du [RennesJS](http://rennesjs.org) et collectionneur de side-projects inachevés... \n  \nRetrouvez-moi sur [@NicoPennec](https://twitter.com/NicoPennec) ou [pennec.io](http://pennec.io)"
+  },
+  {
+    "id": 916,
+    "lastname": "Pessu",
+    "firstname": "Adrien",
+    "imageProfilURL": null,
+    "bio": null
+  },
+  {
+    "id": 510,
+    "lastname": "Pilato",
+    "firstname": "David",
+    "imageProfilURL": "https://dl.dropboxusercontent.com/u/41530933/elastic/PhotoSlack.jpeg",
+    "bio": "Depuis 2013, David Pilato est développeur et évangéliste chez elastic.co, après avoir passé les deux années précédentes à promouvoir le projet open-source Elasticsearch. Il en anime la communauté française."
+  },
+  {
+    "id": 1857,
+    "lastname": "Piot",
+    "firstname": "Ludovic",
+    "imageProfilURL": "https://lh3.googleusercontent.com/o2v_iy-OVUCtsTBZo6a5ww8yMVhzgwzr6pw26kgPbw1Xu32chsrTxuDxbDpr5zy2j2rjct4jyqmo57mm3-aqkpOTvBhtN3WvWdUQTOnimtNlISZ2bQ680zS3vA9Z1K0IRZEM-zHQ=w963-h1566-no",
+    "bio": "Ludovic felt into _DevOps_ in 2004 with first _Infra as Code_ deployments on _bare-metal_ _blade_ servers. He's found of empowering project teams through automated tools and friendly collaboration, and then welcome `Docker` and `Kubernetes` as the ultimate tools to leverage his favorite practice. Through meetups, conferences and forums, he shares his love for _Cloud_, _Infra as Code_, _DevOps_ and performance topics."
+  },
+  {
+    "id": 653,
+    "lastname": "Plouzennec",
+    "firstname": "Benjamin",
+    "imageProfilURL": "https://img15.hostingpics.net/pics/132595speakerphotoBP.jpg",
+    "bio": "Créatif dans l’âme, je touche un peu à tout : Musique, dessins… Je me suis vite tourné vers le développement web, plus précisément front-end et je suis devenu accro de l’univers Javascript. En poste de développeur/formateur front-end chez Zenika je m’investi dans le monde du web où je m’amuse à développer des outils originaux tels que [Rythm.js](https://okazari.github.io/Rythm.js/)"
+  },
+  {
+    "id": 1812,
+    "lastname": "Ponge",
+    "firstname": "Julien",
+    "imageProfilURL": "https://julien.ponge.org/images/me.png",
+    "bio": "Maître de Conférences INSA Lyon Telecom, chercheur au laboratoire CITI-Inria, actuellement en délégation chez  Red Hat pour contribuer à Vert.x."
+  },
+  {
+    "id": 3820,
+    "lastname": "POUSSE",
+    "firstname": "Mathieu",
+    "imageProfilURL": "https://avatars3.githubusercontent.com/u/2642023?s=460&v=4",
+    "bio": "Lead développeur backend chez Ouest France autour de Java et son ecosytème, de la conception à l’industrialisation, du déploiement au monitoring, j’aime le code bien fait et comprendre les paradigmes des outils pour en tirer le meilleur"
+  },
+  {
+    "id": 147,
+    "lastname": "REVEREAULT",
+    "firstname": "Sylvain",
+    "imageProfilURL": "http://0.gravatar.com/avatar/6bb659f89ed416dd611a28521557e1dc?s=200",
+    "bio": "Travaillant depuis une quinzaine d’années dans l’informatique, je me suis progressivement spécialisé dans les technologies systèmes et réseaux, en particulier autour des systèmes GNU/Linux, avant de m'orienter vers les problématiques d'industrialisation des environnements Web, puis vers les thématiques DevOps et agilité dans le monde \"Ops\". Je suis actuellement consultant DevOps et Infrastructure as Code chez Zenika, tout en portant la casquette de CTO de l'agence de Rennes."
+  },
+  {
+    "id": 976,
+    "lastname": "Ribreau",
+    "firstname": "Francois-Guillaume",
+    "imageProfilURL": "https://avatars.io/twitter/fgribreau/large",
+    "bio": "Architect & head of digital development [@Ouest-France](https://www.ouest-france.fr/) - \nCTO & Founder [@image-charts](https://image-charts.com) [@Redsmin](https://redsmin.com) [@KillBug](https://www.killbug.today/)\n`#FullStackHacker`"
+  },
+  {
+    "id": 841,
+    "lastname": "Rousseau",
+    "firstname": "Yoan",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/820007283828682752/HlaNAFIu.jpg",
+    "bio": "Développeur & Formateur chez Zenika Rennes, je me passionne pour les sujets gravitant autour du Devops, de l'agilité, du Cloud et de l'IOT."
+  },
+  {
+    "id": 2608,
+    "lastname": "SABLONNIÈRE",
+    "firstname": "Hubert",
+    "imageProfilURL": "https://fr.gravatar.com/userimage/13472948/38009733493b55d52223205e85c6e86d.png?size=500",
+    "bio": "Hubert est passionné par le Web. Il est toujours à la recherche de nouvelles idées et autres bidouilles pour améliorer l'expérience des utilisateurs et des développeurs."
+  },
+  {
+    "id": 679,
+    "lastname": "Serge",
+    "firstname": "HARDY",
+    "imageProfilURL": null,
+    "bio": null
+  },
+  {
+    "id": 2223,
+    "lastname": "Steinmetz",
+    "firstname": "Nicolas",
+    "imageProfilURL": "https://nicolas.steinmetz.fr/public/ns_1024x683.jpg",
+    "bio": "\"Architecte plateforme\", mi Dev, mi Ops et réciproquement. Je vise la transversalité plutôt que la spécialisation pour mieux appréhender les projets et répondre aux besoins métiers. Préfère être dans les tranchés que dans une tour d'ivoire, l'expérience  et la pertinence se gagnent sur le terrain."
+  },
+  {
+    "id": 673,
+    "lastname": "Thebault",
+    "firstname": "Erwann",
+    "imageProfilURL": null,
+    "bio": null
+  },
+  {
+    "id": 3398,
+    "lastname": "Viau",
+    "firstname": "Antoine",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/806962997591674881/NiUOjlSh_400x400.jpg",
+    "bio": "Je suis un développeur passionné et un ancien Rennais (Saint-Hélier, représente !). Alors le Breizhcamp, c'est comme les crêpes, ça me parle.  \nAprès une décennie dans le jeu vidéo (C/C++ et assembleur x86), j'ai profité de l'explosion de la bulle Internet pour devenir développeur web (true story). Comme j'aime autant jouer avec le back que le front, je suis full-stack : `AngularJs`, `Angular`, `Node`, `PHP`, `Symfony`.  \nUn peu d'Android aussi parce qu'on est pas des sauvages."
+  },
+  {
+    "id": 108,
+    "lastname": "Vinas",
+    "firstname": "Emmanuel",
+    "imageProfilURL": null,
+    "bio": null
+  },
+  {
+    "id": 2841,
+    "lastname": "Wursteisen",
+    "firstname": "David",
+    "imageProfilURL": "https://lh6.googleusercontent.com/-ik6pQvfCBVY/AAAAAAAAAAI/AAAAAAAAAL8/-Sfv4sKFObE/photo.jpg",
+    "bio": "David intervient chez différents clients au domaine fonctionnel varié, pour les aider à réaliser leurs projets.\nPour lui le développement logiciel n’est pas qu’une affaire de technique.\nSon rôle est d’aider ses clients à prendre en compte d’autres aspects, pour que leurs développements informatiques ne soient plus un frein à leur activité mais un atout."
+  },
+  {
+    "id": 3628,
+    "lastname": "Zemb",
+    "firstname": "Pierre",
+    "imageProfilURL": "https://pierrezemb.fr/myself.png",
+    "bio": "[Pierre Zemb](https://pierrezemb.fr) is a software engineer at [OVH](https://ovh.com). He’s working with the [Metrics Data Platform](https://twitter.com/ovhmetrics) team to build reliable distributed systems and analytics solution. He's also giving a hand to differents local events, such as the local Startup Weekend, Devoxx4Kids and FinistDevs."
   }
 ]
