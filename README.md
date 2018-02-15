@@ -57,9 +57,9 @@ il faut mettre à jour le fichier `static/json/talks.json` :
 
 ### Récupération des talks pour le programme
 
-Fichier `content/conference/programme.md`, paramètre `get_talks_method` :
+Fichier `config.toml`, section `params.breizhcamp`, paramètre `programme_get_talks_method` :
 -   `"cfp_api"` : récupération via l'API du CFP
--   `"static"` : récupération via le fichier `/static/json/talks.json` (pensez à mettre à jour ce fichier !)
+-   `"static"` : récupération via le fichier `static/json/talks.json` (pensez à mettre à jour ce fichier !)
 
 
 ## Organisation des branches
