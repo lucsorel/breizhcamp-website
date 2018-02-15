@@ -19,7 +19,7 @@
          <div id="content">
             <div class="container">
                 <div class="row" style="flex-wrap:wrap;display:flex">
-                  {{ range sort .Site.Data.speaker "lastname" "asc" }}
+                  {{ range .Site.Data.speakers }}
                   {{ partial "widgets/speaker.html" . }}
                   {{ end }}
                 </div>

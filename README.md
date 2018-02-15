@@ -14,6 +14,16 @@ A la racine se trouve un wrapper pour lancer Hugo, qui se chargera de téléchar
 
 puis accéder à http://localhost:1313. Hugo activera le rechargement automatique des pages modifiées. Etant donné la vitesse de génération, les modifications effectuées dans les sources sont visibles en quasi-temps réel dans le navigateur Web.
 
+### Mise à jours des données
+
+#### Liste des speakers
+
+1.  Dans le fichier `bin/getSpeakers.groovy`, remplacer `__TODO_TOKEN__` par votre token d'authentification.
+    **NE FAITES PAS UN COMMIT DE CE FICHIER AVEC VOTRE TOCKEN DEDANS !**
+1.  Lancer le script `bin/update-json-speakers.sh`
+1.  Faire un commit du fichier `data/speakers.json`
+
+
 ## Organisation des branches
 
 Ce dépot possède 2 branches, `staging` et `production`. La branche `production` doit être alimenté par des merges depuis la branche `staging`.

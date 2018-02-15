@@ -1,12 +1,13 @@
 
 
-def urlString = "https://api.cfp.io/v0/schedule/speakers"
+def urlString = "https://api.cfp.io/api/speakers?states=PRESENT,ACCEPTED"
 
 def url = new URL(urlString)
 def connection = url.openConnection()
 connection.setRequestMethod("GET")
 connection.setRequestProperty("X-Tenant-Id", "breizhcamp")
 connection.setRequestProperty("accept", "application/json")
+connection.setRequestProperty("cookie", "token=__TODO_TOKEN__")
 
 connection.connect()
 
