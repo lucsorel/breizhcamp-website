@@ -40,8 +40,8 @@
 
             var formats = _.indexBy(formatDefinitions, 'format');
 
-            var startDate = '2017-04-19',
-                endDate = '2017-04-21';
+            var startDate = '2018-03-28',
+                endDate = '2018-03-30';
             var startMoment = moment(startDate),
                 endMoment = moment(endDate).add(1, 'd'),
                 now = moment();
