@@ -4,25 +4,24 @@ date = "2018-02-12T10:00:00+01:00"
 banner = "img/blog/2018-blog/womenintechempowerment.jpg"
 +++
 
-If you have watched [BreizhCamp'18 video trailer](https://www.youtube.com/watch?v=y1-Gh0bMsUo) you might have noticed this flyer with a
+If you have watched the [BreizhCamp'18 video trailer](https://www.youtube.com/watch?v=y1-Gh0bMsUo) you might have noticed this flyer with a
 woman in bikini advertising "DosDev". Doesn't look like a nice way to support #WomenInTech, does it ?
 
 Some notes about the context.
 
 ## PCSoft
 
-_PCSoft_ is a French company, editor of "_WinDev_", which publish terrible advertisements using sexy women pictures, many of them being terribly
-embarassing. We let you [search google](https://www.google.fr/search?q=windev&source=lnms&tbm=isch) for an overview. This is something we
-denounce for a while. Here we tried another approach : as we're back for 30 years, we invented "_DosDEV_" development environment and used
-this bikini illustration (which was used by PCSoft some years ago) for our flyer, claiming the same "_10 time faster_" promise PCSoft does for his product.
+_PCSoft_ is a French company; PCSoft editor of "_WinDev_", which publish inappropriate advertisements using pictures of women, many of them  terribly
+embarrassing. Please [search google](https://www.google.fr/search?q=windev&source=lnms&tbm=isch) for an overview. This depiction of women is something we have
+denounced for a while. Here we tried another approach : since we're back in time 30 years ago, we invented "_DosDEV_" development environment and used
+this bikini illustration (which was used by PCSoft some years ago) for our flyer, claiming the same "_10 times faster_" promise PCSoft does for their product.
 
-Marty to wonder "One made terrible things in 80's" is our way to make it clear such things should not take place in 2018 anymore.
+Marty says in the film, after looking at the DosDEV software case, "One made terrible things in the 80's". This is our way to make clear such things are not acceptable in 2018.
 
-By the way, Lena - who play the role of the "booth babe" for this fictive DosDev booth - is an Android developer and
-local Android Meetup organizer, so a real women in tech fully supporting our attempt to break such terrible habit to rely on
-sexy women pictures for advertisment.
+By the way, Lena - who plays the role of the "booth babe" for this fictive DosDEV booth - is an Android developer and
+local Android Meetup organizer. In other words, a real women in tech posed for this photo. She fully support our attempts poke at PCSoft and their terrible advertising.
 
-As a french company, PCSoft is not well known outside France, so this blog post to make it clear for international audience :P
+As a French company, PCSoft is not well known outside France, so we hope this blog post makes it clear for our international BreizhCamp audience :P
 
 
 
