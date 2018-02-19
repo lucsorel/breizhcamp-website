@@ -26,3 +26,5 @@ grep -q "__TODO_TOKEN__" "${GROOVY_FILEPATH}" \
 
 # Get data...
 groovy "${GROOVY_FILEPATH}"  | jq -f "${JQ_FILEPATH}" > "${OUTPUT_FILEPATH}"
+
+echo "Le fichier a bien été mis à jour : ${OUTPUT_FILEPATH}"
