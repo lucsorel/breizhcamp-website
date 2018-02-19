@@ -684,7 +684,7 @@
     "venue": "Amphi B",
     "id": 3460,
     "venue_id": "45",
-    "speakers": "Yoan Rousseau, ",
+    "speakers": "Yoan Rousseau, Pierre-Yves Aillet",
     "description": "Prometheus est un outil open source qui permet de collecter facilement des métriques et de créer des alertes en fonction des valeurs récoltées.\nVenez découvrir comment mettre en place Prometheus et quelques collecteurs afin de monitorer l’état de santé de votre infrastructure.\nJe vous montrerais également qu’il est possible de construire vos propres métriques métiers avec SpringBoot afin de suivre la performance de vos applications au plus près et de les afficher sur un dashboard Grafana."
   },
   {
@@ -740,21 +740,6 @@
     "venue_id": "47",
     "speakers": "Jean-Michel Leclercq, Tanguy Bernard, HARDY Serge",
     "description": "Venez développer la machine à remonter dans le temps de Emmett Brown, nom de Zeus !\n\nSymfony 4 est sorti et vous verrez qu'il est trés facile et rapide d'implémenter les différentes briques d'un projet.\n\nPas de temps à perdre, nous verrons ensemble comment mettre en place une API, son admin, des tests, de l'authentification et bien plus afin de pouvoir voyager au grès des époques !\n\nRequis : Docker installé sur sa machine et un IDE PHP"
-  },
-  {
-    "active": "Y",
-    "name": "5 façons de hacker la plateforme d'une multinationale en 2018 !",
-    "event_start": "2018-03-30T13:00:00Z",
-    "event_end": "2018-03-30T13:15:00Z",
-    "event_type": "Architecture, Performance et Sécurité",
-    "format": "Quickie",
-    "venue": "Amphi C",
-    "id": 3498,
-    "venue_id": "46",
-    "speakers": "Charles BOCHET, ",
-    "description": "Une plateforme e-commerce, c'est plusieurs années de développement et des milliers de features. C'est aussi une vingtaine de failles de sécurité ! Pour le plus grand plaisir des hackers, mais pas celui des développeurs !\n\n**Objectif du talk :** Vous montrer 5 façons d'attaquer la production d'un grand site français. Un vrai cas d'usage, des allers retours entre application et code, des démos en live et des conseils pour ne pas faire les mêmes erreurs.\n\n**Au Programme :**\n- Vol de comptes utilisateur [Account Hijacking]\n- Modification d'un compte tiers [Account Hijacking bis]\n- Exécution d'action pour un tiers [Click Hijacking]\n- Déni de service [DOS]\n- Enumération d'utilisateurs et vol de mot de passe [Pas de joli nom pour celui là]",
-    "media_url": "https://www.youtube.com/watch?v=dY2296wBJ-Q&t=32s",
-    "video": "https://www.youtube.com/watch?v=dY2296wBJ-Q&t=32s"
   },
   {
     "active": "Y",
