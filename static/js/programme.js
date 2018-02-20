@@ -34,7 +34,6 @@
                 'Amphi B': 'Amphi B',
                 'Amphi C': 'Amphi C',
                 'Amphi D': 'Amphi D',
-                'Lab': 'Espace Lab',
                 'Hall': 'Hall'
             };
 
