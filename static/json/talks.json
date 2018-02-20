@@ -2,13 +2,13 @@
   {
     "active": "Y",
     "name": "Vuejs, retrouver le goût des choses simple",
-    "event_start": "2018-03-28T13:30:00Z",
-    "event_end": "2018-03-28T15:30:00Z",
+    "event_start": "2018-03-30T10:30:00Z",
+    "event_end": "2018-03-30T12:30:00Z",
     "event_type": "Web et mobile",
     "format": "Lab",
-    "venue": "Amphi C",
+    "venue": "Amphi D",
     "id": 2683,
-    "venue_id": "46",
+    "venue_id": "47",
     "speakers": "Franck Abgrall, Grégory Bévan",
     "description": "La popularité de Vue.js a connu une croissance impressionnante ces derniers mois. Le framework est définitivement ancrée dans les tendances 2018 du développement JavaScript. Vue.js séduit de nombreux développeurs à travers sa facilité d’utilisation et sa rapidité de prise en main.\n\nNous vous proposons de découvrir ce framework à travers un code lab interactif !\n\nPrérequis:\nAvoir une version récente de Node.js , Npm et Git.\nVisual Studio Code et le plugin Vetur sont un plus !",
     "media_url": "https://docs.google.com/presentation/d/1zib3lG7TzdHJUNJ7zSNbcAo92_La_9eJRlmlUGCHUPw/edit?usp=sharing",
@@ -72,13 +72,13 @@
   {
     "active": "Y",
     "name": "Kotlin par l'exemple (CrossPlatform)",
-    "event_start": "2018-03-30T10:30:00Z",
-    "event_end": "2018-03-30T12:30:00Z",
+    "event_start": "2018-03-28T13:30:00Z",
+    "event_end": "2018-03-28T15:30:00Z",
     "event_type": "Langages",
     "format": "Lab",
-    "venue": "Amphi D",
+    "venue": "Amphi C",
     "id": 2756,
-    "venue_id": "47",
+    "venue_id": "46",
     "speakers": "Igor Laborie, Emmanuel Vinas",
     "description": "En annonçant le support officiel de Kotlin pour Android lors de la dernière Google I/O, Google a donné un énorme élan à ce superbe langage.\nCe n'est pas si surprenant, car en s'inspirant du meilleur de Scala, Groovy, Go, ... et en ciblant les meilleures VM disponibles, Kotlin part avec beaucoup d'avantages.\nEn prenant le temps avant de sortir la v1.0, beaucoup de pièges classiques ont étés évités. Dès aujourd'hui le langage profite d'un outillage mature, tout en étant très abordable pour les développeurs.\nAu travers d'exemples concrets sur différentes plateformes (Android, BackEnd, FrontEnd, Natif), venez découvrir les éléments du langages qui ont su nous séduire.\n\n\n> L'essayer c'est l'adopter !\n\nTips: préparer votre [environnement](https://github.com/MonkeyPatchIo/KotlinByExample/blob/master/INSTRUCTION_fr.md) pour gagner du temps.",
     "media_url": "https://ilaborie.github.io/slides/kotlinHandsOn/devoxx-ma.html#kotlinHandsOn",
@@ -261,7 +261,7 @@
     "venue": "Amphi B",
     "id": 3105,
     "venue_id": "45",
-    "speakers": "Pierre Zemb, Aurélien Hébert, Emmanuel Feller, Horacio Gonzalez",
+    "speakers": "Pierre Zemb, Horacio Gonzalez, Emmanuel Feller, Aurélien Hébert",
     "description": "Cela fait des années que l’humanité explore le ciel, rêvant de voyages intersidérales et de nouvelles colonies planétaires. Et toi, as-tu envie de partir 2h avec nous à la découverte de l'univers ?\n\nIl se trouve que la NASA possède un formidable jeu de données publiques, notamment celui qui est utilisé pour la recherche d’exoplanètes, c’est-à-dire de planètes situées en dehors de notre système solaire.\n\nNous vous guiderons, au cours de ce Lab, dans les différentes étapes permettant de redécouvrir des exoplanètes en utilisant Warp10, une plateforme open-source de traitement de séries temporelles."
   },
   {
@@ -289,9 +289,9 @@
     "venue_id": "47",
     "speakers": "Audrey Garreau, ",
     "description": "Nous connaissons tous le web sémantique. Et si on allait encore plus loin ? Et si on offrait un niveau de compréhension supérieure à nos contenus ? Nous allons voir ensemble les enjeux d'utiliser les micro-datas, l'importance pour les moteurs de recherches de pouvoir parser du contenu catégorisé et ainsi alimenter des outils comme le Knowledge Graph de Google. Je vous montrerai comment mettre en place simplement du contenu ayant du sens en s'appuyant sur Schema.org.",
-    "media_url": "https://www.youtube.com/watch?time_continue=1&v=SVrgarg3KNs",
-    "slides": "https://speakerdeck.com/agarreau/donner-du-sens-a-vos-pages-web-avec-schema-dot-org",
-    "video": "https://www.youtube.com/watch?time_continue=1&v=SVrgarg3KNs"
+    "media_url": "",
+    "slides": "",
+    "video": ""
   },
   {
     "active": "Y",
@@ -645,7 +645,7 @@
     "venue": "Amphi C",
     "id": 3438,
     "venue_id": "46",
-    "speakers": "Sylvain REVEREAULT, null null, null null, Jean-François Labbé",
+    "speakers": "Sylvain REVEREAULT, Jean-François Labbé, Julien Goblet, Guillaume Livron",
     "description": "Vous entendez beaucoup parler de Kubernetes, mais vous vous demandez ce que ça peut changer dans votre vie de développeur ? Vous aussi vous voulez pouvoir déployer un \nenvironnement de développement en 15 secondes ?\n\nAu cours de ce lab, nous présenterons Kubernetes et les différents outils qui vous permettront d'en tirer partie dans le cadre de vos développement, notamment dans\nun contexte de micro-services. \n\nAprès une présentation succincte de Kubernetes et de ses pratiques, nous explorerons les différentes solutions pour déployer et utiliser un cluster de développement,\nnous regarderons comment interagir avec ce cluster pour déployer une application d'exemple à base de micro-services, puis nous expérimenterons des outils facilitant la vie du développeur pour packager et tester une application en cours de développement."
   },
   {
