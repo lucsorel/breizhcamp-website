@@ -4,13 +4,12 @@ title = "Venir"
 
 ## Billetterie
 
-La [billetterie](https://www.billetweb.fr/breizhcamp-2018) est ouverte !
 
+<div class="text-center lead">
+    La billetterie est désormais fermée.
+    Comme les autres années, nous avons été victime de notre succès !
+</div>
 
-{{<comment>}}
-Comme les autres années, nous avons été victime de notre succès.
-Il reste peut-être quelques places à gagner avec nos sponsors.
-{{</comment>}}
 
 Tarifs disponibles:
 
