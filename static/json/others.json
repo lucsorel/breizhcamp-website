@@ -7,18 +7,7 @@
     "event_type": "Keynote",
     "format": "Keynote",
     "name": "Keynote d'ouverture",
-    "venue": "Amphi A",
-    "speakers": "À définir"
-  },
-  {
-    "description": "Keynote de cloture",
-    "event_start": "2018-03-29T18:00:00",
-    "event_end": "2018-03-29T18:30:00",
-    "event_key": "tobedefined",
-    "event_type": "Keynote",
-    "format": "Keynote",
-    "name": "Keynote de cloture",
-    "venue": "Amphi A",
+    "venue": "Amphi C",
     "speakers": "À définir"
   },
   {
@@ -39,7 +28,7 @@
     "event_type": "Keynote",
     "format": "Keynote",
     "name": "Keynote d'ouverture",
-    "venue": "Amphi A",
+    "venue": "Amphi C",
     "speakers": "À définir"
   },
   {
@@ -50,7 +39,7 @@
     "event_type": "Keynote",
     "format": "Keynote",
     "name": "Keynote de cloture",
-    "venue": "Amphi A",
+    "venue": "Amphi C",
     "speakers": "À définir"
   }
 ]
