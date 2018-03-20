@@ -37,7 +37,8 @@
             });
         }).concat([fetch('/img/program-background.png'),
             fetch('/font/fontawesome-webfont.ttf'),
-            fetch('/font/Heart Breaking Bad.otf')].map(function(promise) {
+            fetch('/font/Symbola_hint.ttf'),
+            fetch('/font/BTTF.ttf')].map(function(promise) {
             return promise.then(function(response) {
                 return response.arrayBuffer();
             })
@@ -46,7 +47,8 @@
             var schedules = data.slice(0, 2);
             var backgroundBuffer = data[2];
             var fontawesomeBuffer = data[3];
-            var heartBreakingBadBuffer = data[4];
+            var emojiFontBuffer = data[4];
+            var dayFontBuffer = data[5];
             var schedule = schedules.reduce(function(result, schedule) {
                 return result.concat(schedule);
             }, []);
@@ -75,13 +77,13 @@
                 timeFormat = 'H:mm';
 
             var breakingBadDays = {
-                dimanche: 'dImanche',
-                lundi: 'Çndi',
-                mardi: 'm)di',
-                mercredi: 'mÄcredi',
-                jeudi: 'jEdi',
-                vendredi: 'Vendredi',
-                samedi: 'Samedi'
+                dimanche: '>DIMANCHE<',
+                lundi: '>LUNDI<',
+                mardi: '>MARDI<',
+                mercredi: '>MERCREDI<',
+                jeudi: '>JEUDI<',
+                vendredi: '>VENDREDI<',
+                samedi: '>SAMEDI<'
             };
 
             doc.font('Helvetica');
@@ -124,7 +126,7 @@
                     doc.addPage();
                 }
                 doc.image(backgroundBuffer, 0, 0, {width: a6Widht});
-                doc.font(heartBreakingBadBuffer).fontSize(20).text(breakingBadDays[day], 0, 10, {
+                doc.font(dayFontBuffer).fontSize(20).text(breakingBadDays[day], 0, 10, {
                     width: a6Widht,
                     align: 'center'
                 }).fontSize(6).moveDown();
@@ -142,12 +144,14 @@
                             doc.moveUp();
                         }
                         doc.font('Helvetica-Oblique').text(event.venue, 30, null);
-                        doc.font('Helvetica').text(event.name, 60, null, {
+                        doc.moveUp(0.22)
+                        doc.font(emojiFontBuffer).text(event.name, 60, null, {
                             width: a6Widht - 70,
                             continued: true
                         });
                         var duration = moment.duration(event.event_end.diff(event.event_start)).asMinutes();
                         doc.fillColor('grey').text(' (' + duration + ' min)');
+                        doc.moveDown(0.22)
                         doc.fillColor('black');
                     });
                 });
