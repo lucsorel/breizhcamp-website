@@ -114,25 +114,10 @@
     "social": []
   },
   {
-    "id": 1820,
-    "lastname": "BOCHET",
-    "firstname": "Charles",
-    "imageProfilURL": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAeMAAAAJGI0NTE2Y2NiLTk2ZTAtNDBlMS1iNDljLWVlMjgxMDg0OWU4MA.jpg",
-    "bio": "- 25 ans, de Lyon, diplômé des Ponts & Chaussées\n- Développeur web agile chez [Sicara](https://www.sicara.com/) / [Theodo](http://www.theodo.fr/fr/)]\n- co-créateur du MeetUp Progressive Web App Paris\n- Apprenti hacker à mes heures perdues",
-    "github": "https://github.com/charlesBochet",
-    "googleplus": "https://plus.google.com/u/0/100024307675229707841",
-    "twitter": "https://twitter.com/charlesbochet",
-    "social": [
-      "https://www.linkedin.com/in/charlesbochet/",
-      "https://medium.com/@charlesb_55383",
-      "https://twitter.com/charlesbochet"
-    ]
-  },
-  {
     "id": 124,
     "lastname": "Bossard",
     "firstname": "Cécilia",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/2212897799/cecilia_400x400.png",
+    "imageProfilURL": "https://www.dropbox.com/s/jo8x92bany93i9v/Cecilia%20Bossard.jpg?dl=0",
     "bio": "Développeuse, agiliste, boîte à outils, ... Je fais partie de l'équipe du laboratoire hôpital numérique du CHU Nantes. Notre but : améliorer la prise en charge des patients pour le futur hôpital.",
     "github": "https://github.com/cbossard",
     "googleplus": null,
@@ -223,7 +208,7 @@
     "lastname": "Charrière",
     "firstname": "Philippe",
     "imageProfilURL": "https://pbs.twimg.com/profile_images/780741273942626306/T5ky8w3k.jpg",
-    "bio": "- CSO @Clever_Cloud \n- TAM France @GitLab\n- Eleveur de bots @BotsGarden\n- Eclipse Golo core committer @TypeUnsafe\n- @ScalaIO_FR member",
+    "bio": "- CSO @Clever_Cloud \n- TAM 🇪🇺@GitLab\n- Eleveur de bots @BotsGarden\n- Eclipse Golo core committer @TypeUnsafe\n- @ScalaIO_FR member",
     "github": "@k33g",
     "googleplus": null,
     "twitter": "@k33g_org",
@@ -432,7 +417,7 @@
     "id": 2625,
     "lastname": "Garreau",
     "firstname": "Audrey",
-    "imageProfilURL": "https://plus.google.com/u/0/photos/108363658071391570134/albums/profile/6061861956208174258",
+    "imageProfilURL": "http://yumigo.fr/Audrey_Garreau.jpeg",
     "bio": "Audrey est Intégratrice Web senior. Elle a co-fondé l'agence Yumigo en 2015.\nMue par une insatiable soif d'apprendre et consciente que le diable est dans les détails, elle perfectionne sans cesse sa technique à 360°.\nSes chantiers de prédilection : responsive, accessibilité, performance.\nElle s'engage pour améliorer la place de la femme dans le numérique.\nSigne particulier : enchaine les escape rooms nantaises comme des M&Ms (aucune défaite à ce jour ^^).",
     "github": null,
     "googleplus": null,
@@ -462,6 +447,17 @@
     "github": "",
     "googleplus": null,
     "twitter": "@gui_gillon",
+    "social": []
+  },
+  {
+    "id": 3763,
+    "lastname": "Goblet",
+    "firstname": "Julien",
+    "imageProfilURL": null,
+    "bio": null,
+    "github": null,
+    "googleplus": null,
+    "twitter": null,
     "social": []
   },
   {
@@ -544,7 +540,7 @@
     "id": 667,
     "lastname": "Huchet",
     "firstname": "Jérémie",
-    "imageProfilURL": null,
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/822428416037294081/0nV0F9BF_400x400.jpg",
     "bio": "Développeur java passionné par l'automatisation, avec quelques cacractérisques d'ops",
     "github": "jeremiehuchet",
     "googleplus": null,
@@ -607,6 +603,17 @@
     "bio": "Docteur en informatique, spécialisée en traitement automatique de langues et machine learning\nData scientist et chercheuse à Pages Jaunes - Solocal group",
     "github": null,
     "googleplus": "Nihel KOOLI",
+    "twitter": null,
+    "social": []
+  },
+  {
+    "id": 3681,
+    "lastname": "Labbé",
+    "firstname": "Jean-François",
+    "imageProfilURL": null,
+    "bio": null,
+    "github": null,
+    "googleplus": null,
     "twitter": null,
     "social": []
   },
@@ -709,6 +716,17 @@
     ]
   },
   {
+    "id": 3809,
+    "lastname": "Livron",
+    "firstname": "Guillaume",
+    "imageProfilURL": null,
+    "bio": null,
+    "github": null,
+    "googleplus": null,
+    "twitter": null,
+    "social": []
+  },
+  {
     "id": 911,
     "lastname": "LOURS",
     "firstname": "Guillaume",
@@ -785,7 +803,7 @@
     "social": []
   },
   {
-    "id": 863,
+    "id": 4055,
     "lastname": "PAITRY",
     "firstname": "Fabien",
     "imageProfilURL": "https://pbs.twimg.com/profile_images/663477469987659776/Nh5KSiQP.jpg",
@@ -986,6 +1004,17 @@
     "id": 673,
     "lastname": "Thebault",
     "firstname": "Erwann",
+    "imageProfilURL": null,
+    "bio": null,
+    "github": null,
+    "googleplus": null,
+    "twitter": null,
+    "social": []
+  },
+  {
+    "id": 2357,
+    "lastname": "Tregan",
+    "firstname": "Fabien",
     "imageProfilURL": null,
     "bio": null,
     "github": null,
