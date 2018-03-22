@@ -49,6 +49,12 @@ Comme en 2017, l’Université Rennes 1 nous met à disposition son réseau WiFi
 
 Les identifiants de connexion seront envoyés sur l'adresse email fournie lors de l'achat de votre billet. Il est donc **très** important de fournir une adresse valide lors de l'achat de son billet. Venez avec ce code à la conférence, il sera nécessaire pour vous identifier sur le réseau.
 
+## Y-a-t'il de quoi se restaurer sur place ?
+
+Oui, un service de restauration gratuite est ouvert aux participants pour le midi, ainsi que des boissons chaudes et froides toute la journée.
+
+Et pour le jeudi soir, ne manquez pas le [Meet & Greet](/conference) offert par nos sponsors !
+
 ## J'ai quand même une question!
 
 Merci d'envoyer un mail à contact@breizhcamp.org ou contactez-nous sur Twitter [@breizhcamp](https://twitter.com/breizhcamp)
