@@ -10,8 +10,9 @@
       <div class="navbar navbar-default navbar-small">
           <ul class="nav navbar-nav navbar-left navbar-nav-small">
               {{ range (where .Site.Pages "Section" "conference") }}
-              <li class="dropdown">
+              <li class="dropdown{{ if eq $.Title .Title }} active{{ end }}">
                   <a href="{{ .Permalink }}">{{ .Title }}</a>
+
               </li>
               {{ end }}
           </ul>
