@@ -58,6 +58,7 @@ Venez avec vos codes WiFi à la conférence, ils vous seront nécessaires pour v
 ## Y-a-t'il de quoi se restaurer sur place ?
 
 Oui, un service de restauration gratuite est ouvert aux participants pour le midi, ainsi que des boissons chaudes et froides toute la journée.
+Ceci est inclus dans le prix du billet.
 
 Et pour le jeudi soir, ne manquez pas le [Meet & Greet](/conference) offert par nos sponsors !
 
