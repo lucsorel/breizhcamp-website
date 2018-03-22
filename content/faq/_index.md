@@ -45,9 +45,15 @@ Si vous comptez suivre des ateliers, il est recommandé d'avoir son ordinateur. 
 
 ## Comment se fera l'accès Wifi pendant la conférence ?
 
-Comme en 2017, l’Université Rennes 1 nous met à disposition son réseau WiFi. L'accès au réseau se fait par un identifiant nominatif qui sera remis à chaque participant avant la conférence (la loi française est extrêmement contraignante sur les accès Wifi public et impose une identification de chaque utilisateur accédant à un réseau).
+Comme en 2017, l’Université Rennes 1 nous met à disposition son réseau WiFi.
+L'accès au réseau se fait par un identifiant nominatif et personnel à chaque participant (la loi française est extrêmement contraignante sur les accès Wifi public et impose une identification de chaque utilisateur accédant à un réseau).
 
-Les identifiants de connexion seront envoyés sur l'adresse email fournie lors de l'achat de votre billet. Il est donc **très** important de fournir une adresse valide lors de l'achat de son billet. Venez avec ce code à la conférence, il sera nécessaire pour vous identifier sur le réseau.
+Pour cela vous recevrez un mail vous indiquant la marche à suivre pour obtenir cet identifiant sur l'adresse email fournie lors de l'achat de votre billet.
+Il est donc **très important de fournir une adresse valide** lors de l'achat de son billet.
+
+Venez avec vos codes WiFi à la conférence, ils vous seront nécessaires pour vous identifier sur le réseau.
+
+**Attention : l’équipe du BreizhCamp ne gère pas cet accès Wi-Fi, donc pas la peine de nous demander vos comptes et mots de passe, nous ne les avons pas.**
 
 ## Y-a-t'il de quoi se restaurer sur place ?
 
