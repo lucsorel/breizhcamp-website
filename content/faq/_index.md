@@ -62,10 +62,8 @@ Ceci est inclus dans le prix du billet.
 
 Et pour le jeudi soir, ne manquez pas le [Meet & Greet](/conference) offert par nos sponsors !
 
-## Proposez-vous des services complémentaires pendant le BreizhCamp ?
 
-Les services proposés (restauration, vestiaire, ...) sont détaillés dans la page [Services](/conference/services).
+## J'ai quand même une question !
 
-## J'ai quand même une question!
-
-Merci d'envoyer un mail à contact@breizhcamp.org ou contactez-nous sur Twitter [@breizhcamp](https://twitter.com/breizhcamp)
+N'hésitez pas à consulter la page détaillant les [modalités pratiques](/conference/toutlereste) (accueil, restauration, vestiaire, ...) de la conférence.
+Et s'il vous reste encore une interrogation, merci d'envoyer un mail à **contact@breizhcamp.org** ou contactez-nous sur Twitter [@breizhcamp](https://twitter.com/breizhcamp)
