@@ -858,12 +858,15 @@
     "id": 916,
     "lastname": "Pessu",
     "firstname": "Adrien",
-    "imageProfilURL": null,
-    "bio": null,
-    "github": null,
+    "imageProfilURL": "https://avatars1.githubusercontent.com/u/7055334?s=460&v=4",
+    "bio": "Adrien est passionné de développement, en particulier Java et Web. Il a évolué pendant plusieurs années en société de services chez un éditeur logiciel, il s'est lancé dans l'aventure freelance. Vous pourrez aussi le croiser dans certains meetups tech",
+    "github": "https://github.com/adrienpessu",
     "googleplus": null,
-    "twitter": null,
-    "social": []
+    "twitter": "https://twitter.com/adrien_pe",
+    "social": [
+      "https://fr.linkedin.com/in/adrien-pessu",
+      "https://adrien.pessu.net/"
+    ]
   },
   {
     "id": 510,
