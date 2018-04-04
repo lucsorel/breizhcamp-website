@@ -1119,9 +1119,9 @@
     "venue": "Amphi C",
     "venue_id": "46",
     "speakers": "Nicolas De Loof, Fabien Tregan",
-    "video_url": null,
+    "video_url": "https://www.youtube.com/watch?v=VoLSmIaFiBg",
     "files_url": null,
-    "slides_url": null,
+    "slides_url": "https://github.com/FabienTregan/PortesLogiquesPneumatiques/tree/master/presentation",
     "description": "keynote de cloture jeudi"
   }
 ]
