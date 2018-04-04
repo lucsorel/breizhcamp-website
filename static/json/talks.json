@@ -656,7 +656,7 @@
     "speakers": "Pierre-Yves Aillet, Eric Briand",
     "video_url": null,
     "files_url": null,
-    "slides_url": null,
+    "slides_url": "https://speakerdeck.com/pyaillet/linuxkit-le-linux-facon-ikea",
     "description": "Cela fait des années que certaines distributions linux permettent de construire son linux “from scratch” mais cela restait une opération compliquée et périlleuse. LinuxKit propose la même chose mais avec une approche beaucoup plus moderne et outillée. Cela devient presque aussi facile que de monter un meuble ikea ! (avec une notice quand même)\n\nLe projet LinuxKit, créé par Docker Inc., a été pensé pour créer un OS aussi minimaliste et maintenable que possible (sans compromis avec la sécurité) et y déployer des conteneurs.\n\nNous allons vous présenter la genèse et les concepts du projet, l’écosystème des outils complémentaires qui vous permettront de composer et construire votre distribution. Puis, nous créerons notre première distribution en live !"
   },
   {
@@ -746,7 +746,7 @@
     "speakers": "Yoan Rousseau, Pierre-Yves Aillet",
     "video_url": null,
     "files_url": null,
-    "slides_url": null,
+    "slides_url": "https://speakerdeck.com/pyaillet/metrologie-et-alerting-avec-prometheus-et-grafana",
     "description": "Prometheus est un outil open source qui permet de collecter facilement des métriques et de créer des alertes en fonction des valeurs récoltées.\nVenez découvrir comment mettre en place Prometheus et quelques collecteurs afin de monitorer l’état de santé de votre infrastructure.\nJe vous montrerais également qu’il est possible de construire vos propres métriques métiers avec SpringBoot afin de suivre la performance de vos applications au plus près et de les afficher sur un dashboard Grafana."
   },
   {
