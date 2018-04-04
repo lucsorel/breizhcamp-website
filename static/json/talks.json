@@ -506,7 +506,7 @@
     "speakers": "Cédric Le Gallo",
     "video_url": null,
     "files_url": null,
-    "slides_url": null,
+    "slides_url": "https://cedric-legallo.github.io/clg-bzhcamp2018/#/",
     "description": "Les Service Workers sont arrivés dans Safari TP et dans Edge 17, ça y est ils sont (presque) universels et donc les PWA sont devenues plusque jamais concrêtes. Mais comment les attaquer, sont-elles faites pour votre projet ? Vous continuez de vous interroger sur leur utilité ? Je vous propose une session de rattrapage pour démarrer sereinement l'écriture d'une Progressive Web App. A travers une série d'exercices on va implémenter 1 à 1 les concepts relatif à une PWA en utilisant Vue.js et découvrir ce que l'éco-système propose pour nous simplifier la vie de développeur d'application web et mobile.\n\nPrérequis : des bases solides HTML et JavaScript"
   },
   {
