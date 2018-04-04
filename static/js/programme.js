@@ -53,9 +53,10 @@
                     '<i class="fa fa-square fa-stack-2x"></i>' +
                     '<i style="color:' + event.color + ';" class="fa fa-stack-1x fa-inverse ' + format.icon + '"></i> ' +
                     '</span> ' + event.title +
-                    (event.room ? ' <em>(' + event.room + ')</em>' : '') /*+
-                    (event.slides ? ' <i class="fa fa-fw fa-file-powerpoint-o"></i>' : '') +
-                    (event.video ? ' <i class="fa fa-fw fa-film"></i>' : '')*/;
+                    (event.room ? ' <em>(' + event.room + ')</em>' : '') +
+                    (event.slides_url ? ' <i class="fa fa-fw fa-file-powerpoint-o"></i>' : '') +
+                    (event.files_url ? ' <i class="fa fa-fw fa-file-archive-o"></i>' : '') +
+                    (event.video_url ? ' <i class="fa fa-fw fa-film"></i>' : '');
             }
 
             function refreshCalendar(calendar) {
@@ -169,7 +170,7 @@
                                 end: talk.event_end,
                                 color: categoryColors[talk.event_type],
                                 room: rooms[talk.venue]
-                            }, _.pick(talk, ['video', 'slides']));
+                            }, _.pick(talk, ['video_url', 'files_url', 'slides_url']));
                         }), function(talk) {
                             return _.all(filters, function(filter, name) {
                                 return filter[talk[name]];
@@ -192,8 +193,9 @@
                     '<i class="fa fa-stack-1x fa-inverse" ng-class="::detailsCtrl.formats[detailsCtrl.talk.format].icon"></i>' +
                     '</span>' +
                     '<span ng-bind="::detailsCtrl.talk.title"></span>' +
-                    // ' <a ng-href="{{::detailsCtrl.talk.video}}" ng-if="::detailsCtrl.talk.video" title="Voir la vidéo" target="_blank"><i class="fa fa-fw fa-film"></i></a> ' +
-                    // ' <a ng-href="{{::detailsCtrl.talk.slides}}" ng-if="::detailsCtrl.talk.slides" title="Voir les slides" target="_blank"><i class="fa fa-fw fa-file-powerpoint-o"></i></a> ' +
+                    ' <a ng-href="{{::detailsCtrl.talk.slides_url}}" ng-if="::detailsCtrl.talk.slides_url" title="Voir les slides" target="_blank"><i class="fa fa-fw fa-file-powerpoint-o"></i></a> ' +
+                    ' <a ng-href="{{::detailsCtrl.talk.files_url}}" ng-if="::detailsCtrl.talk.files_url" title="Voir les fichiers" target="_blank"><i class="fa fa-fw fa-file-archive-o"></i></a> ' +
+                    ' <a ng-href="{{::detailsCtrl.talk.video_url}}" ng-if="::detailsCtrl.talk.video_url" title="Voir la vidéo" target="_blank"><i class="fa fa-fw fa-film"></i></a> ' +
                     '</h3>' +
                     '</div>' +
                     '<div class="modal-body">' +
