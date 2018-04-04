@@ -1061,7 +1061,7 @@
     "speakers": "Damien Duportal",
     "video_url": null,
     "files_url": null,
-    "slides_url": null,
+    "slides_url": "https://www.slideshare.net/legrimpeur/chroniques-de-formation-scaling-code-labs-avec-swarm-et-compose",
     "description": "Pourquoi est-ce qu’un simple atelier pratique ou une démo “Live” tourne très souvent au cauchemar technique ?\n\nUn jour, un (sage) sysadmin m’a dit “Il faut mettre les mains dans le cambouis de la production pour apprendre”.\n\nJe vais donc vous compter une petite histoire de “mains sales”, à propos d’un environnement (de production) pour des ateliers pratiques de formation.\n\nCette histoire va vous parler d'environnements reproductibles pour des ateliers “hands-on labs” (à la “Play with Docker” ou “KataCoda”) en jouant avec les outils Docker “standards”: le démon Docker, Swarm Mode, Docker-Compose, etc.\nC’est un véritable retour d’expérience et de leçons apprises lors de mise en place d’infrastructure orienté VMs, puis de migration en orienté Conteneurs.\n\n \nEn tant que formateur, j’ai toujours appris énormément en fabriquant des outils pour enseigner et transmettre. C’est l’idée de ce petit moment ensemble: une chronique sur l’outil de partage de connaissance qu’est Docker."
   },
   {
