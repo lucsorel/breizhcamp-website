@@ -1,45 +1,54 @@
 [
   {
-    "description": "Keynote d'ouverture",
+    "name": "Keynote d'ouverture",
     "event_start": "2018-03-29T09:00:00",
     "event_end": "2018-03-29T10:00:00",
     "event_key": "tobedefined",
     "event_type": "Keynote",
     "format": "Keynote",
-    "name": "Keynote d'ouverture",
     "venue": "Amphi C",
-    "speakers": "À définir"
+    "speakers": "Équipe BreizhCamp, Korben",
+    "video_url": "https://www.youtube.com/watch?v=0Wf4JagC0DA",
+    "files_url": null,
+    "slides_url": null,
+    "description": "Keynote d'ouverture"
   },
   {
-    "description": "Meet'n Greet",
+    "name": "Meet'n Greet",
     "event_start": "2018-03-29T18:30:00",
     "event_end": "2018-03-29T20:30:00",
     "event_key": "tobedefined",
     "event_type": "Autre",
     "format": "Party",
-    "name": "Meet'n Greet",
-    "venue": "Hall"
+    "venue": "Hall",
+    "description": "Meet'n Greet"
   },
   {
-    "description": "Keynote d'ouverture",
+    "name": "Keynote d'ouverture",
     "event_start": "2018-03-30T09:00:00",
     "event_end": "2018-03-30T10:00:00",
     "event_key": "tobedefined",
     "event_type": "Keynote",
     "format": "Keynote",
-    "name": "Keynote d'ouverture",
     "venue": "Amphi C",
-    "speakers": "À définir"
+    "speakers": "Équipe BreizhCamp, Nicolas De Loof, Turblog",
+    "video_url": "https://www.youtube.com/watch?v=xuawCHkajNM",
+    "files_url": null,
+    "slides_url": null,
+    "description": "Keynote d'ouverture"
   },
   {
-    "description": "Keynote de cloture",
+    "name": "Keynote de cloture",
     "event_start": "2018-03-30T17:30:00",
     "event_end": "2018-03-30T18:00:00",
     "event_key": "tobedefined",
     "event_type": "Keynote",
     "format": "Keynote",
-    "name": "Keynote de cloture",
     "venue": "Amphi C",
-    "speakers": "À définir"
+    "speakers": "Nicolas De Loof, Yoann Dubreuil, Alexandre Thomazo",
+    "video_url": "https://www.youtube.com/watch?v=DFpv2k35t4Y",
+    "files_url": null,
+    "slides_url": null,
+    "description": "Keynote de cloture"
   }
 ]
