@@ -101,7 +101,7 @@
     "speakers": "David Wursteisen",
     "video_url": null,
     "files_url": null,
-    "slides_url": null,
+    "slides_url": "https://speakerdeck.com/dwursteisen/developper-un-jeu-video-quand-on-ny-connait-rien-en-developpement-de-jeux-video",
     "description": "Comment on développe un jeu vidéo ? Est-ce compliqué d’afficher un personnage sur l’écran et de le faire bouger par la suite ? Programmer un jeu est-il comparable à programmer un application backend ? Quels sont les outils à utiliser ? Comment rendre un jeu amusant ? J’ai dû me poser ces questions pour réaliser mon premier jeu mobile. Ce quickie essayera d’y répondre et fera un retour sur les différentes expérimentations réalisées avant d’obtenir un jeu."
   },
   {
