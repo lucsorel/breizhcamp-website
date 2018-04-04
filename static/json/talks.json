@@ -80,7 +80,7 @@
     "id": 2756,
     "venue_id": "44",
     "speakers": "Igor Laborie, Emmanuel Vinas",
-    "description": "En annonçant le support officiel de Kotlin pour Android lors de la dernière Google I/O, Google a donné un énorme élan à ce superbe langage.\nCe n'est pas si surprenant, car en s'inspirant du meilleur de Scala, Groovy, Go, ... et en ciblant les meilleures VM disponibles, Kotlin part avec beaucoup d'avantages.\nEn prenant le temps avant de sortir la v1.0, beaucoup de pièges classiques ont étés évités. Dès aujourd'hui le langage profite d'un outillage mature, tout en étant très abordable pour les développeurs.\nAu travers d'exemples concrets sur différentes plateformes (Android, BackEnd, FrontEnd, Natif), venez découvrir les éléments du langages qui ont su nous séduire.\n\n\n> L'essayer c'est l'adopter !\n\nTips: préparer votre [environnement](https://github.com/MonkeyPatchIo/KotlinByExample/blob/master/INSTRUCTION_fr.md) pour gagner du temps.",
+    "description": "En annonçant le support officiel de Kotlin pour Android lors de la dernière Google I/O, Google a donné un énorme élan à ce superbe langage.\nCe n'est pas si surprenant, car en s'inspirant du meilleur de Scala, Groovy, Go, ... et en ciblant les meilleures VM disponibles, Kotlin part avec beaucoup d'avantages.\nEn prenant le temps avant de sortir la v1.0, beaucoup de pièges classiques ont étés évités. Dès aujourd'hui le langage profite d'un outillage mature, tout en étant très abordable pour les développeurs.\nAu travers d'exemples concrets sur différentes plateformes (Android, BackEnd, FrontEnd, Natif), venez découvrir les éléments du langages qui ont su nous séduire.\n\n\n> L'essayer c'est l'adopter !\n\nTips: préparer votre [environnement](https://github.com/MonkeyPatchIo/KotlinByExample/blob/master/INSTRUCTION.md) pour gagner du temps.",
     "media_url": "https://ilaborie.github.io/slides/kotlinHandsOn/devoxx-ma.html#kotlinHandsOn",
     "slides": "https://ilaborie.github.io/slides/kotlinHandsOn/devoxx-ma.html#kotlinHandsOn"
   },
@@ -261,7 +261,7 @@
     "venue": "Amphi B",
     "id": 3105,
     "venue_id": "45",
-    "speakers": "Pierre Zemb, Aurélien Hébert, Emmanuel Feller, Horacio Gonzalez",
+    "speakers": "Pierre Zemb, Horacio Gonzalez, Aurélien Hébert, Emmanuel Feller",
     "description": "Cela fait des années que l’humanité explore le ciel, rêvant de voyages intersidérales et de nouvelles colonies planétaires. Et toi, as-tu envie de partir 2h avec nous à la découverte de l'univers ?\n\nIl se trouve que la NASA possède un formidable jeu de données publiques, notamment celui qui est utilisé pour la recherche d’exoplanètes, c’est-à-dire de planètes situées en dehors de notre système solaire.\n\nNous vous guiderons, au cours de ce Lab, dans les différentes étapes permettant de redécouvrir des exoplanètes en utilisant Warp10, une plateforme open-source de traitement de séries temporelles."
   },
   {
@@ -449,8 +449,8 @@
   {
     "active": "Y",
     "name": "Prise en main des outils et données OpenStreetMap",
-    "event_start": "2018-03-29T10:30:00Z",
-    "event_end": "2018-03-29T11:25:00Z",
+    "event_start": "2018-03-30T13:30:00Z",
+    "event_end": "2018-03-30T14:25:00Z",
     "event_type": "BigData, Analytics et Machine Learning",
     "format": "Conférence",
     "venue": "Amphi C",
@@ -465,7 +465,7 @@
     "event_start": "2018-03-28T10:00:00Z",
     "event_end": "2018-03-28T12:00:00Z",
     "event_type": "Web et mobile",
-    "format": "Université",
+    "format": "Lab",
     "venue": "Amphi B",
     "id": 3313,
     "venue_id": "45",
@@ -610,8 +610,8 @@
   {
     "active": "Y",
     "name": "Vos applications sous stéroïde avec Otoroshi et Izanami",
-    "event_start": "2018-03-30T13:30:00Z",
-    "event_end": "2018-03-30T14:25:00Z",
+    "event_start": "2018-03-29T10:30:00Z",
+    "event_end": "2018-03-29T11:25:00Z",
     "event_type": "Cloud, Devops, Outils",
     "format": "Conférence",
     "venue": "Amphi C",
@@ -645,7 +645,7 @@
     "venue": "Amphi A",
     "id": 3438,
     "venue_id": "44",
-    "speakers": "Sylvain REVEREAULT, Jean-François Labbé, Julien Goblet, Guillaume Livron",
+    "speakers": "Sylvain REVEREAULT, Julien Goblet, Guillaume Livron, Jean-François Labbé",
     "description": "Vous entendez beaucoup parler de Kubernetes, mais vous vous demandez ce que ça peut changer dans votre vie de développeur ? Vous aussi vous voulez pouvoir déployer un \nenvironnement de développement en 15 secondes ?\n\nAu cours de ce lab, nous présenterons Kubernetes et les différents outils qui vous permettront d'en tirer partie dans le cadre de vos développement, notamment dans\nun contexte de micro-services. \n\nAprès une présentation succincte de Kubernetes et de ses pratiques, nous explorerons les différentes solutions pour déployer et utiliser un cluster de développement,\nnous regarderons comment interagir avec ce cluster pour déployer une application d'exemple à base de micro-services, puis nous expérimenterons des outils facilitant la vie du développeur pour packager et tester une application en cours de développement."
   },
   {
@@ -738,7 +738,7 @@
     "venue": "Amphi A",
     "id": 3495,
     "venue_id": "44",
-    "speakers": "Jean-Michel Leclercq, HARDY Serge, Tanguy Bernard",
+    "speakers": "Jean-Michel Leclercq, Tanguy Bernard, HARDY Serge",
     "description": "Venez développer la machine à remonter dans le temps de Emmett Brown, nom de Zeus !\n\nSymfony 4 est sorti et vous verrez qu'il est trés facile et rapide d'implémenter les différentes briques d'un projet.\n\nPas de temps à perdre, nous verrons ensemble comment mettre en place une API, son admin, des tests, de l'authentification et bien plus afin de pouvoir voyager au grès des époques !\n\nRequis : Docker installé sur sa machine et un IDE PHP"
   },
   {
