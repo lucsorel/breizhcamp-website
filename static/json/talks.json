@@ -1026,6 +1026,9 @@
     "id": 3886,
     "venue_id": "46",
     "speakers": "Nicolas De Loof, Fabien Tregan",
-    "description": "keynote de cloture jeudi"
+    "description": "keynote de cloture jeudi",
+    "media_url": "https://www.youtube.com/watch?v=VoLSmIaFiBg",
+    "slides": "https://github.com/FabienTregan/PortesLogiquesPneumatiques/tree/master/presentation",
+    "video": "https://www.youtube.com/watch?v=VoLSmIaFiBg"    
   }
 ]
