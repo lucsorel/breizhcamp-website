@@ -401,7 +401,7 @@
     "speakers": "Jean-Philippe Gouigoux",
     "video_url": null,
     "files_url": null,
-    "slides_url": null,
+    "slides_url": "https://www.slideshare.net/secret/fK4coulvUDCS6p",
     "description": "Vous avez créé des API et des microservices, c'est bien... Vous les avez alignés avec le métier en utilisant des normes et en assurant leur réutilisation, c'est encore mieux... Mais comment passer à l'étape supplémentaire et donner la main aux personnes du métier pour qu'ils composent leur application. Les EAI ont échoué, SOA aussi, les ESB et WOA, c'est trop technique. Des solutions existent comme l'orchestration BPM ou la chorégraphie. L'atelier vous les présentera en illustrant avec des briques Lego pour mieux comprendre les mécanismes."
   },
   {
