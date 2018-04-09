@@ -69,7 +69,7 @@
     "venue": "Amphi B",
     "venue_id": "45",
     "speakers": "Sylvain Leray",
-    "video_url": null,
+    "video_url": "https://www.youtube.com/watch?v=o1a1qJanjnQ",
     "files_url": null,
     "slides_url": null,
     "description": "La domotique est une réalité accessible au grand public aujourd'hui. Dans ce format court je vous présente comment mettre en place facilement une vraie domotique chez vous basé sur une solution Raspberry Pi et des modules radio. Je vous ferais également un retour d'expérience sur des intégrations multiples avec : Google Home, un iPhone, des philips Hue, Slack et mon futur projet pour embêter mon chat de façon automatique et programmée."
