@@ -773,7 +773,7 @@
     "format": "Quickie",
     "id": 3482,
     "name": "Les nouveautés de Go 1.10 (a.k.a. En attendant Go2)",
-    "slides_url": null,
+    "slides_url": "https://www.open-agora.com/files/Breizhcamp-20180330-Go1.10-fr.pdf",
     "speakers": "Benoît Masson",
     "venue": "Amphi D",
     "venue_id": "47",
