@@ -983,7 +983,7 @@
     "format": "Tool in Action",
     "id": 3593,
     "name": "Metldown & Spectre - Revue technique",
-    "slides_url": null,
+    "slides_url": "https://github.com/Hackndo/presentation/blob/master/201803_Breizhcamp/meltdown_spectre.pdf",
     "speakers": "Romain Bentz",
     "venue": "Amphi B",
     "venue_id": "45",
