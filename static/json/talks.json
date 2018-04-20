@@ -563,7 +563,7 @@
     "format": "Conférence",
     "id": 3344,
     "name": "La sécurité dans l'IoT : difficultés, failles et contre-mesures",
-    "slides_url": null,
+    "slides_url": "https://speakerdeck.com/alexisduque/la-securite-dans-liot-difficultes-failles-et-contre-mesures-at-breizhcamp2018",
     "speakers": "Alexis DUQUE",
     "venue": "Amphi B",
     "venue_id": "45",
