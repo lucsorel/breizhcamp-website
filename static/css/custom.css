@@ -52,6 +52,10 @@ figcaption {
     background: #FFA500;
 }
 
+.home-carousel a {
+  color: #f39c0d;
+}
+
 @media (min-width: 992px) {
   .home-carousel .center {
     text-align: center;
