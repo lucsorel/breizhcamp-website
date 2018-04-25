@@ -938,7 +938,7 @@
     "format": "Conférence",
     "id": 3560,
     "name": "Swagger 2 est mort, vive OpenAPI 3",
-    "slides_url": null,
+    "slides_url": "https://speakerdeck.com/slecache/swagger-2-est-mort-vive-openapi-3-breizhcamp-2018-conference",
     "speakers": "Sébastien LECACHEUR, Grégory BLOQUEL",
     "venue": "Amphi C",
     "venue_id": "46",
