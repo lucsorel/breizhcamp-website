@@ -518,11 +518,11 @@
     "format": "Conférence",
     "id": 3322,
     "name": "Rendre ma maison moins bête",
-    "slides_url": null,
+    "slides_url": "http://cedric.gatay.fr/smarthome-slides/",
     "speakers": "Cedric GATAY",
     "venue": "Amphi C",
     "venue_id": "46",
-    "video_url": null
+    "video_url": "https://www.youtube.com/watch?v=iHNS8FAUgsA"
   },
   {
     "description": "Google App Engine est le produit PAAS/Serverless originel de Google, bati sur les outils internes de management de Clusters, avant les VMs, avant Docker et avant Kubernetes. Mais pourquoi a-t-il fallu 4 ans pour passer de Java 7 (avec des contraintes sur le runtime), a Java8, maintenant sans 'whitelist' pour les classes Java?",
