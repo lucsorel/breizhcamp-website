@@ -10,11 +10,14 @@
                 {{ if not .hidden }}
                 <div class="item">
                     <div class="row">
-                        <div class="col-sm-7 right">
+                        <div class="col-sm-7">
                             {{ if .image }}
+                                <div class="img-overlay-wrapper">
                                 {{ if .link }}<a href="{{ .link }}">{{ end }}
                                     <img class="img-responsive" src="{{ .image }}" alt="">
+                                    {{ if .overlay }}<div class="img-overlay"><i class="{{ .overlay }}"></i></div>{{ end }}
                                 {{ if .link }}</a>{{ end }}
+                                </div>
                             {{ end }}
                         </div>
                         <div class="col-sm-5 center">
