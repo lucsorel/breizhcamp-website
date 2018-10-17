@@ -28,10 +28,10 @@ figcaption {
 
 
 .home-carousel {
-  background: #393336 url('../img/doloreanBTTC.png') no-repeat center center;
-  /* background: #d55740 url('../img/dolorean.png') no-repeat center center; */
+  background-color: #393336;
+  /*background: #393336 url('../img/doloreanBTTC.png') no-repeat center center;*/
   text-shadow: 3px 2px 6px #222;
-  height: 500px;
+  height: 550px;
 }
 
 .home-carousel .dark-mask {

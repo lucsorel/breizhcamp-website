@@ -1,5 +1,5 @@
 baseurl = "http://www-staging.breizhcamp.org/"
-title = "BreizhCamp - 8ème édition - 28, 29 et 30 Mars 2018"
+title = "BreizhCamp - 9ème édition - 20, 21 et 22 Mars 2019"
 theme = "hugo-universal-theme"
 languageCode = "fr"
 defaultContentLanguage = "fr"
@@ -34,25 +34,25 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "contact@breizhcamp.org"
 
-    copyright = """<p>Copyright (c) 2017, BreizhCamp team</p>
+    copyright = """<p>Copyright (c) 2015-2018, BreizhCamp team</p>
         <p><a href="https://github.com/breizhcamp/website">Améliorer ce site</a></p>
         """
     date_format = "2 January 2006"
     logo = "img/logo.png"
 
 	#logo url for social network
-    social_logo = "img/carousel/breizh-to-the-camp.png"
+    social_logo = "img/carousel/code-busters.png"
     social_locale = "fr_FR"
     social_twitter = "@breizhcamp"
 
 
 [params.breizhcamp]
-    edition_year = "2018"
-    edition_date_place = "28, 29 et 30 Mars à Rennes"
-    edition_date_start = "2018-03-28"
-    edition_date_end = "2018-03-30"
-    previous_editions = ["2011", "2012", "2013", "2014", "2015", "2016", "2017"]
-    programme_get_talks_method = "static"  # static | cfp_api
+    edition_year = "2019"
+    edition_date_place = "20, 21 et 22 Mars à Rennes"
+    edition_date_start = "2019-03-20"
+    edition_date_end = "2019-03-22"
+    previous_editions = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018"]
+    programme_get_talks_method = "cfp_api"  # static | cfp_api
 
 [[params.social_links]]
     type = "twitter"
@@ -78,30 +78,30 @@ paginate = 10
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
-[[params.menu]]
-    name = "Conférence"
-    url  = "/conference"
-    weight = 1
-
-[[params.menu]]
-    name = "Programme"
-    url  = "/conference/programme/"
-    weight = 3
-
-[[params.menu]]
-    name = "Venir"
-    url  = "/venir/"
-    weight = 4
-
-[[params.menu]]
-    name = "Sponsors"
-    url  = "/sponsors/"
-    weight = 8
-
-[[params.menu]]
-   name = "FAQ"
-    url  = "/faq/"
-    weight = 9
+#[[params.menu]]
+#    name = "Conférence"
+#    url  = "/conference"
+#    weight = 1
+#
+#[[params.menu]]
+#    name = "Programme"
+#    url  = "/conference/programme/"
+#    weight = 3
+#
+#[[params.menu]]
+#    name = "Venir"
+#    url  = "/venir/"
+#    weight = 4
+#
+#[[params.menu]]
+#    name = "Sponsors"
+#    url  = "/sponsors/"
+#    weight = 8
+#
+#[[params.menu]]
+#   name = "FAQ"
+#    url  = "/faq/"
+#    weight = 9
 
 [[params.menu]]
     name = "Blog"
@@ -140,7 +140,7 @@ paginate = 10
     # For more informtion take a look at the README.
     title = "La conférence à l'ouest"
     subtitle = """Le BreizhCamp, c'est 3 jours de conférence à Rennes.
-    Créé en 2011 à l’initiative du BreizhJUG, nous sommes en cours de planification de la 8ème edition.
+    Créé en 2011 à l’initiative du BreizhJUG, nous sommes en cours de planification de la 9ème edition.
     Le BreizhCamp propose de se faire rencontrer une communauté de développeurs et d’experts, avec un contenu à la carte sur plus de 100 thèmes présentés.
     Chaque participant est libre de suivre les sujets qui ont retenu son attention ou de préférer les ateliers pour mettre en pratique les connaissances acquises.
     """
@@ -179,7 +179,7 @@ paginate = 10
     subtitle = "Le BreizhCamp n'est possible que grace au soutien de nos sponsors. N'hésitez pas à nous contacter pour devenir vous aussi sponsor de l'évenement."
     thankyou = "Un grand merci à tous nos Sponsors et Partenaires !"
     # Lister les sponsors
-    show_list = true
+    show_list = false
     # Afficher les sponsors ou seulement des vignettes anonymes
     visible = true
     anon_nbr_platinum = 4
