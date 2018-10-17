@@ -1,4 +1,4 @@
-# Site Web BreizhCamp 2017
+# Site Web BreizhCamp
 
 Ce site Web est généré avec [Hugo](https://gohugo.io/), _A Fast and Modern Static Website Engine_. La rapidité de génération est une des raisons du choix de cet excellent outil. Ce site est généré en quelques dizaines de millisecondes!
 
@@ -19,8 +19,19 @@ puis accéder à http://localhost:1313. Hugo activera le rechargement automatiqu
 1.  Edition précédente :
     1.  Passer la méthode de récupération du programme en `static`
     1.  (Mettre à jour le fichier des talks)
-    1.  (Archivez l'ancien site)
+    1.  (Archivez l'ancien site : inutile car il y a un repo git de déploiement par édition `www-<year>`)
 1.  Faire un tag de la version (ex : `www-2017`)
+1.  Créer le repo git de déploiement de la nouvelle édition (ex : `www-2019`)
+    1.  Créer le repo sur GitHub [breizhcamp/www-AAAA](https://github.com/breizhcamp)
+    1.  Créer la branche `gh-pages`
+    1.  Créer le fichier `CNAME` contenant ceci :
+        ```
+        2019.breizhcamp.org
+        
+        ```
+    1.  Commiter ce fichier sur la branche `gh-pages`
+    1.  Pousser cette branche sur GitHub
+    1.  Activer _GitHub Pages_ sur la branche `gh-pages`
 1.  Fichier `config.toml`, mettre à jour :
     -   `title`
     -   `[params]`
@@ -33,7 +44,16 @@ puis accéder à http://localhost:1313. Hugo activera le rechargement automatiqu
 1.  Fichier `build.sh`, mettre à jour :
     -   `REPO` dans le case `-p|--prod`
 1.  Passer les pages _programme_ et _speakers_ en draft
-1.  Mettre à jour les pages du site
+1.  Passer la méthode de récupération du programme en `cfp_api`
+1.  Modifier le contenu du carousel `data/carousel`
+1.  Mettre à jour les pages du site, sponsors...
+1.  Bascule DNS
+    1.  sur le repo git de déploiement de l'édition précédente modifier le fichier `CNAME` pour mettre `<year>.breizhcamp.org`
+    1.  sur le repo git de déploiement de la nouvelle édition modifier le fichier `CNAME` pour mettre ceci :
+        ```
+        www.breizhcamp.org
+        
+        ```
 
 ### Mise à jours des données
 
@@ -64,7 +84,7 @@ Fichier `config.toml`, section `params.breizhcamp`, paramètre `programme_get_ta
 
 ## Organisation des branches
 
-Ce dépot possède 2 branches, `staging` et `production`. La branche `production` doit être alimenté par des merges depuis la branche `staging`.
+Ce dépot possède 2 branches, `staging` et `production`. La branche `production` doit être alimentée par des merges depuis la branche `staging`.
 
 ## Déploiement
 
