@@ -10,7 +10,7 @@ REPO="git@github.com:breizhcamp/www-staging.git"
 for i in "$@"; do
   case $1 in
     -p|--prod)
-      REPO="git@github.com:breizhcamp/www-2018.git"
+      REPO="git@github.com:breizhcamp/www-2019.git"
       sed -i 's|^baseurl.*$|baseurl = "http://www.breizhcamp.org/"|' config.toml
       ;;
     *)
