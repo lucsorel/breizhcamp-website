@@ -7,6 +7,7 @@
         <div class="container">
             <div class="homepage owl-carousel">
                 {{ range sort .Site.Data.carousel "weight" }}
+                {{ if not .hidden }}
                 <div class="item">
                     <div class="row">
                         <div class="col-sm-7 right">
@@ -22,6 +23,7 @@
                         </div>
                     </div>
                 </div>
+                {{ end }}
                 {{ end }}
             </div>
             <!-- /.project owl-slider -->
