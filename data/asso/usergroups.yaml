@@ -27,3 +27,7 @@ items:
   - name: "Rennes DevOps"
     logo: "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/9/f/7/6/highres_328900822.jpeg"
     url: "http://rennesdevops.fr/"
+
+  - name: "Flutter-Rennes"
+    logo: "https://secure.meetupstatic.com/photos/event/a/a/f/a/event_475543770.jpeg"
+    url: "https://www.meetup.com/fr-FR/Flutter-Rennes/"
