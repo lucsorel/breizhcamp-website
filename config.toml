@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-baseurl = "https://www-staging.breizhcamp.org/"
-=======
 baseurl = "//"
->>>>>>> Stashed changes
 title = "BreizhCamp - 9ème édition - 20, 21 et 22 Mars 2019"
 theme = "hugo-universal-theme"
 languageCode = "fr"
