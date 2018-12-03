@@ -82,7 +82,17 @@ paginate = 10
 #    name = "Conférence"
 #    url  = "/conference"
 #    weight = 1
-#
+
+[[params.menu]]
+    name = "CFP"
+    url  = "https://breizhcamp.cfp.io"
+    weight = 2
+
+#[[params.menu]]
+#    name = "Billetterie"
+#    url  = "https://www.billetweb.fr/breizhcamp-2019"
+#    weight = 2
+
 #[[params.menu]]
 #    name = "Programme"
 #    url  = "/conference/programme/"
