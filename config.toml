@@ -1,4 +1,4 @@
-baseurl = "//www.breizhcamp.org"
+baseurl = "//www.breizhcamp.org/"
 title = "BreizhCamp - 9ème édition - 20, 21 et 22 Mars 2019"
 theme = "hugo-universal-theme"
 languageCode = "fr"
