@@ -4,7 +4,7 @@ items:
 #    url: "https://www.XXX.com/"
 #    asso_level: "licorne" / "nyancat" / "usergroup"
 #    hidden: false (optionnel)
-#    breizhcamp_level: "platinum" / "gold" / "silver" / "partenaire"
+#    breizhcamp_level: "platinum" / "gold" / "silver" / "bronze" / "partenaire"
 
 
 
@@ -144,6 +144,15 @@ items:
     logo: "/img/sponsors/logo_soprasteria.png"
     url: "https://www.soprasteria.com/fr/"
     breizhcamp_level: "silver"
+
+
+
+  # ========== BRONZE ==========
+
+  - name: "X"
+    logo: "/img/sponsors/logo_x.png"
+    url: "http://example.com"
+    breizhcamp_level: "bronze"
 
 
 

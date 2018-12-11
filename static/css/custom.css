@@ -118,7 +118,8 @@ div#post-content img {
 
 .sponsor-platinum img,
 .sponsor-gold img,
-.sponsor-silver img
+.sponsor-silver img,
+.sponsor-bronze img
 {
   max-width:100%;
   max-height:100%;
@@ -138,6 +139,19 @@ div#post-content img {
 
 .sponsor-silver {
   height: 100px;
+}
+
+.sponsor-bronze {
+  height: 100px;
+  text-align:center;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+
+.sponsor-bronze-hidden {
+  background-color: #f5f5f5;
+  border: solid 1px #ddd;
 }
 
 

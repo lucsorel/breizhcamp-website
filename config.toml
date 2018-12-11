@@ -195,6 +195,7 @@ paginate = 10
     anon_nbr_platinum = 4
     anon_nbr_gold = 8
     anon_nbr_silver = 12
+    anon_nbr_bronze = 24
     anon_nbr_partenaire = 2
 
 
