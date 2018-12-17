@@ -1,4 +1,4 @@
-baseurl = "//"
+baseurl = "//www.breizhcamp.org/"
 title = "BreizhCamp - 9ème édition - 20, 21 et 22 Mars 2019"
 theme = "hugo-universal-theme"
 languageCode = "fr"
@@ -82,7 +82,17 @@ paginate = 10
 #    name = "Conférence"
 #    url  = "/conference"
 #    weight = 1
-#
+
+[[params.menu]]
+    name = "CFP"
+    url  = "https://breizhcamp.cfp.io"
+    weight = 2
+
+#[[params.menu]]
+#    name = "Billetterie"
+#    url  = "https://www.billetweb.fr/breizhcamp-2019"
+#    weight = 2
+
 #[[params.menu]]
 #    name = "Programme"
 #    url  = "/conference/programme/"
@@ -93,11 +103,11 @@ paginate = 10
 #    url  = "/venir/"
 #    weight = 4
 #
-#[[params.menu]]
-#    name = "Sponsors"
-#    url  = "/sponsors/"
-#    weight = 8
-#
+[[params.menu]]
+    name = "Sponsors"
+    url  = "/sponsors/"
+    weight = 8
+
 #[[params.menu]]
 #   name = "FAQ"
 #    url  = "/faq/"
@@ -179,12 +189,13 @@ paginate = 10
     subtitle = "Le BreizhCamp n'est possible que grace au soutien de nos sponsors. N'hésitez pas à nous contacter pour devenir vous aussi sponsor de l'évenement."
     thankyou = "Un grand merci à tous nos Sponsors et Partenaires !"
     # Lister les sponsors
-    show_list = false
+    show_list = true
     # Afficher les sponsors ou seulement des vignettes anonymes
-    visible = true
+    visible = false
     anon_nbr_platinum = 4
     anon_nbr_gold = 8
     anon_nbr_silver = 12
+    anon_nbr_bronze = 24
     anon_nbr_partenaire = 2
 
 

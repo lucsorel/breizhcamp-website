@@ -12,7 +12,7 @@
     {{ else }}
         {{ range (seq $.Site.Params.sponsors.anon_nbr_platinum) }}
         <div class="col-md-6 col-sm-12">
-            <div class="sponsor platinum">
+            <div class="sponsor sponsor-platinum sponsor-platinum-hidden">
                 Bientot annoncé
             </div>
         </div>
@@ -34,7 +34,7 @@
     {{ else }}
         {{ range (seq $.Site.Params.sponsors.anon_nbr_gold) }}
             <div class="col-md-3 col-sm-4 col-xs-6">
-                <div class="sponsor gold">
+                <div class="sponsor sponsor-gold sponsor-gold-hidden">
                     Bientot annoncé
                 </div>
             </div>
@@ -49,18 +49,40 @@
     </div>
     {{ if $.Site.Params.sponsors.visible }}
         {{ range sort (where $.Site.Data.sponsors.items "breizhcamp_level" "silver") "name" }}
-            <div class="col-md-2 col-sm-3 col-xs-6">
+            <div class="col-md-2 col-sm-3 col-xs-4">
                 {{ partial "widgets/sponsor.html" . }}
             </div>
         {{ end }}
     {{ else }}
         {{ range (seq $.Site.Params.sponsors.anon_nbr_silver) }}
-            <div class="col-md-2 col-sm-3 col-xs-6">
-                <div class="sponsor silver">
+            <div class="col-md-2 col-sm-3 col-xs-4">
+                <div class="sponsor sponsor-silver sponsor-silver-hidden">
                     Bientot annoncé
                 </div>
             </div>
         {{ end }}
+    {{ end }}
+</div>
+
+
+<div class="row">
+    <div class="heading text-center">
+        <h3>Sponsors Bronze</h3>
+    </div>
+    {{ if $.Site.Params.sponsors.visible }}
+    {{ range sort (where $.Site.Data.sponsors.items "breizhcamp_level" "bronze") "name" }}
+    <div class="col-md-2 col-sm-2 col-xs-3">
+        {{ partial "widgets/sponsor.html" . }}
+    </div>
+    {{ end }}
+    {{ else }}
+    {{ range (seq $.Site.Params.sponsors.anon_nbr_bronze) }}
+    <div class="col-md-2 col-sm-2 col-xs-3">
+        <div class="sponsor sponsor-bronze sponsor-bronze-hidden">
+            Bientot annoncé
+        </div>
+    </div>
+    {{ end }}
     {{ end }}
 </div>
 
@@ -78,7 +100,7 @@
     {{ else }}
         {{ range (seq $.Site.Params.sponsors.anon_nbr_partenaire) }}
             <div class="col-md-6 col-sm-12">
-                <div class="sponsor partenaire">
+                <div class="sponsor sponsor-partenaire sponsor-partenaire-hidden">
                     Bientot annoncé
                 </div>
             </div>
