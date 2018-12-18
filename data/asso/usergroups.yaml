@@ -1,6 +1,6 @@
 items:
   - name: "BreizhJUG"
-    logo: "http://www.breizhjug.org/images/header/breizhjug-h300.jpg"
+    logo: "https://secure.meetupstatic.com/photos/event/8/f/d/e/600_456516830.jpeg"
     url: "http://www.breizhjug.org"
     text: "Le Java User Group à l'origine du BreizhCamp en 2011"
 
@@ -9,8 +9,8 @@ items:
     url: "https://www.meetup.com/fr-FR/Docker-Rennes"
 
   - name: "Rennes JS"
-    logo: "http://rennesjs.org/images/logo-rennesjs.jpg"
-    url: "http://www.rennesjs.org"
+    logo: "https://rennesjs.org/images/logo-rennesjs.jpg"
+    url: "https://rennesjs.org"
 
   - name: "Golang Rennes"
     logo: "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/c/4/b/8/global_451010360.jpeg"
