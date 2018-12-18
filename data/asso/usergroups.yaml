@@ -31,3 +31,7 @@ items:
   - name: "Flutter-Rennes"
     logo: "https://secure.meetupstatic.com/photos/event/a/a/f/a/event_475543770.jpeg"
     url: "https://www.meetup.com/fr-FR/Flutter-Rennes/"
+
+  - name: "Lambda Rennes"
+    logo: "https://secure.meetupstatic.com/photos/event/5/0/c/4/600_477200676.jpeg"
+    url: "https://www.meetup.com/fr-FR/Meetup-Lambda-Rennes-Programmation-fonctionnelle/"
