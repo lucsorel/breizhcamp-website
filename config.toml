@@ -79,13 +79,15 @@ paginate = 10
     blog = "/blog/:year/:month/:day/:filename/"
 
 [[params.menu]]
-    name = "Conférence"
-    url  = "/conference"
+    name = "CFP"
+    url  = "https://breizhcamp.cfp.io"
+    image= "https://breizhcamp.cfp.io/images/logo.png"
+    label= '<span class="label label-success">Ouvert</span>'
     weight = 1
 
 [[params.menu]]
-    name = "CFP"
-    url  = "https://breizhcamp.cfp.io"
+    name = "Conférence"
+    url  = "/conference"
     weight = 2
 
 #[[params.menu]]
