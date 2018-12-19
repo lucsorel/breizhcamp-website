@@ -78,10 +78,10 @@ paginate = 10
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
-#[[params.menu]]
-#    name = "Conférence"
-#    url  = "/conference"
-#    weight = 1
+[[params.menu]]
+    name = "Conférence"
+    url  = "/conference"
+    weight = 1
 
 [[params.menu]]
     name = "CFP"
@@ -97,12 +97,12 @@ paginate = 10
 #    name = "Programme"
 #    url  = "/conference/programme/"
 #    weight = 3
-#
-#[[params.menu]]
-#    name = "Venir"
-#    url  = "/venir/"
-#    weight = 4
-#
+
+[[params.menu]]
+    name = "Venir"
+    url  = "/venir/"
+    weight = 4
+
 [[params.menu]]
     name = "Sponsors"
     url  = "/sponsors/"

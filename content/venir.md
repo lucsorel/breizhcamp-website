@@ -6,9 +6,20 @@ title = "Venir"
 
 
 <div class="text-center lead">
+
+    La billetterie n'est pas encore ouverte. Patience !
+
+{{<comment>}}
+    La [billetterie](https://www.billetweb.fr/breizhcamp-2018) est ouverte !
+{{</comment>}}
+
+{{<comment>}}
     La billetterie est désormais fermée.
     Comme les autres années, nous avons été victime de notre succès !
+{{</comment>}}
+
 </div>
+
 
 
 Tarifs disponibles:
@@ -34,8 +45,9 @@ Tarifs disponibles:
     > La totale, pour ne rien rater
 
 
+{{<comment>}}
 Les sponsors et partenaires disposent de code spéciaux pour acheter les places incluses dans les conventions. Si vous êtes dans ce cas, n'achetez pas une place classique.
-
+{{</comment>}}
 
 
 ## Lieu de la conférence
