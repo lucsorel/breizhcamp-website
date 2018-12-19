@@ -199,6 +199,10 @@ div#post-content img {
   padding-bottom: 5px;
 }
 
+.navbar-nav li img {
+  max-height: 20px;
+}
+
 .calendar-filter-button {
   margin-bottom: 5px;
 }

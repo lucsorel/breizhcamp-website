@@ -22,7 +22,10 @@
                 <ul class="nav navbar-nav navbar-right">
                     {{ range sort .Site.Params.menu "weight" }}
                     <li class="dropdown">
-                        <a href="{{ .url }}">{{ .name }}</a>
+                        <a href="{{ .url }}">
+                            {{ if .image }} <img src="{{ .image }}" /> {{ end }}
+                            {{ .name }}
+                        </a>
                     </li>
                     {{ end }}
                 </ul>
