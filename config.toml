@@ -121,9 +121,14 @@ paginate = 10
     weight = 10
 
 [[params.menu]]
+    name = "Equipe"
+    url  = "/team/"
+    weight = 11
+
+[[params.menu]]
     name = "Asso"
     url  = "/asso/"
-    weight = 11
+    weight = 12
 
 # Enable or disable top bar with social icons
 [params.topbar]
