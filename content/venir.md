@@ -45,9 +45,7 @@ Tarifs disponibles:
     > La totale, pour ne rien rater
 
 
-{{<comment>}}
 Les sponsors et partenaires disposent de code spéciaux pour acheter les places incluses dans les conventions. Si vous êtes dans ce cas, n'achetez pas une place classique.
-{{</comment>}}
 
 
 ## Lieu de la conférence
