@@ -121,15 +121,9 @@ paginate = 10
     weight = 10
 
 [[params.menu]]
-    name = "Equipe"
-    url  = "/team/"
-    weight = 11
-
-[[params.menu]]
     name = "Asso"
     url  = "/asso/"
-    weight = 12
-
+    weight = 11
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -199,11 +193,12 @@ paginate = 10
     # Lister les sponsors
     show_list = true
     # Afficher les sponsors ou seulement des vignettes anonymes
-    visible = false
+    visible = true
     anon_nbr_platinum = 4
     anon_nbr_gold = 8
     anon_nbr_silver = 12
     anon_nbr_bronze = 24
+    anon_nbr_meetgreet = 1
     anon_nbr_partenaire = 2
 
 

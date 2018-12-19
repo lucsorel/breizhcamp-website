@@ -86,6 +86,26 @@
     {{ end }}
 </div>
 
+<div class="row">
+    <div class="heading text-center">
+        <h3>Sponsor Meet&Greet</h3>
+    </div>
+    {{ if $.Site.Params.sponsors.visible }}
+        {{ range sort (where $.Site.Data.sponsors.items "breizhcamp_level" "meetgreet") "name" }}
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                {{ partial "widgets/sponsor.html" . }}
+            </div>
+        {{ end }}
+    {{ else }}
+        {{ range (seq $.Site.Params.sponsors.anon_nbr_meetgreet) }}
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="sponsor sponsor-gold sponsor-gold-hidden">
+                    Bientot annoncé
+                </div>
+            </div>
+        {{ end }}
+    {{ end }}
+</div>
 
 <div class="row">
     <div class="heading text-center">
