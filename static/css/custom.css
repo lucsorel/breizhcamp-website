@@ -203,6 +203,12 @@ div#post-content img {
   max-height: 20px;
 }
 
+.navbar-nav li .label {
+  font-size-adjust: 0.5;
+  vertical-align: top;
+  text-transform: none;
+}
+
 .calendar-filter-button {
   margin-bottom: 5px;
 }

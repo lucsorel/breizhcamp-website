@@ -25,6 +25,7 @@
                         <a href="{{ .url }}">
                             {{ if .image }} <img src="{{ .image }}" /> {{ end }}
                             {{ .name }}
+                            {{ if .label }} {{ .label | safeHTML }} {{ end }}
                         </a>
                     </li>
                     {{ end }}
