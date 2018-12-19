@@ -68,7 +68,7 @@ Si vous souhaitez venir, ne tardez pas à prendre votre place sur https://www.we
 
 
 <div style="max-width:500px; max-height=250px">
-<img alt="Zenika" src="http://www.breizhcamp.org/img/sponsors/logo_zenika.png">
+<img alt="Zenika" src="https://www.breizhcamp.org/img/sponsors/logo_zenika.png">
 </div>
 
 Le temps passe si vite… Nous avons encore en tête la superbe keynote de clôture de l'édition 2016, avec l'impro magnifique de Quentin, et nous sommes déjà à la seconde newsletter de l'édition 2017 !
@@ -82,7 +82,7 @@ Rendez-vous dans un peu moins de 3 mois !
 ---
 
 <div style="max-width:500px; max-height=250px">
-<img alt="Softeam" src="http://www.breizhcamp.org/img/sponsors/logo_softeam.png">
+<img alt="Softeam" src="https://www.breizhcamp.org/img/sponsors/logo_softeam.png">
 </div>
 
 SOFTEAM Groupe est une Entreprise de Services Numériques (ESN) de plus de 1000 collaborateurs, réalisant près de 100 M€ de CA en 2015, en forte croissance, et parmi les 50 premières ESN en France.
