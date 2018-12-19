@@ -20,8 +20,13 @@
                 <div class="team-member">
                     <img src="{{ .picture }}" title="{{ .name }}" alt="{{ .name }}" class="asso-usergroup-logo" />
                     <h4>{{ .name }} </h4>
-                    <br/>
-                    <a href="https://www.twitter.com/{{ .twitter }}">@{{ .twitter }}</a>
+                    {{ with .twitter }}<br/><a href="https://www.twitter.com/{{.}}"><i class="fa fa-twitter"></i> @{{.}}</a>{{ end }}
+                    {{ with .link }}
+                        <br/><a href="{{ .url }}">
+                        {{ with .fa_icon }}<i class="fa fa-{{.}}"></i>{{ end }}
+                        {{ .label }}
+                        </a>
+                    {{ end }}
                 </div>
             </div>
         {{ end }}
