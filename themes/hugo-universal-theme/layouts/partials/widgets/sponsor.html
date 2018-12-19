@@ -1,4 +1,4 @@
-<div class="sponsor sponsor-{{ .breizhcamp_level }} {{ if .hidden }} sponsor-{{ .breizhcamp_level }} {{ else }} {{ .asso_level }} {{ end }}">
+<div class="sponsor sponsor-{{ .breizhcamp_level }} {{ if .hidden }} sponsor-{{ .breizhcamp_level }}-hidden {{ else }} {{ .asso_level }} {{ end }}">
 {{ if not .hidden }}
   {{ if .url }}
     <a href="{{ .url }}" target="_blank">

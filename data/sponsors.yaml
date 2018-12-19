@@ -168,12 +168,16 @@ items:
     url: "https://fr.worldline.com/"
     breizhcamp_level: "bronze"
 
+
+
   # ========== Meet & Greet ==========
 
   - name: "Sopra Steria"
     logo: "/img/sponsors/logo_soprasteria.png"
     url: "https://www.soprasteria.com/fr"
-    breizhcamp_level: "meetgreet"
+    breizhcamp_level: "meetandgreet"
+
+
 
   # ========== PARTENAIRE ==========
 
