@@ -1,0 +1,31 @@
+<div class="container">
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div>
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+
+    <div class="heading text-center">
+
+        <div>
+        {{ range $index, $member := $.Site.Data.team.members.items }}
+            {{ if (modBool $index 4) }}
+               </div>
+               <div class="row">
+            {{ end }}
+            <div class="col-md-4 col-sm-6">
+                <div class="team-member">
+                    <img src="{{ .picture }}" title="{{ .name }}" alt="{{ .name }}" class="asso-usergroup-logo" />
+                    <h4>{{ .name }} </h4>
+                    <br/>
+                    <a href="https://www.twitter.com/{{ .twitter }}">@{{ .twitter }}</a>
+                </div>
+            </div>
+        {{ end }}
+    </div>
+    </div>
+</div>
+</div>
