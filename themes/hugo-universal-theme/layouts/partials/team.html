@@ -1,5 +1,4 @@
 <div class="container">
-<div class="container">
     <div class="row">
         <div class="col-12">
             <div>
@@ -8,29 +7,26 @@
         </div>
     </div>
 
-    <div class="heading text-center">
-
-        <div>
+    <div class="container-fluid team-members">
+        <div class="row">
         {{ range $index, $member := $.Site.Data.team.members.items }}
-            {{ if (modBool $index 3) }}
-               </div>
-               <div class="row">
-            {{ end }}
-            <div class="col-md-4 col-sm-6">
+            
+            <div class="col-md-3 col-sm-6 col-xs-12">
                 <div class="team-member">
-                    <img src="{{ .picture }}" title="{{ .name }}" alt="{{ .name }}" class="asso-usergroup-logo" />
+                    <img src="{{ .picture }}" title="{{ .name }}" alt="{{ .name }}"  />
                     <h4>{{ .name }} </h4>
-                    {{ with .twitter }}<br/><a href="https://www.twitter.com/{{.}}"><i class="fa fa-twitter"></i> @{{.}}</a>{{ end }}
+                    {{ with .twitter }}<div><a href="https://www.twitter.com/{{.}}"><i class="fa fa-twitter"></i> @{{.}}</a></div>{{ end }}
                     {{ with .link }}
-                        <br/><a href="{{ .url }}">
-                        {{ with .fa_icon }}<i class="fa fa-{{.}}"></i>{{ end }}
-                        {{ .label }}
+                    <div>
+                        <a href="{{ .url }}">
+                            {{ with .fa_icon }}<i class="fa fa-{{.}}"></i>{{ end }}
+                            {{ .label }}
                         </a>
+                    </div>
                     {{ end }}
                 </div>
             </div>
         {{ end }}
+        </div>
     </div>
-    </div>
-</div>
 </div>
