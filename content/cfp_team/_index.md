@@ -1,8 +1,7 @@
 +++
-title = "CFP team"
+title = "Comité programme"
 id = "cfp_team"
 +++
 
-Le BreizhCamp est organisé par une équipe de bénévoles sur-vitaminée qui s’active en coulisse :
-
+Le programme est composé à partir des votes des membres des communautés techniques de Rennes, pour assurer un programme diversifié et représentatif de notre écosystème :
 
