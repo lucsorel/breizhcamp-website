@@ -3,6 +3,7 @@ title = "Team"
 id = "team"
 +++
 
-Le BreizhCamp est organisé par une équipe de bénévoles sur-vitaminée qui s’active en coulisse :
+Si tu veux voir le Comité programme, c'est [par là](/cfp_team).
 
+Et sinon, le BreizhCamp est organisé par une équipe de bénévoles survitaminée qui s’active en coulisse :
 
