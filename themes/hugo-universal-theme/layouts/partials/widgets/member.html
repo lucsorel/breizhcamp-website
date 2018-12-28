@@ -1,0 +1,15 @@
+<div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="team-member">
+        <img src="{{ .picture }}" title="{{ .name }}" alt="{{ .name }}"  />
+        <h4>{{ .name }} </h4>
+        {{ with .twitter }}<div><a href="https://www.twitter.com/{{.}}"><i class="fa fa-twitter"></i> @{{.}}</a></div>{{ end }}
+        {{ with .link }}
+        <div>
+            <a href="{{ .url }}">
+                {{ with .fa_icon }}<i class="fa fa-{{.}}"></i>{{ end }}
+                {{ .label }}
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</div>

@@ -17,31 +17,47 @@
         {{ partial "breadcrumbs.html" . }}
 
         <div id="content">
-            {{ if isset .Params "id" }}
-
-              {{ partial .Params.id . }}
-
-            {{ else }}
-
             <div class="container">
-
                 <div class="row">
-
-                    <div class="col-md-12">
-
+                    <div class="col-12">
                         <div>
-                          {{ .Content }}
+                            {{ .Content }}
                         </div>
-
                     </div>
-
                 </div>
-                <!-- /.row -->
 
+                <div class="heading text-center">
+                    <h2>Organisation</h2>
+                </div>
+                <div class="text-center lead">
+                    {{ .Params.lead_team }}
+                </div>
+                <div class="row">
+                    <div class="container-fluid team-members-orga">
+                        <div class="row">
+                            {{ range $.Site.Data.team.members_orga.items }}
+                            {{ partial "widgets/member.html" . }}
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
+
+                <div class="heading text-center">
+                    <h2>Comité programme</h2>
+                </div>
+                <div class="text-center lead">
+                    {{ .Params.lead_cfp }}
+                </div>
+                <div class="row">
+                    <div class="container-fluid team-members-cfp">
+                        <div class="row">
+                            {{ range $.Site.Data.team.members_cfp.items }}
+                            {{ partial "widgets/member.html" . }}
+                            {{ end }}
+                        </div>
+                    </div>
+                </div>
             </div>
-            <!-- /.container -->
-
-            {{ end }}
         </div>
         <!-- /#content -->
 
@@ -56,7 +72,20 @@
 
     <script>
         jQuery(document).ready(function() {
-            var members = jQuery(".team-member");
+            var members = jQuery(".team-members-orga .team-member");
+
+            // Fisher–Yates shuffle
+            var i, j, temp;
+            for (i = members.length - 1; i > 0; i--) {
+                j = Math.floor(Math.random() * i);
+                temp = members[i].innerHTML;
+                members[i].innerHTML = members[j].innerHTML;
+                members[j].innerHTML = temp;
+            }
+        });
+
+        jQuery(document).ready(function() {
+            var members = jQuery(".team-members-cfp .team-member");
 
             // Fisher–Yates shuffle
             var i, j, temp;
