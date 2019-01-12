@@ -180,11 +180,6 @@ items:
 
   # ========== PARTENAIRE ==========
 
-  - name: "ISTIC, UFR Informatique - Électronique"
-    logo: "/img/sponsors/logo_istic.png"
-    url: "http://www.istic.univ-rennes1.fr/"
-    breizhcamp_level: "partenaire"
-
   - name: "Université Rennes 1"
     logo: "/img/sponsors/logo_univ_rennes_1.png"
     url: "http://www.univ-rennes1.fr/"
@@ -202,6 +197,13 @@ items:
 
 
   # ========== OLD ==========
+
+
+  - name: "ISTIC, UFR Informatique - Électronique"
+    logo: "/img/sponsors/logo_istic.png"
+    url: "http://www.istic.univ-rennes1.fr/"
+    # breizhcamp_level: "partenaire"
+    hidden: true
 
   - name: "JFrog"
     logo: "/img/sponsors/logo_jfrog.png"
