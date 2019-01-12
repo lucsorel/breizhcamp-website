@@ -19,7 +19,6 @@ items:
     logo: "/img/sponsors/logo_ovh.png"
     url: "https://www.ovh.com/fr/"
     breizhcamp_level: "platinum"
-    hidden: true
 
   - name: "SII"
     logo: "/img/sponsors/logo_sii.png"
