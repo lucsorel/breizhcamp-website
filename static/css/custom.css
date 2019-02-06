@@ -44,13 +44,14 @@ figcaption {
 
 .home-carousel {
   background-color: #393336;
-  /*background: #393336 url('../img/doloreanBTTC.png') no-repeat center center;*/
+  background: #3E9198 url('../img/ambulance-codebusters.png') no-repeat center center;
   text-shadow: 3px 2px 6px #222;
   height: 550px;
 }
 
 .home-carousel .dark-mask {
-  opacity: 0;
+    background-color: #463D2C;
+  opacity: 0.6;
 }
 
 .home-carousel .owl-item .item > .row > .col-sm-7 img.img-responsive {
