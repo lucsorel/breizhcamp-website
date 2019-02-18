@@ -1,7 +1,7 @@
 +++
 title = "Programme"
 type = "programme"
-draft = true
+draft = false
 +++
 
 <div class="text-center lead">

@@ -96,10 +96,10 @@ paginate = 10
 #    url  = "https://www.billetweb.fr/breizhcamp-2019"
 #    weight = 2
 
-#[[params.menu]]
-#    name = "Programme"
-#    url  = "/conference/programme/"
-#    weight = 3
+[[params.menu]]
+    name = "Programme"
+    url  = "/conference/programme/"
+    weight = 3
 
 [[params.menu]]
     name = "Venir"
