@@ -17,14 +17,12 @@
             ];
 
             var categoryColors = this.categoryColors = {
-                'Objets connectés, IoT, Robotique': '#4B8865',
-                'Cloud, Devops, Outils': '#CA5132',
-                'Agilité, Méthodologie et Tests': '#C9880F',
-                'Web et mobile': '#287F95',
-                'BigData, Analytics et Machine Learning': '#BB283C',
-                'Architecture, Performance et Sécurité': '#6B4162',
-                'Backend et Desktop': '#7F71CE',
-                'Langages': '#6AAA3E',
+                'Systèmes embarqués': '#186a5d',
+                'Méthodologies': '#C9880F',
+                'Data': '#BB283C',
+                'Architecture': '#6B4162',
+                'Développement': '#6AAA3E',
+                'Web': '#2e9eb7',
                 'Keynote': '#F55E52',
                 'Autre': '#AAAAAA'
             };
