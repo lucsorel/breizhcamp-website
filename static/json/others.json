@@ -1,22 +1,22 @@
 [
   {
     "name": "Keynote d'ouverture",
-    "event_start": "2018-03-29T09:00:00",
-    "event_end": "2018-03-29T10:00:00",
+    "event_start": "2019-03-21T09:00:00",
+    "event_end": "2019-03-21T10:00:00",
     "event_key": "tobedefined",
     "event_type": "Keynote",
     "format": "Keynote",
     "venue": "Amphi C",
-    "speakers": "Équipe BreizhCamp, Korben",
-    "video_url": "https://www.youtube.com/watch?v=0Wf4JagC0DA",
+    "speakers": "Équipe BreizhCamp, Stéphane Bortzmeyer",
+    "video_url": null,
     "files_url": null,
     "slides_url": null,
-    "description": "Keynote d'ouverture"
+    "description": "Internet et droits humains, il y a vraiment un rapport ?"
   },
   {
     "name": "Meet'n Greet",
-    "event_start": "2018-03-29T18:30:00",
-    "event_end": "2018-03-29T20:30:00",
+    "event_start": "2019-03-21T18:30:00",
+    "event_end": "2019-03-21T20:30:00",
     "event_key": "tobedefined",
     "event_type": "Autre",
     "format": "Party",
@@ -25,30 +25,30 @@
   },
   {
     "name": "Keynote d'ouverture",
-    "event_start": "2018-03-30T09:00:00",
-    "event_end": "2018-03-30T10:00:00",
+    "event_start": "2019-03-22T09:00:00",
+    "event_end": "2019-03-22T10:00:00",
     "event_key": "tobedefined",
     "event_type": "Keynote",
     "format": "Keynote",
     "venue": "Amphi C",
-    "speakers": "Équipe BreizhCamp, Nicolas De Loof, Turblog",
-    "video_url": "https://www.youtube.com/watch?v=xuawCHkajNM",
+    "speakers": "Équipe BreizhCamp, Rayna Stamboliyska",
+    "video_url": null,
     "files_url": null,
     "slides_url": null,
-    "description": "Keynote d'ouverture"
+    "description": "La menace fantôme"
   },
   {
-    "name": "Keynote de cloture",
-    "event_start": "2018-03-30T17:30:00",
-    "event_end": "2018-03-30T18:00:00",
+    "name": "Keynote de clôture",
+    "event_start": "2019-03-22T17:30:00",
+    "event_end": "2019-03-22T18:00:00",
     "event_key": "tobedefined",
     "event_type": "Keynote",
     "format": "Keynote",
     "venue": "Amphi C",
-    "speakers": "Nicolas De Loof, Yoann Dubreuil, Alexandre Thomazo",
-    "video_url": "https://www.youtube.com/watch?v=DFpv2k35t4Y",
+    "speakers": "Équipe BreizhCamp",
+    "video_url": null,
     "files_url": null,
     "slides_url": null,
-    "description": "Keynote de cloture"
+    "description": "Keynote de clôture"
   }
 ]
