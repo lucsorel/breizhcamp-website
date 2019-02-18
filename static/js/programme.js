@@ -97,6 +97,7 @@
                 eventClick: function(calEvent) {
                     this.details(calEvent);
                 }.bind(this),
+                eventOrder: 'room',
                 eventRender: function(event, element) {
                     element.find('.fc-title').html(renderTitle(event));
                     element.attr('title', event.title); // pour voir le titre en tooltip
