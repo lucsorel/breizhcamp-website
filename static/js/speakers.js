@@ -25,10 +25,19 @@
             ]).then(function(responses) {
                 return [].concat(responses[0].data, responses[1].data);
             }).then(function(speakers) {
+                speakers = _.sortBy(
+                    _.filter(speakers, function (s) {
+                        return s.lastname !== undefined
+                    }),
+                    'lastname'
+                );
                 _.forEach(speakers, function(n, key) {
-                   n.social = _.without(n.social.split(', '), '')
+                    if (n.social !== undefined) {
+                        n.social = _.without(n.social.split(', '), '')
+                    } else {
+                        n.social = []
+                    }
                 });
-                speakers = _.sortBy(speakers, 'lastname');
                 this.speakers = speakers;
             }.bind(this));
         }])
