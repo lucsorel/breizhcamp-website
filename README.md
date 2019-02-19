@@ -17,8 +17,8 @@ puis accéder à http://localhost:1313. Hugo activera le rechargement automatiqu
 ### Passage à une nouvelle édition du breizhcamp
 
 1.  Edition précédente :
-    1.  Passer la méthode de récupération du programme en `static`
-    1.  (Mettre à jour le fichier des talks)
+    1.  Passer la méthode de récupération du programme et des speakers en `static`
+    1.  (Mettre à jour le fichier des talks et des speakers)
     1.  (Archivez l'ancien site : inutile car il y a un repo git de déploiement par édition `www-<year>`)
 1.  Faire un tag de la version (ex : `www-2017`)
 1.  Créer le repo git de déploiement de la nouvelle édition (ex : `www-2019`)
@@ -44,7 +44,7 @@ puis accéder à http://localhost:1313. Hugo activera le rechargement automatiqu
 1.  Fichier `build.sh`, mettre à jour :
     -   `REPO` dans le case `-p|--prod`
 1.  Passer les pages _programme_ et _speakers_ en draft
-1.  Passer la méthode de récupération du programme en `cfp_api`
+1.  Passer la méthode de récupération du programme et des speakers en `cfp_api`
 1.  Modifier le contenu du carousel `data/carousel`
 1.  Mettre à jour les pages du site, sponsors...
 1.  Bascule DNS
@@ -80,6 +80,12 @@ il faut mettre à jour le fichier `static/json/talks.json` :
 Fichier `config.toml`, section `params.breizhcamp`, paramètre `programme_get_talks_method` :
 -   `"cfp_api"` : récupération via l'API du CFP
 -   `"static"` : récupération via le fichier `static/json/talks.json` (pensez à mettre à jour ce fichier !)
+
+### Récupération des speakers
+
+Fichier `config.toml`, section `params.breizhcamp`, paramètre `programme_get_speakers_method` :
+-   `"cfp_api"` : récupération via l'API du CFP
+-   `"static"` : récupération via le fichier `static/json/speakers.json` (pensez à mettre à jour ce fichier !)
 
 
 ## Organisation des branches

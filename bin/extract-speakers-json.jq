@@ -11,7 +11,7 @@ def filter_object_data:
             lastname: .lastname, firstname: .firstname,
             imageProfilURL: .imageProfilURL, bio: .bio,
             github: .github, googleplus: .googleplus, twitter: .twitter,
-            social: (.social | if (. | length) > 0 then split (", ") else [] end)
+            social: .social
         };
 
 

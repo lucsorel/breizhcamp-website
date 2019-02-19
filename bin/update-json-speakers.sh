@@ -14,7 +14,7 @@ function die {
 
 GROOVY_FILENAME="getSpeakers.groovy"
 JQ_FILENAME="extract-speakers-json.jq"
-OUTPUT_FILEPATH="${PROJECT_ROOT}/data/speakers.json"
+OUTPUT_FILEPATH="${PROJECT_ROOT}/static/json/speakers.json"
 
 GROOVY_FILEPATH="${PROJECT_ROOT}/bin/${GROOVY_FILENAME}"
 JQ_FILEPATH="${PROJECT_ROOT}/bin/${JQ_FILENAME}"

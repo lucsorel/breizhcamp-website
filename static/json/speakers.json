@@ -8,10 +8,7 @@
     "github": null,
     "googleplus": null,
     "twitter": null,
-    "social": [
-      "https://www.linkedin.com/in/robin-allesiardo-phd-39221a92/",
-      "https://scholar.google.fr/citations?user=nLfJmIIAAAAJ&hl=fr"
-    ]
+    "social": "https://www.linkedin.com/in/robin-allesiardo-phd-39221a92/, https://scholar.google.fr/citations?user=nLfJmIIAAAAJ&hl=fr"
   },
   {
     "id": 1033,
@@ -22,7 +19,7 @@
     "github": "mathieuancelin",
     "googleplus": null,
     "twitter": "TrevorReznik",
-    "social": []
+    "social": ""
   },
   {
     "id": 1645,
@@ -33,9 +30,7 @@
     "github": "acailly",
     "googleplus": null,
     "twitter": "@AntoineCailly",
-    "social": [
-      "https://github.com/acailly"
-    ]
+    "social": "https://github.com/acailly"
   },
   {
     "id": 1436,
@@ -46,10 +41,7 @@
     "github": "karesti",
     "googleplus": null,
     "twitter": "@karesti",
-    "social": [
-      "",
-      "https://www.instagram.com/karesti_codes/"
-    ]
+    "social": ", https://www.instagram.com/karesti_codes/"
   },
   {
     "id": 805,
@@ -60,7 +52,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "MarcAudefroy",
-    "social": []
+    "social": ""
   },
   {
     "id": 5160,
@@ -71,9 +63,7 @@
     "github": "https://github.com/jpbempel",
     "googleplus": null,
     "twitter": "@jpbempel",
-    "social": [
-      "http://jpbempel.blogspot.com/"
-    ]
+    "social": "http://jpbempel.blogspot.com/"
   },
   {
     "id": 5469,
@@ -84,9 +74,7 @@
     "github": "sblaisot",
     "googleplus": null,
     "twitter": "@SebBlaisot",
-    "social": [
-      "https://blog.blaisot.org"
-    ]
+    "social": "https://blog.blaisot.org"
   },
   {
     "id": 2679,
@@ -97,7 +85,7 @@
     "github": "tblaisot",
     "googleplus": null,
     "twitter": null,
-    "social": []
+    "social": ""
   },
   {
     "id": 124,
@@ -108,7 +96,7 @@
     "github": "https://github.com/cbossard",
     "googleplus": null,
     "twitter": "ceciliaBossard",
-    "social": []
+    "social": ""
   },
   {
     "id": 5421,
@@ -119,9 +107,7 @@
     "github": "fbouteruche",
     "googleplus": null,
     "twitter": "@fbouteruche",
-    "social": [
-      "https://www.linkedin.com/in/francoisbouteruche"
-    ]
+    "social": "https://www.linkedin.com/in/francoisbouteruche"
   },
   {
     "id": 5527,
@@ -132,9 +118,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "https://twitter.com/sebastienbrault",
-    "social": [
-      "https://www.linkedin.com/in/sebastienbrault/detail/recent-activity/"
-    ]
+    "social": "https://www.linkedin.com/in/sebastienbrault/detail/recent-activity/"
   },
   {
     "id": 5270,
@@ -145,7 +129,7 @@
     "github": "lbrunet",
     "googleplus": null,
     "twitter": "lbrunet_com",
-    "social": []
+    "social": ""
   },
   {
     "id": 3570,
@@ -156,7 +140,7 @@
     "github": "rbung",
     "googleplus": null,
     "twitter": "@rodbung",
-    "social": []
+    "social": ""
   },
   {
     "id": 615,
@@ -167,9 +151,7 @@
     "github": "https://github.com/melix",
     "googleplus": "",
     "twitter": "@CedricChampeau",
-    "social": [
-      "https://melix.github.io/blog/"
-    ]
+    "social": "https://melix.github.io/blog/"
   },
   {
     "id": 1772,
@@ -180,10 +162,7 @@
     "github": "@k33g",
     "googleplus": null,
     "twitter": "@k33g_org",
-    "social": [
-      "http://www.bots.garden/",
-      "http://k33g.gitlab.io"
-    ]
+    "social": "http://www.bots.garden/, http://k33g.gitlab.io"
   },
   {
     "id": 3706,
@@ -194,9 +173,7 @@
     "github": "viteinfinite",
     "googleplus": null,
     "twitter": "@viteinfinite",
-    "social": [
-      "http://viteinfinite.com"
-    ]
+    "social": "http://viteinfinite.com"
   },
   {
     "id": 2483,
@@ -207,12 +184,7 @@
     "github": "bnjjj",
     "googleplus": null,
     "twitter": "bnj25",
-    "social": [
-      "https://medium.com/@bnjjj",
-      "https://frenchgo.fr/",
-      "https://twitter.com/bnj25",
-      "https://www.youtube.com/playlist?list=PLTlMFHjjkl3TqVILjT8GPv1z69qk_LUCo"
-    ]
+    "social": "https://medium.com/@bnjjj, https://frenchgo.fr/, https://twitter.com/bnj25, https://www.youtube.com/playlist?list=PLTlMFHjjkl3TqVILjT8GPv1z69qk_LUCo"
   },
   {
     "id": 5246,
@@ -223,9 +195,7 @@
     "github": "tcollignon",
     "googleplus": null,
     "twitter": "@collignont",
-    "social": [
-      "https://tcollignon.github.io/"
-    ]
+    "social": "https://tcollignon.github.io/"
   },
   {
     "id": 2550,
@@ -236,7 +206,7 @@
     "github": "https://github.com/NotBad4U",
     "googleplus": null,
     "twitter": "https://twitter.com/lightplay8",
-    "social": []
+    "social": ""
   },
   {
     "id": 239,
@@ -247,7 +217,7 @@
     "github": "davinkevin",
     "googleplus": "davinkevin",
     "twitter": "davinkevin",
-    "social": []
+    "social": ""
   },
   {
     "id": 2,
@@ -258,9 +228,7 @@
     "github": "ndeloof",
     "googleplus": "ndeloof",
     "twitter": "ndeloof",
-    "social": [
-      "http://blog.loof.fr"
-    ]
+    "social": "http://blog.loof.fr"
   },
   {
     "id": 776,
@@ -271,18 +239,7 @@
     "github": "jabby",
     "googleplus": null,
     "twitter": "darkjabberwock",
-    "social": []
-  },
-  {
-    "id": 5153,
-    "lastname": "Deest",
-    "firstname": "Gaël",
-    "imageProfilURL": null,
-    "bio": null,
-    "github": null,
-    "googleplus": null,
-    "twitter": null,
-    "social": []
+    "social": ""
   },
   {
     "id": 3074,
@@ -293,9 +250,7 @@
     "github": "https://github.com/Deleplace",
     "googleplus": null,
     "twitter": "https://twitter.com/val_deleplace",
-    "social": [
-      "https://medium.com/@val_deleplace"
-    ]
+    "social": "https://medium.com/@val_deleplace"
   },
   {
     "id": 3782,
@@ -306,7 +261,7 @@
     "github": "https://github.com/larousso",
     "googleplus": null,
     "twitter": "@chanksleroux",
-    "social": []
+    "social": ""
   },
   {
     "id": 1088,
@@ -317,7 +272,7 @@
     "github": "https://github.com/fabiolab",
     "googleplus": null,
     "twitter": "https://twitter.com/fabricedepaulis",
-    "social": []
+    "social": ""
   },
   {
     "id": 5458,
@@ -328,42 +283,18 @@
     "github": "https://github.com/decode-dev",
     "googleplus": "https://plus.google.com/116594204026574633482",
     "twitter": "@decode_dev",
-    "social": [
-      "https://medium.com/@decode_dev/"
-    ]
-  },
-  {
-    "id": 5340,
-    "lastname": "DMYTRYK",
-    "firstname": "Alexis",
-    "imageProfilURL": null,
-    "bio": null,
-    "github": null,
-    "googleplus": null,
-    "twitter": null,
-    "social": []
-  },
-  {
-    "id": 3881,
-    "lastname": "Dufour",
-    "firstname": "Charles",
-    "imageProfilURL": null,
-    "bio": null,
-    "github": null,
-    "googleplus": null,
-    "twitter": null,
-    "social": []
+    "social": "https://medium.com/@decode_dev/"
   },
   {
     "id": 5236,
     "lastname": "Durand",
     "firstname": "Mathieu",
-    "imageProfilURL": "file:///Users/mathieu.durand/Downloads/myAvatar%20(2).png",
+    "imageProfilURL": "",
     "bio": "Lead Dev Java",
     "github": null,
     "googleplus": null,
     "twitter": null,
-    "social": []
+    "social": ""
   },
   {
     "id": 1425,
@@ -374,9 +305,7 @@
     "github": "https://github.com/koutaku",
     "googleplus": null,
     "twitter": "https://twitter.com/TsubaR00ck",
-    "social": [
-      "https://www.linkedin.com/in/mickael-faust-67a55768/"
-    ]
+    "social": "https://www.linkedin.com/in/mickael-faust-67a55768/"
   },
   {
     "id": 5285,
@@ -387,7 +316,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "@akhesacaro",
-    "social": []
+    "social": ""
   },
   {
     "id": 5361,
@@ -398,7 +327,7 @@
     "github": null,
     "googleplus": null,
     "twitter": null,
-    "social": []
+    "social": ""
   },
   {
     "id": 3638,
@@ -409,31 +338,7 @@
     "github": "celinegilet",
     "googleplus": null,
     "twitter": "celinegilet",
-    "social": [
-      "https://www.linkedin.com/in/c%C3%A9line-gilet-33794210/"
-    ]
-  },
-  {
-    "id": 2227,
-    "lastname": "Giraud",
-    "firstname": "Nicolas",
-    "imageProfilURL": null,
-    "bio": null,
-    "github": null,
-    "googleplus": null,
-    "twitter": null,
-    "social": []
-  },
-  {
-    "id": 120,
-    "lastname": "Gonzalez",
-    "firstname": "Horacio",
-    "imageProfilURL": null,
-    "bio": null,
-    "github": null,
-    "googleplus": null,
-    "twitter": null,
-    "social": []
+    "social": "https://www.linkedin.com/in/c%C3%A9line-gilet-33794210/"
   },
   {
     "id": 677,
@@ -444,9 +349,7 @@
     "github": "jgrenat",
     "googleplus": null,
     "twitter": "JoGrenat",
-    "social": [
-      "https://twitter.com/JoGrenat"
-    ]
+    "social": "https://twitter.com/JoGrenat"
   },
   {
     "id": 3599,
@@ -457,10 +360,7 @@
     "github": "https://github.com/rikles",
     "googleplus": null,
     "twitter": null,
-    "social": [
-      "http://www.eizhel.fr",
-      "https://www.linkedin.com/in/loicguibert/"
-    ]
+    "social": "http://www.eizhel.fr, https://www.linkedin.com/in/loicguibert/"
   },
   {
     "id": 2252,
@@ -471,11 +371,7 @@
     "github": "https://github.com/SaraHarkousse",
     "googleplus": null,
     "twitter": "@Sara_harkousse",
-    "social": [
-      "https://www.linkedin.com/in/sara-harkousse-90720aa9/?ppe=1",
-      "https://www.facebook.com/profile.php?id=100015174044278",
-      "http://www.saraharkousse.com/"
-    ]
+    "social": "https://www.linkedin.com/in/sara-harkousse-90720aa9/?ppe=1, https://www.facebook.com/profile.php?id=100015174044278, http://www.saraharkousse.com/"
   },
   {
     "id": 3281,
@@ -486,21 +382,7 @@
     "github": "mathieuherbert",
     "googleplus": null,
     "twitter": "MathieuHerbert",
-    "social": [
-      "www.linkedin.com/in/mathieu-herbert-347b0b7a",
-      "https://mathieuherbert.github.io"
-    ]
-  },
-  {
-    "id": 5506,
-    "lastname": "Lamara",
-    "firstname": "Aymen",
-    "imageProfilURL": null,
-    "bio": null,
-    "github": null,
-    "googleplus": null,
-    "twitter": null,
-    "social": []
+    "social": "www.linkedin.com/in/mathieu-herbert-347b0b7a, https://mathieuherbert.github.io"
   },
   {
     "id": 5491,
@@ -511,10 +393,7 @@
     "github": "https://github.com/CaelInria",
     "googleplus": null,
     "twitter": "https://twitter.com/cael35",
-    "social": [
-      "http://caro.landry.free.fr",
-      "https://www.linkedin.com/in/caroline-landry-4328a5"
-    ]
+    "social": "http://caro.landry.free.fr, https://www.linkedin.com/in/caroline-landry-4328a5"
   },
   {
     "id": 5319,
@@ -525,7 +404,7 @@
     "github": "https://github.com/pascallemerrer",
     "googleplus": null,
     "twitter": "@pascallemerrer",
-    "social": []
+    "social": ""
   },
   {
     "id": 1847,
@@ -536,9 +415,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "slecache",
-    "social": [
-      "http://blog.lecacheur.com"
-    ]
+    "social": "http://blog.lecacheur.com"
   },
   {
     "id": 815,
@@ -549,7 +426,7 @@
     "github": "jledentu",
     "googleplus": null,
     "twitter": "jledentu",
-    "social": []
+    "social": ""
   },
   {
     "id": 1061,
@@ -560,9 +437,7 @@
     "github": "nledez",
     "googleplus": null,
     "twitter": "nledez",
-    "social": [
-      "http://blog.ledez.net/"
-    ]
+    "social": "http://blog.ledez.net/"
   },
   {
     "id": 802,
@@ -573,7 +448,7 @@
     "github": "Jean-Michael",
     "googleplus": null,
     "twitter": "jmlegait",
-    "social": []
+    "social": ""
   },
   {
     "id": 3705,
@@ -584,18 +459,7 @@
     "github": "nlepage",
     "googleplus": null,
     "twitter": "njblepage",
-    "social": []
-  },
-  {
-    "id": 255,
-    "lastname": "Leplus",
-    "firstname": "Olivier",
-    "imageProfilURL": null,
-    "bio": null,
-    "github": null,
-    "googleplus": null,
-    "twitter": null,
-    "social": []
+    "social": ""
   },
   {
     "id": 5425,
@@ -606,7 +470,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "@MorganLeroi",
-    "social": []
+    "social": ""
   },
   {
     "id": 3487,
@@ -617,7 +481,7 @@
     "github": "alocquet",
     "googleplus": null,
     "twitter": "@LocquetArnaud",
-    "social": []
+    "social": ""
   },
   {
     "id": 2948,
@@ -628,7 +492,7 @@
     "github": "glours",
     "googleplus": null,
     "twitter": "glours",
-    "social": []
+    "social": ""
   },
   {
     "id": 3658,
@@ -639,9 +503,7 @@
     "github": "clun",
     "googleplus": null,
     "twitter": "@clunven",
-    "social": [
-      "http://ff4j.org"
-    ]
+    "social": "http://ff4j.org"
   },
   {
     "id": 514,
@@ -652,7 +514,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "raphaelluta",
-    "social": []
+    "social": ""
   },
   {
     "id": 476,
@@ -663,10 +525,7 @@
     "github": "https://github.com/Swiip",
     "googleplus": null,
     "twitter": "https://twitter.com/Swiip",
-    "social": [
-      "https://medium.com/aya-experience",
-      "https://www.linkedin.com/in/swiip/"
-    ]
+    "social": "https://medium.com/aya-experience, https://www.linkedin.com/in/swiip/"
   },
   {
     "id": 4383,
@@ -677,7 +536,7 @@
     "github": "noelmace",
     "googleplus": null,
     "twitter": "noel_mace",
-    "social": []
+    "social": ""
   },
   {
     "id": 5334,
@@ -688,7 +547,7 @@
     "github": "https://github.com/atadilo",
     "googleplus": null,
     "twitter": "@Neken13",
-    "social": []
+    "social": ""
   },
   {
     "id": 5258,
@@ -699,9 +558,7 @@
     "github": "Giwi",
     "googleplus": null,
     "twitter": "@XavMarin",
-    "social": [
-      "https://www.linkedin.com/in/xavmarin/"
-    ]
+    "social": "https://www.linkedin.com/in/xavmarin/"
   },
   {
     "id": 3700,
@@ -712,7 +569,7 @@
     "github": "https://github.com/aurelienmaury/",
     "googleplus": null,
     "twitter": "https://twitter.com/aurelienmaury/",
-    "social": []
+    "social": ", blog.wescale.fr, https://gitlab.com/wescalefr-oss"
   },
   {
     "id": 5164,
@@ -723,7 +580,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "https://twitter.com/AlanMenant",
-    "social": []
+    "social": ""
   },
   {
     "id": 3766,
@@ -734,9 +591,7 @@
     "github": "makapuf",
     "googleplus": null,
     "twitter": null,
-    "social": [
-      "bitboxconsole.tk"
-    ]
+    "social": "bitboxconsole.tk"
   },
   {
     "id": 5298,
@@ -745,12 +600,9 @@
     "imageProfilURL": "http://alainmuller.fr/img/amr.png",
     "bio": "Lead Mobile Developer chez AriadNEXT.\n\nD'un passé développeur backend (Java EE), Alain a naturellement été attiré par le\ndéveloppement mobile Android dès sa version _Eclair_, dont il continue de parfaire\nson expertise par le biais d'une veille technologique permanente.\n\nSoucieux de la robustesse du code et de la sécurité des applications, il est un\nfervent adepte du Clean Code et du TDD.",
     "github": "https://github.com/alainmuller",
-    "googleplus": "https://plus.google.com/u/0/+AlainMuller",
+    "googleplus": "",
     "twitter": "https://twitter.com/PsYcKoZ",
-    "social": [
-      "https://www.linkedin.com/in/alainmuller/",
-      "http://www.alainmuller.fr/"
-    ]
+    "social": "https://www.linkedin.com/in/alainmuller/"
   },
   {
     "id": 5152,
@@ -761,7 +613,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "@AnnetLenaNDIAYE",
-    "social": []
+    "social": ""
   },
   {
     "id": 666,
@@ -772,18 +624,7 @@
     "github": "https://github.com/aneveu",
     "googleplus": "https://plus.google.com/+AudreyNeveu",
     "twitter": "https://twitter.com/Audrey_Neveu",
-    "social": []
-  },
-  {
-    "id": 5165,
-    "lastname": "NOURRY",
-    "firstname": "Jordan",
-    "imageProfilURL": null,
-    "bio": null,
-    "github": null,
-    "googleplus": null,
-    "twitter": null,
-    "social": []
+    "social": ""
   },
   {
     "id": 71,
@@ -794,7 +635,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "@MaxOdye",
-    "social": []
+    "social": ""
   },
   {
     "id": 4055,
@@ -805,18 +646,7 @@
     "github": "https://github.com/FabienPaitry",
     "googleplus": null,
     "twitter": "https://twitter.com/FabienPaitry",
-    "social": []
-  },
-  {
-    "id": 1595,
-    "lastname": "Paliès",
-    "firstname": "Jean",
-    "imageProfilURL": null,
-    "bio": null,
-    "github": null,
-    "googleplus": null,
-    "twitter": null,
-    "social": []
+    "social": ""
   },
   {
     "id": 867,
@@ -827,20 +657,7 @@
     "github": "https://github.com/CPatchane",
     "googleplus": null,
     "twitter": "https://twitter.com/CPatchane",
-    "social": [
-      "https://www.linkedin.com/in/cédric-patchane-lacane-52484889/"
-    ]
-  },
-  {
-    "id": 5530,
-    "lastname": "Piroelle",
-    "firstname": "Arnaud",
-    "imageProfilURL": null,
-    "bio": null,
-    "github": null,
-    "googleplus": null,
-    "twitter": null,
-    "social": []
+    "social": "https://www.linkedin.com/in/cédric-patchane-lacane-52484889/"
   },
   {
     "id": 106,
@@ -851,21 +668,7 @@
     "github": "https://github.com/d-plaindoux",
     "googleplus": null,
     "twitter": "https://twitter.com/dplaindoux",
-    "social": []
-  },
-  {
-    "id": 2036,
-    "lastname": "PRIOUX",
-    "firstname": "Benoit",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/1837967933/large_145584_400x400.png",
-    "bio": "Je suis Technical Leader au centre R&D de Lectra, éditeur de logiciel dans le monde de la mode, à Bordeaux. Je suis un développeur Java depuis 2005, et membre du bureau du Bordeaux JUG. Impliqué dans le projet open-source Asciidoctor, je suis aussi passionné par tout ce qui finit en DD : TDD, BDD, DDD, ...",
-    "github": "binout",
-    "googleplus": null,
-    "twitter": "binout",
-    "social": [
-      "http://binout.github.io/",
-      "http://binout.github.io/javaonemorething/"
-    ]
+    "social": ""
   },
   {
     "id": 5345,
@@ -876,9 +679,7 @@
     "github": "https://github.com/letsar",
     "googleplus": null,
     "twitter": "@lets4r",
-    "social": [
-      "https://medium.com/@lets4r"
-    ]
+    "social": "https://medium.com/@lets4r"
   },
   {
     "id": 976,
@@ -889,9 +690,7 @@
     "github": "https://github.com/fgribreau",
     "googleplus": "https://plus.google.com/u/0/+FrancoisGuillaumeRibreau",
     "twitter": "FGRibreau",
-    "social": [
-      "http://blog.fgribreau.com/"
-    ]
+    "social": "http://blog.fgribreau.com/"
   },
   {
     "id": 5405,
@@ -902,12 +701,7 @@
     "github": "fxrobin",
     "googleplus": null,
     "twitter": "fxrobin75",
-    "social": [
-      "https://www.fxjavadevblog.fr/fr/",
-      "https://stackoverflow.com/users/3017541/fxrobin",
-      "https://fxrobin.developpez.com/tutoriels/java/singleton-patron-conception/",
-      "https://fxrobin.developpez.com/tutoriels/java/lombok-retour-experience/"
-    ]
+    "social": "https://www.fxjavadevblog.fr/fr/, https://stackoverflow.com/users/3017541/fxrobin, https://fxrobin.developpez.com/tutoriels/java/singleton-patron-conception/, https://fxrobin.developpez.com/tutoriels/java/lombok-retour-experience/"
   },
   {
     "id": 5233,
@@ -918,9 +712,7 @@
     "github": "https://github.com/VanRoy",
     "googleplus": null,
     "twitter": "https://twitter.com/vanr0y",
-    "social": [
-      "https://www.linkedin.com/in/j-vanroy/"
-    ]
+    "social": "https://www.linkedin.com/in/j-vanroy/"
   },
   {
     "id": 5231,
@@ -931,7 +723,7 @@
     "github": "https://github.com/PierreRust",
     "googleplus": null,
     "twitter": "PierreRust",
-    "social": []
+    "social": ""
   },
   {
     "id": 5559,
@@ -942,7 +734,7 @@
     "github": "brunosabot",
     "googleplus": null,
     "twitter": "brunosabot",
-    "social": []
+    "social": ""
   },
   {
     "id": 3376,
@@ -953,7 +745,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "@scauglog",
-    "social": []
+    "social": ""
   },
   {
     "id": 1581,
@@ -964,7 +756,7 @@
     "github": "https://github.com/savoisn",
     "googleplus": "",
     "twitter": "@nicosavois",
-    "social": []
+    "social": ""
   },
   {
     "id": 5444,
@@ -975,7 +767,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "@edseeya",
-    "social": []
+    "social": ""
   },
   {
     "id": 4450,
@@ -986,10 +778,7 @@
     "github": "https://github.com/Amagash",
     "googleplus": null,
     "twitter": "tiffanysouterre",
-    "social": [
-      "https://amagash.github.io/",
-      "https://medium.com/@tiffanysouterre"
-    ]
+    "social": "https://amagash.github.io/, https://medium.com/@tiffanysouterre"
   },
   {
     "id": 191,
@@ -1000,7 +789,7 @@
     "github": "https://github.com/fteychene",
     "googleplus": "https://plus.google.com/u/0/+Fran%C3%A7oisTeychene",
     "twitter": "https://twitter.com/fteychene",
-    "social": []
+    "social": ""
   },
   {
     "id": 2698,
@@ -1011,7 +800,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "@ptibulle",
-    "social": []
+    "social": ""
   },
   {
     "id": 4146,
@@ -1022,21 +811,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "@JulienTopcu",
-    "social": [
-      "https://www.linkedin.com/in/julien-top%C3%A7u/",
-      "https://beyondxscratch.com"
-    ]
-  },
-  {
-    "id": 5395,
-    "lastname": "Travers",
-    "firstname": "Benoit",
-    "imageProfilURL": null,
-    "bio": null,
-    "github": null,
-    "googleplus": null,
-    "twitter": null,
-    "social": []
+    "social": "https://www.linkedin.com/in/julien-top%C3%A7u/, https://beyondxscratch.com"
   },
   {
     "id": 3142,
@@ -1047,22 +822,7 @@
     "github": "https://github.com/xvw",
     "googleplus": null,
     "twitter": "https://twitter.com/vdwxv",
-    "social": [
-      "https://xvw.github.io",
-      "https://github.com/lillefp/talks/blob/master/README.md",
-      "http://xvw.github.io/talks/"
-    ]
-  },
-  {
-    "id": 5149,
-    "lastname": "Viley",
-    "firstname": "Marie",
-    "imageProfilURL": null,
-    "bio": null,
-    "github": null,
-    "googleplus": null,
-    "twitter": null,
-    "social": []
+    "social": "https://xvw.github.io, https://github.com/lillefp/talks/blob/master/README.md, http://xvw.github.io/talks/"
   },
   {
     "id": 2136,
@@ -1073,7 +833,7 @@
     "github": null,
     "googleplus": null,
     "twitter": "@vincent_vimard",
-    "social": []
+    "social": ""
   },
   {
     "id": 5235,
@@ -1084,6 +844,6 @@
     "github": "fvln",
     "googleplus": null,
     "twitter": null,
-    "social": []
+    "social": ""
   }
 ]
