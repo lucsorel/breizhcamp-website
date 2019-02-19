@@ -332,3 +332,7 @@ div#post-content img {
 .speaker-bio {
   margin-top: 10px;
 }
+
+.ng-hide {
+  display: none;
+}

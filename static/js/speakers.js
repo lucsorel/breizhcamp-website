@@ -4,6 +4,8 @@
     angular.module('speakers', ['ngSanitize', 'hc.marked', 'ngLocale', 'ngAnimate', 'ui.bootstrap'])
         .controller('SpeakersCtrl', ['$scope', '$http', '$q', 'marked', '$window', function($scope, $http, $q, marked, $window) {
 
+            this.loading = true;
+
             var refresh = this.refresh = function() {
                 // TODO
             };
@@ -39,6 +41,7 @@
                     }
                 });
                 this.speakers = speakers;
+                this.loading = false;
             }.bind(this));
         }])
         .config(function($interpolateProvider) {
