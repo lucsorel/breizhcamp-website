@@ -164,7 +164,7 @@
                                 format: talk.format,
                                 category: talk.event_type,
                                 description: talk.description,
-                                speakers: talk.speakers,
+                                speakers: talk.speakers ? talk.speakers.replace(/, $/, '') : '',
                                 start: talk.event_start,
                                 end: talk.event_end,
                                 color: categoryColors[talk.event_type],
