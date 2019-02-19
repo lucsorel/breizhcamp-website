@@ -110,6 +110,17 @@
     "social": "https://www.linkedin.com/in/francoisbouteruche"
   },
   {
+    "id": 5379,
+    "lastname": "Boutros",
+    "firstname": "Ludovic",
+    "imageProfilURL": null,
+    "bio": "Développeur passionné depuis 17 ans principalement sur des sujets autour des données (Search, Big Data).\nFormateur Elasticsearch, Apache Solr, MongoDB.\nProf' à l'ESIR à Rennes.",
+    "github": null,
+    "googleplus": null,
+    "twitter": "@LudovicBoutros",
+    "social": ""
+  },
+  {
     "id": 5527,
     "lastname": "Brault",
     "firstname": "Sébastien",
@@ -242,6 +253,17 @@
     "social": ""
   },
   {
+    "id": 5153,
+    "lastname": "Deest",
+    "firstname": "Gaël",
+    "imageProfilURL": null,
+    "bio": "Gaël Deest est ingénieur logiciel chez Tweag I/O. Passionné d'informatique depuis toujours, la découverte de la programmation fonctionnelle, via notamment le langage Haskell, a profondément influencé sa vision de l'activité de développement. Depuis lors, il n'a de cesse de rendre le monde déclaratif et composable. Co-organisateur du meetup Lambda Rennes, il est l'auteur d'une thèse sur la conception d'accélérateurs matériel.",
+    "github": "gdeest",
+    "googleplus": null,
+    "twitter": "@gael_deest",
+    "social": ""
+  },
+  {
     "id": 3074,
     "lastname": "Deleplace",
     "firstname": "Valentin",
@@ -284,6 +306,28 @@
     "googleplus": "https://plus.google.com/116594204026574633482",
     "twitter": "@decode_dev",
     "social": "https://medium.com/@decode_dev/"
+  },
+  {
+    "id": 5340,
+    "lastname": "DMYTRYK",
+    "firstname": "Alexis",
+    "imageProfilURL": null,
+    "bio": "Responsable d'une équipe de dev (BackEnd & FontEnd).\n\nJe suis avant tout passionné par les nouvelles technologies et développeur Java.",
+    "github": null,
+    "googleplus": null,
+    "twitter": "@AlexisD54",
+    "social": ""
+  },
+  {
+    "id": 3881,
+    "lastname": "Dufour",
+    "firstname": "Charles",
+    "imageProfilURL": "",
+    "bio": "Développeur Scala passionné !",
+    "github": "https://github.com/charlescd",
+    "googleplus": null,
+    "twitter": "https://twitter.com/_cdufour",
+    "social": "https://www.linkedin.com/in/charlesdufour/"
   },
   {
     "id": 5236,
@@ -341,6 +385,28 @@
     "social": "https://www.linkedin.com/in/c%C3%A9line-gilet-33794210/"
   },
   {
+    "id": 2227,
+    "lastname": "Giraud",
+    "firstname": "Nicolas",
+    "imageProfilURL": "https://lh3.googleusercontent.com/-cc1mcrhDQTw/AAAAAAAAAAI/AAAAAAAACsY/m9eXgjM5unA/photo.jpg",
+    "bio": "Développeur  passionné, Nicolas évolue depuis 10 ans essentiellement sur des projets Java (EE).\n\nAddict aux outils innovants et sensible aux pratiques agiles, c'est d'abord avec les notions de CD/CI qu'il aborde ces notions d'amélioration continue, puis plus récemment dans la mouvance DevOps, où il trouve refuge !\n\nC'est finalement dans un rôle de Tech lead qu'il intervient, et tente (parfois avec succès) de faciliter la vie de ses co-developpeurs dans l'esprit bienveillant du Software Crafter.",
+    "github": "https://github.com/arcanneero",
+    "googleplus": null,
+    "twitter": "https://twitter.com/nicgiro",
+    "social": "https://www.linkedin.com/in/nicolas-giraud-17a44383/"
+  },
+  {
+    "id": 120,
+    "lastname": "Gonzalez",
+    "firstname": "Horacio",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/806981539431071744/m6tjCaAI_400x400.jpg",
+    "bio": "Malgré ce que son accent espagnol bien prononcé peut suggérer, Horacio est arrivé en France il y a une quinzaine d'années déjà. Passionné d'informatique, dans laquelle il est tombé depuis tout petit, il a découvert Java en 1997 et depuis il n'a pas arrêté de bosser autour. \n\nAprès quelques années comme tech leader de la partie frontend de @warp10io chez Cityzen Data, Horacio a rejoint OVH en janvier 2018 en tant que Developer Advocate. Il est aussi leader et cofondateur du FinistDevs et du GDG Finistère, le GDG francophone le plus proche de la Silicon Valley. \n\nPassionné par le développement web et tout ce qui gravite autour des composants web, Horacio est Google Developer Expert (GDE) en Web Technologies et Polymer.",
+    "github": "https://github.com/LostInBrittany",
+    "googleplus": "https://plus.google.com/+lostinbrittany",
+    "twitter": "https://twitter.com/LostInBrittany",
+    "social": ""
+  },
+  {
     "id": 677,
     "lastname": "Grenat",
     "firstname": "Jordane",
@@ -356,7 +422,7 @@
     "lastname": "Guibert",
     "firstname": "Loïc",
     "imageProfilURL": "https://avatars1.githubusercontent.com/u/1597665?s=460&v=4",
-    "bio": "_Archi-Développeur_ Java EE, Linuxien et libriste.  \nJe suis président de la société Eizhel.",
+    "bio": "_Archi-Développeur_ Java EE (entre autres), Linuxien et libriste.  \nPassionné et touche à tout, je suis consultant et président de la société Eizhel.",
     "github": "https://github.com/rikles",
     "googleplus": null,
     "twitter": null,
@@ -383,6 +449,17 @@
     "googleplus": null,
     "twitter": "MathieuHerbert",
     "social": "www.linkedin.com/in/mathieu-herbert-347b0b7a, https://mathieuherbert.github.io"
+  },
+  {
+    "id": 5506,
+    "lastname": "Lamara",
+    "firstname": "Aymen",
+    "imageProfilURL": "https://www.google.com/search?q=aymen+lamara+wescale&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiupbu7wsXgAhURohQKHeRvCA4Q_AUIDygC&biw=1440&bih=726&dpr=2#imgrc=HTv7XpE9P-5JtM:",
+    "bio": "Cloud Builder chez Wescale, \nSes domaines de prédilections : DevOps, automatisation, architecture et plateformes Cloud. \nSon credo : “ It works, doesn't mean Done\"",
+    "github": null,
+    "googleplus": null,
+    "twitter": null,
+    "social": "https://blog.wescale.fr/, https://www.linkedin.com/feed/, https://blog.wescale.fr/author/aymen-lamara/"
   },
   {
     "id": 5491,
@@ -460,6 +537,17 @@
     "googleplus": null,
     "twitter": "njblepage",
     "social": ""
+  },
+  {
+    "id": 255,
+    "lastname": "Leplus",
+    "firstname": "Olivier",
+    "imageProfilURL": "https://tagazok.github.io/assets/images/avatar.jpg",
+    "bio": "My day to day my mission is to help developers create successful and quality apps.\nAs a passionate web developer, I am always discovering and playing with new web technologies !",
+    "github": "https://github.com/tagazok",
+    "googleplus": null,
+    "twitter": "https://twitter.com/olivierleplus",
+    "social": "https://www.linkedin.com/in/olivierleplus/, https://tagazok.github.io/"
   },
   {
     "id": 5425,
@@ -627,6 +715,17 @@
     "social": ""
   },
   {
+    "id": 5165,
+    "lastname": "Nourry",
+    "firstname": "Jordan",
+    "imageProfilURL": "https://cdn-images-1.medium.com/max/1200/1*JLXsTgig5zk10f0zQVKZ_A.png",
+    "bio": "Développeur senior à La Combe du Lion Vert, j'accompagne aujourd'hui SGCIB (Société générale Corporate and Investment Banking) sur la migration de leurs applications vers du microservice avec de l'architecture hexagonale.\n\nEn tant que craftsman, j'essaye maintenant à travers mes articles (publié sur Programmez Magazine) et talks au sein de La Combe du Lion Vert (Arolla), de redistribuer les connaissances acquises, ainsi que les leçons que j'en retire.",
+    "github": null,
+    "googleplus": null,
+    "twitter": "@JkNourry",
+    "social": ""
+  },
+  {
     "id": 71,
     "lastname": "Odye",
     "firstname": "Maxime",
@@ -649,6 +748,17 @@
     "social": ""
   },
   {
+    "id": 1595,
+    "lastname": "Paliès",
+    "firstname": "Jean",
+    "imageProfilURL": null,
+    "bio": "Développeur Java depuis 12 ans, indépendant. Ça, c'est en temps normal. Le reste c'est scratch, blockly, robots, devoxx4kids, coding goûters, Cap sur le code, et diversité.",
+    "github": null,
+    "googleplus": null,
+    "twitter": "@jpalies",
+    "social": ""
+  },
+  {
     "id": 867,
     "lastname": "PATCHANE",
     "firstname": "Cédric",
@@ -658,6 +768,17 @@
     "googleplus": null,
     "twitter": "https://twitter.com/CPatchane",
     "social": "https://www.linkedin.com/in/cédric-patchane-lacane-52484889/"
+  },
+  {
+    "id": 5530,
+    "lastname": "Piroelle",
+    "firstname": "Arnaud",
+    "imageProfilURL": "http://www.gravatar.com/avatar/30ec4b67bbc47f7476c20a290f1773db",
+    "bio": "Originaire du monde Java, maintenant développeur Android et adepte de Kotlin, Arnaud est passionné par tout ce qui tourne autour de la plateforme Android.",
+    "github": "https://github.com/arnaudpiroelle",
+    "googleplus": null,
+    "twitter": "@ArnaudPiroelle",
+    "social": ""
   },
   {
     "id": 106,
@@ -814,6 +935,17 @@
     "social": "https://www.linkedin.com/in/julien-top%C3%A7u/, https://beyondxscratch.com"
   },
   {
+    "id": 5395,
+    "lastname": "Travers",
+    "firstname": "Benoit",
+    "imageProfilURL": null,
+    "bio": "Développeur touche à tout et formateur chez Zenika Rennes.",
+    "github": "https://github.com/btravers",
+    "googleplus": null,
+    "twitter": "https://twitter.com/Benoit_Travers",
+    "social": ""
+  },
+  {
     "id": 3142,
     "lastname": "Van de Woestyne",
     "firstname": "Xavier",
@@ -823,6 +955,28 @@
     "googleplus": null,
     "twitter": "https://twitter.com/vdwxv",
     "social": "https://xvw.github.io, https://github.com/lillefp/talks/blob/master/README.md, http://xvw.github.io/talks/"
+  },
+  {
+    "id": 5545,
+    "lastname": "Vergne",
+    "firstname": "Eric",
+    "imageProfilURL": null,
+    "bio": "Python addict and DNS developper !",
+    "github": null,
+    "googleplus": null,
+    "twitter": null,
+    "social": ""
+  },
+  {
+    "id": 5149,
+    "lastname": "Viley",
+    "firstname": "Marie",
+    "imageProfilURL": null,
+    "bio": "Recruteuse chez Zenika, je me suis toujours intéressée à la communication non verbale et aux mécanismes d’influence et de prise de décision. \nCe qui me motive, c’est de comprendre au mieux les gens et de pouvoir échanger avec eux. \nFan des conférences TED et  #TRU je suis constamment en veille sur le recrutement, le RGPD et les nouveautés tech.\nJ’aime également le métal, la bière et Dikkenek ^^",
+    "github": "https://github.com/Mayie",
+    "googleplus": null,
+    "twitter": "@marie_viley",
+    "social": ""
   },
   {
     "id": 2136,
