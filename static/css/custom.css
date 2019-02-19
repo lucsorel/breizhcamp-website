@@ -328,3 +328,7 @@ div#post-content img {
   font-family: monospace;
   color: #c85d1b;
 }
+
+.speaker-bio {
+  margin-top: 10px;
+}
