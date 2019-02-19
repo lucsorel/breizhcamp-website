@@ -143,7 +143,7 @@
                     });
 
             $q.all([
-                $http.get('/json/others.json'),
+                $http.get('/json/talks_others.json'),
                 http_talks
             ]).then(function(responses) {
                 return [].concat(responses[0].data, responses[1].data);
