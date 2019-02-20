@@ -62,7 +62,7 @@ mail, à sponsoring@breizhcamp.org pour obtenir notre dossier de sponsoring.
 
 # Les présentations sont-elles filmées ?
 
-Certaines sessions seront filmées et nous essayerons de les mettre à disposition
+De nombreuses sessions seront filmées et nous les mettrons à disposition
 sur notre [chaîne YouTube](https://www.youtube.com/user/BreizhCamp).
 
 # Dois-je emmener un ordinateur ?
