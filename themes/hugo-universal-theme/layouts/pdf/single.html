@@ -38,7 +38,7 @@
         }).concat([fetch('/img/program-background.png'),
             fetch('/font/fontawesome-webfont.ttf'),
             fetch('/font/Symbola_hint.ttf'),
-            fetch('/font/BTTF.ttf')].map(function(promise) {
+            fetch('/font/GHOSTBUS.ttf')].map(function(promise) {
             return promise.then(function(response) {
                 return response.arrayBuffer();
             })
@@ -77,13 +77,13 @@
                 timeFormat = 'H:mm';
 
             var breakingBadDays = {
-                dimanche: '>DIMANCHE<',
-                lundi: '>LUNDI<',
-                mardi: '>MARDI<',
-                mercredi: '>MERCREDI<',
-                jeudi: '>JEUDI<',
-                vendredi: '>VENDREDI<',
-                samedi: '>SAMEDI<'
+                dimanche: 'DIMANCHE',
+                lundi: 'LUNDI',
+                mardi: 'MARDI',
+                mercredi: 'MERCREDI',
+                jeudi: 'JEUDI',
+                vendredi: 'VENDREDI',
+                samedi: 'SAMEDI'
             };
 
             doc.font('Helvetica');
@@ -135,7 +135,7 @@
                     return moment(a, timeFormat).isBefore(moment(b, timeFormat)) ? -1 : 1;
                 }).forEach(function(time) {
                     var slot = daySchedule[time];
-                    doc.font('Helvetica-Bold').moveDown(0.5).text(time, 5, null, {
+                    doc.font('Helvetica-Bold').fontSize(6).moveDown(0.5).text(time, 5, null, {
                         width: 20,
                         align: 'right'
                     });
@@ -143,14 +143,20 @@
                         if (!index) {
                             doc.moveUp();
                         }
-                        doc.font('Helvetica-Oblique').text(event.venue, 30, null);
+                        doc.font('Helvetica-Oblique').fontSize(6).text(event.venue, 30, null);
                         doc.moveUp(0.22)
                         doc.font(emojiFontBuffer).text(event.name, 60, null, {
                             width: a6Widht - 70,
                             continued: true
                         });
                         var duration = moment.duration(event.event_end.diff(event.event_start)).asMinutes();
-                        doc.fillColor('grey').text(' (' + duration + ' min)');
+                        var speakerAndTime = ' ('
+                        if (event.speakers) {
+                            speakerAndTime += (event.speakers.split(/, /).filter(Boolean).join(', ') + ' – ');
+                        }
+                        speakerAndTime += (duration + ' min)');
+                        doc.moveDown(0.1)
+                        doc.fontSize(5).fillColor('grey').text(speakerAndTime)
                         doc.moveDown(0.22)
                         doc.fillColor('black');
                     });
