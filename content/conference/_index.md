@@ -4,7 +4,7 @@ title = "Conférence"
 
 # Plan du lieu
 
-Si vous cherchez comment venir, c'est expliqué [ici]({{< ref "venir.md" >}}).
+Si vous cherchez comment vous rendre au BreizhCamp, c'est expliqué [ici](/faq/#comment-me-rendre-au-breizhcamp).
 
 {{<figure src="/img/plan-lieu.png" title="Plan du batiment 2A" class="figure-center">}}
 

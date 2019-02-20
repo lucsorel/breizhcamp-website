@@ -104,11 +104,6 @@ paginate = 10
     url  = "/conference/programme/"
     weight = 3
 
-# [[params.menu]]
-#     name = "Venir"
-#     url  = "/venir/"
-#     weight = 4
-
 [[params.menu]]
     name = "Sponsors"
     url  = "/sponsors/"

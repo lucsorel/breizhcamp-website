@@ -7,15 +7,64 @@ title = "FAQ"
 La 9ème édition du BreizhCamp aura lieu du 20 à 22 mars 2019. Elle se tiendra
 dans le bâtiment 2A de l’Université Rennes 1 comme en 2018.
 
+{{<figure src="/img/plan-acces.png" title="Plan de l'université" class="figure-center" link="http://www.openstreetmap.org/export#map=18/48.11611/-1.63752" target="_blank">}}
+
+L'adresse exacte est :
+
+> Université de Rennes 1, Campus de Beaulieu
+
+> 263, avenue du Général Leclerc
+
+> 35042 RENNES
+
+# Comment me rendre au BreizhCamp ?
+
+Le bus vous permet de vous rendre facilement sur place depuis…
+
+* … la station __RÉPUBLIQUE__ située au centre-ville de Rennes. Vous pourrez y
+emprunter, au choix :
+
+  * la ligne
+  [C4](https://data.explore.star.fr/explore/dataset/mkt-information-documents-td/files/0397ad02cc7cdeca3d390b74fe7c09b0/download/),
+  direction __ZA SAINT-SULPICE__
+
+  * la ligne
+  [C6](https://data.explore.star.fr/explore/dataset/mkt-information-documents-td/files/7b560c6a392dd1abed8aa470d2fe5888/download/),
+  direction __CESSON-SÉVIGNÉ__.
+
+* … la gare SNCF :
+
+  * Il est possible, le matin entre 7H30 et 9H, d'emprunter la ligne express
+  [41ex](https://data.explore.star.fr/explore/dataset/mkt-information-documents-td/files/6530dd44c4ef24af5095d2b13614cab7/download/)
+  direction __CHAMPS BLANCS__
+
+  * En dehors de cette période, le plus simple est de prendre le métro direction
+  __KENNEDY__ jusqu'à __RÉPUBLIQUE__ avant d'emprunter l'un des bus indiqués
+  ci-dessus.
+
+Dans tous les cas, pensez simplement à descendre à l'arrêt __TOURNEBRIDE__ !
+
 # Combien de temps dure le BreizhCamp ?
 
 Le BreizhCamp se déroule sur 3 jours :
 
-* le mercredi 29 mars est consacré à des sessions de type "introduction à...",
+* le mercredi 20 mars est consacré à des sessions de type "introduction à...",
 des formats plus longs et des ateliers pour prendre en main une technologie
 * le jeudi 21 et le vendredi 22 mars regroupent toutes les sessions de
 conférence, pour balayer toutes les nouveautés et tous les écosystèmes en un
 temps record.
+
+# Quels sont les tarifs ?
+
+Les tarifs suivants sont proposés :
+
+* formules 2 ou 3 jours :
+    * billet **« Combo »** (3 jours) : 90 € ;
+    * billet **« Conférences »** (2 jours, jeudi et vendredi) : 75 €.
+* billets à la journée :
+    * billet **mercredi** : 30 € ;
+    * billet **jeudi** : 45 € ;
+    * billet **vendredi** : 35 €.
 
 # Comment acheter un billet ?
 
@@ -40,7 +89,8 @@ limitons les invitations à 2 speakers par session.
 À l'issue de l'achat de votre billet, vous avez reçu un email de confirmation
 dans lequel figure un lien pour éditer le billet.
 
-Ce lien vous permet d'annuler votre participation et de vous faire rembourser votre achat. Le remboursement est possible jusqu'à **14 jours** avant
+Ce lien vous permet d'annuler votre participation et de vous faire rembourser
+votre achat. Le remboursement est possible jusqu'à **14 jours** avant
 l'événement, avec une retenue de **1 €**.
 
 Si plutôt que vous faire rembourser vous souhaitez céder votre place à
@@ -87,7 +137,8 @@ son billet.
 Venez avec vos codes WiFi à la conférence, ils vous seront nécessaires pour vous
 identifier sur le réseau.
 
-**Attention : l’équipe du BreizhCamp ne gère pas cet accès Wi-Fi, donc pas la peine de nous demander vos comptes et mots de passe, nous ne les avons pas.**
+**Attention** : l’équipe du BreizhCamp ne gère pas cet accès Wi-Fi, donc inutile
+de nous demander vos comptes et mots de passe, nous ne les avons pas.
 
 # Y-a-t'il de quoi se restaurer sur place ?
 
