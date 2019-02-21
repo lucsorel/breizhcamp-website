@@ -79,25 +79,25 @@ paginate = 10
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
-[[params.menu]]
-    name = "CFP"
-    url  = "https://breizhcamp.cfp.io"
-    target = "_blank"
-    image= "https://breizhcamp.cfp.io/images/logo.png"
+#[[params.menu]]
+#    name = "CFP"
+#    url  = "https://breizhcamp.cfp.io"
+#    target = "_blank"
+#    image= "https://breizhcamp.cfp.io/images/logo.png"
+##    label= '<span class="label label-default">Clos</span>'
 #    label= '<span class="label label-default">Clos</span>'
-    label= '<span class="label label-default">Clos</span>'
-    weight = 1
+#    weight = 1
 
 [[params.menu]]
     name = "Conférence"
     url  = "/conference"
     weight = 2
 
-#[[params.menu]]
-#    name = "Billetterie"
-#    url  = "https://www.billetweb.fr/breizhcamp-2019"
-#    target = "_blank"
-#    weight = 2
+[[params.menu]]
+    name = "Billetterie"
+    url  = "https://www.billetweb.fr/breizhcamp-2019"
+    target = "_blank"
+    weight = 2
 
 [[params.menu]]
     name = "Programme"
