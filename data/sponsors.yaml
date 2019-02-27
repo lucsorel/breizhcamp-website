@@ -23,6 +23,7 @@ items:
   - name: "SII"
     logo: "/img/sponsors/logo_sii.png"
     url: "http://www.sii.fr/fr/"
+    asso_level: "usergroup"
     breizhcamp_level: "platinum"
 
   - name: "Zenika"
@@ -36,6 +37,7 @@ items:
   - name: "Conserto"
     logo: "/img/sponsors/logo_concerto.png"
     url: "https://www.conserto.pro"
+    asso_level: "usergroup"
     breizhcamp_level: "gold"
 
   - name: "Claranet"
@@ -193,7 +195,6 @@ items:
     logo: "/img/sponsors/logo_orange.png"
     url: "https://www.orange.com"
     asso_level: "usergroup"
-
 
 
   # ========== OLD ==========
