@@ -14,6 +14,20 @@
     "description": "Internet et droits humains, il y a vraiment un rapport ?"
   },
   {
+    "name": "Keynote d'ouverture",
+    "event_start": "2019-03-21T18:05:00",
+    "event_end": "2019-03-21T18:30:00",
+    "event_key": "tobedefined",
+    "event_type": "Keynote",
+    "format": "Keynote",
+    "venue": "Amphi C",
+    "speakers": "Équipe BreizhCamp, ...surprise",
+    "video_url": null,
+    "files_url": null,
+    "slides_url": null,
+    "description": "Internet et droits humains, il y a vraiment un rapport ?"
+  },
+  {
     "name": "Meet'n Greet",
     "event_start": "2019-03-21T18:30:00",
     "event_end": "2019-03-21T20:30:00",
@@ -45,7 +59,7 @@
     "event_type": "Keynote",
     "format": "Keynote",
     "venue": "Amphi C",
-    "speakers": "Équipe BreizhCamp",
+    "speakers": "Équipe BreizhCamp, ...surprise",
     "video_url": null,
     "files_url": null,
     "slides_url": null,
