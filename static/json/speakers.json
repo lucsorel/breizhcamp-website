@@ -22,17 +22,6 @@
     "social": ""
   },
   {
-    "id": 1645,
-    "lastname": "Antoine",
-    "firstname": "Cailly",
-    "imageProfilURL": "https://gist.github.com/acailly/365616a4b59c6c8c71772c0ce7dac7f7/raw/1e4e69401f1eac7713a6672dfdce78aa5136fbe9/profil2.jpg",
-    "bio": "Développeur et formateur au sein de l'agence Rennaise de Zenika.\nJe suis le fil de ma curiosité pour approfondir des sujets divers.",
-    "github": "acailly",
-    "googleplus": null,
-    "twitter": "@AntoineCailly",
-    "social": "https://github.com/acailly"
-  },
-  {
     "id": 1436,
     "lastname": "Aresti",
     "firstname": "Katia",
@@ -91,7 +80,7 @@
     "id": 124,
     "lastname": "Bossard",
     "firstname": "Cécilia",
-    "imageProfilURL": "https://www.dropbox.com/s/jo8x92bany93i9v/Cecilia%20Bossard.jpg?dl=0",
+    "imageProfilURL": "https://avatars2.githubusercontent.com/u/3694254?v=3&s=400",
     "bio": "Développeuse, agiliste, boîte à outils, petit lutin du logiciel libre à Code Lutin",
     "github": "https://github.com/cbossard",
     "googleplus": null,
@@ -152,6 +141,17 @@
     "googleplus": null,
     "twitter": "@rodbung",
     "social": ""
+  },
+  {
+    "id": 1645,
+    "lastname": "Cailly",
+    "firstname": "Antoine",
+    "imageProfilURL": "https://gist.github.com/acailly/365616a4b59c6c8c71772c0ce7dac7f7/raw/1e4e69401f1eac7713a6672dfdce78aa5136fbe9/profil2.jpg",
+    "bio": "Développeur et formateur au sein de l'agence Rennaise de Zenika.\nJe suis le fil de ma curiosité pour approfondir des sujets divers.",
+    "github": "acailly",
+    "googleplus": null,
+    "twitter": "@AntoineCailly",
+    "social": "https://github.com/acailly"
   },
   {
     "id": 615,
@@ -224,7 +224,7 @@
     "lastname": "Davin",
     "firstname": "Kevin",
     "imageProfilURL": "https://avatars0.githubusercontent.com/u/1970922?v=3&s=460",
-    "bio": "Développeur full-stack depuis... toujours, je suis aujourd'hui spécialisé côté front-end sur Angular depuis sa version 1.2. Formateur dans une grande ESN, j'ai dispensé près de 1200h de formations technique sur AngularJS et Angular.\n\nEn parallèle, je suis fondateur avec @shprink de l'AngularToulouse devenu depuis quelque mois le GDGToulouse (suite à un rapprochement avec le Toulouse AndroidUserGroup) et du ToulouseJUG. De plus, je fais partie de l'équipe du DevFest Toulouse depuis son démarrage.\n\nActuellement en mission chez Airbus, je suis Tech-Lead pour le développement de toutes les applications front basées sur Angular. Je continue donc à former, aider, orienter et guider des devs dans l'environnement Angular",
+    "bio": "Google Developer Expert on GCP, I am above all passionate about tech, languages, infrastructure, and automation. \n\nJava, Kotlin, Go, Javascript or TypeScript are my day-to-day languages. I deploy all of those on the Google Kubernetes Engine with the Continuous Integration of Gitlab 🚀. \n\nI'm currently CTO (and one of the founder) of Stack Labs, a company specialized in architecture and development of cloud solution. I supervise about twenty passionate and talented developers in their missions and during our internal events",
     "github": "davinkevin",
     "googleplus": "davinkevin",
     "twitter": "davinkevin",
@@ -421,7 +421,7 @@
     "id": 3599,
     "lastname": "Guibert",
     "firstname": "Loïc",
-    "imageProfilURL": "https://avatars1.githubusercontent.com/u/1597665?s=460&v=4",
+    "imageProfilURL": "https://www.eizhel.fr/img/lgu_rect_200px.png",
     "bio": "_Archi-Développeur_ Java EE (entre autres), Linuxien et libriste.  \nPassionné et touche à tout, je suis consultant et président de la société Eizhel.",
     "github": "https://github.com/rikles",
     "googleplus": null,
@@ -429,15 +429,15 @@
     "social": "http://www.eizhel.fr, https://www.linkedin.com/in/loicguibert/"
   },
   {
-    "id": 2252,
-    "lastname": "HARKOUSSE",
-    "firstname": "Sara",
-    "imageProfilURL": "https://pbs.twimg.com/profile_images/841576720411025408/5fXWzuM-.jpg",
-    "bio": "Sara Harkousse est Développeuse web front-end et client riche chez Dassault Systèmes (CATIA), Oratrice dans des Conférences Tech comme Devoxx France, DevFest, BlendWebMix, Js Kongress, United Dev Conf, jFokus ..., et une des leaders de \"Duchesse France\". La diversité du genre dans le paysage technologique est l'une de ses batailles, c'est pourquoi elle n'hésite pas à organiser des meetups pour faire connaître les dernières technologies ou simplement partager son expérience de développeuse.",
-    "github": "https://github.com/SaraHarkousse",
+    "id": 5358,
+    "lastname": "Guiheux",
+    "firstname": "Steven",
+    "imageProfilURL": null,
+    "bio": "Développeur",
+    "github": "https://github.com/sguiheux",
     "googleplus": null,
-    "twitter": "@Sara_harkousse",
-    "social": "https://www.linkedin.com/in/sara-harkousse-90720aa9/?ppe=1, https://www.facebook.com/profile.php?id=100015174044278, http://www.saraharkousse.com/"
+    "twitter": "https://twitter.com/sguiheux",
+    "social": ""
   },
   {
     "id": 3281,
@@ -484,6 +484,17 @@
     "social": ""
   },
   {
+    "id": 5362,
+    "lastname": "Le Terrier",
+    "firstname": "Richard",
+    "imageProfilURL": null,
+    "bio": null,
+    "github": null,
+    "googleplus": null,
+    "twitter": null,
+    "social": null
+  },
+  {
     "id": 1847,
     "lastname": "LECACHEUR",
     "firstname": "Sébastien",
@@ -521,7 +532,7 @@
     "lastname": "Legait",
     "firstname": "Jean-Michael",
     "imageProfilURL": "http://rivieradev.fr/application/orgaphoto?id=24",
-    "bio": "Je suis développeur Front-End chez CrossKnowledge, l'un des leaders mondiaux du e-learning 🎓.\nJe suis également l'un des organisateurs de la conférence Riviera DEV sur Sophia-Antipolis.\nJe suis fan des technos JavaScript 😍 et je m'éclate actuellement avec du Vue.js",
+    "bio": "Je suis développeur Front-End chez CrossKnowledge, l'un des leaders mondiaux du e-learning ?.\nJe suis également l'un des organisateurs de la conférence Riviera DEV sur Sophia-Antipolis.\nJe suis fan des technos JavaScript ? et je m'éclate actuellement avec du Vue.js",
     "github": "Jean-Michael",
     "googleplus": null,
     "twitter": "jmlegait",
@@ -792,6 +803,17 @@
     "social": ""
   },
   {
+    "id": 2036,
+    "lastname": "PRIOUX",
+    "firstname": "Benoit",
+    "imageProfilURL": "https://pbs.twimg.com/profile_images/1837967933/large_145584_400x400.png",
+    "bio": "Je suis Technical Leader au centre R&D de Lectra, éditeur de logiciel dans le monde de la mode, à Bordeaux. Je suis un développeur Java depuis 2005, et membre du bureau du Bordeaux JUG. Impliqué dans le projet open-source Asciidoctor, je suis aussi passionné par tout ce qui finit en DD : TDD, BDD, DDD, ...",
+    "github": "binout",
+    "googleplus": null,
+    "twitter": "binout",
+    "social": "http://binout.github.io/, http://binout.github.io/javaonemorething/"
+  },
+  {
     "id": 5345,
     "lastname": "Rastel",
     "firstname": "Romain",
@@ -815,10 +837,10 @@
   },
   {
     "id": 5405,
-    "lastname": "ROBIN",
-    "firstname": "FRANCOIS-XAVIER",
-    "imageProfilURL": null,
-    "bio": "Développeur depuis l'enfance (depuis 1985), Architecte SI spécialisé Java, Java EE pour le ministère de la Défense en 1998 et 2018. J'ai animé la communauté des architectes et la communauté des développeurs Java du ministère (environ 1000 personnes impactées). Responsable d'audits, choix techniques, renfort équipe projet à divers niveaux (dev, tech lead, chef de projet, archi, SOA) au profit du ministère.\nJ'ai été formateur Java EE mais aussi \"algo, programmation orientée objet, archi\" pendant 7 ans ainsi que responsable de cursus pédagogiques (dev, architectes, chefs de projet).",
+    "lastname": "Robin",
+    "firstname": "François-Xavier",
+    "imageProfilURL": "https://raw.githubusercontent.com/fxrobin/fxrobin.github.io/master/images/profil-breizhcamp-19.jpg",
+    "bio": "Développeur depuis l'enfance (depuis 1985, en BASIC puis Assembleur 6809 sur Thomson MO5 !), Architecte SI spécialisé Java, Java EE pour le ministère de la Défense de 1998 à 2018. J'y ai notamment animé la communauté des architectes et la communauté des développeurs Java. Responsable d'audits, choix techniques, renfort équipe projet à divers niveaux (dev, tech lead, chef de projet, archi, SOA). \n\nJ'apporte aujourd'hui mon expérience au profit des projets d'[Apside](http://www.apside.fr) et de ses collaborateurs, au sein de l'agence de Rennes.\n\nJ'ai été formateur Java EE mais aussi \"algo, programmation orientée objet, archi\" pendant 7 ans ainsi que responsable de cursus pédagogiques (dev, architectes, chefs de projet).\n\nMes langages de prédilection sont l'assembleur (si si!), le C++ et particulièrement Java, depuis novembre 1996 !",
     "github": "fxrobin",
     "googleplus": null,
     "twitter": "fxrobin75",
