@@ -34,7 +34,8 @@
                     'lastname'
                 );
                 _.forEach(speakers, function(n, key) {
-                    if (n.social !== undefined) {
+                    console.log(n.social);
+                    if (n.social !== undefined && n.social !== null) {
                         n.social = _.without(n.social.split(', '), '')
                     } else {
                         n.social = []
