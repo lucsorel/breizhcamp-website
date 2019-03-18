@@ -61,11 +61,6 @@ paginate = 10
     url = "https://twitter.com/breizhcamp"
 
 [[params.social_links]]
-    type = "googleplus"
-    title = "Google Plus"
-    url = "https://plus.google.com/103143580610870538195"
-
-[[params.social_links]]
     type = "youtube"
     title = "YouTube"
     url = "https://www.youtube.com/user/BreizhCamp"

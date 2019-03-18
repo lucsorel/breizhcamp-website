@@ -10,7 +10,7 @@ def filter_object_data:
     . | { id: .id,
             lastname: .lastname, firstname: .firstname,
             imageProfilURL: .imageProfilURL, bio: .bio,
-            github: .github, googleplus: .googleplus, twitter: .twitter,
+            github: .github, twitter: .twitter,
             social: .social
         };
 
