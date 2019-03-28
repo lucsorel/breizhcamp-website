@@ -326,7 +326,7 @@
     "speakers": "Loïc Guibert",
     "video_url": null,
     "files_url": null,
-    "slides_url": null,
+    "slides_url": "https://www.eizhel.fr/talks/breizhcamp_2019/git_ya_vcs/slides/",
     "description": "Pour vous _Git_ n'est qu'un logiciel de gestion de versions parmi tant d'autres ?  \nVotre rapport avec _Git_ se résume à `git commit`, `git push`, `git pull` et c'est marre ?\n\nAlors vous êtes passés à côté de l'essence même de _Git_. Vous n'imaginez pas sa puissance et l'aide précieuse qu'il peut vous apporter !\n\nJe vous propose d'aller plus loin dans l'utilisation de _Git_ et de prendre du recul sur vos pratiques afin d'en faire un de vous outils quotidiens dont vous ne pourrez plus vous passer !\nVotre workflow va gagner en maturité."
   },
   {
