@@ -73,7 +73,7 @@ paginate = 10
 [[params.social_links]]
     type = "flickr"
     title = "flickr"
-    url = "https://www.flickr.com/photos/149773585@N06/albums"
+    url = "https://www.flickr.com/photos/170850707@N06/"
 
 
 [Permalinks]
