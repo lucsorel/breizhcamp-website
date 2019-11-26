@@ -1,3 +1,4 @@
+{{ if isset (where $.Site.Data.sponsors.items "breizhcamp_level" "platinum") 0 }}
 <div class="row">
     <div class="heading text-center">
         <h3>Sponsors Platinum</h3>
@@ -19,8 +20,10 @@
         {{ end }}
     {{ end }}
 </div>
+{{ end }}
 
 
+{{ if isset (where $.Site.Data.sponsors.items "breizhcamp_level" "gold") 0 }}
 <div class="row">
     <div class="heading text-center">
         <h3>Sponsors Gold</h3>
@@ -41,8 +44,10 @@
         {{ end }}
     {{ end }}
 </div>
+{{ end }}
 
 
+{{ if isset (where $.Site.Data.sponsors.items "breizhcamp_level" "silver") 0 }}
 <div class="row">
     <div class="heading text-center">
         <h3>Sponsors Silver</h3>
@@ -63,8 +68,10 @@
         {{ end }}
     {{ end }}
 </div>
+{{ end }}
 
 
+{{ if isset (where $.Site.Data.sponsors.items "breizhcamp_level" "bronze") 0 }}
 <div class="row">
     <div class="heading text-center">
         <h3>Sponsors Bronze</h3>
@@ -85,8 +92,10 @@
     {{ end }}
     {{ end }}
 </div>
+{{ end }}
 
 
+{{ if isset (where $.Site.Data.sponsors.items "breizhcamp_level" "meetandgreet") 0 }}
 <div class="row">
     <div class="heading text-center">
         <h3>Sponsor Meet &amp; Greet</h3>
@@ -107,8 +116,10 @@
         {{ end }}
     {{ end }}
 </div>
+{{ end }}
 
 
+{{ if isset (where $.Site.Data.sponsors.items "breizhcamp_level" "partenaire") 0 }}
 <div class="row">
     <div class="heading text-center">
         <h3>Partenaires</h3>
@@ -129,3 +140,4 @@
         {{ end }}
     {{ end }}
 </div>
+{{ end }}

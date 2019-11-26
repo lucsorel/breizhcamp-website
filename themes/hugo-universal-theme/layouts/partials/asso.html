@@ -51,10 +51,10 @@
         <div class="lead text-center">
             {{ .Params.sponsor_licorne_subtitle }}
         </div>
-        <div class="row">
-            {{ range $index, $ug := (sort (where $.Site.Data.sponsors.items "asso_level" "licorne") "name") }}
+          {{ range $index, $ug := (sort (where $.Site.Data.sponsors.items "asso_level" "licorne") "name") }}
+            <div class="row">
                 <div class="col-md-12 col-sm-12 asso-sponsors">
-                    <div class="sponsor licorne">
+                    <div class="sponsor {{ .asso_level }} {{ if .background_dark }} sponsor-bg-dark sponsor-{{ .asso_level }}-bg-dark {{ end }}">
                         <a href="{{ .url }}" target="_blank">
                             {{ if .logo }}
                                 <img src="{{ .logo }}" title="{{ .name }}" alt="{{ .name }}" />
@@ -64,8 +64,8 @@
                         </a>
                     </div>
                 </div>
-            {{ end }}
-        </div>
+            </div>
+          {{ end }}
         <!-- /.row -->
       </div>
 
@@ -76,11 +76,11 @@
         <div class="lead text-center">
             {{ .Params.sponsor_nyancat_subtitle }}
         </div>
-        <div class="row">
-            {{ range $index, $ug := (sort (where $.Site.Data.sponsors.items "asso_level" "nyancat") "name") }}
+          {{ range $index, $ug := (sort (where $.Site.Data.sponsors.items "asso_level" "nyancat") "name") }}
+            <div class="row">
                 <div class="col-md-1 col-sm-2"></div>
                 <div class="col-md-10 col-sm-8 asso-sponsors">
-                    <div class="sponsor nyancat">
+                    <div class="sponsor {{ .asso_level }} {{ if .background_dark }} sponsor-bg-dark sponsor-{{ .asso_level }}-bg-dark {{ end }}">
                         <a href="{{ .url }}" target="_blank">
                             {{ if .logo }}
                                 <img src="{{ .logo }}" title="{{ .name }}" alt="{{ .name }}" />
@@ -91,8 +91,8 @@
                     </div>
                 </div>
                 <div class="col-md-1 col-sm-8"></div>
-            {{ end }}
-        </div>
+            </div>
+          {{ end }}
         <!-- /.row -->
       </div>
     </div>
@@ -108,7 +108,7 @@
     <div class="row">
         {{ range $index, $ug := (sort (where $.Site.Data.sponsors.items "asso_level" "usergroup") "name") }}
             <div class="col-md-2 col-sm-3 col-xs-4 asso-sponsors">
-                <div class="sponsor usergroup">
+                <div class="sponsor {{ .asso_level }} {{ if .background_dark }} sponsor-bg-dark sponsor-{{ .asso_level }}-bg-dark {{ end }}">
                     <a href="{{ .url }}" target="_blank">
                         {{ if .logo }}
                         <img src="{{ .logo }}" title="{{ .name }}" alt="{{ .name }}" />

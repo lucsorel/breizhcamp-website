@@ -5,6 +5,7 @@ items:
 #    asso_level: "licorne" / "nyancat" / "usergroup"
 #    hidden: false (optionnel)
 #    breizhcamp_level: "platinum" / "gold" / "silver" / "bronze" / "partenaire"
+#    background_dark: true (optionnel)
 
 
 

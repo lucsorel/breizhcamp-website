@@ -118,6 +118,11 @@ div#post-content img {
   margin-bottom: 20px;
 }
 
+
+.sponsor-bg-dark {
+  background-color: #666666;
+}
+
 .sponsor-platinum img,
 .sponsor-gold img,
 .sponsor-silver img,
@@ -156,6 +161,17 @@ div#post-content img {
   border: solid 1px #ddd;
 }
 
+.sponsor-bronze-bg-dark { background-color: inherit }
+.sponsor-bronze-bg-dark img
+{
+  -moz-box-shadow:    0 0 5px #666666;
+  -webkit-box-shadow: 0 0 5px #666666;
+  box-shadow:         0 0 5px #666666;
+  background-color: #666666;
+  border-radius: 10px;
+  padding: 15px;
+}
+
 .sponsor-meetandgreet {
   height: 150px;
 }
@@ -163,6 +179,17 @@ div#post-content img {
 .sponsor-partenaire img {
   max-height: 100px;
   max-width: 250px;
+}
+
+.sponsor-partenaire-bg-dark { background-color: inherit }
+.sponsor-partenaire-bg-dark img
+{
+  -moz-box-shadow:    0 0 5px #666666;
+  -webkit-box-shadow: 0 0 5px #666666;
+  box-shadow:         0 0 5px #666666;
+  background-color: #666666;
+  border-radius: 10px;
+  padding: 15px;
 }
 
 
@@ -295,6 +322,10 @@ div#post-content img {
   box-shadow: 7px 7px 3px 0px #ddd;
   padding: 7px;
   margin-bottom: 20px;
+}
+
+.asso-sponsors .sponsor-bg-dark {
+  background-color: #666666;
 }
 
 .asso-sponsors .sponsor img
