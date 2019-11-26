@@ -43,14 +43,14 @@ figcaption {
 
 
 .home-carousel {
-  background-color: #393336;
-  background: #3E9198 url('../img/ambulance-codebusters.png') no-repeat center center;
+  background-color: #343332;
+  background: #0D1F37 url('../img/rennes-background-2018.jpg') no-repeat center center;
   text-shadow: 3px 2px 6px #222;
-  height: 550px;
+  height: 450px;
 }
 
 .home-carousel .dark-mask {
-    background-color: #463D2C;
+  background-color: #463D2C;
   opacity: 0.6;
 }
 

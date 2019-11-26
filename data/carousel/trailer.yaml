@@ -1,5 +1,5 @@
 weight: 1
-hidden: false
+hidden: true
 title: "BreizhCamp's CodeBusters"
 description: "<p>La conférence à l'Ouest est de retour pour sauver le monde !</p>"
 image: "img/carousel/code-busters.png"

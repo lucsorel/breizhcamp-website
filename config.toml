@@ -1,5 +1,5 @@
 baseurl = "//www.breizhcamp.org/"
-title = "BreizhCamp - 9ème édition - 20, 21 et 22 Mars 2019"
+title = "BreizhCamp - 10ème édition - 25, 26 et 27 Mars 2020"
 theme = "hugo-universal-theme"
 languageCode = "fr"
 defaultContentLanguage = "fr"
@@ -34,7 +34,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "contact@breizhcamp.org"
 
-    copyright = """<p>Copyright (c) 2015-2018, BreizhCamp team</p>
+    copyright = """<p>Copyright (c) 2015-2019, BreizhCamp team</p>
         <p><a href="https://github.com/breizhcamp/website">Améliorer ce site</a></p>
         """
     date_format = "2 January 2006"
@@ -47,11 +47,13 @@ paginate = 10
 
 
 [params.breizhcamp]
-    edition_year = "2019"
-    edition_date_place = "20, 21 et 22 Mars à Rennes"
-    edition_date_start = "2019-03-20"
-    edition_date_end = "2019-03-22"
-    previous_editions = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018"]
+    edition_number = "10"
+    edition_year = "2020"
+    edition_date_range = "25 au 27 mars"
+    edition_date_place = "25, 26 et 27 Mars à Rennes"
+    edition_date_start = "2020-03-25"
+    edition_date_end = "2020-03-27"
+    previous_editions = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019"]
     programme_get_talks_method = "static"  # static | cfp_api
     programme_get_speakers_method = "static"  # static | cfp_api
 
@@ -88,16 +90,16 @@ paginate = 10
     url  = "/conference"
     weight = 2
 
-[[params.menu]]
-    name = "Billetterie"
-    url  = "https://www.billetweb.fr/breizhcamp-2019"
-    target = "_blank"
-    weight = 2
+#[[params.menu]]
+#    name = "Billetterie"
+#    url  = "https://www.billetweb.fr/breizhcamp-2020"
+#    target = "_blank"
+#    weight = 2
 
-[[params.menu]]
-    name = "Programme"
-    url  = "/conference/programme/"
-    weight = 3
+#[[params.menu]]
+#    name = "Programme"
+#    url  = "/conference/programme/"
+#    weight = 3
 
 [[params.menu]]
     name = "Sponsors"
@@ -193,10 +195,10 @@ paginate = 10
     show_list = true
     # Afficher les sponsors ou seulement des vignettes anonymes
     visible = true
-    anon_nbr_platinum = 4
-    anon_nbr_gold = 8
+    anon_nbr_platinum = 2
+    anon_nbr_gold = 11
     anon_nbr_silver = 12
-    anon_nbr_bronze = 24
+    anon_nbr_bronze = 12
     anon_nbr_meetandgreet = 1
     anon_nbr_partenaire = 2
 

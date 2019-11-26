@@ -2,10 +2,10 @@
 title = "FAQ"
 +++
 
-# Quand et où se tient le BreizhCamp 2019 ?
+# Quand et où se tient le BreizhCamp ?
 
-La 9ème édition du BreizhCamp aura lieu du 20 à 22 mars 2019. Elle se tiendra
-dans le bâtiment 2A de l’Université Rennes 1 comme en 2018.
+La {{% breizhcampinfo edition_number %}}ème édition du BreizhCamp aura lieu du {{% breizhcampinfo edition_date_range %}} {{% breizhcampinfo edition_year %}}.
+Elle se tiendra dans le bâtiment 2A de l’Université Rennes 1 comme les années précédentes.
 
 {{<figure src="/img/plan-acces.png" title="Plan de l'université" class="figure-center" link="http://www.openstreetmap.org/export#map=18/48.11611/-1.63752" target="_blank">}}
 
@@ -48,12 +48,13 @@ Dans tous les cas, pensez simplement à descendre à l'arrêt __TOURNEBRIDE__ !
 
 Le BreizhCamp se déroule sur 3 jours :
 
-* le mercredi 20 mars est consacré à des sessions de type "introduction à...",
+* le mercredi est consacré à des sessions de type "introduction à...",
 des formats plus longs et des ateliers pour prendre en main une technologie
-* le jeudi 21 et le vendredi 22 mars regroupent toutes les sessions de
+* le jeudi et le vendredi regroupent toutes les sessions de
 conférence, pour balayer toutes les nouveautés et tous les écosystèmes en un
 temps record.
 
+{{% comment %}}
 # Quels sont les tarifs ?
 
 Les tarifs suivants sont proposés :
@@ -77,6 +78,8 @@ nous limitons à 3 le nombre de billets achetables simultanément.
 
 Il n'est pas possible d'acheter des billets pendant l'événement (de toute façon,
 on est généralement sold-out avant).
+
+{{% /comment %}}
 
 # Je suis speaker, dois-je acheter un billet ?
 
@@ -121,6 +124,7 @@ Si vous comptez suivre des ateliers, il est recommandé d'avoir son ordinateur.
 Néanmoins, pour profiter au mieux des sessions, mieux vaut oublier ses emails et
 écouter le speaker !
 
+{{% comment %}}
 # Comment se fera l'accès Wifi pendant la conférence ?
 
 Comme en 2018, l’Université Rennes 1 nous met à disposition son réseau WiFi.
@@ -139,6 +143,8 @@ identifier sur le réseau.
 
 **Attention** : l’équipe du BreizhCamp ne gère pas cet accès Wi-Fi, donc inutile
 de nous demander vos comptes et mots de passe, nous ne les avons pas.
+
+{{% /comment %}}
 
 # Y-a-t'il de quoi se restaurer sur place ?
 
