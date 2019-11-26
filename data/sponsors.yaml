@@ -11,177 +11,206 @@ items:
 
   # ========== PLATINUM ==========
 
-  - name: "Neo-Soft"
-    logo: "/img/sponsors/logo_neosoft.png"
-    url: "http://www.neo-soft.fr"
-    breizhcamp_level: "platinum"
-
-  - name: "OVH"
-    logo: "/img/sponsors/logo_ovh.png"
-    url: "https://www.ovh.com/fr/"
-    breizhcamp_level: "platinum"
-
   - name: "SII"
     logo: "/img/sponsors/logo_sii.png"
     url: "http://www.sii.fr/fr/"
     asso_level: "usergroup"
-    breizhcamp_level: "platinum"
+    breizhcamp_level: "platinum" ## Attente convention / paiement 2020
+    hidden: true
 
   - name: "Zenika"
     logo: "/img/sponsors/logo_zenika.png"
     url: "https://www.zenika.com"
-    breizhcamp_level: "platinum"
-    asso_level: "licorne"
+    breizhcamp_level: "platinum" ## Attente convention / paiement 2020
+    #asso_level: "licorne" ## Attente convention / paiement 2020
+    hidden: true
 
   # ========== GOLD ==========
 
-  - name: "Conserto"
-    logo: "/img/sponsors/logo_concerto.png"
-    url: "https://www.conserto.pro"
-    asso_level: "usergroup"
+  - name: "Adventiel"
+    logo: "/img/sponsors/logo_adventiel.png"
+    url: "http://www.adventiel.com"
+    breizhcamp_level: "gold" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Apside"
+    logo: "/img/sponsors/logo_apside.png"
+    url: "http://www.apside.com"
+    breizhcamp_level: "gold" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "AriadNEXT"
+    logo: "/img/sponsors/logo_ariadnext.png"
+    url: "http://www.ariadnext.com"
     breizhcamp_level: "gold"
 
-  - name: "Claranet"
-    logo: "/img/sponsors/logo_claranet.png"
-    url: "https://www.claranet.fr"
-    breizhcamp_level: "gold"
+  - name: "Creative"
+    logo: "/img/sponsors/logo_creative.png"
+    url: "https://www.groupe-creative.fr/"
+    breizhcamp_level: "gold" ## Attente convention / paiement 2020
+    hidden: true
 
-  - name: "Infotel"
-    logo: "/img/sponsors/logo_infotel.png"
-    url: "http://www.infotel.com"
-    breizhcamp_level: "gold"
+  - name: "Elastic"
+    logo: "/img/sponsors/logo_elastic.svg"
+    url: "https://www.elastic.co/fr/"
+    breizhcamp_level: "gold" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Microsoft"
+    logo: "/img/sponsors/logo_microsoft.png"
+    url: "https://www.microsoft.com/fr-fr/"
+    #breizhcamp_level: "gold" ## Attente convention / paiement 2020
+    asso_level: "nyancat"
 
   - name: "Liksi"
     logo: "/img/sponsors/logo_liksi.png"
     url: "http://www.liksi.fr"
     breizhcamp_level: "gold"
 
-  - name: "Softeam"
-    logo: "/img/sponsors/logo_softeam.png"
-    url: "http://www.softeam.fr"
-    breizhcamp_level: "gold"
-
-  - name: "Serli"
-    logo: "/img/sponsors/logo_serli.png"
-    url: "http://www.serli.com"
-    breizhcamp_level: "gold"
-
-  - name: "Solocal"
-    logo: "/img/sponsors/logo_solocal.png"
-    url: "http://www.solocalgroup.com/fr/"
-    breizhcamp_level: "gold"
-
-  - name: "Slickteam"
-    logo: "/img/sponsors/logo_slickteam.png"
-    url: "http://slickteam.fr"
-    breizhcamp_level: "gold"
-
-  # ========== SILVER ==========
-
-  - name: "Apside"
-    logo: "/img/sponsors/logo_apside.png"
-    url: "http://www.apside.com"
-    breizhcamp_level: "silver"
-
-  - name: "Clever Cloud"
-    logo: "/img/sponsors/logo_clevercloud.svg"
-    url: "https://www.clever-cloud.com"
-    breizhcamp_level: "silver"
-
-  - name: "Elastic"
-    logo: "/img/sponsors/logo_elastic.svg"
-    url: "https://www.elastic.co/fr/"
-    breizhcamp_level: "silver"
-
-  - name: "Energiency"
-    logo: "/img/sponsors/logo_energiency.png"
-    url: "http://www.energiency.com"
-    breizhcamp_level: "silver"
-
-  - name: "Jouve"
-    logo: "/img/sponsors/logo_jouve.svg"
-    url: "https://www.jouve.com/"
-    breizhcamp_level: "silver"
-
   - name: "MaxDS"
     logo: "/img/sponsors/logo_maxds.svg"
     url: "https://maxds.fr/"
-    breizhcamp_level: "silver"
+    #breizhcamp_level: "gold" ## Attente convention / paiement 2020
+    asso_level: "usergroup"
 
   - name: "Niji"
     logo: "/img/sponsors/logo_niji.svg"
     url: "https://www.niji.fr/"
-    breizhcamp_level: "silver"
+    breizhcamp_level: "gold" ## Attente convention / paiement 2020
+    hidden: true
 
-  - name: "Open"
-    logo: "/img/sponsors/logo_open.png"
-    url: "https://www.open.global/fr/rennes"
-    breizhcamp_level: "silver"
+  - name: "Neo-Soft"
+    logo: "/img/sponsors/logo_neosoft.png"
+    url: "http://www.neo-soft.fr"
+    breizhcamp_level: "gold" ## Attente convention / paiement 2020
+    hidden: true
 
-  - name: "Oxxeo"
-    logo: "/img/sponsors/logo_oxxeo.png"
-    url: "https://www.oxxeo.fr/"
-    breizhcamp_level: "silver"
+  - name: "OVH"
+    logo: "/img/sponsors/logo_ovh.png"
+    url: "https://www.ovh.com/fr/"
+    breizhcamp_level: "gold" ## Attente convention / paiement 2020
+    hidden: true
 
-  - name: "Saagie"
-    logo: "/img/sponsors/logo_saagie.png"
-    url: "https://www.saagie.com"
-    breizhcamp_level: "silver"
-
-  - name: "Silicom"
-    logo: "/img/sponsors/logo_silicom.svg"
-    url: "http://www.silicom.fr"
-    breizhcamp_level: "silver"
-
-  - name: "Unitee"
-    logo: "/img/sponsors/logo_unitee.png"
-    url: "https://www.unitee.io/fr/"
-    breizhcamp_level: "silver"
-
-  # ========== BRONZE ==========
-
-  - name: "Adventiel"
-    logo: "/img/sponsors/logo_adventiel.png"
-    url: "http://www.adventiel.com"
-    breizhcamp_level: "bronze"
-
-  - name: "AriadNEXT"
-    logo: "/img/sponsors/logo_ariadnext.png"
-    url: "http://www.ariadnext.com"
-    breizhcamp_level: "bronze"
+  # ========== SILVER ==========
 
   - name: "CGI"
     logo: "/img/sponsors/logo_cgi.svg"
     url: "https://www.cgi.fr/fr-fr"
-    breizhcamp_level: "bronze"
+    breizhcamp_level: "silver" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Conserto"
+    logo: "/img/sponsors/logo_concerto.png"
+    url: "https://www.conserto.pro"
+    #asso_level: "nyancat"  ## Attente convention / paiement 2020
+    breizhcamp_level: "silver" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Energiency"
+    logo: "/img/sponsors/logo_energiency.png"
+    url: "http://www.energiency.com"
+    breizhcamp_level: "silver" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Jouve"
+    logo: "/img/sponsors/logo_jouve.svg"
+    url: "https://www.jouve.com/"
+    breizhcamp_level: "silver" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Oxxeo"
+    logo: "/img/sponsors/logo_oxxeo.png"
+    url: "https://www.oxxeo.fr/"
+    breizhcamp_level: "silver" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Saagie"
+    logo: "/img/sponsors/logo_saagie.png"
+    url: "https://www.saagie.com"
+    breizhcamp_level: "silver" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Serli"
+    logo: "/img/sponsors/logo_serli.png"
+    url: "http://www.serli.com"
+    breizhcamp_level: "silver" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Silicom"
+    logo: "/img/sponsors/logo_silicom.svg"
+    url: "http://www.silicom.fr"
+    breizhcamp_level: "silver" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Softeam"
+    logo: "/img/sponsors/logo_softeam.png"
+    url: "http://www.softeam.fr"
+    breizhcamp_level: "silver" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Sopra Steria"
+    logo: "/img/sponsors/logo_soprasteria.png"
+    url: "https://www.soprasteria.com/fr"
+    breizhcamp_level: "silver" ## Attente convention / paiement 2020
+    hidden: true
 
   - name: "Up"
     logo: "/img/sponsors/logo_up.png"
     url: "https://up.coop/"
-    breizhcamp_level: "bronze"
+    breizhcamp_level: "silver" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Solocal"
+    logo: "/img/sponsors/logo_solocal.png"
+    url: "http://www.solocalgroup.com/fr/"
+    breizhcamp_level: "silver" ## Attente convention / paiement 2020
+    hidden: true
+
+  # ========== BRONZE ==========
+
+  - name: "Alten"
+    logo: "/img/sponsors/logo_alten.svg"
+    url: "https://www.alten.com/fr/"
+    breizhcamp_level: "bronze" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Infotel"
+    logo: "/img/sponsors/logo_infotel.png"
+    url: "http://www.infotel.com"
+    breizhcamp_level: "bronze" ## Attente convention / paiement 2020
+    hidden: true
 
   - name: "Planet Work"
     logo: "/img/sponsors/logo_planet-work.svg"
     url: "https://www.planet-work.com/"
-    breizhcamp_level: "bronze"
+    breizhcamp_level: "bronze" ## Attente convention / paiement 2020
+    hidden: true
+
+  - name: "Wijin"
+    logo: "/img/sponsors/logo_wijin.svg"
+    url: "https://www.wijin.tech/"
+    breizhcamp_level: "bronze" ## Attente convention / paiement 2020
+    hidden: true
 
   - name: "Worldline"
     logo: "/img/sponsors/logo_worldline.png"
     url: "https://fr.worldline.com/"
-    breizhcamp_level: "bronze"
+    breizhcamp_level: "bronze" ## Attente convention / paiement 2020
+    hidden: true
 
 
 
   # ========== Meet & Greet ==========
 
-  - name: "Sopra Steria"
-    logo: "/img/sponsors/logo_soprasteria.png"
-    url: "https://www.soprasteria.com/fr"
-    breizhcamp_level: "meetandgreet"
-
-
 
   # ========== PARTENAIRE ==========
+
+  - name: "CYIM"
+    logo: "/img/sponsors/logo_cyim.png"
+    url: "https://www.cyim.com/"
+    background_dark: true
+    breizhcamp_level: "partenaire" ## Attente convention / paiement 2020
+    hidden: true
 
   - name: "Université Rennes 1"
     logo: "/img/sponsors/logo_univ_rennes_1.png"
@@ -192,14 +221,35 @@ items:
 
   # ========== OTHER ==========
 
+  - name: "ASI"
+    logo: "/img/sponsors/logo_asi.svg"
+    url: "https://www.asi.fr"
+    asso_level: "usergroup"
+    background_dark: true
+
+  - name: "DEVmachine"
+    logo: "/img/sponsors/logo_devmachine.svg"
+    url: "https://www.devmachine.fr/"
+    asso_level: "usergroup"
+
   - name: "Orange"
     logo: "/img/sponsors/logo_orange.png"
     url: "https://www.orange.com"
-    asso_level: "usergroup"
+    # asso_level: "usergroup"  ## Attente convention / paiement 2020
+    hidden: true
 
 
   # ========== OLD ==========
 
+  - name: "Claranet"
+    logo: "/img/sponsors/logo_claranet.png"
+    url: "https://www.claranet.fr"
+    hidden: true
+
+  - name: "Clever Cloud"
+    logo: "/img/sponsors/logo_clevercloud.svg"
+    url: "https://www.clever-cloud.com"
+    hidden: true
 
   - name: "ISTIC, UFR Informatique - Électronique"
     logo: "/img/sponsors/logo_istic.png"
@@ -222,12 +272,27 @@ items:
     url: "https://kristal.io/fr/"
     hidden: true
 
+  - name: "Open"
+    logo: "/img/sponsors/logo_open.png"
+    url: "https://www.open.global/fr/rennes"
+    hidden: true
+
   - name: "reThink"
     logo: "/img/sponsors/logo_rethink.jpg"
     url: "https://rethink-project.eu/"
     hidden: true
 
+  - name: "Slickteam"
+    logo: "/img/sponsors/logo_slickteam.png"
+    url: "http://slickteam.fr"
+    hidden: true
+
   - name: "Sogeti"
     logo: "/img/sponsors/logo_sogeti.gif"
     url: "http://www.fr.sogeti.com/"
+    hidden: true
+
+  - name: "Unitee"
+    logo: "/img/sponsors/logo_unitee.png"
+    url: "https://www.unitee.io/fr/"
     hidden: true
