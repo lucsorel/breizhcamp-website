@@ -70,8 +70,7 @@ items:
   - name: "Niji"
     logo: "/img/sponsors/logo_niji.svg"
     url: "https://www.niji.fr/"
-    breizhcamp_level: "gold" ## Attente convention / paiement 2020
-    hidden: true
+    breizhcamp_level: "gold"
 
   - name: "Neo-Soft"
     logo: "/img/sponsors/logo_neosoft.png"
@@ -93,9 +92,8 @@ items:
   - name: "Conserto"
     logo: "/img/sponsors/logo_concerto.png"
     url: "https://www.conserto.pro"
-    #asso_level: "nyancat"  ## Attente convention / paiement 2020
-    breizhcamp_level: "silver" ## Attente convention / paiement 2020
-    hidden: true
+    asso_level: "nyancat"  ## Attente convention / paiement 2020
+    # breizhcamp_level: "silver" ## Attente convention / paiement 2020
 
   - name: "Energiency"
     logo: "/img/sponsors/logo_energiency.png"
@@ -212,8 +210,7 @@ items:
   - name: "Orange"
     logo: "/img/sponsors/logo_orange.png"
     url: "https://www.orange.com"
-    # asso_level: "usergroup"  ## Attente convention / paiement 2020
-    hidden: true
+    asso_level: "usergroup"
 
 
   # ========== OLD ==========
