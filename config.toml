@@ -76,14 +76,14 @@ paginate = 10
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
-#[[params.menu]]
-#    name = "CFP"
-#    url  = "https://breizhcamp.cfp.io"
-#    target = "_blank"
-#    image= "https://breizhcamp.cfp.io/images/logo.png"
-##    label= '<span class="label label-default">Clos</span>'
+[[params.menu]]
+    name = "CFP"
+    url  = "https://breizhcamp.cfp.io"
+    target = "_blank"
+    image= "https://breizhcamp.cfp.io/images/logo.png"
+    label= '<span class="label label-success">Ouvert</span>'
 #    label= '<span class="label label-default">Clos</span>'
-#    weight = 1
+    weight = 1
 
 [[params.menu]]
     name = "Conférence"
