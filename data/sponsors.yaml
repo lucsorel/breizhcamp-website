@@ -170,9 +170,7 @@ items:
   - name: "Worldline"
     logo: "/img/sponsors/logo_worldline.png"
     url: "https://fr.worldline.com/"
-    breizhcamp_level: "bronze" ## Attente convention / paiement 2020
-    hidden: true
-
+    breizhcamp_level: "bronze"
 
 
   # ========== Meet & Greet ==========
