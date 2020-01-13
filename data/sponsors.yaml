@@ -53,7 +53,7 @@ items:
   - name: "Microsoft"
     logo: "/img/sponsors/logo_microsoft.png"
     url: "https://www.microsoft.com/fr-fr/"
-    #breizhcamp_level: "gold" ## Attente convention / paiement 2020
+    breizhcamp_level: "gold"
     asso_level: "nyancat"
 
   - name: "Liksi"
