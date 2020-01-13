@@ -92,8 +92,8 @@ items:
   - name: "Conserto"
     logo: "/img/sponsors/logo_concerto.png"
     url: "https://www.conserto.pro"
-    asso_level: "nyancat"  ## Attente convention / paiement 2020
-    breizhcamp_level: "silver" ## Attente convention / paiement 2020
+    asso_level: "nyancat"
+    breizhcamp_level: "silver"
 
   - name: "Energiency"
     logo: "/img/sponsors/logo_energiency.png"
