@@ -81,8 +81,8 @@ paginate = 10
     url  = "https://breizhcamp.cfp.io"
     target = "_blank"
     image= "https://breizhcamp.cfp.io/images/logo.png"
-    label= '<span class="label label-success">Ouvert</span>'
-#    label= '<span class="label label-default">Clos</span>'
+#    label= '<span class="label label-success">Ouvert</span>'
+    label= '<span class="label label-default">Clos</span>'
     weight = 1
 
 [[params.menu]]
