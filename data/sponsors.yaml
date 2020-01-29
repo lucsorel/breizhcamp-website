@@ -25,11 +25,6 @@ items:
 
   # ========== GOLD ==========
 
-  - name: "Adventiel"
-    logo: "/img/sponsors/logo_adventiel.png"
-    url: "http://www.adventiel.com"
-    breizhcamp_level: "gold"
-
   - name: "Apside"
     logo: "/img/sponsors/logo_apside.png"
     url: "http://www.apside.com"
@@ -80,6 +75,11 @@ items:
   - name: "OVH"
     logo: "/img/sponsors/logo_ovh.png"
     url: "https://www.ovh.com/fr/"
+    breizhcamp_level: "gold"
+
+  - name: "SlickTeam"
+    logo: "/img/sponsors/logo_slickteam.png"
+    url: "https://slickteam.fr/"
     breizhcamp_level: "gold"
 
   # ========== SILVER ==========
@@ -147,6 +147,11 @@ items:
 
   # ========== BRONZE ==========
 
+  - name: "Adventiel"
+    logo: "/img/sponsors/logo_adventiel.png"
+    url: "http://www.adventiel.com"
+    breizhcamp_level: "bronze"
+
   - name: "Alten"
     logo: "/img/sponsors/logo_alten.svg"
     url: "https://www.alten.com/fr/"
@@ -182,8 +187,7 @@ items:
     logo: "/img/sponsors/logo_cyim.png"
     url: "https://www.cyim.com/"
     background_dark: true
-    breizhcamp_level: "partenaire" ## Attente convention / paiement 2020
-    hidden: true
+    breizhcamp_level: "partenaire" 
 
   - name: "Université Rennes 1"
     logo: "/img/sponsors/logo_univ_rennes_1.png"
