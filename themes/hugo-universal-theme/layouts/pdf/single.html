@@ -25,6 +25,12 @@
 <body>
 
     <script>
+        const PROGRAMME_CONFIG = (function () {
+            return {
+                "get_talks_method": "{{ .Site.Params.breizhcamp.programme_get_talks_method | default "static" }}",
+            }
+        })();
+
         (function () {
 
             const titleCase = s => {
@@ -46,11 +52,17 @@
                 }, '')
             }
 
-            Promise.all([fetch('/json/talks_others.json'), fetch('https://api.cfp.io/api/schedule', {
-                headers: {
-                    'X-Tenant-Id': 'breizhcamp'
-                }
-            })].map(function (promise) {
+            var talksURL = (PROGRAMME_CONFIG == null || PROGRAMME_CONFIG.get_talks_method === "static")
+                ? '/json/talks.json'
+                : 'https://api.cfp.io/api/schedule';
+            var talksFetchParams = (PROGRAMME_CONFIG == null || PROGRAMME_CONFIG.get_talks_method === "static")
+                ? {}
+                : {
+                    headers: {
+                        'X-Tenant-Id': 'breizhcamp'
+                    }
+                };
+            Promise.all([fetch('/json/talks_others.json'), fetch(talksURL, talksFetchParams)].map(function (promise) {
                 return promise.then(function (response) {
                     return response.json().then(function (schedule) {
                         return schedule;
