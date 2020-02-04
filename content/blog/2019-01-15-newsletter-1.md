@@ -4,10 +4,7 @@ date = "2019-01-15T11:00:00+01:00"
 banner = "img/blog/2019-newsletters/code-busters.png"
 +++
 
-<center>
-    ![Logo](/img/blog/2019-newsletters/code-busters.png)
-    <div class="lead">20 au 22 mars 2019</div>
-</center>
+![Logo](/img/blog/2019-newsletters/code-busters.png)
 
 Après avoir exploré les paradoxes spatio-temporels l'année dernière, nous partons cette année dans un voyage vers l'au-delà avec le thème GhostBusters.
 Vous pouvez donc dès à présent commencer à dépoussiérer vos protons packs et sortir du placard vos combinaisons kakies !

@@ -4,10 +4,7 @@ date = "2020-01-15T11:00:00+01:00"
 banner = "img/blog/2017-newsletters/newsletter.jpg"
 +++
 
-<center>
-    ![Logo](/img/logo_big.png)
-    <div class="lead">25 au 27 mars 2020</div>
-</center>
+![Logo](/img/logo_big.png)
 
 Et voilà, c’est reparti pour une nouvelle année. Toute l’équipe du BreizhCamp se remet en marche pour vous proposer une nouvelle édition en 2020.
 Cette édition se tiendra du 25 au 27 mars 2020 sur le campus de Beaulieu à la faculté des sciences Rennes 1, comme l’année dernière.
