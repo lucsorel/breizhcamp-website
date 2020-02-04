@@ -54,32 +54,25 @@ des formats plus longs et des ateliers pour prendre en main une technologie
 conférence, pour balayer toutes les nouveautés et tous les écosystèmes en un
 temps record.
 
-{{% comment %}}
-# Quels sont les tarifs ?
-
-Les tarifs suivants sont proposés :
-
-* formules 2 ou 3 jours :
-    * billet **« Combo »** (3 jours) : 90 € ;
-    * billet **« Conférences »** (2 jours, jeudi et vendredi) : 75 €.
-* billets à la journée :
-    * billet **mercredi** : 30 € ;
-    * billet **jeudi** : 45 € ;
-    * billet **vendredi** : 35 €.
-
 # Comment acheter un billet ?
 
-Les billets doivent être achetés en ligne, à partir du
-**lundi 25 février, 11 h 17**, à cette adresse :
-https://www.billetweb.fr/breizhcamp-2019.
+Vous êtes chaque année plus nombreux à vouloir une place pour le BreizhCamp. Cette année encore, 
+nous sommes limités en nombre de places et les nombreux messages que nous recevons nous indiquent 
+que la pression va être forte sur la billetterie. Alors pour éviter toute frustration, nous mettons
+en place une billetterie par tirage au sort.
 
-Nous anticipons une affluence massive sur la billetterie. Par souci d'équité,
-nous limitons à 3 le nombre de billets achetables simultanément.
+Si vous êtes intéressé pour venir au BreizhCamp cette année, inscrivez-vous au tirage au sort via
+[ce formulaire](https://forms.gle/7o2P3gEHZQcZhvzk9) avant le **15 février minuit**.
 
-Il n'est pas possible d'acheter des billets pendant l'événement (de toute façon,
-on est généralement sold-out avant).
+Il n'est pas possible d'acheter des billets pendant l'événement.
 
-{{% /comment %}}
+# Quels sont les tarifs ?
+
+Lors de l'inscription au tirage au sort pour la billetterie, vous pourrez exprimer 
+votre préférence pour une des formules suivantes :
+
+  * billet **« Conférences »** (2 jours, jeudi et vendredi) : 75 €
+  * billet **« Combo »** (3 jours, mercredi, jeudi et vendredi) : 90 €
 
 # Je suis speaker, dois-je acheter un billet ?
 
