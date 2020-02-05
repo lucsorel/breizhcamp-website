@@ -91,7 +91,7 @@ paginate = 10
     weight = 2
 
 [[params.menu]]
-    name = "Billetterie"
+    name = "Billets"
     url  = "https://forms.gle/7o2P3gEHZQcZhvzk9"
     target = "_blank"
     weight = 2
