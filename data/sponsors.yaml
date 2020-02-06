@@ -23,6 +23,12 @@ items:
     breizhcamp_level: "platinum"
     asso_level: "licorne"
 
+  - name: "CYIM"
+    logo: "/img/sponsors/logo_cyim.png"
+    url: "https://www.cyim.com/"
+    background_dark: true
+    breizhcamp_level: "platinum" 
+
   # ========== GOLD ==========
 
   - name: "Apside"
@@ -182,12 +188,6 @@ items:
 
 
   # ========== PARTENAIRE ==========
-
-  - name: "CYIM"
-    logo: "/img/sponsors/logo_cyim.png"
-    url: "https://www.cyim.com/"
-    background_dark: true
-    breizhcamp_level: "partenaire" 
 
   - name: "Université Rennes 1"
     logo: "/img/sponsors/logo_univ_rennes_1.png"
