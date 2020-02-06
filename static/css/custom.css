@@ -42,6 +42,16 @@ figcaption {
 }
 
 
+.navbar-default .text-success {
+  color: #43a84a;
+}
+
+.navbar-default .note {
+  vertical-align: top;
+  margin-top: -5px;
+}
+
+
 .home-carousel {
   background-color: #343332;
   background: #0D1F37 url('../img/rennes-background-2018.jpg') no-repeat center center;
