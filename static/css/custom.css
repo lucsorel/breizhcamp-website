@@ -34,7 +34,7 @@ figcaption {
 }
 
 .navbar-default {
-  background-color: #40383C;
+  background-color: #d77c29;
 }
 
 .navbar-affixed-top.affix {
@@ -53,15 +53,16 @@ figcaption {
 
 
 .home-carousel {
-  background-color: #343332;
-  background: #0D1F37 url('../img/rennes-background-2018.jpg') no-repeat center center;
-  text-shadow: 3px 2px 6px #222;
-  height: 450px;
+  background-color: #000;
+  height: 500px;
 }
 
 .home-carousel .dark-mask {
-  background-color: #463D2C;
-  opacity: 0.6;
+  background-color: #000;
+  opacity: 0.0;
+}
+.home-carousel .owl-carousel {
+  padding-top: 20px;
 }
 
 .home-carousel .owl-item .item > .row > .col-sm-7 img.img-responsive {

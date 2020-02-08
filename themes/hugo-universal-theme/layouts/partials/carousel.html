@@ -8,6 +8,7 @@
             <div class="homepage owl-carousel">
                 {{ range sort .Site.Data.carousel "weight" }}
                 {{ if not .hidden }}
+                {{ if not .logo_full }}
                 <div class="item">
                     <div class="row">
                         <div class="col-sm-7">
@@ -26,6 +27,11 @@
                         </div>
                     </div>
                 </div>
+                {{ else }}
+                <div class="item">
+                    <img class="img-responsive" src="{{ .image }}" alt="">
+                </div>
+                {{ end }}
                 {{ end }}
                 {{ end }}
             </div>
