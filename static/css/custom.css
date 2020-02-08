@@ -54,7 +54,7 @@ figcaption {
 
 .home-carousel {
   background-color: #000;
-  height: 500px;
+  max-height: 500px;
 }
 
 .home-carousel .dark-mask {
