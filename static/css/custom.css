@@ -385,3 +385,7 @@ div#post-content img {
 .ng-hide {
   display: none;
 }
+
+.bar {
+  padding-top: 30px;
+}
