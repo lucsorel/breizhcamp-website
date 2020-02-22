@@ -1,5 +1,5 @@
 +++
 title = "Speakers"
 type = "speakers"
-draft = true
+draft = false
 +++
