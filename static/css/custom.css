@@ -380,6 +380,8 @@ div#post-content img {
 
 .speaker-bio {
   margin-top: 10px;
+  height: 300px;
+  overflow-y: auto;
 }
 
 .ng-hide {
