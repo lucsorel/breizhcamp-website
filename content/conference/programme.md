@@ -5,6 +5,5 @@ draft = false
 +++
 
 <div class="text-center lead">
-    Tous les amphis seront captés en vidéo.
-    Les keynotes seront retransmises en live sur <a href="https://www.youtube.com/channel/UCVelKVoLQIhwx9C2LWf-CDA">YouTube</a>.
+    Tous les sessions sont enregistrées et seront mis à disposition sur notre chaine <a href="https://www.youtube.com/channel/UCVelKVoLQIhwx9C2LWf-CDA">YouTube</a> après la conférence.
 </div>
