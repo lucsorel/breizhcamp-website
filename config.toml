@@ -18,6 +18,8 @@ paginate = 10
 baseName = "sponsors"
 mediatype ="application/json"
 
+[markup.goldmark.renderer]
+unsafe= true
 [params]
     viewMorePostLink = "/blog/"
     author = "BreizhCamp"

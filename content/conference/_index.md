@@ -1,5 +1,6 @@
 +++
 title = "Conférence"
+weight = 1
 +++
 
 # Plan du lieu
@@ -7,7 +8,6 @@ title = "Conférence"
 Si vous cherchez comment vous rendre au BreizhCamp, c'est expliqué [ici](/faq/#comment-me-rendre-au-breizhcamp).
 
 {{<figure src="/img/plan-lieu.png" title="Plan du batiment 2A" class="figure-center">}}
-
 
 # Meet & Greet
 
@@ -19,10 +19,7 @@ Si vous n'étiez pas là les années précédentes, la formule est simple : jeud
 Nous remercions les sponsors du Meet & Greet qui vous offrent cette soirée conviviale !
 {{< /comment >}}
 
-<center>
-![Meet & Greet](/img/meetandgreet.png)
-</center>
-
+{{<figure src="/img/meetandgreet.png" class="figure-center">}}
 
 # Un code de conduite ?
 
@@ -42,8 +39,4 @@ Les 10 commandements du participant au BreizhCamp:
 * Tu ne mettras personne mal à l'aise ou dans l'embarras, même si c'est "juste une blague", pas plus que tu ne harcèleras quelqu'un - stop, ça veut dire stop, non, c'est non. Même se moquer de <span class="language-troll">Ruby</span>, au bout d’un moment c’est lourd, même si c’est tentant ;
 * Tu n’oublieras pas ton parapluie (pour la crème solaire, les clichés bretons ont la vie dure, on va pas essayer de te la faire amener…) ;
 * Tu partageras ton expérience avec tout ceux qui n’ont pas eu de billet via les réseaux sociaux, c’est la meilleure pub qu’on puisse espérer.
-
-# Call For Proposal
-
-Le CFP est hébergé sur https://breizhcamp.cfp.io.
 
