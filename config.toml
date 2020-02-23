@@ -12,7 +12,11 @@ googleAnalytics = ""
 paginate = 10
 
 [outputs]
-    page = ["HTML", "JSON"]
+    page = ["HTML", "sponsors"]
+
+[outputFormats.sponsors]
+baseName = "sponsors"
+mediatype ="application/json"
 
 [params]
     viewMorePostLink = "/blog/"
