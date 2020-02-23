@@ -11,6 +11,13 @@ googleAnalytics = ""
 # Define the number of posts per page
 paginate = 10
 
+[outputs]
+    page = ["HTML", "sponsors"]
+
+[outputFormats.sponsors]
+baseName = "sponsors"
+mediatype ="application/json"
+
 [params]
     viewMorePostLink = "/blog/"
     author = "BreizhCamp"

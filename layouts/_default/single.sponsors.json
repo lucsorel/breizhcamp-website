@@ -1,0 +1,21 @@
+{{ define "response" }}
+{{- $.Scratch.Add "index" slice -}}
+
+{{- range sort (where $.Site.Data.sponsors.items "breizhcamp_level" "platinum")  "name" -}}
+{{- $.Scratch.Add "index" (dict "name" .name "logo" (printf "%s%s" (strings.TrimSuffix "/" $.Site.BaseURL) .logo) "url" .url "level" .breizhcamp_level) -}}
+{{- end -}}
+
+{{- range sort (where $.Site.Data.sponsors.items "breizhcamp_level" "gold")  "name" -}}
+{{- $.Scratch.Add "index" (dict "name" .name "logo" (printf "%s%s" (strings.TrimSuffix "/" $.Site.BaseURL) .logo) "url" .url "level" .breizhcamp_level) -}}
+{{- end -}}
+
+{{- range sort (where $.Site.Data.sponsors.items "breizhcamp_level" "silver")  "name" -}}
+{{- $.Scratch.Add "index" (dict "name" .name "logo" (printf "%s%s" (strings.TrimSuffix "/" $.Site.BaseURL) .logo) "url" .url "level" .breizhcamp_level) -}}
+{{- end -}}
+
+{{- range sort (where $.Site.Data.sponsors.items "breizhcamp_level" "bronze")  "name" -}}
+{{- $.Scratch.Add "index" (dict "name" .name "logo" (printf "%s%s" (strings.TrimSuffix "/" $.Site.BaseURL) .logo) "url" .url "level" .breizhcamp_level) -}}
+{{- end -}}
+
+{{- $.Scratch.Get "index" | jsonify -}}
+{{ end }}
