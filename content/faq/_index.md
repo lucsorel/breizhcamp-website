@@ -89,13 +89,6 @@ Ce lien vous permet d'annuler votre participation et de vous faire rembourser
 votre achat. Le remboursement est possible jusqu'à **14 jours** avant
 l'événement, avec une retenue de **1 €**.
 
-Si plutôt que vous faire rembourser vous souhaitez céder votre place à
-quelqu'un, vous pouvez simplement communiquer l'adresse du lien d'édition à
-cette personne. Il lui suffira alors de modifier les informations du billet (
-nom, prénom, etc.) pour pouvoir être accepté à l'événement avec ce billet.
-Les modifications de billets seront possibles jusqu'à **4 jours** avant
-l'événement.
-
 # Qui organise cet évènement ?
 
 Cet événement est organisé par [l'association BreizhCamp](/asso). L'équipe
