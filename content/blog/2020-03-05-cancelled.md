@@ -9,11 +9,11 @@ banner = "img/blog/coronavirus-cancelled.jpg"
 
 Ami·e·s du BreizhCamp,
 
-Nous avons pris, à contre cœur, la décision **d’annuler l’édition 2020 du Breizhcamp** 😞.
+Nous avons pris, à contrecœur, la décision **d’annuler l’édition 2020 du Breizhcamp** 😞.
 
 Il y a, à ce jour, trop d’inconnues sur la faisabilité de l’événement liées à l’épidémie de coronavirus ;
 et prendre cette décision aujourd’hui nous permet d’avoir un délais de prévenance raisonnable
-vis à vis de toutes les personnes concernées (participants, speakers, sponsors, prestataires...).
+vis-à-vis de toutes les personnes concernées (participants, orateurs, sponsors, prestataires...).
 
 Le principe de base est simple : nous allons **rembourser intégralement** les participants et les sponsors.
 Nous reviendrons vers vous dans les jours qui viennent pour vous communiquer les modalités pratiques.
