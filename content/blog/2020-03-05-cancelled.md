@@ -15,7 +15,7 @@ Il y a, à ce jour, trop d’inconnues sur la faisabilité de l’événement li
 et prendre cette décision aujourd’hui nous permet d’avoir un délais de prévenance raisonnable
 vis à vis de toutes les personnes concernées (participants, speakers, sponsors, prestataires...).
 
-Concernant l'annulation, le principe de base est simple : nous allons **rembourser intégralement** les participants et les sponsors.
+Le principe de base est simple : nous allons **rembourser intégralement** les participants et les sponsors.
 Nous reviendrons vers vous dans les jours qui viennent pour vous communiquer les modalités pratiques.
 
 Vous vous en doutez, c'est une décision triste pour nous,
