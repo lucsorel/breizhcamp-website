@@ -1,5 +1,6 @@
 baseurl = "//www.breizhcamp.org/"
-title = "BreizhCamp - 10ème édition - 25, 26 et 27 Mars 2020"
+#title = "BreizhCamp - 10ème édition - 25, 26 et 27 Mars 2020"
+title = "BreizhCamp - 10ème édition - ANNULÉE"
 theme = "hugo-universal-theme"
 languageCode = "fr"
 defaultContentLanguage = "fr"
