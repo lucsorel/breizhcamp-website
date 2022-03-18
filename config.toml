@@ -43,7 +43,7 @@ unsafe= true
     # Enable the contact form by entering your Formspree.io email
     email = "contact@breizhcamp.org"
 
-    copyright = """<p>Copyright (c) 2015-2019, BreizhCamp team</p>
+    copyright = """<p>Copyright (c) 2015-2022, BreizhCamp team</p>
         <p><a href="https://github.com/breizhcamp/website">Améliorer ce site</a></p>
         """
     date_format = "2 January 2006"
