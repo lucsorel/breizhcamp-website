@@ -4,7 +4,7 @@ items:
 #    url: "https://www.XXX.com/"
 #    asso_level: "licorne" / "nyancat" / "usergroup"
 #    hidden: false (optionnel)
-#    breizhcamp_level: "platinum" / "gold" / "silver" / "bronze" / "partenaire"
+#    breizhcamp_level: "platinum" / "gold" / "silver" / "bronze" / "partenaire" / "meetandgreet"
 #    background_dark: true (optionnel)
 
 
