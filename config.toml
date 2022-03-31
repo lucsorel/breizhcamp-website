@@ -85,14 +85,14 @@ unsafe= true
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
-#[[params.menu]]
-#    name = "CFP"
-#    url  = "https://breizhcamp.cfp.io"
-#    target = "_blank"
-#    image= "https://breizhcamp.cfp.io/images/logo.png"
-##    label= '<span class="label label-success">Ouvert</span>'
+[[params.menu]]
+    name = "CFP"
+    url  = "https://sessionize.com/breizhcamp-2022/"
+    target = "_blank"
+    image= "/img/cfp-icon-64.png"
+    label= '<span class="label label-success">Ouvert</span>'
 #    label= '<i class="note fa fa-times-circle text-muted" title="Clos"></i>'
-#    weight = 1
+    weight = 1
 
 [[params.menu]]
     name = "Conférence"
@@ -107,10 +107,10 @@ unsafe= true
 ##    label= '<i class="note fa fa-times-circle text-muted" title="Billetterie avec tirage au sort : inscriptions closes"></i>'
 #    weight = 2
 
-[[params.menu]]
-    name = "Programme"
-    url  = "/conference/programme/"
-    weight = 3
+#[[params.menu]]
+#    name = "Programme"
+#    url  = "/conference/programme/"
+#    weight = 3
 
 [[params.menu]]
     name = "Sponsors"
