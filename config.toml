@@ -63,8 +63,8 @@ unsafe= true
     edition_date_start = "2022-06-29"
     edition_date_end = "2022-07-01"
     previous_editions = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019"]
-    programme_get_talks_method = "cfp_api"  # static | cfp_api
-    programme_get_speakers_method = "cfp_api"  # static | cfp_api
+    programme_get_talks_method = "static"  # static | cfp_api
+    programme_get_speakers_method = "static"  # static | cfp_api
 
 [[params.social_links]]
     type = "twitter"
