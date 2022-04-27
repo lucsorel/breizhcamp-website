@@ -90,8 +90,8 @@ unsafe= true
     url  = "https://sessionize.com/breizhcamp-2022/"
     target = "_blank"
     image= "/img/cfp-icon-64.png"
-    label= '<span class="label label-success">Ouvert</span>'
-#    label= '<i class="note fa fa-times-circle text-muted" title="Clos"></i>'
+#    label= '<span class="label label-success">Ouvert</span>'
+    label= '<i class="note fa fa-times-circle text-muted" title="Clos"></i>'
     weight = 1
 
 [[params.menu]]
