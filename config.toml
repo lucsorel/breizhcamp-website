@@ -85,27 +85,27 @@ unsafe= true
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
+#[[params.menu]]
+#    name = "CFP"
+#    url  = "https://sessionize.com/breizhcamp-2022/"
+#    target = "_blank"
+#    image= "/img/cfp-icon-64.png"
+##    label= '<span class="label label-success">Ouvert</span>'
+#    label= '<i class="note fa fa-times-circle text-muted" title="Clos"></i>'
+#    weight = 1
+
 [[params.menu]]
-    name = "CFP"
-    url  = "https://sessionize.com/breizhcamp-2022/"
+    name = "Billets"
+    url  = "https://docs.google.com/forms/d/e/1FAIpQLSc3CbFbwKtGOCX7tbU4pXPg6LOOEB9xbp5LCpgfVlNiqFy8hg/viewform"
     target = "_blank"
-    image= "/img/cfp-icon-64.png"
-#    label= '<span class="label label-success">Ouvert</span>'
-    label= '<i class="note fa fa-times-circle text-muted" title="Clos"></i>'
+    label= '<i class="note fa fa-check-circle text-success" title="Billetterie avec tirage au sort : inscriptions ouvertes"></i>'
+#    label= '<i class="note fa fa-times-circle text-muted" title="Billetterie avec tirage au sort : inscriptions closes"></i>'
     weight = 1
 
 [[params.menu]]
     name = "Conférence"
     url  = "/conference"
     weight = 2
-
-#[[params.menu]]
-#    name = "Billets"
-#    url  = "https://forms.gle/7o2P3gEHZQcZhvzk9"
-#    target = "_blank"
-#    label= '<i class="note fa fa-check-circle text-success" title="Billetterie avec tirage au sort : inscriptions ouvertes"></i>'
-##    label= '<i class="note fa fa-times-circle text-muted" title="Billetterie avec tirage au sort : inscriptions closes"></i>'
-#    weight = 2
 
 #[[params.menu]]
 #    name = "Programme"

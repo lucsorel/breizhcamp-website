@@ -25,17 +25,17 @@ Le bus vous permet de vous rendre facilement sur place depuis…
 emprunter, au choix :
 
   * la ligne
-  [C4](https://data.explore.star.fr/explore/dataset/mkt-information-documents-td/files/0397ad02cc7cdeca3d390b74fe7c09b0/download/),
+  [C4](https://www.star.fr/se-deplacer/bus-metro/ligne/c4),
   direction __ZA SAINT-SULPICE__
 
   * la ligne
-  [C6](https://data.explore.star.fr/explore/dataset/mkt-information-documents-td/files/7b560c6a392dd1abed8aa470d2fe5888/download/),
+  [C6](https://www.star.fr/se-deplacer/bus-metro/ligne/c6),
   direction __CESSON-SÉVIGNÉ__.
 
 * … la gare SNCF :
 
   * Il est possible, le matin entre 7H30 et 9H, d'emprunter la ligne express
-  [41ex](https://data.explore.star.fr/explore/dataset/mkt-information-documents-td/files/6530dd44c4ef24af5095d2b13614cab7/download/)
+  [41ex](https://www.star.fr/se-deplacer/bus-metro/ligne/41ex)
   direction __CHAMPS BLANCS__
 
   * En dehors de cette période, le plus simple est de prendre le métro direction
@@ -62,7 +62,7 @@ que la pression va être forte sur la billetterie. Alors pour éviter toute frus
 en place une billetterie par tirage au sort.
 
 Si vous êtes intéressé pour venir au BreizhCamp cette année, inscrivez-vous au tirage au sort via
-[ce formulaire](https://forms.gle/7o2P3gEHZQcZhvzk9) avant le **15 février minuit**.
+[ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSc3CbFbwKtGOCX7tbU4pXPg6LOOEB9xbp5LCpgfVlNiqFy8hg/viewform) avant le **31 mai minuit**.
 
 Il n'est pas possible d'acheter des billets pendant l'événement.
 
@@ -77,8 +77,7 @@ votre préférence pour une des formules suivantes :
 # Je suis speaker, dois-je acheter un billet ?
 
 Si vous êtes speaker, vous êtes notre invité durant les 3 jours de la
-conférence ! Il n'est donc pas nécessaire d'acheter un billet. Néanmoins, nous
-limitons les invitations à 2 speakers par session.
+conférence ! Il n'est donc pas nécessaire d'acheter un billet.
 
 #  Puis-je me faire rembourser si je ne peux pas venir ?
 
