@@ -6,7 +6,7 @@ set -eu -o pipefail
 PROJECT_ROOT="$(cd -P "$( dirname "${BASH_SOURCE[0]}" )" && pwd)"
 cd "$PROJECT_ROOT"
 
-HUGO_VERSION=0.42
+HUGO_VERSION=0.73.0
 
 install_hugo() {
   mkdir -p .hugo
