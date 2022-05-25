@@ -1,4 +1,9 @@
 weight: 1
-hidden: true
-image: "img/superzheros.jpg"
-logo_full: true
+hidden: false
+title: "We are back 🥳"
+description:
+  <p>BreizhCamp revient</p>
+  <p>du 29 juin au 1er juillet  2022</p>
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc3CbFbwKtGOCX7tbU4pXPg6LOOEB9xbp5LCpgfVlNiqFy8hg/viewform">Accès à la BILLETERIE</a></p>
+image: "img/back.gif"
+link: "https://docs.google.com/forms/d/e/1FAIpQLSc3CbFbwKtGOCX7tbU4pXPg6LOOEB9xbp5LCpgfVlNiqFy8hg/viewform"
