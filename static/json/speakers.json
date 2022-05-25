@@ -1,2 +1,971 @@
-[
-]
+[ {
+  "id" : "d86ba09c-4f64-4c81-8a06-1f2e572363df",
+  "lastname" : "Alves",
+  "firstname" : "Mickael",
+  "imageProfilURL" : "https://sessionize.com/image/f088-400o400o2-GDFtzw36bN29RDGeapLqah.jpg",
+  "bio" : "Je suis un développeur lyonnais de 23 ans, passionné d'informatique et de nouvelles technologies ! \uD83D\uDC68\uD83C\uDFFB‍\uD83D\uDCBB \r\n\r\nJe viens de démarrer ma carrière en tant que consultant web chez @ZenikaLyon \uD83D\uDD34 ainsi qu'en tant que développeur dans l'équipe web chez @BedrockStreaming ⚫️ après avoir obtenu mon master à l'Université Lyon 1 ! \uD83E\uDD81 \r\n\r\nJe suis aussi membre fondateur et président de l'association @LaCruz \uD83D\uDFE1 que j'ai formé avec des camarades de fac pour réaliser des projets de développement !",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@CruuzAzul",
+  "social" : "https://www.linkedin.com/in/mickaelalves/"
+}, {
+  "id" : "e5e362d5-2262-4be9-bccf-12935df03041",
+  "lastname" : "Ansari",
+  "firstname" : "Saad",
+  "imageProfilURL" : "https://sessionize.com/image/4a8f-400o400o2-1dfeefa3-0a52-49b6-85ce-ff6f855f9aa1.jpg",
+  "bio" : "Je suis développeur spécialisé dans la data et je m'intéresse aux méthodes et organisations permettant de rendre les équipes plus efficaces dans leur quotidien.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "aa7ce320-dc21-440d-8d15-69a817b8dffa",
+  "lastname" : "Aparicio",
+  "firstname" : "David",
+  "imageProfilURL" : "https://sessionize.com/image/b055-400o400o2-RzCkQXFFcojRA8oZnkKz1W.jpg",
+  "bio" : "Passionate engineer in Computer Science, graduated INSA Lyon 2014, after two years spent at UNICAMP in Brazil, actively participates in the community, through Meetups and conferences. His motto: “No developer is supposed to ignore security”.\r\n\r\nIngénieur passionné en Informatique, diplômé INSA Lyon 2014, après deux années passées à UNICAMP au Brésil, participe activement à la communauté, à travers des Meetups et des conférences. Sa devise: « Nul développeur n'est censé ignorer la sécurité »",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@dadideo",
+  "social" : "https://www.linkedin.com/in/davidaparicio1/"
+}, {
+  "id" : "8db68e0a-4a0a-4a92-aaf1-f53803c2470f",
+  "lastname" : "Arrocéna",
+  "firstname" : "Vincent",
+  "imageProfilURL" : "https://sessionize.com/image/8666-400o400o2-cc1c7cf1-85f1-434a-a1c9-81344e67ab2b.jpg",
+  "bio" : "Full Stack Developer chez Xebia",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@varrocen",
+  "social" : "https://www.linkedin.com/in/vincent-arrocena-586648a2/"
+}, {
+  "id" : "8fd477f7-a346-4712-b025-3b152affd1e3",
+  "lastname" : "Audart",
+  "firstname" : "Lucas",
+  "imageProfilURL" : "https://sessionize.com/image/48da-400o400o2-wURPuFxsun4kFhf1tWEab.JPG",
+  "bio" : "Je m'appelle Lucas Audart, je suis un jeune développeur lyonnais, spécialisé dans le développement web et l'écosystème Javascript.\r\n\r\nJe suis passionné de technologie web, avec une affection particulière pour les technologies front-end qui sont celle que je pratique le plus au quotidien, dans ma vie professionnelle ou mes projets personnels. Actuellement Consultant pour Zenika Lyon, je suis en mission chez Ocea smart building où je suis développeur Front-end sur une Stack VueJs / Typescript que j'affectionne grandement.\r\n\r\nJe suis aussi membre fondateur de l'association de développement \"La Cruz\", formé avec des camarades d'études, avec laquelle j'ai réalisé plusieurs projets allant du site vitrine pour artistes au back office pour startup.\r\n\r\nJe cherche toujours à découvrir des nouvelles technologies et manières de faire.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "66670a42-43be-49d9-9715-b11aede4c65e",
+  "lastname" : "Baconnais",
+  "firstname" : "Jean-Philippe",
+  "imageProfilURL" : "https://sessionize.com/image/6ebc-400o400o2-abQXQpYDTCR8RcVxAWSLEe.jpg",
+  "bio" : "Consultant développeur chez Zenika Nantes\r\n\uD83E\uDD8AGitLab Heroes",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@JPhi_Baconnais",
+  "social" : null
+}, {
+  "id" : "ccf43c08-b383-4bf3-87d6-24df7bb7f9c4",
+  "lastname" : "Barbot",
+  "firstname" : "Ronan",
+  "imageProfilURL" : null,
+  "bio" : "Lead dev chez Slickteam, dev principalement en Java, touche à la CI et geek pas mal",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "dffaa61b-a80f-4126-bed1-86a3e14eebc7",
+  "lastname" : "Barotin",
+  "firstname" : "Jérôme",
+  "imageProfilURL" : "https://sessionize.com/image/d02f-400o400o2-H5iFDWfVqNPsocNGBBWozc.jpg",
+  "bio" : "Passionné depuis toujours par les 0 et les 1, je dresse des clouds européens chez S4E, un éditeur SaaS de gestion d'énergie Lorientais.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "d99d8f95-0249-4d93-aed5-1475830ae15c",
+  "lastname" : "Benoit",
+  "firstname" : "Yoann",
+  "imageProfilURL" : "https://sessionize.com/image/a5ba-400o400o2-nL8yerReiaTmoiFXMBGHBL.png",
+  "bio" : "Yoann est Head of Data chez Hymaia et intervient auprès de ses clients tant sur des problématiques Data Science que de Data Product Management ou d’accompagnement dans leur organisation data. \r\n\r\nIl a travaillé sur des projets Data Science de bout en bout, de l'analyse exploratoire à leur mise en production. Il est aussi intervenu sur des phases d'idéation et de prototypage de Use Cases Data Science ainsi que sur des expertises de Deep Learning. Enfin, il a accompagné des clients sur des sujets de Product Management appliqués à la Data et sur des sujets d’organisation de département Data.\r\n\r\nIl intervient aussi en tant que formateur en Machine Learning sur Spark et Deep Learning avec TensorFlow / Keras. \r\n\r\nChez Hymaia, son rôle est d'animer la communauté des experts data et de faciliter la communication et l'entraide sur les projets, ainsi que d'oeuvrer en tant que Servant Leader dans le management de l'entreprise.\r\n\r\nYoann est aussi certifié en coaching professionnel, lui permettant d'accompagner des individus dans l'atteinte de leurs objectifs personnels et professionnels.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "44df73b1-e961-4ad3-9ae5-afef8379f4c7",
+  "lastname" : "Bidaux-Nsounga",
+  "firstname" : "Annelore",
+  "imageProfilURL" : "https://sessionize.com/image/bebf-400o400o2-VqnU3SN5MuXwgF2Be3J88R.jpg",
+  "bio" : "Je travaille aujourd'hui à mon compte en étant au service de projets événementiels (les frappé.e.s du game) ou encore dans l'accompagnement d'artiste et l'élaboration de leur campagne de communication",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "e5ebefc4-7a49-4cc6-95ed-28b1f8dfd6a2",
+  "lastname" : "Blanchet",
+  "firstname" : "David",
+  "imageProfilURL" : "https://sessionize.com/image/5324-400o400o2-GMCkpJzRhN9JbcLxnLqGMN.jpeg",
+  "bio" : "Developer, Trainer, Hacker and Geek",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@davidblanchet",
+  "social" : null
+}, {
+  "id" : "61617c28-cd41-4847-ac36-bf4287978e7b",
+  "lastname" : "Boisselle",
+  "firstname" : "Romain",
+  "imageProfilURL" : "https://sessionize.com/image/c4fd-400o400o2-28-cd41-4847-ac36-bf4287978e7b.425a3dae-1ad5-4439-a8fb-4c77bf5c9acb.jpg",
+  "bio" : "Romain is a proud father and a zero-waste addict. He was an early enthusiast of Kotlin and started to use it on the backend since the beta stages. Since the KotlinConf 2018, he is part of the Kotlin/Multiplatform adventure by working on and maintaining the first non-JetBrains multi-platform library: Kodein-DI. He is now using Kotlin, everywhere... mostly from the French Alps!",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@romainbsl",
+  "social" : null
+}, {
+  "id" : "288de4ef-79a3-4680-8a41-bb422b6c20d8",
+  "lastname" : "Bonnet",
+  "firstname" : "Mathieu",
+  "imageProfilURL" : "https://sessionize.com/image/aea0-400o400o2-LPnmMPCrUzcPor5he2NKB5.JPG",
+  "bio" : "20 ans d'expérience dans le domaine du système d'information des opérateurs Télécom\r\nDomaines d'intérêt :\r\n- Modèles du TMForum pour les opérateurs de service\r\n- Architectures orientées services, API REST\r\n- AWS et Well Architected Framework\r\n- Migrations Cloud et architectures Cloud-native",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "34a0749a-b971-4220-b17b-f2b8b49123f9",
+  "lastname" : "Boucard",
+  "firstname" : "Bruno",
+  "imageProfilURL" : "https://sessionize.com/image/ee03-400o400o2-9a-b971-4220-b17b-f2b8b49123f9.b4129b30-12c8-4769-870f-fa60bb19273c.jpg",
+  "bio" : "Bruno Boucard is developer, trainer, agile coach and speaker. He loves to explain with concrete examples with live-coding, if needed. He is organizer of the BDD Paris user group. He is a long-time Microsoft MVP, but he still is coding java with a C# accent ;-)\r\nHis company 42skillz which aims to help organizations to make software and to work differently, he provides trainings, coaching, consulting about TDD, BDD, legacy code refactoring techniques and DDD with an extra soul.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@brunoboucard?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+  "social" : "https://www.linkedin.com/in/brunoboucard/"
+}, {
+  "id" : "9d4f0a8d-6ea5-46f6-b8c7-41664cebeaf3",
+  "lastname" : "Bourhis",
+  "firstname" : "Julie",
+  "imageProfilURL" : "https://sessionize.com/image/4359-400o400o2-LJR7weESXwhqmpdiV9Uxmx.jpg",
+  "bio" : "RRH chez Liksi et dans le secteur de l'informatique depuis 2014 !",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "6d93d35b-5059-41e7-a356-3987c9d7b824",
+  "lastname" : "Bouthors",
+  "firstname" : "Matthieu",
+  "imageProfilURL" : "https://sessionize.com/image/eab6-400o400o2-hGGjJ4d7rkPH6yWdZqepPT.jpg",
+  "bio" : "Working on building cloud security solutions since more than a decade.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "5e68289d-7a03-4977-bb95-12a1edd134b4",
+  "lastname" : "Branchu",
+  "firstname" : "Inès",
+  "imageProfilURL" : "https://sessionize.com/image/9c55-400o400o2-dc6ab8c0-67b0-4f22-83ac-501c3c893aae.jpg",
+  "bio" : "Scrum Master chez Liksi",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "c6e56b96-4a08-4dda-9802-22aa4cc17cd4",
+  "lastname" : "Brousse",
+  "firstname" : "Sébastien",
+  "imageProfilURL" : "https://sessionize.com/image/8c61-400o400o2-UaRUEAupwbMDzhh9GWdFPK.jpg",
+  "bio" : "WIP",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "8d6d6978-b679-44b4-a260-ca576aea52a8",
+  "lastname" : "Cailly",
+  "firstname" : "Antoine",
+  "imageProfilURL" : "https://sessionize.com/image/f1ab-400o400o2-78-b679-44b4-a260-ca576aea52a8.a67fa69e-7fb6-4248-a39f-8a625366fa79.png",
+  "bio" : "Développeur et formateur au sein de l'agence Rennaise de Zenika. Je m'intéresse aux manières alternatives (et meilleures ?) de construire les choses et de travailler ensemble.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@AntoineCailly",
+  "social" : "https://www.linkedin.com/in/antoine-cailly-7381a016/"
+}, {
+  "id" : "b8c55681-e8f8-4ddb-9ca1-3362209ee208",
+  "lastname" : "Champeau",
+  "firstname" : "Cédric",
+  "imageProfilURL" : "https://sessionize.com/image/fc1a-400o400o2-KGppKF4b6ht9SAkuQxvVUz.jpg",
+  "bio" : "Cédric Champeau travaille pour Oracle Labs, dans l'équipe GraalVM/Micronaut. Il s'occupe notamment des problématiques d'optimisation des builds, par l'implémentation de plugins Gradle et Maven. Ancien de Gradle Inc. où il développait l'outil de build open-source du même nom. Cédric est a aussi travaillé sur Apache Groovy: il a implémenté le compilateur statique de ce langage et contribué sur le sujet des DSLs et transformations à compile time. Son domaine de prédilection tourne donc autour de l'outillage statique et des optimisations à compile time.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "b55331e8-3151-4604-9350-64d63a1693b3",
+  "lastname" : "Chesneau",
+  "firstname" : "Pierre",
+  "imageProfilURL" : "https://sessionize.com/image/55f4-400o400o2-3rRAH2q1dP5UZWmyoFGSMG.jpg",
+  "bio" : "Actuellement architecte Solution pour SopraSteria, certifié \"Azure Architect Solution Expert\", j'aime les solutions simple, autant à comprendre qu'à utiliser.\r\nLes meilleures solutions sont celles faussement simples, car comme disait Antoine de Saint Exupéry : \"La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer.\"\r\n\r\nJe travaille actuellement au sein d'une équipe en charge de la mise à disposition d'un cloud privé pour un grand opérateur français, sur les aspects automatisation des déploiement, mise à disposition de services et collecte de logs.\r\n",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "0bda0590-5df8-4a80-b688-8e0f3497877d",
+  "lastname" : "Chéné",
+  "firstname" : "Youen",
+  "imageProfilURL" : "https://sessionize.com/image/4544-400o400o2-LzB3pX2ikGdZm1VNzbT9h2.jpeg",
+  "bio" : "Fondateur Webvert, une société de réparation et de décarbonation de site web.\r\n\r\nPassionné d'informatique  et de programmation depuis le CE2 (génération MO5/TO7), je suis un des activistes au sein de Tech.Rocks, Devoxx 4 Kids et Codeurs en Seine.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@youen_chene",
+  "social" : "https://www.linkedin.com/in/youenchene/"
+}, {
+  "id" : "e75c1b2d-f841-400c-b7f5-80ea47ed12bf",
+  "lastname" : "Clogenson",
+  "firstname" : "Victor",
+  "imageProfilURL" : "https://sessionize.com/image/3114-400o400o2-wuJDDwXbWDGRJec1pN3y7h.png",
+  "bio" : "Après 10 ans de dev dans le monde professionnel et une dizaine de plus dans la vie, concevoir et mettre en œuvre des solutions pour répondre de manière efficace et intelligente aux problèmes rencontrés est toujours ce qui me fait me lever le matin. Ces dernières années chez Jenji m’ont fait pousser la tech et les services AWS dans leur retranchements pour toujours plus de fun.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "ec729983-7bcf-4daa-86a7-4951ff34b2c8",
+  "lastname" : "Cussac",
+  "firstname" : "Franck",
+  "imageProfilURL" : "https://sessionize.com/image/1de0-400o400o2-UL92kF2UXBz7TNcmd335ED.png",
+  "bio" : "Je suis consultant dans data ingénierie, spécialisé dans le développement de pipeline de traitement de données avec Scala, Spark et Airflow et d'utiliser AWS pour tout ce qui est infrastructure.\r\nJe suis également formateur Spark, Kubernetes et Airflow.\r\n",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "b75872d2-4d09-4ff5-81d3-e213f04a62cc",
+  "lastname" : "Dano",
+  "firstname" : "Héloïse",
+  "imageProfilURL" : "https://sessionize.com/image/127b-400o400o2-d2-4d09-4ff5-81d3-e213f04a62cc.4be0d54c-68b1-4640-94c6-383ccfb7e64c.jpg",
+  "bio" : "Experte en numérique responsable.\r\nMembre du CA de l'association de la Fresque du Numérique, formatrice, animatrice et référente locale Bretagne / Rennes.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : "https://www.linkedin.com/in/héloïse-dano/"
+}, {
+  "id" : "18457595-410d-4a2d-85ae-3f85b096143f",
+  "lastname" : "Dasse",
+  "firstname" : "Anthony",
+  "imageProfilURL" : null,
+  "bio" : "Architecte Solution chez Sopra Steria; je suis passionné des technologies et j'apprécie le partage ( en tant qu'acteur ou receveur ).",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "91881471-6350-48c5-b3e7-a494d554e345",
+  "lastname" : "Davaze",
+  "firstname" : "Romain",
+  "imageProfilURL" : "https://sessionize.com/image/6cc6-400o400o2-hcrcoNfdg25iu1hggFqiCk.png",
+  "bio" : "Cloud Builder @ Wescale",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "08aa10d6-848f-4458-80a8-f499295bd560",
+  "lastname" : "Davin",
+  "firstname" : "Kevin",
+  "imageProfilURL" : "https://sessionize.com/image/d4bf-400o400o2-7jnePGN8xNK4mV9EJeoiFf.jpg",
+  "bio" : "Google Developer Expert on Google Cloud & Kotlin, Gitlab Hero, I am above all passionate about tech, languages, infrastructure, and automation. \r\nKotlin, Java, TypeScript are my day-to-day languages. I deploy all of those on the Google Kubernetes Engine with the GitLab's Continuous Integration \uD83D\uDE80. \r\n\r\nAddict of agility and DevOps, some of my missions were to help teams to follow those philosophies. \r\nFrom code quality analysis to unit or end-to-end tests setup all the way to continuous deployment and operation, I try to follow a project from birth to production. \r\n\r\nI'm currently Software Engineer at Gradle and I'm working on Gradle Enterprise, the product which can improve the developer productivity by reducing its build and test time.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@davinkevin",
+  "social" : "https://www.linkedin.com/in/davinkevin/"
+}, {
+  "id" : "9794dcfd-1b16-4571-940c-641ba9956f38",
+  "lastname" : "De Saint Steban",
+  "firstname" : "Patrice",
+  "imageProfilURL" : "https://sessionize.com/image/43ec-400o400o2-4bbf8de1-2cd8-4af3-a17d-cf683f6c1440.jpg",
+  "bio" : "Depuis presque 10 ans je me passionne pour le développement d'applications WEB et Mobile, en touchant à toutes les couches du Front au Back jusqu'à son déploiement sur le Cloud.\r\nJ'ai travaillé sur des technologies très différentes, du PHP au JAVA et JAVASCRIPT, du GWT à Angular et React, de Google App Engine à NodeJS.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "http://twitter.com/patoudss",
+  "social" : null
+}, {
+  "id" : "619ba5cd-a12a-4526-9f1a-7b9dd816d6a3",
+  "lastname" : "Decout",
+  "firstname" : "Sylvain",
+  "imageProfilURL" : "https://sessionize.com/image/0144-400o400o2-YEKff1EThjUqrAB565Y8Cf.png",
+  "bio" : "Sylvain est coding architect chez Shodo. Développeur dans l'écosystème Java depuis 2007, il apprécie avant tout le craftsmanship, l'architecture logicielle en général et le domain-driven design en particulier.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@sylvaindecout",
+  "social" : "https://www.linkedin.com/in/sylvain-decout/"
+}, {
+  "id" : "87a5c7c6-6381-4488-9576-250835dce284",
+  "lastname" : "Delaporte",
+  "firstname" : "Raphaël",
+  "imageProfilURL" : "https://sessionize.com/image/28e2-400o400o2-G8NFH5A5kyJjzgP3ZqcxNa.png",
+  "bio" : "Raphaël est architecte et consultant IT depuis une quinzaine d'années, ainsi que cofondateur de la société LIKSI.\r\nIl intervient sur l'architecture et la réalisation d'applications SI (distribuées, micro-services, clustering). Il est spécialisé dans l'intéropérabilité et les communications inter-applicatives.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "e0ad18bf-a644-468d-9b8d-0eef17d20175",
+  "lastname" : "Delhelle",
+  "firstname" : "Alexis",
+  "imageProfilURL" : "https://sessionize.com/image/73ea-400o400o2-9yU82mCMuoUwj88pGfwrPg.jpeg",
+  "bio" : "Développeur back java depuis 8 ans, toujours curieux de découvrir de nouvelle technos et bonnes pratique, mais partisan de prendre le temps de choisir le bon outils pour le bon problème.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "05261a19-1103-43a4-8caf-24851d9708db",
+  "lastname" : "Depaulis",
+  "firstname" : "Fabrice",
+  "imageProfilURL" : "https://sessionize.com/image/fd31-400o400o2-36822GHWgpgkdAJgsBrFE2.jpg",
+  "bio" : "Developpeur Back depuis longtemps, avec un attrait non dissimulé pour la data et le search. Pythoniste mais pas que. ",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "b6ffe1b8-0943-4b79-9bd0-ee2af1334c25",
+  "lastname" : "Desmons",
+  "firstname" : "Mélody",
+  "imageProfilURL" : "https://sessionize.com/image/1c00-400o400o2-9pM6bGBvFJ6rs7tk92m5iu.png",
+  "bio" : "Assistante de Direction chez Liksi",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "cf7757fb-f547-46f4-aa43-ef1b904b94ad",
+  "lastname" : "Dewitte",
+  "firstname" : "Rémi",
+  "imageProfilURL" : "https://sessionize.com/image/c9e0-400o400o2-paTQCkBPZMwsQ9rVNPNGJJ.jpg",
+  "bio" : "CTO et co-fondateur de Synako, Rémi délivre des produits en mode SaaS et aide les directions à architecturer des SI nouvelle génération.\r\n\r\nPassionné d'informatique depuis ses 10 ans, il est ingénieur de l'INSA de Rennes et est également diplômé en master d'administration des entreprises de l'IAE de Nantes.\r\n\r\nConvaincu que le logiciel peut accélérer les transformations business, augmenter les hommes et les femmes, et tout simplement rendre le monde meilleur, son expertise est centrée sur les architectures entreprises et technologiques.\r\n\r\nIl a délivré avec succès une plateforme de missionnement dans le monde de l'assistance. Il a aidé des entreprises majeures à concevoir et construire leurs plateformes business et technologiques.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : "https://www.linkedin.com/in/remidewitte/"
+}, {
+  "id" : "155286ed-e44a-4804-a757-e735b94372ae",
+  "lastname" : "Drouet",
+  "firstname" : "Jérémie",
+  "imageProfilURL" : "https://sessionize.com/image/6dca-400o400o2-KpKMtdH6pBokNHXaxrAsmi.jpg",
+  "bio" : "Craftman, web and mobile developer | happy father of some crates and npm packages, and github repositories.\r\nFormer Docker employee now working at Datadog",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@JeremieDrouet",
+  "social" : "https://www.linkedin.com/in/jeremiedrouet"
+}, {
+  "id" : "196ec41e-1b73-4f87-ac8a-80bf3410412a",
+  "lastname" : "Dugué",
+  "firstname" : "Marc",
+  "imageProfilURL" : "https://sessionize.com/image/4844-400o400o2-SvebaA1KKCdkSmVegzmT4W.jpeg",
+  "bio" : "Passion de technologie depuis toujours et un peu touche à tout, j'ai commencé en tant que développeur pour des librairies de traitement de données sur OS2 Warp (ça nous rajeunit pas), puis j'ai évolué vers des fonctions de chef de projet puis de directeur de projet. Ma vie a basculé quand j'ai découvert la facilitation graphique et que j'ai compris que l'on pouvait faire des schémas professionnel ailleurs que dans power-point. Je suis devenu facilitateur graphique, d'abord en freelance puis plus récemment autour de la société Conserto qui m'offre un formidable terrain de jeux. ",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@Marc_DUGUE",
+  "social" : "https://www.linkedin.com/in/marcdugue/"
+}, {
+  "id" : "66462b24-0915-46c5-a5f2-834493f12c6c",
+  "lastname" : "Durand",
+  "firstname" : "Mathieu",
+  "imageProfilURL" : "https://sessionize.com/image/0de6-400o400o2-WLx1GMZ7P1TNN4kHgyLoaA.jpg",
+  "bio" : "Développeur Normand au pays des bretons depuis plus de 10 ans, je suis adepte de tous les concepts et acronymes qui font peur comme Clean Code, Software Craftsmanship, Extreme programming, TDD, SOLID, DRY, KISS, YAGNI, FIRST etc. ",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "fcd40a84-aa34-432c-b246-1f1a5e4a5cf5",
+  "lastname" : "Esnault",
+  "firstname" : "Hélène",
+  "imageProfilURL" : "https://sessionize.com/image/435e-400o400o2-MCzm8wGXS9nFnRuZY2EFTo.jpeg",
+  "bio" : "Développeuse JS Web depuis 3 ans après avoir été libraire spécialisée en bandes dessinées, le web est pour moi un vaste terrain de jeux. \r\n\r\nQue ce soit pour réaliser des PWA, des SPA, utiliser Firebase ou une BDD classique, relever les enjeux liés aux parcours utilisateurs, à la cohérence du design ou aux interactions à effets Wahou, je m’amuse à découvrir cet univers et essaie de le rendre plus inclusif. \r\n\r\nQue ce soit en sensibilisant mes consœurs et confrères à l’accessibilité, en participant à des évènements de promotion des métiers du dev  auprès des femmes ou juste rencontrer d’autres développeurs passionnés lors de meetup (ou autour d’une bière \uD83D\uDE1B).",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "c100bcd3-e5cf-43ea-b8cc-4339973d1782",
+  "lastname" : "Feunteun",
+  "firstname" : "Glenn",
+  "imageProfilURL" : "https://sessionize.com/image/98df-400o400o2-aKoroJJUACvfMRkAiTxVvb.jpg",
+  "bio" : "Glenn est un Linuxien convaincu. Il a travaillé 7 ans chez Orange Labs en recherche sur les Content Delivery Network, en lien avec les clouds distribués ou la 5G. \r\nIl a rejoint Zenika en 2020 ou il intervient en tant que consultant dans le vaste domaine du DevOps, avec des affinités particulières sur l'optimisation des environnements de dev, la mise en place et l'optimisation de chaînes d’intégration et déploiement continues et la jointure avec les infrastructures, cloud ou bare metal.\r\nIl est monté à bord du train de la conteneurisation en 2015 en démarrant avec Lxc et Rkt, pour ensuite passer à Docker et Kubernetes. \r\nIl est certifié et formateur sur Kubernetes.\r\nChaque année, il endosse la casquette d'enseignant vacataire à l'IUT de Brest ou il forme les étudiants à la programmation de microcontrôleurs.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "b0e8da43-db23-4702-987d-3b560991d2a2",
+  "lastname" : "François",
+  "firstname" : "Thomas",
+  "imageProfilURL" : "https://sessionize.com/image/f88e-400o400o2-HrAHueZTTDU3gu6EEUfv1H.png",
+  "bio" : "Thomas est développeur avec un goût pour le DevOps. Au quotidien, il travaille sur la conception et le développement d'applications SI. Il s'intéresse aussi à la mise en place de CI/CD.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "33738d4e-9477-4e64-9d1f-de4ee2b345c2",
+  "lastname" : "Frédéric",
+  "firstname" : "Comte",
+  "imageProfilURL" : "https://sessionize.com/image/ac21-400o400o2-20b35dd2-709e-434c-84af-ab44a21c485e.jpg",
+  "bio" : "Après pas mal d'années dans la cyber, j'ai décidé d'essayer de créer des choses pour les utilisateurs datascientists.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "e0beed37-d0ac-4bec-8a9d-9caed939d107",
+  "lastname" : "Gatay",
+  "firstname" : "Cedric",
+  "imageProfilURL" : "https://sessionize.com/image/1213-400o400o2-3U63SMRn62rMh9HtUncNN9.jpg",
+  "bio" : "Co-fondateur de Code-Troopers : studio de développement basé à Tours. \r\n\r\nCo-lead du GDG Tours.\r\n\r\nInitiateur de l'OpenDeviceLab de Tours.\r\n\r\nTeam member Touraine.tech : conférence autour du monde du développement en Touraine.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "29950aa7-92d7-4f35-9bf8-dd4c029a6205",
+  "lastname" : "Girard",
+  "firstname" : "Florian",
+  "imageProfilURL" : "https://sessionize.com/image/3d21-400o400o2-JVo3B2YRGvFyoFCRuufzVj.jpg",
+  "bio" : "Architecte Ouest-France passé par les domaines télécoms, bancaire, maritime, agricole.\r\n\r\n« Mieux vaut penser le changement que changer le pansement » Francis Blanche",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "c3057368-d7dc-4178-97c2-187ee290fda3",
+  "lastname" : "Grall",
+  "firstname" : "Tug",
+  "imageProfilURL" : "https://sessionize.com/image/21e5-400o400o2-00f3a5ad-698a-4794-8f8b-00c3d0acca77.jpg",
+  "bio" : "Tugdual Grall is Technical Account Manager at Redis Labs where help customer and community to adopt Redis. Before joining Redis Labs Tug was PM at RedHat, Developer Advocate at MapR, MongoDB and Couchbase. Tug has also worked as CTO at eXo Plaform and JavaEE product manager, and software engineer at Oracle. Tugdual is Co-Founder of the Nantes JUG (Java User Group) that holds since 2008 monthly meeting about Java ecosystem.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "http://twitter.com/tgrall",
+  "social" : "https://www.linkedin.com/in/tugdualgrall"
+}, {
+  "id" : "4d8cf2ab-f135-4d32-9d98-b1eb5dfc44e5",
+  "lastname" : "Grangeau",
+  "firstname" : "Laurent",
+  "imageProfilURL" : "https://sessionize.com/image/5420-400o400o2-JQ7krEZ3gwiwdwweH1RtzT.jpg",
+  "bio" : "Laurent Grangeau is a Cloud Solution Architect at Sogeti with more than 10+ years of experience. Former Java developer, he has since developed in .NET, with Agile and DevOps mindsets. He has been experimenting with cloud providers for more than 5+ years, mainly with Azure as he is MVP Azure. Docker enthusiast from the beginning, he has experienced with building microservices and distributed systems. He loves to automate things and run distributed applications at scale.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@laurentgrangeau",
+  "social" : "https://www.linkedin.com/in/laurentgrangeau/"
+}, {
+  "id" : "567e9591-5657-436d-aa9f-5d68f7028c95",
+  "lastname" : "Hardy",
+  "firstname" : "Serge",
+  "imageProfilURL" : "https://sessionize.com/image/fc5e-400o400o2-KgK4Mu5TYFTimLJkQXYVK6.jpg",
+  "bio" : "Dev@Zenika\r\nAncien orga Agile Tour Rennes 2014-2019\r\nSpeaker Breizhcamp à plusieurs reprises ( 2 je crois ? )",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "aebf1399-c9c0-4dd7-a7c2-a3a65b71eed1",
+  "lastname" : "Houllier",
+  "firstname" : "Gregory",
+  "imageProfilURL" : "https://sessionize.com/image/036e-400o400o2-00ae60d2-c2d9-4cc1-8115-4e4cdb2e3f9b.jpg",
+  "bio" : "TypeScript Addict, Web Enthusiast, RennesJS Co Founder",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "e26a9da9-f23c-4c03-b96d-f015cf261f98",
+  "lastname" : "Huber",
+  "firstname" : "Olivier",
+  "imageProfilURL" : "https://sessionize.com/image/3677-400o400o2-9b122681-3569-4c90-b046-c76bdbfdcd8c.jpg",
+  "bio" : "Olivier Huber est un passionné de création logicielle.\r\nPour lui, notre métier est l'un des rares à nous donner la capacité de matérialiser une idée rapidement et à faible coût.\r\nIl intervient principalement pendant 24 ans en développement / conseil / formation pour des clients, écoles, associations.\r\nInitié il y a plus de 17 ans à l'agilité par la pratique de l'eXtrême Programming, il devient Agiliste convaincu et Scrum Master par la suite.\r\nIl donne des conférences (Devoxx, Mix-IT, BreizhCamp, …) sur divers sujets techniques ou non …\r\nIl rejoint Zenika en septembre 2008 pour évoluer parmi des collègues qui ont la même ferveur et afin de partager au maximum ses connaissances.\r\nIl y occupe actuellement divers rôles dont Directeur Technique et Formateur de Formateur.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@olivierhuber",
+  "social" : "https://www.linkedin.com/in/olivierhuber/"
+}, {
+  "id" : "a01764de-be7a-4c27-90d9-2fb9cd746435",
+  "lastname" : "Huet",
+  "firstname" : "Laurent",
+  "imageProfilURL" : "https://sessionize.com/image/ee46-400o400o2-TNTujxAFUcTW5ctCjW5BdH.jpg",
+  "bio" : "Développeur (principalement Java) pendant 15+ ans puis consultant chez Elastic depuis 2018.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "8d099fb6-02a5-4f05-80ae-a756f8fbe654",
+  "lastname" : "Imberty-Vialard",
+  "firstname" : "Margaux",
+  "imageProfilURL" : "https://sessionize.com/image/1c62-400o400o2-VJCvXFTpWVpnjLwEN2cDZ1.PNG",
+  "bio" : "Product Owner et UX/UI Designer chez Liksi",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "47a34eff-d912-40fe-bf53-44e413eb3b5f",
+  "lastname" : "James",
+  "firstname" : "Jean-François",
+  "imageProfilURL" : "https://sessionize.com/image/5db3-400o400o2-ND44qghALmyEJUPBbM4AQT.JPG",
+  "bio" : "Jean-François is still enthusiastic about IT after 35 years of experience! He’s a DevOps advocate, having worked on both sides on of the “wall of confusion”. He 's head of Software Global Architecture at Worldline where he's also appointed as Expert Fellow. Software Architect with a particular focus on the Java Ecosystem and a strong background on transactional payment systems . Father of 3, he likes to spend his free time in Dojo to do martial arts.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "6758d35f-779b-4579-95ee-ff8dcfd3d767",
+  "lastname" : "Jamin",
+  "firstname" : "Pauline",
+  "imageProfilURL" : "https://sessionize.com/image/f2e0-400o400o2-M3FykEVequqAQ6m78Zvkax.jpg",
+  "bio" : "Software craftwoman. I love DDD, backends and SRE people. Currently learnibg Golang. ",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@jaminpauline",
+  "social" : "https://www.linkedin.com/in/paulinejamin/"
+}, {
+  "id" : "2ec6764a-d52c-4fde-b46d-d1990330d369",
+  "lastname" : "Keller",
+  "firstname" : "Bertrand",
+  "imageProfilURL" : "https://sessionize.com/image/fadf-400o400o2-3RrgbDcB5FmioGKmtz14yN.jpg",
+  "bio" : "Plusieurs années à accumuler de l'expérience pour maintenant participer à l'amélioration des démarches de l'État.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@bertrandkeller",
+  "social" : null
+}, {
+  "id" : "0ed89def-489f-42d4-9c7a-c6508fbc05b6",
+  "lastname" : "Laude",
+  "firstname" : "Mathieu",
+  "imageProfilURL" : "https://sessionize.com/image/d660-400o400o2-PFUgm6jbVax6WKkah5adAV.png",
+  "bio" : "Développeur Java dans l'âme, mes domaines de prédilections sont l'automatisation et la méthodologie DevOps. Mon credo : L'industrialisation et l'automatisation sont gages de fiabilité et de qualité.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@mkassovix",
+  "social" : "https://www.linkedin.com/in/mathieulaude/"
+}, {
+  "id" : "4df86217-6d4f-4e6e-b090-fea687c49447",
+  "lastname" : "Le Goas",
+  "firstname" : "Anthony",
+  "imageProfilURL" : "https://sessionize.com/image/d017-400o400o2-P8RW6zTDPSLvszTTuReC5D.jpg",
+  "bio" : "Directeur de Zenika Brest, je suis avant tout un passionné de tech et de tout ce qui peut se passer dans un navigateur web. Je m'intéresse particulièrement à l'éco-système JavaScript. Investi dans les communautés, je suis également co-organisateur de Svelte Society France, BrestJS et UXDesign Brest.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@anthony_legoas",
+  "social" : "https://www.linkedin.com/in/anthonylegoas/"
+}, {
+  "id" : "b7397ed2-aef8-4a38-a1bf-7d51099dff31",
+  "lastname" : "Le Visage",
+  "firstname" : "Theo",
+  "imageProfilURL" : null,
+  "bio" : "En reconversion dans le dev depuis 2019.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "c6dee03a-70a6-4d1f-a1ec-c111721c4dbe",
+  "lastname" : "Levitt",
+  "firstname" : "Olivier",
+  "imageProfilURL" : "https://sessionize.com/image/6d42-400o400o2-H6LQfkNRwqWDndPvkjj1f1.jpg",
+  "bio" : "Développeur Java / Android et formateur, j'ai dérapé quand j'ai découvert la conteneurisation et l'orchestration de conteneurs. Depuis je déploie des trucs, plein de trucs, partout, tout le temps.  \r\nFier représentant de la fonction publique, je bosse à l'INSEE à répandre la bonne parole informatique.\r\n",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "c8950bc5-18aa-4179-8f59-d58953eadcd5",
+  "lastname" : "Leymarie",
+  "firstname" : "Pierre-Gilles",
+  "imageProfilURL" : "https://sessionize.com/image/77bd-400o400o2-RNvWmgyg1rD18CYA7stRs7.jpg",
+  "bio" : "Alors que Gladys Assistant avait commencé comme un simple projet étudiant, Pierre-Gilles travaille désormais à temps partiel sur ce projet open-source, et propose ses services en tant qu'ingénieur full-stack Node.js/PostgreSQL/React le reste de la semaine.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "8c15c560-ddc7-432d-bbe4-15498cae6789",
+  "lastname" : "Lopez",
+  "firstname" : "Pablo",
+  "imageProfilURL" : "https://sessionize.com/image/6021-400o400o2-Kt6xF3YELF9n3GyxYR2rn.png",
+  "bio" : "Développeur passioné, architecte occasionnel, curieux par nature, amoureux du partage.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "e143dcf9-e7d9-42a5-b18e-0ea35c307cf6",
+  "lastname" : "Masson",
+  "firstname" : "Benoît",
+  "imageProfilURL" : "https://sessionize.com/image/106b-400o400o2-nUj92DM4GgEps8s6BuA8q5.jpg",
+  "bio" : "Tombé dans la potion quand j'étais petit, je m'intéresse depuis toujours à l'informatique : d'abord joueur, bidouilleur et développeur sur calculatrice, puis professionnellement en tant que chercheur et formateur, et finalement de retour au développement web full-stack depuis quelques années.\r\n\r\nPassionné par les langages modernes, de bas niveau (Go, Rust) ou fonctionnels (Caml, Elm) permettant par leur conception de limiter les risques d'erreur humaine, je m'implique dans les communautés locales pour partager mes expériences et améliorer mes pratiques.\r\n\r\nActuellement Team Leader dans l'équipe Noms de Domaines chez OVHcloud.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "d8f999aa-2456-4013-9619-796caeb58ec3",
+  "lastname" : "Mathieu",
+  "firstname" : "Loïc",
+  "imageProfilURL" : "https://sessionize.com/image/e0ea-400o400o2-L55CPe2LuzYe8teEKTSRw5.jpg",
+  "bio" : "Consultant formateur chez Zenika Lille. Loïc réalise des missions variées autour de Java, de la JVM, de l’architecture solution et de la performance. Ni le Cloud, ni Kubernetes, ni Kafka ne lui font peur; il aime relever des défis et apprendre de nouvelles choses. Contributeur Quarkus depuis plus de 2 ans, il contribue à plusieurs extensions et parle régulièrement de Quarkus (et d’autres sujets) dans des meetups ou des conférences et même parfois sur son blog.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@loicmathieu",
+  "social" : "https://www.linkedin.com/in/lo%C3%AFc-mathieu-475b144/"
+}, {
+  "id" : "5977cb1a-ea00-44c2-bc13-0a580aaba8f1",
+  "lastname" : "Menguy",
+  "firstname" : "Etienne",
+  "imageProfilURL" : "https://sessionize.com/image/b444-400o400o2-X5UnEKjDUhD4FQNn4TG8Rb.png",
+  "bio" : "Passionné de stockage je suis architecte stockage à Ubisoft, j'ai géré des infrastructures ceph au quotidien pendant 6 ans. En tant que SRE pour un fournisseur de cloud, puis pour un vendeur de solution de stockage.\r\nJe suis également ambassadeur des communautés françaises pour Ceph.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "db336338-f24a-42f9-87c4-81bdee26e520",
+  "lastname" : "Morel",
+  "firstname" : "Nicolas",
+  "imageProfilURL" : "https://sessionize.com/image/9faf-400o400o2-nTZH6m2x7pVDtkzKmwcC1p.jpg",
+  "bio" : "Développeur front chez Klaxoon depuis 4 ans",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "b70b1c87-e896-4f43-9f1c-18388b55bda5",
+  "lastname" : "Morisseau",
+  "firstname" : "Philippe",
+  "imageProfilURL" : "https://sessionize.com/image/593a-400o400o2-G9HKoXibSFiF6HzYqZeDcp.jpg",
+  "bio" : "Co-responsable du centre d'excellence Microsoft dans la communauté Atlantique de onepoint, je coordonne une équipe de spécialistes sur les technologies Microsoft mais pas que...\r\nNous apportons notre expertise et notre support à nos clients sur les thématiques :\r\n- DevOps avec Azure DevOps,\r\n- Cloud avec Azure,\r\n- Modern Workspace avec Microsoft 365,\r\n- Data.\r\n\r\nNous concevons et nous réalisons aussi des solutions applicatives innovantes autour du cloud, du DevOps, du collaboratif et de la data.\r\n\r\nAvec plus de 15 ans d'expérience, moi-même, j'apporte mon savoir sur :\r\n- l'architecture Cloud Azure,\r\n- l'expertise FinOps Azure,\r\n- l'expertise DevOps,\r\n- l'architecture Data (ETL, Datahub),\r\n- la conception et le développement d'application client lourd et web .net,\r\n- l'agilité,\r\n- le lean et\r\n- l'exploitation d'infrastructure OnPremise.\r\n\r\nEnfin, je partage mes connaissances au travers :\r\n- de diverses formations autour du cloud Azure et du DevOps,\r\n- de mon blog https://pmorisseau.azurewebsites.net/",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@morisseauphi",
+  "social" : "https://www.linkedin.com/in/pmorisseau/"
+}, {
+  "id" : "d08f18e6-e7c0-4194-a6f7-ab4ec10d3555",
+  "lastname" : "Nsounga",
+  "firstname" : "Hermann",
+  "imageProfilURL" : "https://sessionize.com/image/78f5-400o400o2-LuRvbdeUskxTv8BDRfDQAH.jpg",
+  "bio" : "Je suis coach Agile, facilitateur et facilitateur graphique. Ce que j'aime c'est apporter des solutions à des problématique ou encore mettre en place l'environnement qui permettra de faire émerger les solutions.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@evilashann?t=Epz-_K7eMNSjYddKnzv_xQ&s=09",
+  "social" : "https://www.linkedin.com/in/hermann-n"
+}, {
+  "id" : "e6528c62-4131-49a4-b5e3-86c083cccc51",
+  "lastname" : "Odye",
+  "firstname" : "Maxime",
+  "imageProfilURL" : "https://sessionize.com/image/daa0-400o400o2-1baa8b47-acfa-4cfb-bd7c-c0f54bb132ad.jpg",
+  "bio" : "Je suis un développeur passionné et formateur sur des sujets techniques autour du monde du développement logiciel. Conférencier technique, agilité j'essaye de mêler la technique et l'organisationnel, deux mondes intrinsèquement lié.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@maxodye",
+  "social" : "https://www.linkedin.com/in/maxime-odye-81a55215b/"
+}, {
+  "id" : "91fdbfd8-8ee7-4dd9-a253-4fb260582582",
+  "lastname" : "Orain",
+  "firstname" : "Julien",
+  "imageProfilURL" : "https://sessionize.com/image/69f7-400o400o2-d8-8ee7-4dd9-a253-4fb260582582.7ca58e12-0d5f-4909-b373-ef059c54e042.jpeg",
+  "bio" : "J'interviens sur des missions d'accompagnement DevOps autour de l'infrastructure as code, de l'intégration et du déploiement continu et de la conteneurisation.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@juorainbzh",
+  "social" : "https://www.linkedin.com/in/julienorain/"
+}, {
+  "id" : "b0b02eec-4adb-4e16-9493-c31343befe17",
+  "lastname" : "Ouarnier",
+  "firstname" : "Mathis",
+  "imageProfilURL" : "https://sessionize.com/image/1c76-400o400o2-94e3613a-34b8-4e92-9da8-5c91afc77e66.jpg",
+  "bio" : "Développeur full stack",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "8c387a58-e61e-42ec-9dc5-5df3f3b60df2",
+  "lastname" : "Pessu",
+  "firstname" : "Adrien",
+  "imageProfilURL" : "https://sessionize.com/image/47d0-400o400o2-b6fbb856-1593-43c6-9da3-ab77362cc12a.jpg",
+  "bio" : "Je suis un développeur Freelance passionné, en particulier de Java, Kotlin et Web. Je m'intéresse aussi particulièrement à la sécurité applicative (AppSec). J'aime chercher/corriger des bugs de sécurité, mais aussi partager et mettre en place les bonnes pratiques.\r\nJe suis aussi Auth0 Ambassador et membre du NantesJUG",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@adrien_pe",
+  "social" : "https://fr.linkedin.com/in/adrien-pessu"
+}, {
+  "id" : "2532a3ba-4b44-4902-9262-1e9b3d979e16",
+  "lastname" : "Philippart",
+  "firstname" : "Stéphane",
+  "imageProfilURL" : "https://sessionize.com/image/da2b-400o400o2-E2weR56JmaKEAkUuiK7785.png",
+  "bio" : "Développeur un jour, développeur toujours !\r\n\r\nDéveloppeur Java depuis de nombreuses d'années, j'ai la joie de connaître le JDK 1.1, JEE, Struts, ... et maintenant Spring (core, boot, batch), Quarkus, Angular, Groovy, Golang, ...\r\n\r\nDurant plus d'une dizaine d'années j'ai été Architecte Logiciel, métier qui m'a permis de me confronter à de nombreuses problématiques inhérentes aux systèmes d'information toujours complexes dans les grands groupes.\r\n\r\nJ'ai eu aussi d'autres vies, notamment dans l'automatisation et la livraison avec la mise place de chaînes de CI/CD basées sur les pipelines as code de Jenkins.\r\n\r\nAimant particulièrement le partage et les relations avec les développeurs je suis devenu DevRel au sein d'OVHcloud. Cette nouvelle aventure me permet de continuer à être au milieu de technologies que j'affectionne comme Kubernetes par exemple mais aussi de continuer à apprendre et découvrir énormément de nouvelles choses. Tout en gardant à l'esprit une de mes principales motivation en tant que DevRel : rendre les développeuses et développeurs heureux.\r\n\r\nToujours dans le partage, je suis le co-créateur du Meetup TADx à Tours, permettant la découverte et partage autour de différents sujets de la tech.\r\n",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@wildagsx",
+  "social" : "https://www.linkedin.com/in/philippartstephane/"
+}, {
+  "id" : "e1e57fb8-830f-4542-b811-47c847e4a0b9",
+  "lastname" : "Pierrain",
+  "firstname" : "Thomas",
+  "imageProfilURL" : "https://sessionize.com/image/99e0-400o400o2-b8-830f-4542-b811-47c847e4a0b9.0ab7b331-0545-44b7-ac29-da528c15ec81.jpeg",
+  "bio" : "Co-organizer of the #DDDFR user group and co-founder of 42skillz, Thomas is an eXtreme Programmer & technical architect obsessed by use cases (Vs. solution-driven approaches). He likes using DDD & TDD to boost his efficiency at work. \r\n\r\nPolymath wanna be, Thomas loves to inspire his work with philosophy, astrophysics, psychology and music (to name a few). ",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "http://twitter.com/tpierrain",
+  "social" : "https://fr.linkedin.com/in/thomas-pierrain-0664769"
+}, {
+  "id" : "6e8d17c2-a866-4dd2-9135-30669d2fd738",
+  "lastname" : "Piot",
+  "firstname" : "Ludovic",
+  "imageProfilURL" : "https://sessionize.com/image/4d5c-400o400o2-6f2ace24-4b73-4993-bc0e-3e3008bf5214.jpg",
+  "bio" : "Ludovic felt into _DevOps_ in 2004 with first _Infra as Code_ deployments on _bare-metal_ blade servers. He's found of empowering project teams through automated tools and friendly collaboration, and then welcome `Docker` and `Kubernetes` as the ultimate tools to leverage his favorite practice. Through meetups, conferences and forums, he shares his love for _cloud_, _infra as code_, _devops_ and performance topics.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@lpiot",
+  "social" : "https://www.linkedin.com/in/lpiot/"
+}, {
+  "id" : "70b7be89-826a-40b9-a5e6-0e83bb35b831",
+  "lastname" : "Poilvert",
+  "firstname" : "Vincent",
+  "imageProfilURL" : "https://sessionize.com/image/6423-400o400o2-3XkR1nzmfr8dTVtfYD1EGV.jpg",
+  "bio" : "Après mes premières expériences comme développeur Java, je me suis peu à peu intéressé au déploiement des applications web et à leur bon fonctionnement dans les environnements Cloud et On Premise.\r\nJ’accompagne mes clients dans la réussite de leurs projets sur les sujets d’architecture Cloud, d’automatisation et de sécurisation de leurs applications.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "a856693e-2295-4da1-9e20-2fff2d37b244",
+  "lastname" : "Poullain",
+  "firstname" : "Loïc",
+  "imageProfilURL" : "https://sessionize.com/image/4465-400o400o2-4gY6tEbwwDHB1MaBNsC4C8.png",
+  "bio" : "Ingénieur spécialisé en développement web avec une expérience en start-up et en grosse structure, dans le public et dans le privé, en France et aux Etats-Unis. Passionné de l’écosystème JS/TS et contributeur opensource. Créateur de FoalTS.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "0fea01a9-6562-49c8-9933-d2bfed0b81f2",
+  "lastname" : "Pousse",
+  "firstname" : "Mathieu",
+  "imageProfilURL" : "https://sessionize.com/image/3358-400o400o2-W5Efm4SXnHMFuRrDLbc3qv.png",
+  "bio" : "Developpeur backend, je suis passioné par tout ce qui gravite autour du métier et notamment les méthodes pour améliorer le travail de l'équipe",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@m_pousse/",
+  "social" : "https://www.linkedin.com/in/mpousse/"
+}, {
+  "id" : "e9cbe8e9-1431-4375-9e3e-235202669858",
+  "lastname" : "Priol",
+  "firstname" : "Romuald",
+  "imageProfilURL" : "https://sessionize.com/image/545c-400o400o2-7zPkHn27LSW4qzq5Kiu9vy.jpeg",
+  "bio" : "Passionné d’écologie, de good-tech, d’éthique et de qualité logicielle, je suis un des représentants du collectif numérique responsable, collectif de GreenIt.fr. Je suis aussi ambassadeur chez thegreencompagnon.com pour promouvoir l’évolution du numérique en le rendant plus \"responsable\". Lead développeur sur un site à fort trafic, je m'implique beaucoup pour rendre le numérique plus qualitatif: pour le rendre plus « green », plus « performant », plus «sécurisé», plus «éthique » et plus « accessible ».\r\n",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@doc_roms",
+  "social" : "https://www.linkedin.com/in/romuald-p/"
+}, {
+  "id" : "20d69ad9-f0fc-4bda-b039-14b8368d779a",
+  "lastname" : "Prioux",
+  "firstname" : "Benoit",
+  "imageProfilURL" : "https://sessionize.com/image/b252-400o400o2-BRkDumNMwRErrhqhwLD7Hd.png",
+  "bio" : "Après 12 ans chez Lectra, éditeur de logiciel dans le monde de la mode basé à Bordeaux, je suis maintenant Senior Software Engineer chez Alan, l'assurance Santé qui fait simple.\r\nDéveloppeur Java, Kotlin et tout récemment Python, je suis passionné par tout ce qui finit en DD : TDD, BDD, DDD, ...",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "0c9b144a-3a48-4cb8-b9f9-84def47710c6",
+  "lastname" : "Quintard",
+  "firstname" : "Christophe",
+  "imageProfilURL" : "https://sessionize.com/image/ecf5-400o400o2-hpMUMhhWs7vDzfj1qESK7q.jpg",
+  "bio" : "J'ai suis passé par des startups, IBM, Timwi et depuis quelques années je travaille à l'urbanisation du SI chez Ouest-France. Je continue à coder, parce que je ne veux pas être un architecte hors-sol. Mon but, c'est un SI le plus évolutif possible, parce que nous ne sommes pas des bâtisseurs de cathédrales : en informatique, tout change, tout le temps !",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : "https://www.linkedin.com/in/christophe-quintard-124901192/"
+}, {
+  "id" : "310a45d5-5b9b-406f-9eed-5a3b9eb10d62",
+  "lastname" : "Ribreau",
+  "firstname" : "François-Guillaume",
+  "imageProfilURL" : "https://sessionize.com/image/87e1-400o400o2-d5-5b9b-406f-9eed-5a3b9eb10d62.5c678a50-43d0-4f80-b06b-8a27a82e0d30.jpg",
+  "bio" : "⚡️ CTO & Architect as a Service \r\n\uD83D\uDCD8 Author:  @getnobullshit  \r\n\uD83D\uDD25 FullStack Indiehacker @cloud_iam_com @imagecharts @roam_bot @hook0_  \r\n\uD83E\uDD1D Sold:  @redsmin   @bringr",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@FGRibreau",
+  "social" : "https://www.linkedin.com/in/francoisguillaumeribreau/"
+}, {
+  "id" : "ed70e259-fe6d-4e2c-b298-eb1b8cd28c13",
+  "lastname" : "Rolland",
+  "firstname" : "Mathieu",
+  "imageProfilURL" : "https://sessionize.com/image/c5aa-400o400o2-JBvr1Y7p8J9LeNbiTYhzDN.jpg",
+  "bio" : "Leader technique à SopraSteria, je m'intéresse au cloud et plus précisément à Kubernetes. J'aime participer à la conception d'architecture applicative mais aussi réaliser l'implémentation.\r\n \r\nJe suis actuellement sur un projet de build pour construire un référentiel de fibre optique pour un opérateur telecom.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "8db8df29-8b4e-4cac-9012-56351a4b2e4d",
+  "lastname" : "Rousseau",
+  "firstname" : "Thibaut",
+  "imageProfilURL" : null,
+  "bio" : "Touche à tout passionné par l'automatisation et le scripting",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@Thiht",
+  "social" : null
+}, {
+  "id" : "4266390c-5c23-4c46-953e-4c7f943ec92f",
+  "lastname" : "Rust",
+  "firstname" : "Pierre",
+  "imageProfilURL" : "https://sessionize.com/image/c9ef-400o400o2-0c-5c23-4c46-953e-4c7f943ec92f.3e2de5e9-cc92-415f-89b4-1f589f7be05a.jpg",
+  "bio" : "Researcher and Developer, Pierre focuses on the Environmental impact of the ICT sector and Software Ecodesign. ",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@PierreRust",
+  "social" : null
+}, {
+  "id" : "5723bf93-7378-41e3-bb07-8e0056f30a53",
+  "lastname" : "Révéreault",
+  "firstname" : "Sylvain",
+  "imageProfilURL" : "https://sessionize.com/image/c73a-400o400o2-dbdbc708-6e76-43a3-be60-268842d360d6.jpg",
+  "bio" : "Passionné d’informatique depuis que j’ai touché mon premier ordinateur, il y a plus de trente ans, je me suis longtemps amusé à construire des systèmes et des applications. Au fil du temps, j’ai également développé un goût prononcé pour les approches collaboratives et pour l’innovation organisationnelle et managériale. Depuis 3 ans, j'explore la thématique du numérique responsable, et notamment les solutions permettant de faire cohabiter numérique et écologie.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@srevereault",
+  "social" : "https://www.linkedin.com/in/sylvain-r%C3%A9v%C3%A9reault/"
+}, {
+  "id" : "83585c7e-baa3-4391-b916-57e99d530725",
+  "lastname" : "Révéreault",
+  "firstname" : "Sylvain",
+  "imageProfilURL" : "https://sessionize.com/image/5a30-400o400o2-MQj6de4TFz39Pb7BUCp9ys.png",
+  "bio" : "Travaillant depuis une vingtaine d’années dans l’informatique, je me suis progressivement spécialisé dans les technologies systèmes et réseaux, en particulier autour des systèmes GNU/Linux, avant de m’orienter vers les thématiques DevOps et de l'agilité dans le monde “Ops”. En complément des facettes techniques, j'explore les aspects collaboratifs et les approches innovantes de management, et j'ai consacré ces deux dernières années à monter en compétences sur les liens de nos métiers avec l'écologie.\r\n\r\nJe suis actuellement consultant autour des thématiques DevOps, Management 3.0 et Green IT chez Zenika, tout en portant la casquette de CTO de l’agence de Rennes.\r\n",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "e1aebb2f-7813-4699-95d8-da6279402579",
+  "lastname" : "Siha",
+  "firstname" : "Édouard",
+  "imageProfilURL" : "https://sessionize.com/image/909e-400o400o2-b3bbe453-e867-4257-98ac-94d54607c8cb.jpg",
+  "bio" : "Développeur de formation, un peu touche-à-tout à force d'être particulièrement curieux.\r\n\r\nAmateur de calembours et de houblon.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "5cf88034-ce86-4c00-9aea-b5df6bcc3976",
+  "lastname" : "Sorel-Giffo",
+  "firstname" : "Luc",
+  "imageProfilURL" : "https://sessionize.com/image/24c9-400o400o2-XL1HXkp8zr9uQBKZmqj56i.jpg",
+  "bio" : "Luc Sorel-Giffo, PhD en sciences de l'environnement, travaille chez Zenika en tant que développeur-formateur Python et consultant en écoconception de services numériques.\r\n\r\nCôté Python, il a co-fondé la communauté Python Rennes qu'il anime régulièrement et développe la bibliothèque py2puml (génération de diagrammes de classes par introspection de code pour documenter vos applications Python [1]).\r\n\r\nEn tant qu'éco-ambassadeur chez Zenika, il facilite les transitions éco-responsables des organisations et contribue à la collectif greenIT.fr.\r\n\r\n[1] : https://pypi.org/project/py2puml/\r\n",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@lucsorel",
+  "social" : "https://www.linkedin.com/in/lucsorel"
+}, {
+  "id" : "ef871957-bbf6-4424-8701-66763b6de740",
+  "lastname" : "Teyssier",
+  "firstname" : "Stéphane",
+  "imageProfilURL" : "https://sessionize.com/image/5b91-400o400o2-aMh5mHVzWGRwZTvsD4oAyT.png",
+  "bio" : "Après plusieurs années comme développeur, puis plus de dix ans dans le cloud et devops, Stéphane est aujourd'hui un expert multi cloud, devops et infrastructures.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "f964451a-ed9b-4f6c-876b-c6bb6259bd5a",
+  "lastname" : "Tinon",
+  "firstname" : "Guillaume",
+  "imageProfilURL" : "https://sessionize.com/image/8f55-400o400o2-EtVto2yzseJa1gkmf6jWM6.jpg",
+  "bio" : "En une décennie de dev et architecture sur des projets allant du jeu vidéo à la plateforme de trading intercontinental, ma passion pour la tech n’a fait que grandir. En parallèle de ces projets, j’ai aussi eu la chance de pouvoir partager mon expérience en animant des formations autour de l’écosystème Java.\r\nDepuis quelques années chez Jenji, j’ai la chance de pouvoir explorer quotidiennement la réalité derrière la hype du serverless.\r\n",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "bb3d9d1b-57f8-4e44-b487-a6e1492dd5d9",
+  "lastname" : "Topçu",
+  "firstname" : "Julien",
+  "imageProfilURL" : "https://sessionize.com/image/ebb2-400o400o2-1b-57f8-4e44-b487-a6e1492dd5d9.d768854a-603f-4104-ae25-25c1d9f53eb8.png",
+  "bio" : "I like to craft software with high business value using techniques from Domain-Driven Design, all powered by Xtreme Programming in the Kanban #NoEstimates philosophy. Member of the OWASP foundation, I evangelise on application security techniques in order to avoid being hacked properly.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@JulienTopcu",
+  "social" : "https://www.linkedin.com/in/julien-top%C3%A7u/"
+}, {
+  "id" : "89782719-2288-4b59-aec7-8951ca26c446",
+  "lastname" : "Touret",
+  "firstname" : "Alexandre",
+  "imageProfilURL" : "https://sessionize.com/image/300f-400o400o2-19-2288-4b59-aec7-8951ca26c446.8fb58978-72e0-48ac-913d-2fb23885c47f.png",
+  "bio" : "Je suis architecte et développeur sénior chez Worldline. Mon activité consiste à coder (principalement en Java), coacher des développeurs et concevoir des architectures. ",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@touret_alex",
+  "social" : "https://www.linkedin.com/in/atouret/"
+}, {
+  "id" : "96268998-1f55-4751-ab23-c4b499baee19",
+  "lastname" : "Vouillaume",
+  "firstname" : "Benjamin",
+  "imageProfilURL" : "https://sessionize.com/image/6f9f-400o400o2-azoLDVjxqZP4n71VMZYhzC.jpg",
+  "bio" : "Benjamin Vouillaume est Cloud Builder chez WeScale. Travaillant autour de sujets d'intégration et de déploiement continu, contenerisation et orchestration. (DevOps n'est pas un métier) il automatise tout ce qu'il peut dès qu'il le peut.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "7460d731-8ddc-4202-adbb-666b8b6b3615",
+  "lastname" : "Wattez",
+  "firstname" : "Adrien",
+  "imageProfilURL" : "https://sessionize.com/image/223d-400o400o2-hPmvuq7mmD2agFRsoGwRqz.jpg",
+  "bio" : "TO COMPLETE",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "9064f55f-507f-4800-81b7-8599db92d658",
+  "lastname" : "danezis",
+  "firstname" : "kevin",
+  "imageProfilURL" : "https://sessionize.com/image/be5d-400o400o2-d073b74f-8d93-421c-822f-8c71e1d8de2d.jpg",
+  "bio" : "Avec un passé très technique en tant que dev J2E, j'ai découvert une passion pour le monde de l'agilité et pour les intégrations au sein des équipes. Je mets en pratique mes découvertes depuis maintenant plusieurs années au services de mes clients, de mes collègues, dans le secteur de l'humanitaire et même dans le monde de l'open source.\r\n\r\nFormateur sur des sujets aussi divers que Git, Scrum, Kanban ou pour la Croix Rouge Française, mon objectif reste éternellement le partage de connaissances au plus grand monde.\r\n\r\nSpeaker en Angleterre, en Belgique, il était grand temps que je tente la France :) ",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@besstiolle",
+  "social" : "https://fr.linkedin.com/in/kevin-danezis"
+}, {
+  "id" : "701373a9-5600-4c67-b8bc-61c1839f437a",
+  "lastname" : "moulet",
+  "firstname" : "xavier-frédéric",
+  "imageProfilURL" : "https://sessionize.com/image/9baa-400o400o2-a9-5600-4c67-b8bc-61c1839f437a.2ddb85c2-4486-43ad-99ac-451757f9ef0f.jpg",
+  "bio" : "?",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "d9c16bae-8515-47d7-ab41-49af1d37d385",
+  "lastname" : "sagean",
+  "firstname" : "romain",
+  "imageProfilURL" : "https://sessionize.com/image/faae-400o400o2-TB7QZ1c5AJXejcRqHfDWaS.png",
+  "bio" : "Data Ingénieur reconverti en SRE, codant secrètement en JS pour ne pas oublier l'ingénieur en cognitique qui sommeil en lui.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : "https://www.linkedin.com/in/romain-sagean/"
+}, {
+  "id" : "570f6e2f-38f6-4f84-9b0d-4d325b33954b",
+  "lastname" : "thebault",
+  "firstname" : "erwann",
+  "imageProfilURL" : "https://sessionize.com/image/4f15-400o400o2-560e30b4-df4e-4c2f-9fb2-556b00f1bc80.jpg",
+  "bio" : "BrestJS: WebAssembly\r\nRennesJS : WebAssembly\r\nBreizhCamp 2018 : Retour vers la java.util.concurrent.Futur\r\nDev Fest Lille:  LOL CAT on IOT\r\nSnowCamp : LOL CAT on IOT\r\nDev Fest Brest  : Retour vers la java.util.concurrent.Futur",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+} ]

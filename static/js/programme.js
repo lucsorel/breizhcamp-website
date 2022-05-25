@@ -17,14 +17,16 @@
             ];
 
             var categoryColors = this.categoryColors = {
-                'Systèmes embarqués': '#186a5d',
-                'Méthodologies': '#C9880F',
+                'IoT Embarqué': '#186a5d',
+                'Méthodologie': '#C9880F',
                 'Data': '#BB283C',
                 'Architecture': '#6B4162',
-                'Développement': '#6AAA3E',
+                'Développement': '#3366ff',
                 'Web': '#2e9eb7',
+                'Mobile': '#ff99ff',
                 'Keynote': '#F55E52',
-                'Autre': '#AAAAAA'
+                'Green': '#009900',
+                'Autre...': '#AAAAAA'
             };
 
             var rooms = this.rooms = {
