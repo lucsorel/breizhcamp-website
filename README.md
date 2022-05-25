@@ -64,6 +64,9 @@ puis accéder à http://localhost:1313. Hugo activera le rechargement automatiqu
 1.  Lancer le script `bin/update-json-speakers.sh`
 1.  Faire un commit du fichier `data/speakers.json`
 
+Le fichier `static/json/speakers_others.json` est réservé aux speakers "hors-CFP" (Keynotes...)
+
+
 #### Liste des talks du programme
 
 Si vous utilisez la méthode de récupération `static` pour récupérer les talks du programme,
@@ -71,6 +74,49 @@ il faut mettre à jour le fichier `static/json/talks.json` :
 
 1.  Lancer le script `bin/update-json-talks.sh`
 1.  Faire un commit du fichier `static/json/talks.json`
+
+Le fichier `static/json/talks_others.json` est réservé aux talks "hors-CFP" (Meet'n Greet, Keynotes...)
+
+
+### Actions classiques
+
+#### Ouverture/Fermeture du CFP
+
+1. Fichier `config.toml` : Ajouter/décommenter/commenter l'item de menu (bandeau) avec icône ouvert/fermé et l'URL du CFP
+    ```toml
+    [[params.menu]]
+        name = "CFP"
+        url  = "https://sessionize.com/breizhcamp-2022/"
+        target = "_blank"
+        image= "/img/cfp-icon-64.png"
+        label= '<span class="label label-success">Ouvert</span>'
+    #    label= '<i class="note fa fa-times-circle text-muted" title="Clos"></i>'
+        weight = 1
+    ```
+2. Fichier `content/conference/cfp.md`, mettre à jour l'URL du CFP
+
+
+#### Ouverture/Fermeture de la billeterie
+
+1. Fichier `config.toml` : Ajouter/décommenter/commenter l'item de menu (bandeau) avec icône ouvert/fermé et l'URL du CFP
+    ```toml
+    [[params.menu]]
+        name = "Billets"
+        url  = "https://docs.google.com/forms/d/e/1FAIpQLSc3CbFbwKtGOCX7tbU4pXPg6LOOEB9xbp5LCpgfVlNiqFy8hg/viewform"
+        target = "_blank"
+        label= '<i class="note fa fa-check-circle text-success" title="Billetterie avec tirage au sort : inscriptions ouvertes"></i>'
+        #    label= '<i class="note fa fa-times-circle text-muted" title="Billetterie avec tirage au sort : inscriptions closes"></i>'
+        weight = 1
+    ```
+2. Fichier `content/faq/_index.md`, mettre à jour l'URL et les dates d'ouvertures du tirage au sort billeterie
+    ```markdown
+    # Comment acheter un billet ?
+    
+    ...
+    Si vous êtes intéressé pour venir au BreizhCamp cette année, inscrivez-vous au tirage au sort via
+    [ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSc3CbFbwKtGOCX7tbU4pXPg6LOOEB9xbp5LCpgfVlNiqFy8hg/viewform)
+    avant le **31 mai minuit**.
+    ```
 
 
 ## Configuration
