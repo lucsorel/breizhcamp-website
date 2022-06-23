@@ -41,6 +41,11 @@ items:
     url: "https://conserto.pro"
     asso_level: "nyancat"
     breizhcamp_level: "gold"
+    
+  - name: "Créative Ingénierie"
+    logo: "/img/sponsors/logo_creative_ingenierie.png"
+    url: "https://www.groupe-creative.fr/"
+    breizhcamp_level: "gold"
 
   - name: "Delia Technologies"
     logo: "/img/sponsors/logo_delia_technologies.png"
@@ -102,7 +107,6 @@ items:
     logo: "/img/sponsors/logo_worldline.png"
     url: "https://fr.worldline.com/"
     breizhcamp_level: "gold"
-    hidden: true
 
 
   # ========== SILVER ==========
