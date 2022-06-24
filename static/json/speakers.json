@@ -142,15 +142,26 @@
         "social": null
     },
     {
-        "id": "34a0749a-b971-4220-b17b-f2b8b49123f9",
-        "lastname": "Boucard",
-        "firstname": "Bruno",
-        "imageProfilURL": "https://sessionize.com/image/ee03-400o400o2-9a-b971-4220-b17b-f2b8b49123f9.b4129b30-12c8-4769-870f-fa60bb19273c.jpg",
-        "bio": "Bruno Boucard is developer, trainer, agile coach and speaker. He loves to explain with concrete examples with live-coding, if needed. He is organizer of the BDD Paris user group. He is a long-time Microsoft MVP, but he still is coding java with a C# accent ;-)\r\nHis company 42skillz which aims to help organizations to make software and to work differently, he provides trainings, coaching, consulting about TDD, BDD, legacy code refactoring techniques and DDD with an extra soul.",
+        "id": "bc4d6f9f-7ab0-4a9a-ab74-ecb8a2523e07",
+        "lastname": "Carpaye",
+        "firstname": "Thomas",
+        "imageProfilURL": "https://sessionize.com/image/e4eb-200o200o2-PyPdzxuCCbVCiVKp5owpU3.jpg",
+        "bio": "Je suis passionné par les bonnes pratiques de développement et ce qui touche à l'eXtreme Programming comme le pair/mob programming, TDD, BDD, DDD, etc.\r\nCofondateur du meetup @MobProgFr.",
         "github": null,
         "googleplus": null,
-        "twitter": "@brunoboucard?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
-        "social": "https://www.linkedin.com/in/brunoboucard/"
+        "twitter": null,
+        "social": null
+    },
+    {
+        "id": "331bf10a-0ab8-4e77-a56b-603bfc055d89",
+        "lastname": "Mens-Pellen",
+        "firstname": "Hadrien",
+        "imageProfilURL": null,
+        "bio": "Passionné de code et payé pour le faire depuis 12 ans déjà. Développeur full stack chez Sunday.\r\nJ'aime expérimenter et trouver des meilleurs façons de travailler autour du logiciel. Je travaille et partage sur tout ce qui touche à l'eXtreme Programming: TDD, Ensembles, NoEstimates, BDD, DDD, Programmation fonctionelle (Elm, Rescript, Erlang) etc.\r\nVous pourrez me retrouver sur le meetup que j'anime @MobProgFr et dans les meetups de craft/dev en ligne et sur Nantes!",
+        "github": null,
+        "googleplus": null,
+        "twitter": null,
+        "social": null
     },
     {
         "id": "9d4f0a8d-6ea5-46f6-b8c7-41664cebeaf3",
