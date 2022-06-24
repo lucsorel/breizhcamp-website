@@ -1,5 +1,4 @@
-[
-  {
+[{
     "name": "Keynote d'ouverture",
     "event_start": "2022-06-30T09:00:00",
     "event_end": "2022-06-30T10:00:00",
@@ -7,7 +6,7 @@
     "event_type": "Keynote",
     "format": "Keynote",
     "venue": "Amphi C",
-    "speakers": "Équipe BreizhCamp, Tristan Nitot",
+    "speakers": "Équipe BreizhCamp, Arthur Tarroux, Mélissa Cottin",
     "video_url": null,
     "files_url": null,
     "slides_url": null,
@@ -997,18 +996,18 @@
     },
     {
         "id": 335586,
-        "name": "Model Driven Design",
+        "name": "Mob Programming Toolbox",
         "event_start": "2022-06-30T16:00:00",
         "event_end": "2022-06-30T16:55:00",
         "event_type": "Méthodologie",
         "format": "Conférence",
         "venue": "Amphi D",
         "venue_id": "4",
-        "speakers": "Bruno Boucard",
+        "speakers": "Thomas Carpaye, Hadrien Mens-Pellen",
         "video_url": null,
         "files_url": null,
         "slides_url": null,
-        "description": "Si le Domain-Driven Design était une fleur, le Model-Driven Design en serait le nectar. Je vous propose de faire une plongée au cœur de la modélisation DDD, appelée Model-Driven Design. Afin de comprendre comment obtenir un modèle juste, expressif et frugal, nous visiterons l'essentiel des ateliers qui contribue à nourrir les modèles mentaux associés au domaine métier :\r\n\r\n* Event Storming,\r\n\r\n* Example Mapping,\r\n\r\n* ResponsibilityMapping,\r\n\r\n* Story Mapping.\r\n\r\nAvant de rentrer dans le cœur du sujet, je rappellerai l'origine du DDD selon Eric Evans: Bounded Context et les corollaires associés. Une fois planté le décor, nous pourrons expliquer le Model-Driven Design qui se décompose en deux :\r\n\r\nLe Supple Design : une suite de patterns au service d'un code souple et fiable : livecoding pour présenter l'essentiel.\r\n\r\nLe Deep Model : processus de modélisation du problème métier par raffinement successif. Les plus chanceux auront peut-être un Breakthrough.\r\n\r\nJe conclurais par le Whirlpool Process of Model Exploration proposé par Eric Evans\r\n\r\nAprès cette conférence, vous ne verrez plus le Domain-Driven Design tout à fait de la même façon."
+        "description": "Assis dans une salle sombre qui sent le fauve depuis des heures. Ça fait longtemps que plus personne ne prête attention à Gérard qui ne lâche pas le clavier. Quand le manager vous a trouvé, il vous a remonté les bretelles. À 4 sur cette tâche ? Quel gaspillage !\r\nTu aimes l'idée du mob mais parfois ça ne marche pas. Et ça peut devenir plus une torture qu'un super pouvoir.\r\nViens découvrir avec nous comment tu peux retrouver de la joie à faire ensemble. Faciliter des sessions de mob efficaces, convaincre tes collègues et le management."
     },
     {
         "id": 333279,
