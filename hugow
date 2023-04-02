@@ -27,10 +27,7 @@ install_hugo() {
   fi
 }
 
-not_found=0
-HUGO=$(which hugo 2>/dev/null) || not_found=$?
-if [[ $not_found -ne 0 ]]; then
-  case "`uname`" in
+case "`uname`" in
   Darwin*)
     HUGO=".hugo/hugo"
     ;;
@@ -40,9 +37,8 @@ if [[ $not_found -ne 0 ]]; then
   *)
     echo "No Unable to find Hugo binary, exiting..."
     exit 1
-  esac
+esac
 
-  [[ ! -x "$HUGO" ]] && install_hugo
-fi
+[[ ! -x "$HUGO" ]] && install_hugo
 
 "$HUGO" "$@"

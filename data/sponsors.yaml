@@ -13,57 +13,62 @@ items:
 
   - name: "SII"
     logo: "/img/sponsors/logo_sii.png"
-    url: "http://www.sii.fr/fr/"
+    url: "https://sii-group.com"
     asso_level: "usergroup"
     breizhcamp_level: "platinum"
 
   - name: "Zenika"
-    logo: "/img/sponsors/logo_zenika.png"
+    logo: "/img/sponsors/logo_zenika.svg"
     url: "https://www.zenika.com"
-    breizhcamp_level: "platinum"
+    background_dark: true
     asso_level: "licorne"
+    breizhcamp_level: "platinum"
 
   - name: "CYIM"
-    logo: "/img/sponsors/logo_cyim.png"
+    logo: "/img/sponsors/logo_cyim.svg"
     url: "https://www.cyim.com/"
-    background_dark: true
-    breizhcamp_level: "platinum" 
+    breizhcamp_level: "platinum"
 
   # ========== GOLD ==========
 
-  - name: "Apside"
-    logo: "/img/sponsors/logo_apside.png"
-    url: "http://www.apside.com"
-    breizhcamp_level: "gold"
-
-  - name: "AriadNEXT"
+  - name: "Ariadnext"
     logo: "/img/sponsors/logo_ariadnext.png"
-    url: "http://www.ariadnext.com"
+    url: "https://www.ariadnext.com"
     breizhcamp_level: "gold"
 
-  - name: "Creative"
-    logo: "/img/sponsors/logo_creative.png"
+  - name: "Conserto"
+    logo: "/img/sponsors/logo_conserto.png"
+    url: "https://conserto.pro"
+    asso_level: "nyancat"
+    breizhcamp_level: "gold"
+    
+  - name: "Créative Ingénierie"
+    logo: "/img/sponsors/logo_creative_ingenierie.png"
     url: "https://www.groupe-creative.fr/"
     breizhcamp_level: "gold"
 
-  - name: "Elastic"
-    logo: "/img/sponsors/logo_elastic.svg"
-    url: "https://www.elastic.co/fr/"
+  - name: "Delia Technologies"
+    logo: "/img/sponsors/logo_delia_technologies.png"
+    url: "https://www.delia.tech/"
     breizhcamp_level: "gold"
 
-  - name: "Microsoft"
-    logo: "/img/sponsors/logo_microsoft.png"
-    url: "https://www.microsoft.com/fr-fr/"
+  - name: "HelloWork"
+    logo: "/img/sponsors/logo_hellowork.png"
+    url: "https://www.hellowork-group.com"
     breizhcamp_level: "gold"
-    asso_level: "nyancat"
+
+  - name: "Jenji"
+    logo: "/img/sponsors/logo_jenji.png"
+    url: "https://www.jenji.io/"
+    breizhcamp_level: "gold"
 
   - name: "Liksi"
     logo: "/img/sponsors/logo_liksi.png"
-    url: "http://www.liksi.fr"
+    url: "https://www.liksi.fr"
     breizhcamp_level: "gold"
 
-  - name: "MaxDS"
-    logo: "/img/sponsors/logo_maxds.svg"
+  - name: "Max DS"
+    logo: "/img/sponsors/logo_max_ds.svg"
     url: "https://maxds.fr/"
     breizhcamp_level: "gold"
     asso_level: "usergroup"
@@ -73,114 +78,130 @@ items:
     url: "https://www.niji.fr/"
     breizhcamp_level: "gold"
 
-  - name: "Neo-Soft"
-    logo: "/img/sponsors/logo_neosoft.png"
-    url: "http://www.neo-soft.fr"
+  - name: "Néo-Soft"
+    logo: "/img/sponsors/logo_neo-soft.svg"
+    url: "https://www.neo-soft.fr/"
     breizhcamp_level: "gold"
 
-  - name: "OVH"
-    logo: "/img/sponsors/logo_ovh.png"
+  - name: "OVHcloud"
+    logo: "/img/sponsors/logo_ovhcloud.png"
     url: "https://www.ovh.com/fr/"
     breizhcamp_level: "gold"
 
-  - name: "SlickTeam"
-    logo: "/img/sponsors/logo_slickteam.png"
-    url: "https://slickteam.fr/"
+  - name: "Ouest-France Groupe SIPA"
+    logo: "/img/sponsors/logo_ouest-france_groupe_sipa.png"
+    url: "https://www.ouest-france.fr/"
     breizhcamp_level: "gold"
-
-  # ========== SILVER ==========
-
-  - name: "CGI"
-    logo: "/img/sponsors/logo_cgi.svg"
-    url: "https://www.cgi.fr/fr-fr"
-    breizhcamp_level: "silver"
-
-  - name: "Conserto"
-    logo: "/img/sponsors/logo_concerto.png"
-    url: "https://www.conserto.pro"
-    asso_level: "nyancat"
-    breizhcamp_level: "silver"
-
-  - name: "Energiency"
-    logo: "/img/sponsors/logo_energiency.svg"
-    url: "http://www.energiency.com"
-    breizhcamp_level: "silver"
-
-  - name: "Jouve"
-    logo: "/img/sponsors/logo_jouve.svg"
-    url: "https://www.jouve.com/"
-    breizhcamp_level: "silver"
 
   - name: "Oxxeo"
     logo: "/img/sponsors/logo_oxxeo.png"
     url: "https://www.oxxeo.fr/"
-    breizhcamp_level: "silver"
+    breizhcamp_level: "gold"
 
-  - name: "Saagie"
-    logo: "/img/sponsors/logo_saagie.png"
-    url: "https://www.saagie.com"
-    breizhcamp_level: "silver"
-
-  - name: "Serli"
-    logo: "/img/sponsors/logo_serli.png"
-    url: "http://www.serli.com"
-    breizhcamp_level: "silver"
-
-  - name: "Silicom"
-    logo: "/img/sponsors/logo_silicom.svg"
-    url: "http://www.silicom.fr"
-    breizhcamp_level: "silver"
-
-  - name: "Softeam"
-    logo: "/img/sponsors/logo_softeam.png"
-    url: "http://www.softeam.fr"
-    breizhcamp_level: "silver"
-
-  - name: "Sopra Steria"
-    logo: "/img/sponsors/logo_soprasteria.png"
-    url: "https://www.soprasteria.com/fr"
-    breizhcamp_level: "silver"
-
-  - name: "Up"
-    logo: "/img/sponsors/logo_up.png"
-    url: "https://up.coop/"
-    breizhcamp_level: "silver"
-
-  - name: "Solocal"
-    logo: "/img/sponsors/logo_solocal.png"
-    url: "http://www.solocalgroup.com/fr/"
-    breizhcamp_level: "silver"
-
-  # ========== BRONZE ==========
-
-  - name: "Adventiel"
-    logo: "/img/sponsors/logo_adventiel.png"
-    url: "http://www.adventiel.com"
-    breizhcamp_level: "bronze"
-
-  - name: "Alten"
-    logo: "/img/sponsors/logo_alten.svg"
-    url: "https://www.alten.com/fr/"
-    breizhcamp_level: "bronze"
-
-  - name: "Infotel"
-    logo: "/img/sponsors/logo_infotel.png"
-    url: "http://www.infotel.com"
-    breizhcamp_level: "bronze"
-
-  - name: "Planet Work"
-    logo: "/img/sponsors/logo_planet-work.svg"
-    url: "https://www.planet-work.com/"
-    breizhcamp_level: "bronze"
-
-  - name: "Wijin"
-    logo: "/img/sponsors/logo_wijin.svg"
-    url: "https://www.wijin.tech/"
-    breizhcamp_level: "bronze"
+  - name: "Slickteam"
+    logo: "/img/sponsors/logo_slickteam.png"
+    url: "https://slickteam.fr/"
+    breizhcamp_level: "gold"
 
   - name: "Worldline"
     logo: "/img/sponsors/logo_worldline.png"
     url: "https://fr.worldline.com/"
+    breizhcamp_level: "gold"
+
+
+  # ========== SILVER ==========
+
+  - name: "Apside"
+    logo: "/img/sponsors/logo_apside.png"
+    url: "https://www.apside.com"
+    breizhcamp_level: "silver"
+
+  - name: "Arche MC2"
+    logo: "/img/sponsors/logo_arche_mc2.png"
+    url: "https://www.arche-mc2.fr"
+    breizhcamp_level: "silver"
+
+  - name: "CGI"
+    logo: "/img/sponsors/logo_cgi.png"
+    url: "https://www.cgi.fr/fr-fr"
+    breizhcamp_level: "silver"
+
+  - name: "Coexya"
+    logo: "/img/sponsors/logo_coexya.png"
+    url: "https://www.coexya.eu/"
+    breizhcamp_level: "silver"
+
+  - name: "G2S"
+    logo: "/img/sponsors/logo_g2s.png"
+    url: "https://www.groupama.com/fr/fiche/groupama-supports-et-services/"
+    breizhcamp_level: "silver"
+
+  - name: "Kanoma"
+    logo: "/img/sponsors/logo_kanoma.png"
+    url: "https://www.kanoma.fr/"
+    breizhcamp_level: "silver"
+
+  - name: "Pr0Ph3Cy"
+    logo: "/img/sponsors/logo_pr0ph3cy.png"
+    url: "https://www.pr0ph3cy.com/"
+    breizhcamp_level: "silver"
+
+  - name: "Serli"
+    logo: "/img/sponsors/logo_serli.svg"
+    url: "https://www.serli.com"
+    breizhcamp_level: "silver"
+
+  - name: "Softeam"
+    logo: "/img/sponsors/logo_softeam.png"
+    url: "https://www.softeamgroup.fr"
+    breizhcamp_level: "silver"
+
+  - name: "Solocal"
+    logo: "/img/sponsors/logo_solocal.svg"
+    url: "https://www.solocal.com"
+    breizhcamp_level: "silver"
+
+  - name: "Sopra Steria"
+    logo: "/img/sponsors/logo_sopra_steria.png"
+    url: "https://www.soprasteria.com/fr/"
+    breizhcamp_level: "silver"
+
+  - name: "Younup"
+    logo: "/img/sponsors/logo_younup.png"
+    url: "https://www.younup.fr/"
+    breizhcamp_level: "silver"
+
+  # ========== BRONZE ==========
+
+  - name: "DEVmachine"
+    logo: "/img/sponsors/logo_devmachine.png"
+    url: "https://www.devmachine.fr"
+    asso_level: "usergroup"
+    breizhcamp_level: "bronze"
+
+  - name: "Harmonic"
+    logo: "/img/sponsors/logo_harmonic.png"
+    url: "https://www.harmonicinc.com/"
+    breizhcamp_level: "bronze"
+
+  - name: "Infotel"
+    logo: "/img/sponsors/logo_infotel.png"
+    url: "https://infotel.com"
+    breizhcamp_level: "bronze"
+
+  - name: "Net-ng"
+    logo: "/img/sponsors/logo_net-ng.png"
+    url: "https://www.net-ng.com"
+    breizhcamp_level: "bronze"
+
+  - name: "Onepoint"
+    logo: "/img/sponsors/logo_onepoint.png"
+    url: "https://www.groupeonepoint.com"
+    breizhcamp_level: "bronze"
+
+  - name: "Wijin"
+    logo: "/img/sponsors/logo_wijin.png"
+    url: "https://www.wijin.tech"
     breizhcamp_level: "bronze"
 
 
@@ -204,11 +225,6 @@ items:
     asso_level: "usergroup"
     background_dark: true
 
-  - name: "DEVmachine"
-    logo: "/img/sponsors/logo_devmachine.svg"
-    url: "https://www.devmachine.fr/"
-    asso_level: "usergroup"
-
   - name: "Orange"
     logo: "/img/sponsors/logo_orange.png"
     url: "https://www.orange.com"
@@ -216,6 +232,16 @@ items:
 
 
   # ========== OLD ==========
+
+  - name: "Adventiel"
+    logo: "/img/sponsors/logo_adventiel.png"
+    url: "http://www.adventiel.com"
+    hidden: true
+
+  - name: "Alten"
+    logo: "/img/sponsors/logo_alten.svg"
+    url: "https://www.alten.com/fr/"
+    hidden: true
 
   - name: "Claranet"
     logo: "/img/sponsors/logo_claranet.png"
@@ -225,6 +251,21 @@ items:
   - name: "Clever Cloud"
     logo: "/img/sponsors/logo_clevercloud.svg"
     url: "https://www.clever-cloud.com"
+    hidden: true
+
+  - name: "Creative"
+    logo: "/img/sponsors/logo_creative.png"
+    url: "https://www.groupe-creative.fr/"
+    hidden: true
+
+  - name: "Elastic"
+    logo: "/img/sponsors/logo_elastic.svg"
+    url: "https://www.elastic.co/fr/"
+    hidden: true
+
+  - name: "Energiency"
+    logo: "/img/sponsors/logo_energiency.svg"
+    url: "http://www.energiency.com"
     hidden: true
 
   - name: "ISTIC, UFR Informatique - Électronique"
@@ -248,9 +289,19 @@ items:
     url: "https://kristal.io/fr/"
     hidden: true
 
+  - name: "Microsoft"
+    logo: "/img/sponsors/logo_microsoft.png"
+    url: "https://www.microsoft.com/fr-fr/"
+    hidden: true
+
   - name: "Open"
     logo: "/img/sponsors/logo_open.png"
     url: "https://www.open.global/fr/rennes"
+    hidden: true
+
+  - name: "Planet Work"
+    logo: "/img/sponsors/logo_planet-work.svg"
+    url: "https://www.planet-work.com/"
     hidden: true
 
   - name: "reThink"
@@ -258,9 +309,14 @@ items:
     url: "https://rethink-project.eu/"
     hidden: true
 
-  - name: "Slickteam"
-    logo: "/img/sponsors/logo_slickteam.png"
-    url: "http://slickteam.fr"
+  - name: "Saagie"
+    logo: "/img/sponsors/logo_saagie.png"
+    url: "https://www.saagie.com"
+    hidden: true
+
+  - name: "Silicom"
+    logo: "/img/sponsors/logo_silicom.svg"
+    url: "http://www.silicom.fr"
     hidden: true
 
   - name: "Sogeti"

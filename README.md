@@ -16,44 +16,7 @@ puis accéder à http://localhost:1313. Hugo activera le rechargement automatiqu
 
 ### Passage à une nouvelle édition du breizhcamp
 
-1.  Edition précédente :
-    1.  Passer la méthode de récupération du programme et des speakers en `static`
-    1.  (Mettre à jour le fichier des talks et des speakers)
-    1.  (Archivez l'ancien site : inutile car il y a un repo git de déploiement par édition `www-<year>`)
-1.  Faire un tag de la version (ex : `www-2017`)
-1.  Créer le repo git de déploiement de la nouvelle édition (ex : `www-2019`)
-    1.  Créer le repo sur GitHub [breizhcamp/www-AAAA](https://github.com/breizhcamp)
-    1.  Créer la branche `gh-pages`
-    1.  Créer le fichier `CNAME` contenant ceci :
-        ```
-        2019.breizhcamp.org
-        
-        ```
-    1.  Commiter ce fichier sur la branche `gh-pages`
-    1.  Pousser cette branche sur GitHub
-    1.  Activer _GitHub Pages_ sur la branche `gh-pages`
-1.  Fichier `config.toml`, mettre à jour :
-    -   `title`
-    -   `[params]`
-        -   `social_logo`
-    -   `[params.breizhcamp]`
-    -   `[[params.menu]]` avec `name = "Billetterie"`
-        -    `url`
-    -   `[params.features]`
-        -    `subtitle`
-1.  Fichier `build.sh`, mettre à jour :
-    -   `REPO` dans le case `-p|--prod`
-1.  Passer les pages _programme_ et _speakers_ en draft
-1.  Passer la méthode de récupération du programme et des speakers en `cfp_api`
-1.  Modifier le contenu du carousel `data/carousel`
-1.  Mettre à jour les pages du site, sponsors...
-1.  Bascule DNS
-    1.  sur le repo git de déploiement de l'édition précédente modifier le fichier `CNAME` pour mettre `<year>.breizhcamp.org`
-    1.  sur le repo git de déploiement de la nouvelle édition modifier le fichier `CNAME` pour mettre ceci :
-        ```
-        www.breizhcamp.org
-        
-        ```
+Voir la documentation sur le [wiki du BreizhCamp](https://breizhcamp.gitlab.io/all/wiki/infra/siteweb/)
 
 ### Mise à jours des données
 
@@ -140,18 +103,10 @@ Ce dépot possède 2 branches, `staging` et `production`. La branche `production
 
 ## Déploiement
 
-L'instance [Jenkins du BreizhCamp]( https://breizhcamp.ci.cloudbees.com) permet de déployer automatiquement les branches principales de ce dépôt:
+Netlify permet de déployer automatiquement les branches principales de ce dépôt:
 
-* la branche `staging` est déployée sur http://www-staging.breizhcamp.org
+* la branche `staging` est déployée sur http://staging.breizhcamp.org
 * la branche `production` est déployée sur http://www.breizhcamp.org
-
-Les pages HTML générées sont servies par GitHub Pages et sont stockées dans:
-
-* [breizhcamp/www-staging](https://github.com/breizhcamp/www-staging) pour la branche `staging`
-* [breizhcamp/www-\<year\>](https://github.com/breizhcamp) pour la branche `production`.
-  (`<year>` est l'année de l'édition. Ex : [breizhcamp/www-2018](https://github.com/breizhcamp/www-2018))
-
-Les scripts de déploiement utilisé par l'intégration continue Jenkins sont dans le répertoire `bin`.
 
 # Dévelopment Web et Hugo
 
