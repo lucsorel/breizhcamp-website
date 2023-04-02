@@ -140,18 +140,10 @@ Ce dépot possède 2 branches, `staging` et `production`. La branche `production
 
 ## Déploiement
 
-L'instance [Jenkins du BreizhCamp]( https://breizhcamp.ci.cloudbees.com) permet de déployer automatiquement les branches principales de ce dépôt:
+Netlify permet de déployer automatiquement les branches principales de ce dépôt:
 
-* la branche `staging` est déployée sur http://www-staging.breizhcamp.org
+* la branche `staging` est déployée sur http://staging.breizhcamp.org
 * la branche `production` est déployée sur http://www.breizhcamp.org
-
-Les pages HTML générées sont servies par GitHub Pages et sont stockées dans:
-
-* [breizhcamp/www-staging](https://github.com/breizhcamp/www-staging) pour la branche `staging`
-* [breizhcamp/www-\<year\>](https://github.com/breizhcamp) pour la branche `production`.
-  (`<year>` est l'année de l'édition. Ex : [breizhcamp/www-2018](https://github.com/breizhcamp/www-2018))
-
-Les scripts de déploiement utilisé par l'intégration continue Jenkins sont dans le répertoire `bin`.
 
 # Dévelopment Web et Hugo
 
