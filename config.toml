@@ -1,5 +1,5 @@
 baseurl = "//www.breizhcamp.org/"
-title = "BreizhCamp - 10ème édition - du 29 Juin au 1er Juillet 2022"
+title = "BreizhCamp - 11ème édition - du 28 au 30 juin 2023"
 theme = "hugo-universal-theme"
 languageCode = "fr"
 defaultContentLanguage = "fr"
@@ -43,7 +43,7 @@ unsafe= true
     # Enable the contact form by entering your Formspree.io email
     email = "contact@breizhcamp.org"
 
-    copyright = """<p>Copyright (c) 2015-2022, BreizhCamp team</p>
+    copyright = """<p>Copyright (c) 2015-2023, BreizhCamp team</p>
         <p><a href="https://github.com/breizhcamp/website">Améliorer ce site</a></p>
         """
     date_format = "2 January 2006"
@@ -56,13 +56,13 @@ unsafe= true
 
 
 [params.breizhcamp]
-    edition_number = "10"
-    edition_year = "2022"
-    edition_date_range = "29 Juin au 1er Juillet"
-    edition_date_place = "29 Juin au 1er Juillet à Rennes"
-    edition_date_start = "2022-06-29"
-    edition_date_end = "2022-07-01"
-    previous_editions = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019"]
+    edition_number = "11"
+    edition_year = "2023"
+    edition_date_range = "28 au 30 juin"
+    edition_date_place = "28 au 30 juin à Rennes"
+    edition_date_start = "2023-06-28"
+    edition_date_end = "2023-06-30"
+    previous_editions = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2022"]
     programme_get_talks_method = "static"  # static | cfp_api
     programme_get_speakers_method = "static"  # static | cfp_api
 
