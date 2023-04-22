@@ -119,24 +119,29 @@ unsafe= true
     weight = 8
 
 [[params.menu]]
+    name = "Code of conduct"
+    url  = "/code-of-conduct/"
+    weight = 9
+
+[[params.menu]]
   name = "FAQ"
    url  = "/faq/"
-   weight = 9
+   weight = 10
 
 [[params.menu]]
     name = "Blog"
     url  = "/blog/"
-    weight = 10
+    weight = 11
 
 [[params.menu]]
     name = "Equipe"
     url  = "/team/"
-    weight = 11
+    weight = 12
 
 [[params.menu]]
     name = "Asso"
     url  = "/asso/"
-    weight = 12
+    weight = 13
 
 # Enable or disable top bar with social icons
 [params.topbar]
