@@ -13,7 +13,7 @@
 
         </header>
 
-        {{ partial "breadcrumbs_with_sub.html" . }}
+        {{ partial "breadcrumbs.html" . }}
 
         <!--/.nav-collapse -->
 
@@ -33,6 +33,20 @@
     <!-- /#all -->
 
     {{ partial "scripts.html" . }}
+
+    <script src="{{ .Site.BaseURL }}js/languagetroll.js"></script>
+
+    <script>
+        jQuery(document).ready(function() {
+            jQuery('.language-troll')
+                .attr('title', "Si ton langage n'apparaît pas, nous sommes ouverts aux PR")
+                .text(LANGUAGE_TROLL.next());
+
+            setInterval(function () {
+                jQuery('.language-troll').text(LANGUAGE_TROLL.next());
+            }, 3000);
+        });
+    </script>
 
   </body>
 </html>
