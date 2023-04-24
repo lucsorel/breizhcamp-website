@@ -1,5 +1,5 @@
 +++
-title = "Code of conduct"
+title = "Code de bonne conduite"
 +++
 
 # Un code de conduite ?
@@ -21,7 +21,7 @@ Les 10 commandements adressés aux humains participants au BreizhCamp :
 * Tu ne trolleras pas ton prochain, même pour rire ;
 * Tu ne mettras personne mal à l’aise ou dans l’embarras, même si c’est “juste une blague”, pas plus que tu ne harcèleras quelqu’un - stop, ça veut dire stop, non, c’est non. Même se moquer de <span class="language-troll">Ruby</span>, au bout d’un moment c’est lourd, même si c’est tentant ;
 * Tu n’oublieras pas ton parapluie (pour la crème solaire, les clichés bretons ont la vie dure, on va pas essayer de te la faire amener…) ;
-* Tu partageras via les réseaux sociaux, ton expérience avec tous ceux et celles qui n’ont pas eu de billet, c’est la meilleure pub qu’on puisse espérer.
+* Tu pourras partager ton expérience via les réseaux sociaux, c’est la meilleure pub qu’on puisse espérer.
 
 Le non-respect de ces règles de bienséance pourra entraîner l’exclusion de l’événement, à la seule discrétion d'une ou plusieurs membres de l'équipe d'organisation.
 

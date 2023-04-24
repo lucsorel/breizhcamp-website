@@ -119,8 +119,8 @@ unsafe= true
     weight = 8
 
 [[params.menu]]
-    name = "Code of conduct"
-    url  = "/code-of-conduct/"
+    name = "Code de bonne conduite"
+    url  = "/code-de-bonne-conduite/"
     weight = 9
 
 [[params.menu]]
