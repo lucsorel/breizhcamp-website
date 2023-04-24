@@ -11,7 +11,7 @@ Si vous cherchez comment vous rendre au BreizhCamp, c'est expliqué [ici](/faq/#
 
 # Code de bonne conduite
 
-[C'est par là](/code-de-bonne-conduite/)
+[C'est par là](/code-de-bonne-conduite/).
 
 # Meet & Greet
 
