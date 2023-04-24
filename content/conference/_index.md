@@ -9,6 +9,10 @@ Si vous cherchez comment vous rendre au BreizhCamp, c'est expliqué [ici](/faq/#
 
 {{<figure src="/img/plan-lieu.png" title="Plan du batiment 2A" class="figure-center">}}
 
+# Code de bonne conduite
+
+[C'est par là](/code-de-bonne-conduite/)
+
 # Meet & Greet
 
 Le BreizhCamp ce n’est pas que des conférences, des universités ou encore des labs avec des speakers au top, c’est aussi un moment privilégié d’échanges, de discussions, de rencontres et de bonne humeur et c’est pour ça que nous essayons tous les ans de faire du BreizhCamp une conférence toujours plus conviviale. Et c’est aussi pour ça, après les bons retours des éditions précédentes, que nous réitérons notre Soirée *Meet & Greet* qui aura lieu le jeudi.

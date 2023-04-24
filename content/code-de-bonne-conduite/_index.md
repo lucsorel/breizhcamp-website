@@ -27,13 +27,11 @@ Le non-respect de ces règles de bienséance pourra entraîner l’exclusion de 
 
 # SIGNALER
 
-Si vous êtes :
+Contactez sans attendre un membre de l'équipe du Breizhcamp si vous :
 
-* harcelé ou harcelée ou victime de discrimination
-* êtes témoin de harcèlement ou de discrimination à l’égard d’autres participant et/ou participantes
+* êtes victime de discrimination ou de harcèlement
+* êtes témoin de harcèlement ou de discrimination à l’égard d’autres personnes
 * vous craignez la survenue d’un incident
-
-Contactez sans attendre un membre de l'équipe du Breizhcamp.
 
 Contact : diversite@breizhcamp.org
 
