@@ -17,7 +17,7 @@
         {{ range $index, $ug := $.Site.Data.asso.usergroups.items }}
             <div class="col-md-6 col-sm-12">
                 <div class="asso-usergroup">
-                    <a href="{{ .url }}">
+                    <a href="{{ .url }}" target="_blank">
                         {{ if .logo }}<img src="{{ .logo }}" title="{{ .name }}" alt="{{ .name }}" class="asso-usergroup-logo" />{{ end }}
                         <h3>{{ .name }}</h3>
                     </a>
