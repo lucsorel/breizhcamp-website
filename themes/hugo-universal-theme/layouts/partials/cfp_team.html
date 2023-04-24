@@ -15,10 +15,10 @@
                 <div class="team-member">
                     <img src="{{ .picture }}" title="{{ .name }}" alt="{{ .name }}"  />
                     <h4>{{ .name }} </h4>
-                    {{ with .twitter }}<div><a href="https://www.twitter.com/{{.}}"><i class="fa fa-twitter"></i> @{{.}}</a></div>{{ end }}
+                    {{ with .twitter }}<div><a href="https://www.twitter.com/{{.}}" target="_blank"><i class="fa fa-twitter"></i> @{{.}}</a></div>{{ end }}
                     {{ with .link }}
                     <div>
-                        <a href="{{ .url }}">
+                        <a href="{{ .url }}" target="_blank">
                             {{ with .fa_icon }}<i class="fa fa-{{.}}"></i>{{ end }}
                             {{ .label }}
                         </a>
