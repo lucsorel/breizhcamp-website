@@ -6,6 +6,7 @@ set -eu -o pipefail
 PROJECT_ROOT="$(cd -P "$( dirname "${BASH_SOURCE[0]}" )" && pwd)"
 cd "$PROJECT_ROOT"
 
+# Check https://app.netlify.com/sites/breizhcamp-production/settings/env#HUGO_VERSION when change this:
 HUGO_VERSION=0.73.0
 
 install_hugo() {
