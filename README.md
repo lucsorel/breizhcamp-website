@@ -10,7 +10,7 @@ Amis du BreizhCamp, n'hésitez pas à proposer des PR si vous voulez améliorer 
 
 A la racine se trouve un wrapper pour lancer Hugo, qui se chargera de télécharger le binaire Hugo s'il n'est pas disponible. Pour lancer localement le site:
 
-    ./hugow.sh -w serve
+    ./hugow -w serve
 
 puis accéder à http://localhost:1313. Hugo activera le rechargement automatique des pages modifiées. Etant donné la vitesse de génération, les modifications effectuées dans les sources sont visibles en quasi-temps réel dans le navigateur Web.
 
