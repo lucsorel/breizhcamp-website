@@ -87,13 +87,11 @@ items:
     logo: "/img/sponsors/logo_onepoint.png"
     url: "https://www.groupeonepoint.com"
     breizhcamp_level: "gold"
-    hidden: true
 
   - name: "Ouest-France Groupe SIPA"
     logo: "/img/sponsors/logo_ouest-france_groupe_sipa.png"
     url: "https://www.ouest-france.fr/"
     breizhcamp_level: "gold"
-    hidden: true
 
   - name: "Oxxeo"
     logo: "/img/sponsors/logo_oxxeo.png"
