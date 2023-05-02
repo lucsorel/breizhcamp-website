@@ -119,7 +119,6 @@ items:
     logo: "/img/sponsors/logo_worldline.png"
     url: "https://fr.worldline.com/"
     breizhcamp_level: "gold"
-    hidden: true
 
   - name: "Younup"
     logo: "/img/sponsors/logo_younup.png"
