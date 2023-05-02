@@ -174,7 +174,6 @@ items:
     logo: "/img/sponsors/logo_net-ng.png"
     url: "https://www.net-ng.com/"
     breizhcamp_level: "silver"
-    hidden: true
 
   - name: "Scalian"
     logo: "/img/sponsors/logo_scalian.png"
