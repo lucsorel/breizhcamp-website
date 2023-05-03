@@ -61,8 +61,8 @@ nous sommes limités en nombre de places et les nombreux messages que nous recev
 que la pression va être forte sur la billetterie. Alors pour éviter toute frustration, nous mettons
 en place une billetterie par tirage au sort.
 
-Si vous êtes intéressé pour venir au BreizhCamp cette année, inscrivez-vous au tirage au sort via
-[ce formulaire](https://docs.google.com/forms/d/e/1FAIpQLSc3CbFbwKtGOCX7tbU4pXPg6LOOEB9xbp5LCpgfVlNiqFy8hg/viewform) avant le **31 mai minuit**.
+Nous sommes en train de finaliser le système d'inscription pour le BreizhCamp 2023 qui devrait ouvrir début mai.
+Nous communiquerons l'ouverture sur nos réseaux [Twitter](https://twitter.com/breizhcamp) et [LinkedIn](https://www.linkedin.com/in/breizhcamp-%F0%9F%92%BB-26991589/).
 
 Il n'est pas possible d'acheter des billets pendant l'événement.
 
