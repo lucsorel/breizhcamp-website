@@ -100,7 +100,7 @@ unsafe= true
     target = "_blank"
 #    label= '<i class="note fa fa-times-circle text-muted" title="Billetterie fermée"></i>'
 #    label= '<i class="note fa fa-check-circle text-success" title="Billetterie ouverte"></i>'
-    label= '<i class="note fa fa-times-circle text-success" title="Billetterie avec tirage au sort : inscriptions ouvertes"></i>'
+    label= '<i class="note fa fa-check-circle text-success" title="Billetterie avec tirage au sort : inscriptions ouvertes"></i>'
 #    label= '<i class="note fa fa-times-circle text-muted" title="Billetterie avec tirage au sort : inscriptions closes"></i>'
     weight = 1
 
