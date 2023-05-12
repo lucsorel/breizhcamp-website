@@ -35,3 +35,7 @@ items:
   - name: "Lambda Rennes"
     logo: "https://secure.meetupstatic.com/photos/event/5/0/c/4/600_477200676.jpeg"
     url: "https://www.meetup.com/fr-FR/Meetup-Lambda-Rennes-Programmation-fonctionnelle/"
+
+  - name: "Breizh Data Club"
+    logo: "https://secure.meetupstatic.com/photos/event/a/d/a/5/clean_490484453.jpeg"
+    url: "https://www.meetup.com/fr-FR/Breizh-Data-Club/"
