@@ -140,7 +140,6 @@ items:
     logo: "/img/sponsors/logo_adventiel.png"
     url: "https://www.adventiel.com/"
     breizhcamp_level: "silver"
-    hidden: true
 
   - name: "Apside"
     logo: "/img/sponsors/logo_apside.png"
