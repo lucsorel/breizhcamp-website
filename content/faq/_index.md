@@ -34,11 +34,7 @@ emprunter, au choix :
 
 * … la gare SNCF :
 
-  * Il est possible, le matin entre 7H30 et 9H, d'emprunter la ligne express
-  [41ex](https://www.star.fr/se-deplacer/bus-metro/ligne/41ex)
-  direction __CHAMPS BLANCS__
-
-  * En dehors de cette période, le plus simple est de prendre le métro direction
+  * Le plus simple est de prendre le métro ligne A direction
   __KENNEDY__ jusqu'à __RÉPUBLIQUE__ avant d'emprunter l'un des bus indiqués
   ci-dessus.
 
