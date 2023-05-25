@@ -21,7 +21,7 @@
   "format" : "Université",
   "venue" : "Amphi A",
   "venue_id" : "1",
-  "speakers" : "Mélissa Cottin, Stéphanie Vachon",
+  "speakers" : "Mélissa Cottin, Stéphanie Vachon, Philippe Lima",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
@@ -181,19 +181,19 @@
   "slides_url" : null,
   "description" : "Depuis deux ans, les rapports sur les technologies émergentes montrent une forte évolution des architectures composables.\r\n\r\nUne architecture composable est constitué d’un ensemble de briques réutilisables. Ces briques peuvent être développées sur mesure avec du code, low-code ou no-code, ou encore construite avec des briques SaaS sur-étagère, sélectionnées parmi les meilleures du marché.\r\n\r\nOpposé à l’architecture monolithique et repoussant les limites de l’architecture micro-service, le composable permet de gagner en agilité, en rapidité d’implémentation tout en améliorant l’expérience utilisateur grâce à une forte modularité.\r\n\r\nAu cours de ce talk, découvrez les fondations et principes du composable, mais surtout comment en tirer des bénéfices lors de son implémentation"
 }, {
-  "id" : "482931",
-  "name" : "Rust, on arrête d'en parler et on en fait !",
-  "event_start" : "2023-06-28T11:05:00",
-  "event_end" : "2023-06-28T12:00:00",
-  "event_type" : "Développement",
+  "id" : "470136",
+  "name" : "Playwright : l'outil qui va révolutionner les tests end-to-end",
+  "event_start" : "2023-06-28T11:00:00",
+  "event_end" : "2023-06-28T11:55:00",
+  "event_type" : "Web",
   "format" : "Conférence",
   "venue" : "Amphi D",
   "venue_id" : "4",
-  "speakers" : "Alexis Delhelle, Jérémie Harel",
+  "speakers" : "Jean-François Greffier",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Rust, vous en entendez parler, tout le monde dit que c'est le futur mais qu'au début c'est dur ?\r\nOn se lance ensemble, présentation de comment on construit un outil CLI qui fait des requêtes HTTP et on découvre tout ce qui rend ce langage si intéressant. \r\n\r\nAvec des explications de comment tout ça marche et surtout comment éviter de se prendre des murs et rester motivé!"
+  "description" : "Certaines équipes hésitent ou ne mettent pas en place de tests end-to-end.\r\n\"Trop dur à mettre en place\" \"Tests difficiles à maintenir\" \"Perte d'argent et de temps\"\r\n\r\nDans cette conférence, je vous propose de partir à la découverte de Playwright. Un nouvel outil Microsoft, rapide, fiable et complet, qui va probablement changer vos aprioris et appréhensions sur les tests sur navigateurs.\r\n\r\nÀ travers live-coding, démos et exemples, nous verrons comment créer des tests robustes. Nous évoquerons aussi les performances, les limitations à prendre en compte, l'outillage ou encore comment débugger, même après coup.\r\n\r\nVenez découvrir le futur des tests end-to-end !"
 }, {
   "id" : "481485",
   "name" : "Adoptez la clean archigonale",
@@ -209,19 +209,19 @@
   "slides_url" : null,
   "description" : "\"L'architecture est vraiment importante. Les choses qui sont difficiles à changer sont l'architecture initiale, la culture et les compétences de l'équipe. C'est pourquoi il est important de bien faire les choses dès le départ.\" - Martin Fowler  \r\n\r\nAprès une période de balbutiement où nous codions comme nous pouvions, nous avons cru, après les années 2000, avoir trouvé l'architecture idéale : un découpage en couches, où chacune aurait une responsabilité dédiée.  \r\nIdée séduisante sur le papier, mise en oeuvre efficace... au départ.  \r\nDes années après, tout un tas de problèmes a fait surface lors de la maintenance et de l'évolutivité du logiciel, surtout avec l'abondance et le cycle de vie des frameworks.  \r\n\r\nAfin de pallier ces problèmes, des architectures ont émergé, dont l’architecture Hexagonale et la Clean architecture.  \r\n\r\nMais qu'apportent-elles réellement ?  \r\nQue veut dire \"clean/propre\" au sujet d'une architecture ?  \r\nQuelles sont leurs périmètres d'action ?  \r\nEst-ce juste du marketing ou une véritable plus-value ?  \r\nSont-elles équivalentes avec un nommage différent ?  \r\nEnfin... sont-elles la réponse unique à tous les problèmes ?  "
 }, {
-  "id" : "470136",
-  "name" : "Playwright : l'outil qui va révolutionner les tests end-to-end",
-  "event_start" : "2023-06-28T14:35:00",
-  "event_end" : "2023-06-28T15:30:00",
-  "event_type" : "Web",
+  "id" : "481269",
+  "name" : "Sobriété numérique partout, sobriété numérique nulle part ?",
+  "event_start" : "2023-06-28T14:30:00",
+  "event_end" : "2023-06-28T15:25:00",
+  "event_type" : "Green",
   "format" : "Conférence",
   "venue" : "Amphi D",
   "venue_id" : "4",
-  "speakers" : "Jean-François Greffier",
+  "speakers" : "Olivier Philippot",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Certaines équipes hésitent ou ne mettent pas en place de tests end-to-end.\r\n\"Trop dur à mettre en place\" \"Tests difficiles à maintenir\" \"Perte d'argent et de temps\"\r\n\r\nDans cette conférence, je vous propose de partir à la découverte de Playwright. Un nouvel outil Microsoft, rapide, fiable et complet, qui va probablement changer vos aprioris et appréhensions sur les tests sur navigateurs.\r\n\r\nÀ travers live-coding, démos et exemples, nous verrons comment créer des tests robustes. Nous évoquerons aussi les performances, les limitations à prendre en compte, l'outillage ou encore comment débugger, même après coup.\r\n\r\nVenez découvrir le futur des tests end-to-end !"
+  "description" : "La sobriété numérique est-il devenu le nouveau buzzword du monde informatique ? Tout le monde s'y intéresse, certains la critique mais est-ce que beaucoup en font réellement ?\r\nLa réalité est que les mises en pratique ne sont pas au niveau du challenge de la réduction de l'impact environnemental du numérique. Outils pas assez nombreux, focus uniquement sur le code, changements organisationnels complexes... autant de raisons pour qu'une démarche de sobriété numérique échoue.\r\nMais cette démarche peut être concluante, sous-certaines conditions.\r\nNous présenterons dans cette session l'impact du numérique de la fabrication aux usages ainsi que des cas concrets de démarche qui commencent à porter leurs fruits"
 }, {
   "id" : "478000",
   "name" : "Les machines à états, une documentation exécutable ? (et debuggable ? et testable ? \uD83E\uDD2B)",
@@ -335,19 +335,19 @@
   "slides_url" : null,
   "description" : null
 }, {
-  "id" : "476305",
-  "name" : "L'art de review",
+  "id" : "472037",
+  "name" : "Exploser le monolithe - ou pas",
   "event_start" : "2023-06-29T13:30:00",
   "event_end" : "2023-06-29T14:25:00",
-  "event_type" : "Méthodologie",
+  "event_type" : "Architecture",
   "format" : "Conférence",
   "venue" : "Amphi A",
   "venue_id" : "1",
-  "speakers" : "Smaine Milianni",
+  "speakers" : "Nicolas Fränkel",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "La mise en production s'est professionnalisée et industrialisée, nous avons automatisé beaucoup de choses et même s'il existe de nombreux outils pour savoir que le code écrit est fiable et répond aux spécifications, il est difficile de s'assurer qu'il respecte vos standards (simple, robuste, architecture et codestyle, problème de performances, couverture de test, gestion des cas extrêmes...)\r\n\r\nPour vérifier ces aspects il y a la revue de code, c'est la dernière intervention humaine avant de fusionner votre code et de le déployer, c'est donc une partie importante du processus de livraison et dans la vie d'un projet.\r\n\r\nAu-delà de l'introspection du code c'est un grand moment d'échange et d'apprentissage\r\n\r\nVoyons dans la bonne humeur comment vous faciliter la tâche et tirer profit de cette étape."
+  "description" : "Les microservices sont omniprésents. Cependant, la plupart des entreprises qui mettent en œuvre des microservices n'en tirent pas tous les avantages - dans le meilleur des cas. Au pire, c'est un échec cuisant.\r\n\r\nLes microservices ont leur raison d'être : le déploiement indépendant des capacités métier. Cependant, l'hypothèse tacite est qu'il faut déployer toutes les capacités tout le temps. Mon expérience m'a montré que c'est tout simplement faux. Certaines capacités doivent être déployées fréquemment, tandis que d'autres sont beaucoup plus stables. Dans le \"passé\", nous avons utilisé des moteurs de règles pour permettre la mise à jour des règles de gestion sans déploiement. Bien qu'elle fonctionne, cette approche pose d'autres problèmes. Entre l'introduction d'un moteur de règles et la migration de l'ensemble du système vers des microservices, je pense qu'il existe une voie médiane.\r\n\r\nDans cette conférence, je détaillerai chaque point que j'ai soulevé ci-dessus, et je montrerai comment on peut utiliser Serverless pour concevoir de manière pragmatique un système qui permet de le déployer aussi souvent que nécessaire."
 }, {
   "id" : "481186",
   "name" : "LOOM, la météorite sur la JVM ?",
@@ -517,19 +517,19 @@
   "slides_url" : null,
   "description" : "L’implémentation d’une CI/CD dans un projet mobile est au cœur des méthodologies de développement agile et DevOps.\r\n\r\nLors de nos développements, nous pouvons rencontrer de nombreux risques liés à la complexité des différents OS (iOS / Android) et aux différents constructeurs (Huawei, Samsung, Apple…).\r\n\r\nNous vous présentons : \r\n-\tUn ensemble de bonnes pratiques pour avoir une CI/CD fiable et robuste\r\n-\tUn REX basé sur la CI/CD de Niji et de nos clients \r\n-\tLa mise en place d’une CI/CD\r\n-\tLes différents outils utilisés"
 }, {
-  "id" : "476306",
-  "name" : "Le Zero Downtime Deployment en pratique",
+  "id" : "482856",
+  "name" : "Discutons avec nos cartes bancaires depuis nos smartphones",
   "event_start" : "2023-06-29T17:05:00",
   "event_end" : "2023-06-29T17:30:00",
-  "event_type" : "Méthodologie",
+  "event_type" : "Mobile",
   "format" : "Tool in action",
   "venue" : "Amphi B",
   "venue_id" : "2",
-  "speakers" : "Smaine Milianni",
+  "speakers" : "Antoine Robiez, Loïc Fallon",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Le Zéro Downtime Deployment appelé communémant ZDD est une pratique permettant de faire des mises en production sans interruption du système ni de maintenance programmée, finis les MEP à 7h00 du matin ou durant la pause déjeuner !\r\n\r\nChez Yousign nous appliquons le ZDD, la mise en place du ZDD nous permet de déployer tous les jours sereinement sans interruption et à n'importe quel moment de la journée.\r\n\r\nDans ce talk je vous propose un retour d'expérience sur cette pratique, les cas pratiques et les pièges à éviter afin de pouvoir mettre en production sereinement.\r\n\r\nQue vous changiez votre schéma de base de données, modifier vos consumer asynchronoes ou vos contrats d'APIs, je vous propose de voir comment nous faisons concrètement côté code applicatif pour déployer à toute heure sans casser la prod."
+  "description" : "Les terminaux de paiement, on connait.\r\nPour payer, le commerçant programme un montant, on passe sa carte, un BIP retentit et... la transaction est validée.\r\n\r\nMais comment le terminal de paiement connait-il votre compte en banque ? Lui, ne le connait pas. C'est votre carte qui donne certaines informations quand lui on lui demande.\r\n\r\nMais saviez-vous que votre carte attend aussi des informations avant de vous donner les siennes ? Qu'un protocole de paiement  sans contact existe ? Et encore mieux : étant basé le NFC - le même qui équipe tous nos smartphones aujourd'hui - saviez-vous que vous pouvez lire et donner des infos à votre carte bancaire depuis votre smartphone ?\r\n\r\nÀ travers un cas concret, nous verrons comment écrire une petite application Android qui lit le numéro d'une carte bancaire."
 }, {
   "id" : "481291",
   "name" : "Pair-programming : et si on gagnait du temps ?",
@@ -553,7 +553,7 @@
   "format" : "Conférence",
   "venue" : "Amphi C",
   "venue_id" : "3",
-  "speakers" : "Cécilia Bossard",
+  "speakers" : "Cécilia Bossard, Aurélie Lopes",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
@@ -685,19 +685,19 @@
   "slides_url" : null,
   "description" : "Vous développez des applications Android et vous souhaitez apporter des fonctionnalités de Machine Learning dans vos projets, sans être un.e expert.e en intelligence artificielle ? Dans cette session, découvrez comment utiliser ML Kit pour ajouter facilement des fonctionnalités de Machine Learning optimisées pour le mobile à vos apps.\r\n\r\nNous allons explorer les principales API de Vision et de Natural Language Processing offertes par ML Kit, pour vous aider à intégrer des fonctionnalités telles que la reconnaissance d'image, la classification de texte, ou encore la détection de langues, dans vos applications Android. En utilisant des exemples de code concrets, vous apprendrez comment intégrer ces fonctionnalités de manière simple et intuitive, et pourrez potentiellement débloquer de nouvelles idées pour vos futurs projets."
 }, {
-  "id" : "481373",
-  "name" : "Je malmène ta prod en direct avec 15 failles de sécu",
+  "id" : "477470",
+  "name" : "S'attaquer à un legacy grâce au DDD",
   "event_start" : "2023-06-29T11:35:00",
   "event_end" : "2023-06-29T12:30:00",
   "event_type" : "Développement",
   "format" : "Conférence",
   "venue" : "Amphi D",
   "venue_id" : "4",
-  "speakers" : "Gaëtan Eleouet",
+  "speakers" : "Tanguy Bernard",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "En tant que développeur, nous voyons souvent la sécurité comme un problème très éloigné, sans nous sentir concernés.\r\nNotre code est pourtant souvent à l'origine de nombreuses failles que nous ignorons.\r\nAllons les découvrir et les exploiter ensemble, en live sur une application existante.\r\n\r\nEn sortant de cette session, vous serez à même de répondre à ces questions :\r\n\r\n- Est-ce que la sécurité fait partie de mon domaine ?\r\n- Quel est le rôle du développeur dans la sécurité applicative ?\r\n- Quelles sont les bonnes pratiques à appliquer ?\r\n\r\n\r\nSoyez prêts, tous les coups seront permis !"
+  "description" : "Dans une vie de développeur, il arrive bien souvent que le métier sur lequel nous intervenons se complexifie. La solution mise en place doit alors évoluer. S'attaquer à ce genre de complexité sur un legacy bien en place peut être fastidieux.\r\n\r\nJe propose dans ce talk de vous partager 4 stratégies mises en avant par Eric Evans (Auteur de Domain-Driven Design: Tackling Complexity in Software) pour aborder et faire évoluer votre legacy grâce au DDD.\r\n\r\nJe vous partagerai également mon expérience suite à l'implémentation de ces stratégies."
 }, {
   "id" : "478807",
   "name" : "Doc-tracing : fouiller une base de code fossile grâce au traçage d'exécution",
@@ -839,19 +839,19 @@
   "slides_url" : null,
   "description" : null
 }, {
-  "id" : "476170",
-  "name" : "Jay-Z, Maths and Signals ! How to clone Shazam \uD83C\uDFA7",
+  "id" : "478379",
+  "name" : "Retourner le cerveau de sa Gameboy et les attraper (vraiment) tous \uD83D\uDCAA",
   "event_start" : "2023-06-30T10:30:00",
   "event_end" : "2023-06-30T11:25:00",
-  "event_type" : "Autre...",
+  "event_type" : "Développement",
   "format" : "Conférence",
   "venue" : "Amphi A",
   "venue_id" : "1",
-  "speakers" : "Moustapha Agack",
+  "speakers" : "Audren Burlot",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "J’ai toujours rêver de comprendre comment fonctionnait Shazam.\r\n\r\nCette application qui permet de retrouver l’artiste et le titre d’une chanson juste avec un enregistrement de quelques secondes. Du coup j’ai décider de la re-coder ! Je vous montre tout cela pendant ce talk, et ce sera l’occasion de parler notes musicales, harmoniques, fréquences, signaux, et de transformée de fourrier (et de Jay-Z) pour recréer l’algorithme qui fait tourner le moteur Shazam ⚡️\r\n"
+  "description" : "Vous avez 10 ans. Vous êtes assis sous un arbre dans votre jardin, et vous jouez à la Gameboy Pocket. La vie est douce.\r\nSoudain, votre meilleur ami débarque de nulle part, sa cartouche de Pokémon Bleu dans la main, et vous crie quelque chose !\r\nIl le jure sur la tête de son chien : il a réussi à attraper Mew.\r\nSelon vous, il y a deux explications possibles : votre ami s'est acheté un Action Replay et a triché comme un malpropre, ou il vous joue du pipeau.\r\nEt si je vous disais qu'il existait une 3ème explication : votre ami est un génie de l'assembleur.\r\nC'est ce que je vous propose de découvrir dans un talk qui sent bon les années 90 et le reverse engineering."
 }, {
   "id" : "475115",
   "name" : "De l'IA dans le quotidien : traitements de données multimodales appliqués aux contenus éditoriaux",
@@ -882,7 +882,7 @@
   "description" : null
 }, {
   "id" : "482983",
-  "name" : "Qu'est ce qu'eBPF et à quoi ça sert ?",
+  "name" : "Comprendre eBPF, ses applications et ses limites",
   "event_start" : "2023-06-30T13:30:00",
   "event_end" : "2023-06-30T14:25:00",
   "event_type" : "Autre...",
@@ -923,19 +923,19 @@
   "slides_url" : null,
   "description" : null
 }, {
-  "id" : "482856",
-  "name" : "Discutons avec nos cartes bancaires depuis nos smartphones",
+  "id" : "474310",
+  "name" : "Et si vous redécouvriez Apache Maven ?",
   "event_start" : "2023-06-30T16:00:00",
   "event_end" : "2023-06-30T16:25:00",
-  "event_type" : "Mobile",
+  "event_type" : "Développement",
   "format" : "Tool in action",
   "venue" : "Amphi A",
   "venue_id" : "1",
-  "speakers" : "Antoine Robiez, Loïc Fallon",
+  "speakers" : "Alioune Sy",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Les terminaux de paiement, on connait.\r\nPour payer, le commerçant programme un montant, on passe sa carte, un BIP retentit et... la transaction est validée.\r\n\r\nMais comment le terminal de paiement connait-il votre compte en banque ? Lui, ne le connait pas. C'est votre carte qui donne certaines informations quand lui on lui demande.\r\n\r\nMais saviez-vous que votre carte attend aussi des informations avant de vous donner les siennes ? Qu'un protocole de paiement  sans contact existe ? Et encore mieux : étant basé le NFC - le même qui équipe tous nos smartphones aujourd'hui - saviez-vous que vous pouvez lire et donner des infos à votre carte bancaire depuis votre smartphone ?\r\n\r\nÀ travers un cas concret, nous verrons comment écrire une petite application Android qui lit le numéro d'une carte bancaire."
+  "description" : "Cela fait bientôt 20 ans que maven nous accompagne au quotidien sur nos projets dans l'écosystème Java. A l'instar de toute relation de longue date, vous avez surement acquis des réflexes quotidien, affermi votre compréhension de son fonctionnement au fil de vos expériences et renforcé vos biais cognitifs.\r\n\r\nEtes vous vraiment sûr de bien connaitre et comprendre Maven ? Avez vous parcouru la doc récemment ?\r\n\r\nJe vous propose, dans cette session, de redécouvrir Maven à travers 10 fonctionnalités clés (existantes ou à venir) qui sont bien souvent méconnues ! Nous parlerons entre autres de chiffrement de données sensibles, de remote repository filtering, de dépendances optionnelles ou des fonctionnalités à venir de maven 4..."
 }, {
   "id" : "482212",
   "name" : "Vers l'infini et au delà avec Postman",
@@ -1057,7 +1057,7 @@
   "format" : "Conférence",
   "venue" : "Amphi C",
   "venue_id" : "3",
-  "speakers" : "Antoine Barroux",
+  "speakers" : "Antoine Barroux, Tristan Denmat",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
@@ -1106,7 +1106,7 @@
   "description" : "Au début de votre projet, vous avez simplement géré l'authentification de votre utilisateur, puis petit à petit, vous avez ajouté une notion de rôles utilisateur. Puis, plus le temps passe et plus votre product manager vous demande d’affiner cette gestion et moins cette gestion par rôle va suffire.\r\n\r\nPeut-être avez-vous eu déjà eu l’impression que la gestion des permissions est quelque d’assez obscure ou complexe. On sait qu’on doit la faire, mais on ne sait pas trop comment, ni même pourquoi. Parfois, on confond même avec l'authentification. Mais alors, en quoi ça consiste rellement et comment on peut l'appliquer ?\r\n\r\nA chaque situation, sa solution. Nous pourrons voir comment répondre aux besoins les plus fréquents, ainsi que leurs avantages et leurs inconvénients.\r\n\r\nNotre objectif ? Avoir la gestion des permissions adaptée à notre situation, sans pour autant ajouter une masse de complexité dans toute notre application."
 }, {
   "id" : "482872",
-  "name" : "EcoCode: Comment réduire l'empreinte carbone de vos projets en utilisant des outils open-source",
+  "name" : "ecoCode : comment réduire l'empreinte carbone de vos projets en utilisant des outils open-source",
   "event_start" : "2023-06-30T14:35:00",
   "event_end" : "2023-06-30T15:30:00",
   "event_type" : "Green",

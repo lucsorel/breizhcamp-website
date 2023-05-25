@@ -1,14 +1,4 @@
 [ {
-  "id" : "8a0edd35-5f91-4bc2-83ee-bebec443b066",
-  "lastname" : "Agack",
-  "firstname" : "Moustapha",
-  "imageProfilURL" : "https://sessionize.com/image/48e7-400o400o2-4rrKuvoDSqBDQhYDVNHMg7.jpg",
-  "bio" : "I smash my keyboard, sometimes cool stuff comes out of it",
-  "github" : null,
-  "googleplus" : null,
-  "twitter" : "@mousstoh",
-  "social" : "https://www.linkedin.com/in/moustapha-agack-938968200/"
-}, {
   "id" : "5e258957-441c-44c1-948f-a22c83887679",
   "lastname" : "Allesiardo",
   "firstname" : "Elys",
@@ -54,6 +44,16 @@
   "firstname" : "Antoine",
   "imageProfilURL" : "https://sessionize.com/image/631a-400o400o2-7abc6a29-7c5b-4b4a-aee0-460b4dc1e767.jpg",
   "bio" : "Antoine BARROUX, 3 years of experience as a fullstack developer at Liksi\r\nTristan DENMAT, software architect at Liksi ",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "2b7dd41d-0021-485d-8891-9a20ee7ae167",
+  "lastname" : "Bernard",
+  "firstname" : "Tanguy",
+  "imageProfilURL" : "https://sessionize.com/image/9021-400o400o2-NruoCxoV2dHxzvsZEv7HYp.jpg",
+  "bio" : "Breton. Amoureux des crêpes au chocolat avec du caramel au beurre salé. Développeur façonné par cette maxime (in english): Simple is beautiful !",
   "github" : null,
   "googleplus" : null,
   "twitter" : null,
@@ -239,11 +239,11 @@
   "twitter" : "@ndeloof",
   "social" : "http://linkedin.com/in/ndeloof"
 }, {
-  "id" : "e0ad18bf-a644-468d-9b8d-0eef17d20175",
-  "lastname" : "Delhelle",
-  "firstname" : "Alexis",
-  "imageProfilURL" : "https://sessionize.com/image/20de-400o400o2-fmW4wfLPmoHpzQM6Mu4qyV.jpg",
-  "bio" : "Développeur back java depuis 8 ans, toujours curieux de découvrir de nouvelles technos et bonnes pratiques, mais partisan de prendre le temps de choisir le bon outil pour le bon problème.",
+  "id" : "50118cb3-17eb-4e55-a910-a94a5f83c28d",
+  "lastname" : "Denmat",
+  "firstname" : "Tristan",
+  "imageProfilURL" : "https://sessionize.com/image/5425-400o400o2-JkBJidrJ6vA2qAqd8FQd1c.jpg",
+  "bio" : "Tristan est développeur back et architecte depuis 15 ans. Au sein de la société Liksi, il intervient sur la conception et le développement d'applications métier ou la mise en place d'approches DevOps. Par ailleurs formateur Keycloak, il est passionné par les problématiques d'identité numérique et de sécurité.",
   "github" : null,
   "googleplus" : null,
   "twitter" : null,
@@ -309,16 +309,6 @@
   "twitter" : "@geromeegron",
   "social" : "https://www.linkedin.com/in/g%C3%A9r%C3%B4me-egron-4477a186/"
 }, {
-  "id" : "f4d763bf-5395-4cb6-a1fc-9be2c6f40534",
-  "lastname" : "Eleouet",
-  "firstname" : "Gaëtan",
-  "imageProfilURL" : "https://sessionize.com/image/e26c-400o400o2-QAitXuJTWEBq75ht1GJUD1.png",
-  "bio" : "Dans mes jeunes années être geek n’était pas un métier et pourtant je suis aujourd’hui développeur depuis 15 ans. Animé par des convictions fortes sur l’impact des développeurs sur le monde, je transmets et j’enseigne dans le cadre d’atelier de code et en vacation en école d’ingénieur. Au-delà de mon métier, c’est aussi une passion : je code pour le plaisir dans des projets personnels et lors de compétition de programmation (@egaetan).",
-  "github" : null,
-  "googleplus" : null,
-  "twitter" : "@egaetan",
-  "social" : "https://www.linkedin.com/in/gaetan-eleouet/"
-}, {
   "id" : "f2331300-7bc4-447e-8742-925f253001d9",
   "lastname" : "Fallon",
   "firstname" : "Loïc",
@@ -354,16 +344,6 @@
   "firstname" : "Thomas",
   "imageProfilURL" : "https://sessionize.com/image/4c07-400o400o2-PCNz6SV4DZofxWCF4vqYqN.jpg",
   "bio" : "Développeur depuis 2015, j'ai travaillé sur des systèmes de modélisation 3D pour l'industrie mais se sont mes expériences dans le web qui m'ont montrer l'importance du code qualité pour répondre aux besoins de utilisateur.",
-  "github" : null,
-  "googleplus" : null,
-  "twitter" : null,
-  "social" : null
-}, {
-  "id" : "2894e6bc-90ca-4b2b-a89b-e05bbaa53406",
-  "lastname" : "Harel",
-  "firstname" : "Jérémie",
-  "imageProfilURL" : "https://sessionize.com/image/c5e9-400o400o2-19cd9b24-7fb5-4a67-bd1e-c7a82c774026.jpg",
-  "bio" : "Développeur Java qui migre petit à petit vers un profil DevOps. J'aime comprendre les choses et partager les connaissances acquises.\r\nMes dernières appétences vont de la blockchain à l'automatisation, en passant par Rust, tout en essayant de réduire l'empreinte énergétique utilisé.\r\nÉgalement formateur Gitlab chez MaxDS.",
   "github" : null,
   "googleplus" : null,
   "twitter" : null,
@@ -529,6 +509,26 @@
   "twitter" : "@soflesc",
   "social" : "https://www.linkedin.com/in/sofialescanocarroll/"
 }, {
+  "id" : "b4f84743-25a0-4f68-bac9-cad84e2cd132",
+  "lastname" : "Lima",
+  "firstname" : "Philippe",
+  "imageProfilURL" : "https://sessionize.com/image/3b0f-400o400o2-0538104c-52d1-4468-956a-fc7bef3e8914.jpg",
+  "bio" : "Dirigeant de l'entreprise WaryMe et président de l'association ESTIMnumérique.\r\n\r\nQuelques maximes qui m'inspirent :\r\n> Savoir faire plutôt que faire savoir.\r\n> Faire plutôt que dire comment faire.\r\n> Keep it simple (and stupid).",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
+  "id" : "da842fc7-5e50-498d-82d5-e84903ca0f09",
+  "lastname" : "Lopes",
+  "firstname" : "Aurélie",
+  "imageProfilURL" : "https://sessionize.com/image/3833-400o400o2-e1bb8942-eb1e-4a32-8b9f-4154c93d5223.jpg",
+  "bio" : "Je suis UX/UI Designer et humaniste convaincue.\r\nPour donner du sens à mon métier je me suis donnée pour mission d’oeuvrer pour un développement numérique plus vertueux ! Selon moi, adopter le point de vue des autres est indispensable pour comprendre le monde qui nous entoure et participer, selon ses moyens, à l’améliorer.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
   "id" : "f46535d3-1d37-4e01-aa2c-ba5a82ebffdb",
   "lastname" : "Lours",
   "firstname" : "Guillaume",
@@ -588,16 +588,6 @@
   "googleplus" : null,
   "twitter" : "@renaud_mathieu",
   "social" : "https://www.linkedin.com/in/renaudmathieu1/"
-}, {
-  "id" : "34525fe3-b813-4335-8022-569a67fe8678",
-  "lastname" : "Milianni",
-  "firstname" : "Smaine",
-  "imageProfilURL" : "https://sessionize.com/image/3c9d-400o400o2-QjF85Yo1SSgL8AydUNVrTx.jpg",
-  "bio" : "Smaïne est un lead développeur avec une expérience de coaching et de mentorat. Il a aidé de nombreux étudiants et aide maintenant les développeurs professionnels.\r\n\r\nIl travaille en freelance et s'implique dans la création de contenu à travers des vidéos, des articles de blog et des formations autour de l'écosystème PHP & Symfony",
-  "github" : null,
-  "googleplus" : null,
-  "twitter" : null,
-  "social" : null
 }, {
   "id" : "6a7a991f-ff66-4d76-8517-8b81d8fe1a92",
   "lastname" : "Namdar",
@@ -689,6 +679,16 @@
   "twitter" : null,
   "social" : null
 }, {
+  "id" : "db81eae2-49be-496c-943e-bd3d94df7a75",
+  "lastname" : "Philippot",
+  "firstname" : "Olivier",
+  "imageProfilURL" : "https://sessionize.com/image/f7f6-400o400o2-e2-49be-496c-943e-bd3d94df7a75.c4071410-dd6e-4bc5-b25b-b18d347e7bcb.jpg",
+  "bio" : "Olivier Philippot help companies and developpers to improve the nergy consumption of there mobile applications.",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : "@SimplyGreenIT",
+  "social" : "https://www.linkedin.com/in/olivier-philippot-06a7907/"
+}, {
   "id" : "bc34fdc8-be25-4c32-ae1d-9fd6f1905b02",
   "lastname" : "Piscitelli",
   "firstname" : "Thomas",
@@ -769,6 +769,16 @@
   "twitter" : "@lucsorel",
   "social" : "https://www.linkedin.com/in/lucsorel"
 }, {
+  "id" : "1f7c4bf7-7cd4-4940-8f16-018ae5c50c5a",
+  "lastname" : "Sy",
+  "firstname" : "Alioune",
+  "imageProfilURL" : "https://sessionize.com/image/2568-400o400o2-EYhKKA7izw9hvf5rHQGkYe.jfif",
+  "bio" : "Développeur et architecte passionné. Plus que les langages, framework et outils, j'apprécie particulièrement découvrir de nouveaux concepts en profondeur avant de les mettre en pratique.\r\n\r\nBoulimique de veille techno, j'ai à cœur de partager mes modestes connaissance et d'apprendre au contact de mes pairs.\r\n\r\nMes joujoux du moment : Kubernetes et ses opérateurs, Kafka, Camunda, SBOM, CodeNotary et bien d'autres.\r\n\r\n\r\nhttps://github.com/syalioune\r\nhttps://www.linkedin.com/in/alioune-sy-4737a960/",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : "https://www.linkedin.com/in/alioune-sy/"
+}, {
   "id" : "0ae545f9-d42b-479d-84cd-f309830d2a8a",
   "lastname" : "Thomazo",
   "firstname" : "Alexandre",
@@ -787,7 +797,7 @@
   "github" : null,
   "googleplus" : null,
   "twitter" : null,
-  "social" : null
+  "social" : "https://www.linkedin.com/in/erwan-tilly-19246a166/"
 }, {
   "id" : "14f4e489-2a71-41eb-99ee-b00935548d4b",
   "lastname" : "Toanen",
