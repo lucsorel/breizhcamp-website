@@ -13,7 +13,8 @@
                 {format: 'Quickie', label: 'Quickie', icon: 'fa-clock-o'},
                 {format: 'Lab', label: 'Lab', icon: 'fa-flask'},
                 {format: 'Keynote', label: 'Keynote', icon: 'fa-user'},
-                {format: 'Party', label: 'Party', 'icon': 'fa-glass'}
+                {format: 'Party', label: 'Party', 'icon': 'fa-glass'},
+                {format: 'Eat', label: 'Repas', 'icon': 'fa-cutlery'},
             ];
 
             var categoryColors = this.categoryColors = {
@@ -26,6 +27,7 @@
                 'Mobile': '#ff99ff',
                 'Keynote': '#F55E52',
                 'Green': '#009900',
+                'Eat': '#00c96b',
                 'Autre...': '#AAAAAA'
             };
 
@@ -51,7 +53,7 @@
                 var format = formats[event.format];
                 return '<span class="fa-stack" title="' + format.label + '">' +
                     '<i class="fa fa-square fa-stack-2x"></i>' +
-                    '<i style="color:' + event.color + ';" class="fa fa-stack-1x fa-inverse ' + format.icon + '"></i> ' +
+                    '<i style="color:' + event.color + ';" class="fa fa-stack-1x ' + format.icon + '"></i> ' +
                     '</span> ' + event.title +
                     (event.room ? ' <em>(' + event.room + ')</em>' : '') +
                     (event.slides_url ? ' <i class="fa fa-fw fa-file-powerpoint-o"></i>' : '') +
@@ -169,7 +171,7 @@
                                 speakers: talk.speakers ? talk.speakers.replace(/, $/, '') : '',
                                 start: talk.event_start,
                                 end: talk.event_end,
-                                color: categoryColors[talk.event_type],
+                                color: categoryColors[talk.event_type] || categoryColors['Autre...'],
                                 room: rooms[talk.venue]
                             }, _.pick(talk, ['video_url', 'files_url', 'slides_url']));
                         }), function(talk) {
