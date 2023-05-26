@@ -419,6 +419,16 @@
   "twitter" : null,
   "social" : null
 }, {
+  "id" : "add57e8d-d90b-4c82-bba6-5fe9bd52a52a",
+  "lastname" : "Lainé",
+  "firstname" : "Vincent",
+  "imageProfilURL" : "https://sessionize.com/image/dd12-400o400o2-hw1e8bRPUGoMvGMwvcgWck.png",
+  "bio" : "Développeur, architecte, admin système, SRE, sont quelqu'uns des postes que j'ai pu occuper dans ma carrière.\r\nAujourd'hui Lead SRE chez DentalMonitoring, je mets à profit mon expérience sur ces différents postes afin d'apporter une vision transversale aux différentes équipes",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
   "id" : "9a786c4b-a982-4841-a751-67dcd40fdf97",
   "lastname" : "Lamzira",
   "firstname" : "Mohammed",

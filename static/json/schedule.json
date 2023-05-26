@@ -18,6 +18,7 @@
   "event_start" : "2023-06-28T10:00:00",
   "event_end" : "2023-06-28T12:00:00",
   "event_type" : "Autre...",
+  "event_type" : "Autre...",
   "format" : "Université",
   "venue" : "Amphi A",
   "venue_id" : "1",
@@ -335,19 +336,19 @@
   "slides_url" : null,
   "description" : null
 }, {
-  "id" : "472037",
-  "name" : "Exploser le monolithe - ou pas",
+  "id" : "473350",
+  "name" : "N'abandonnez pas votre collègue d'astreinte !",
   "event_start" : "2023-06-29T13:30:00",
   "event_end" : "2023-06-29T14:25:00",
-  "event_type" : "Architecture",
+  "event_type" : "Développement",
   "format" : "Conférence",
   "venue" : "Amphi A",
   "venue_id" : "1",
-  "speakers" : "Nicolas Fränkel",
+  "speakers" : "Vincent Lainé",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Les microservices sont omniprésents. Cependant, la plupart des entreprises qui mettent en œuvre des microservices n'en tirent pas tous les avantages - dans le meilleur des cas. Au pire, c'est un échec cuisant.\r\n\r\nLes microservices ont leur raison d'être : le déploiement indépendant des capacités métier. Cependant, l'hypothèse tacite est qu'il faut déployer toutes les capacités tout le temps. Mon expérience m'a montré que c'est tout simplement faux. Certaines capacités doivent être déployées fréquemment, tandis que d'autres sont beaucoup plus stables. Dans le \"passé\", nous avons utilisé des moteurs de règles pour permettre la mise à jour des règles de gestion sans déploiement. Bien qu'elle fonctionne, cette approche pose d'autres problèmes. Entre l'introduction d'un moteur de règles et la migration de l'ensemble du système vers des microservices, je pense qu'il existe une voie médiane.\r\n\r\nDans cette conférence, je détaillerai chaque point que j'ai soulevé ci-dessus, et je montrerai comment on peut utiliser Serverless pour concevoir de manière pragmatique un système qui permet de le déployer aussi souvent que nécessaire."
+  "description" : "Au travers de cette session je vais tenter de vous partager comment vous amis développeu(ses|rs), vous pouvez aider ce(te) collègue d'astreinte qui est bipé(e) un samedi à 2h du mat car votre service est tombé, et tout cela sans même avoir besoin de vous connecter à votre outil de messages instantanés ou même de vous réveiller ! \r\n\r\nVous l'aurez compris, nous allons parler logs, debug et plus si affinité"
 }, {
   "id" : "481186",
   "name" : "LOOM, la météorite sur la JVM ?",
@@ -419,19 +420,19 @@
   "slides_url" : null,
   "description" : "Votre équipe s'est accordée sur des règles de qualité de la base de code :\r\n- formatage\r\n- bonnes pratiques\r\n- patterns ou anti-patterns, etc.\r\n\r\nVous y prêtez attention (ou vos collègues vous les rappellent *trop* souvent… \uD83D\uDE0F) lors des relectures de code, qui devraient plutôt se focaliser sur le métier.\r\n\r\nEt si on utilisait les hooks git pour appliquer ces règles automatiquement pour une plus grande efficacité d'équipe, du commit à l'intégration continue ? Pas besoin de réinventer la roue : l'outil pre-commit est là [1], avec un écosystème de plugins très fourni [2].\r\n\r\nDurant cette intervention orientée *démos*, je vous présenterai cet outil sur des exemples concrets d’applications. Pre-commit s’interface avec les outils de qualité de code d’une grande diversité de projets : Python, mais aussi Java, Node.js, rust, go, PHP, infra-as-code, la détection de secrets ou de fichiers volumineux avant de commiter, etc.\r\n\r\nUn vrai guide pour la qualité de la base de code !\r\n\r\n[1] : https://pre-commit.com/\r\n[2] : https://pre-commit.com/hooks.html\r\n\r\nLe plan s'articule selon 3 objectifs :\r\n- intro succincte sur la qualité de code : pratiques (TDD, revue de code) et outils (formateurs de code, linters)\r\n- technique : découverte des hooks git\r\n- opérationnels : mise en pratique de pre-commit et de différents hooks (hooks natifs de validations, hooks vers des outils tiers de formatage et de lint) et dans différents contextes (poste de développement, intégration continue) pour que vous ayez tous les éléments nécessaires à sa mise en œuvre sur vos projets."
 }, {
-  "id" : "470217",
-  "name" : "L'Architecture Hexagonale par la pratique, le live coding qui rendra vos applications plus pérennes",
+  "id" : "482676",
+  "name" : "3P pour sortir du Legacy",
   "event_start" : "2023-06-29T10:30:00",
   "event_end" : "2023-06-29T11:25:00",
-  "event_type" : "Architecture",
+  "event_type" : "Développement",
   "format" : "Conférence",
   "venue" : "Amphi B",
   "venue_id" : "2",
-  "speakers" : "Julien Topçu",
+  "speakers" : "Johan Martinsson",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Il arrive toujours un moment où, le logiciel est tellement gros et vieux qu’il devient inmaintenable. Impossible de mettre à jour la stack technique sans tout casser, les nouvelles fonctionnalités deviennent de plus en plus longue à implémenter et la dette technique étant tellement lourde que le refactoring devient exorbitant.\r\n\r\nEt si on vous disait que tout ça était plus un problème de pratique qu’un problème de vieillesse du logiciel ?\r\n\r\nVenez découvrir par la pratique via ce 100% live coding, comment l’Architecture Hexagonale peut tacler la complexité logicielle en vous permettant d’être évolutif et pérenne tout en vous aidant à mieux gérer votre dette technique."
+  "description" : "\r\nQuand on écrit des tests ou fait du refactoring en fin de story, qui récolte les bénéfices? Et quand? \r\n\r\nC'est la prochaine personne qui touchera le code ... d'ici quelque temps ... avec un peu de chance. Pourvu que les tests resteront pertinents. Et que le refactoring facilitera bien la nouvelle fonctionnalité, que l'on ne connait pas encore ... \uD83E\uDD14\r\n\r\nSi nos efforts sont premièrement pour les autres, dans un futur incertain et de valeur incertaine. Est-ce étonnant si on ne fait pas beaucoup et qu'on laisse pourrir nos logiciels?\r\n\r\nUne autre approche serait la méthode des 3P \uD83E\uDDD0. C'est à dire pour chaque story\r\n\r\n* Protéger\r\n* Préparer\r\n* Produire\r\n\r\nProtéger: Mise en place des tests manquants\r\n\r\nPréparer: Refactoring en profondeur pour rendre plus facile la nouvelle fonctionnalité\r\n\r\nProduire: Coder la nouvelle fonctionnalité en TDD\r\n\r\nÊtre les premiers bénéficiaires des tests et du refactoring que nous faisons, c'est plus de bonheur au travail. Avec un ROI bien meilleur sur les tests et le refactoring, le projet risque de mieux se porter dans le temps. Et pour les adeptes du TDD cela vous permettra de faire du TDD quelque soit la qualité du code.\r\n\r\nRegardons quelques exemples en code pour clarifier ce concept"
 }, {
   "id" : "479428",
   "name" : "Ca y est, j'ai cassé la prod !",
@@ -629,19 +630,19 @@
   "slides_url" : null,
   "description" : "Distribution, haute tolérance à la faute, temps réel, et déploiement avec zéro secondes d'interruption sont les promesses que Erricson se fait, pour ses réseaux de téléphonie, dès 1986 avec le language Erlang et l'Open Telecom Platform. 36 ans plus tard, l'industrie logicielle cherche toujours de nouvelles approches pour assurer la haute disponibilité et le déploiement continu de ses applications . Et si une solution était déjà sous nos yeux ? Construit sur l'écosystème Erlang, le language Elixir, à partir de 2011, propose un nouvel écosystème moderne grandissant dans le développement web, le streaming, l'analyse de données, le machine learning,...\r\n\r\nSi apprendre à lancer 100.000 processus en parallèle ne vous fait pas peur, accompagnez moi, pendant 45 minutes, pour un tour complet du language Elixir et comprendre pourquoi les forces d'un language et de son écosystème aident à adopter les principes d 'architecture logicielle qui nous sont chers comme le Domain-Driven Design, les monolithes ou les microservices.\r\n"
 }, {
-  "id" : "482676",
-  "name" : "3P pour sortir du Legacy",
+  "id" : "470217",
+  "name" : "L'Architecture Hexagonale par la pratique, le live coding qui rendra vos applications plus pérennes",
   "event_start" : "2023-06-29T16:00:00",
   "event_end" : "2023-06-29T16:55:00",
-  "event_type" : "Développement",
+  "event_type" : "Architecture",
   "format" : "Conférence",
   "venue" : "Amphi C",
   "venue_id" : "3",
-  "speakers" : "Johan Martinsson",
+  "speakers" : "Julien Topçu",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "\r\nQuand on écrit des tests ou fait du refactoring en fin de story, qui récolte les bénéfices? Et quand? \r\n\r\nC'est la prochaine personne qui touchera le code ... d'ici quelque temps ... avec un peu de chance. Pourvu que les tests resteront pertinents. Et que le refactoring facilitera bien la nouvelle fonctionnalité, que l'on ne connait pas encore ... \uD83E\uDD14\r\n\r\nSi nos efforts sont premièrement pour les autres, dans un futur incertain et de valeur incertaine. Est-ce étonnant si on ne fait pas beaucoup et qu'on laisse pourrir nos logiciels?\r\n\r\nUne autre approche serait la méthode des 3P \uD83E\uDDD0. C'est à dire pour chaque story\r\n\r\n* Protéger\r\n* Préparer\r\n* Produire\r\n\r\nProtéger: Mise en place des tests manquants\r\n\r\nPréparer: Refactoring en profondeur pour rendre plus facile la nouvelle fonctionnalité\r\n\r\nProduire: Coder la nouvelle fonctionnalité en TDD\r\n\r\nÊtre les premiers bénéficiaires des tests et du refactoring que nous faisons, c'est plus de bonheur au travail. Avec un ROI bien meilleur sur les tests et le refactoring, le projet risque de mieux se porter dans le temps. Et pour les adeptes du TDD cela vous permettra de faire du TDD quelque soit la qualité du code.\r\n\r\nRegardons quelques exemples en code pour clarifier ce concept"
+  "description" : "Il arrive toujours un moment où, le logiciel est tellement gros et vieux qu’il devient inmaintenable. Impossible de mettre à jour la stack technique sans tout casser, les nouvelles fonctionnalités deviennent de plus en plus longue à implémenter et la dette technique étant tellement lourde que le refactoring devient exorbitant.\r\n\r\nEt si on vous disait que tout ça était plus un problème de pratique qu’un problème de vieillesse du logiciel ?\r\n\r\nVenez découvrir par la pratique via ce 100% live coding, comment l’Architecture Hexagonale peut tacler la complexité logicielle en vous permettant d’être évolutif et pérenne tout en vous aidant à mieux gérer votre dette technique."
 }, {
   "id" : "472290",
   "name" : "Mob.sh : La présentation dont vous êtes le héros",
