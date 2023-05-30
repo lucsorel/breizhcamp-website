@@ -935,7 +935,7 @@
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "L'empreinte carbone des services numériques est en constante augmentation, ce qui entraîne des conséquences négatives sur notre environnement. Dans cette conférence, nous explorerons EcoCode, un projet open-source qui vise à réduire l'empreinte carbone des projets de développement en proposant des outils et des pratiques durables. Nous présenterons l’étendu de cet écosystème de plugins mobiles et web multilangages SonarQube et vous montrerons comment les utiliser pour mesurer l'empreinte carbone de votre code et réduire votre impact environnemental. Pour comprendre la mise en place et l’emploi des plugins ecoCode android (mobile) et php (web) : rien de tel qu’un live coding !"
+  "description" : "L'empreinte carbone des services numériques est en constante augmentation, ce qui entraîne des conséquences négatives sur notre environnement. Dans cette conférence, nous explorerons ecoCode, un projet open-source qui vise à réduire l'empreinte carbone des projets de développement en proposant des outils et des pratiques durables. Nous présenterons l’étendu de cet écosystème de plugins mobiles et web multilangages SonarQube et vous montrerons comment les utiliser pour mesurer l'empreinte carbone de votre code et réduire votre impact environnemental. Pour comprendre la mise en place et l’emploi des plugins ecoCode android (mobile) et Python (web) : rien de tel qu’un live coding !"
 }, {
   "id" : "477534",
   "name" : "Live-coding d'un serveur web avec Ktor",
