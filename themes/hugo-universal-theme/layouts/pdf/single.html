@@ -162,13 +162,13 @@
                     doc.font(dayFontBuffer).fontSize(20).text(breakingBadDays[day], 0, 10, {
                         width: a6Widht,
                         align: 'center'
-                    }).fontSize(6).moveDown();
+                    }).fontSize(5).moveDown();
 
                     Object.keys(daySchedule).sort(function (a, b) {
                         return moment(a, timeFormat).isBefore(moment(b, timeFormat)) ? -1 : 1;
                     }).forEach(function (time) {
                         var slot = daySchedule[time];
-                        doc.font('Helvetica-Bold').fontSize(6).moveDown(0.5).text(time, 5, null, {
+                        doc.font('Helvetica-Bold').fontSize(5).moveDown(0.5).text(time, 5, null, {
                             width: 20,
                             align: 'right'
                         });
@@ -176,7 +176,7 @@
                             if (!index) {
                                 doc.moveUp();
                             }
-                            doc.font('Helvetica-Oblique').fontSize(6).text(event.venue, 30, null);
+                            doc.font('Helvetica-Oblique').fontSize(5).text(event.venue, 30, null);
                             doc.moveUp(0.22)
                             doc.font(emojiFontBuffer).text(event.name, 60, null, {
                                 width: a6Widht - 70,
@@ -194,8 +194,6 @@
                             doc.fillColor('black');
                         });
                     });
-                    doc.font(fontawesomeBuffer).fillColor('#1DA1F2').fontSize(20).text('\uF099', a6Widht - 105, a6Height - 25, { continued: true });
-                    doc.font('Helvetica').fillColor('black').fontSize(13).text('#BreizhCamp', null, a6Height - 20);
                     doc.font('Helvetica');
                 });
 
