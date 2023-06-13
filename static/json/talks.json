@@ -81,7 +81,7 @@
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Vous vous dites que Elon Musk est un flambeur et que n'importe quel canaille armée d'un portable et d'un client Websocket peut poser des fusée sur la Lune ? Vous avez raison !\r\nJe vous invite dans cet atelier à venir le prouver dans un Coding Contest en mode bot battle multi-joueurs !\r\nÀ vous d'écrire l'algorithme qui permettra à votre fusée d'atterrir sans exploser sur le sol lunaire, équipé seulement de votre ordinateur, de votre meilleure salade de `if` et de votre flegme habituelle."
+  "description" : "Vous vous dites que Elon Musk est un flambeur et que n'importe quel canaille armée d'un portable et d'un client Websocket peut poser des fusée sur la Lune ? Vous avez raison !\r\nJe vous invite dans cet atelier à venir le prouver dans un Coding Contest en mode bot battle multi-joueurs !\r\nÀ vous d'écrire l'algorithme qui permettra à votre fusée d'atterrir sans exploser sur le sol lunaire, équipé seulement de votre ordinateur, de votre meilleure salade de `if` et de votre flegme habituelle.\r\n\r\nPré-requis : une machine avec Node >= 16"
 }, {
   "id" : "482768",
   "name" : "SvelteKit à l'attaque des dinosaures",
