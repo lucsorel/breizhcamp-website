@@ -37,6 +37,11 @@ items:
     logo: "/img/sponsors/logo_coexya.png"
     url: "https://www.coexya.eu/"
     breizhcamp_level: "gold"
+    note: |
+      Coexya, acteur indépendant du numérique et multi-spécialiste (conseil, intégration & software), est ravie d'être sponsor Gold de la 11ème édition du BreizhCamp.
+      Cette année, plongez dans l'aventure palpitante du Coexya Park ! Rejoignez-nous pour des animations captivantes et ''dangereuses'' pour tenter de remporter des dino-laots.
+      Nos aventuriers passionnés de tech (et de projets santé notamment) seront là pour vous accueillir et vous guider dans le Coexya Park et son redouté Tir(Ex) de balles !"
+    id: "coexia"
 
   - name: "Conserto"
     logo: "/img/sponsors/logo_conserto.png"

@@ -391,3 +391,87 @@ div#post-content img {
 .bar {
   padding-top: 30px;
 }
+
+.sponsor-box {
+  margin: -20px auto;
+  color: #f36f21;
+  text-decoration: none;
+  transition: all 0.3s ease-out;
+  text-align: center;
+}
+
+.sponsor-button {
+  font-size: 1em;
+  padding: 10px;
+  color: #f36f21;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+}
+
+.sponsor-box:hover {
+  text-decoration: underline;
+  color: #b52626;
+}
+
+.sponsor-popup-overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+  z-index: 100;
+}
+
+.sponsor-popup-overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.sponsor-popup {
+  margin: auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
+  transition: all 5s ease-in-out;
+  text-align: left;
+  top: 35vh;
+}
+
+.sponsor-popup h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.sponsor-popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.sponsor-popup .close:hover {
+  color: #06D85F;
+}
+.sponsor-popup .sponsor-popup-content {
+  max-height: 30%;
+  overflow: auto;
+}
+
+@media screen and (max-width: 700px){
+  .sponsor-box{
+    width: 70%;
+  }
+  .sponsor-popup{
+    width: 70%;
+  }
+}
