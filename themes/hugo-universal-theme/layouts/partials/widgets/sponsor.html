@@ -1,5 +1,4 @@
-<div {{ if .id }}id="sponsor{{ .id }}" {{ end }} 
-  class="sponsor sponsor-{{ .breizhcamp_level }} {{ if .hidden }} sponsor-{{ .breizhcamp_level }}-hidden {{ else }} {{ .asso_level }} {{ if .background_dark }} sponsor-bg-dark sponsor-{{ .breizhcamp_level }}-bg-dark {{ end }} {{ end }}">
+<div class="sponsor sponsor-{{ .breizhcamp_level }} {{ if .hidden }} sponsor-{{ .breizhcamp_level }}-hidden {{ else }} {{ .asso_level }} {{ if .background_dark }} sponsor-bg-dark sponsor-{{ .breizhcamp_level }}-bg-dark {{ end }} {{ end }}">
 {{ if not .hidden }}
   {{ if .url }}
     <a href="{{ .url }}" target="_blank">
@@ -13,15 +12,15 @@
 {{ end }}
 </div>
 {{ if .note }}
-  <div class="sponsor-box">
-  	<a class="sponsor-button" href="#popup{{ .id }}">Le mot de {{ .name }} </a>
+  <div class="sponsor-link">
+  	<a class="sponsor-button" href="#popup-{{ .id }}">Le mot de {{ .name }} </a>
   </div>
 
-  <div id="popup{{ .id }}" class="sponsor-popup-overlay">
-  	<div class="sponsor-popup">
+  <div id="popup-{{ .id }}" class="sponsor-pop-overlay">
+  	<div class="sponsor-pop">
   		<h2>Le mot de {{ .name }}</h2>
-  		<a class="close" href="#sponsor{{ .id }}">&times;</a>
-  		<div class="sponsor-popup-content">
+  		<a class="close" href="#sponsors-gold">&times;</a>
+  		<div class="sponsor-pop-content">
          {{ .note }}
   		</div>
   	</div>

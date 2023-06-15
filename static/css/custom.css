@@ -392,7 +392,7 @@ div#post-content img {
   padding-top: 30px;
 }
 
-.sponsor-box {
+.sponsor-link {
   margin: -20px auto;
   color: #f36f21;
   text-decoration: none;
@@ -409,12 +409,12 @@ div#post-content img {
   transition: all 0.3s ease-out;
 }
 
-.sponsor-box:hover {
+.sponsor-link:hover {
   text-decoration: underline;
   color: #b52626;
 }
 
-.sponsor-popup-overlay {
+.sponsor-pop-overlay {
   position: fixed;
   top: 0;
   bottom: 0;
@@ -427,12 +427,12 @@ div#post-content img {
   z-index: 100;
 }
 
-.sponsor-popup-overlay:target {
+.sponsor-pop-overlay:target {
   visibility: visible;
   opacity: 1;
 }
 
-.sponsor-popup {
+.sponsor-pop {
   margin: auto;
   padding: 20px;
   background: #fff;
@@ -444,12 +444,12 @@ div#post-content img {
   top: 35vh;
 }
 
-.sponsor-popup h2 {
+.sponsor-pop h2 {
   margin-top: 0;
   color: #333;
   font-family: Tahoma, Arial, sans-serif;
 }
-.sponsor-popup .close {
+.sponsor-pop .close {
   position: absolute;
   top: 20px;
   right: 30px;
@@ -459,19 +459,19 @@ div#post-content img {
   text-decoration: none;
   color: #333;
 }
-.sponsor-popup .close:hover {
+.sponsor-pop .close:hover {
   color: #06D85F;
 }
-.sponsor-popup .sponsor-popup-content {
+.sponsor-pop .sponsor-pop-content {
   max-height: 30%;
   overflow: auto;
 }
 
 @media screen and (max-width: 700px){
-  .sponsor-box{
+  .sponsor-link{
     width: 70%;
   }
-  .sponsor-popup{
+  .sponsor-pop{
     width: 70%;
   }
 }
