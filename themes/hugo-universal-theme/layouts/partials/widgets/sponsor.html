@@ -12,15 +12,15 @@
 {{ end }}
 </div>
 {{ if .note }}
-  <div class="sponsor-link">
-  	<a class="sponsor-button" href="#popup-{{ .id }}">Le mot de {{ .name }} </a>
+  <div class="sp-link">
+  	<a class="sp-button" href="#popup-{{ .id }}">Le mot de {{ .name }} </a>
   </div>
 
-  <div id="popup-{{ .id }}" class="sponsor-pop-overlay">
-  	<div class="sponsor-pop">
+  <div id="popup-{{ .id }}" class="sp-pop-over">
+  	<div class="sp-pop">
   		<h2>Le mot de {{ .name }}</h2>
   		<a class="close" href="#sponsors-gold">&times;</a>
-  		<div class="sponsor-pop-content">
+  		<div class="sp-pop-content">
          {{ .note }}
   		</div>
   	</div>

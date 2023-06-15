@@ -392,7 +392,7 @@ div#post-content img {
   padding-top: 30px;
 }
 
-.sponsor-link {
+.sp-link {
   margin: -20px auto;
   color: #f36f21;
   text-decoration: none;
@@ -400,7 +400,7 @@ div#post-content img {
   text-align: center;
 }
 
-.sponsor-button {
+.sp-button {
   font-size: 1em;
   padding: 10px;
   color: #f36f21;
@@ -409,12 +409,12 @@ div#post-content img {
   transition: all 0.3s ease-out;
 }
 
-.sponsor-link:hover {
+.sp-link:hover {
   text-decoration: underline;
   color: #b52626;
 }
 
-.sponsor-pop-overlay {
+.sp-pop-over {
   position: fixed;
   top: 0;
   bottom: 0;
@@ -427,12 +427,12 @@ div#post-content img {
   z-index: 100;
 }
 
-.sponsor-pop-overlay:target {
+.sp-pop-over:target {
   visibility: visible;
   opacity: 1;
 }
 
-.sponsor-pop {
+.sp-pop {
   margin: auto;
   padding: 20px;
   background: #fff;
@@ -444,12 +444,12 @@ div#post-content img {
   top: 35vh;
 }
 
-.sponsor-pop h2 {
+.sp-pop h2 {
   margin-top: 0;
   color: #333;
   font-family: Tahoma, Arial, sans-serif;
 }
-.sponsor-pop .close {
+.sp-pop .close {
   position: absolute;
   top: 20px;
   right: 30px;
@@ -459,19 +459,19 @@ div#post-content img {
   text-decoration: none;
   color: #333;
 }
-.sponsor-pop .close:hover {
+.sp-pop .close:hover {
   color: #06D85F;
 }
-.sponsor-pop .sponsor-pop-content {
+.sp-pop .sp-pop-content {
   max-height: 30%;
   overflow: auto;
 }
 
 @media screen and (max-width: 700px){
-  .sponsor-link{
+  .sp-link{
     width: 70%;
   }
-  .sponsor-pop{
+  .sp-pop{
     width: 70%;
   }
 }
