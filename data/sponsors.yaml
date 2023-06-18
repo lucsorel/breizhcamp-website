@@ -155,7 +155,6 @@ items:
     logo: "/img/sponsors/logo_arche_mc2.png"
     url: "https://www.arche-mc2.fr/"
     breizhcamp_level: "silver"
-    hidden: true
 
   - name: "CGI"
     logo: "/img/sponsors/logo_cgi.png"
