@@ -18,7 +18,6 @@
   "event_start" : "2023-06-28T10:00:00",
   "event_end" : "2023-06-28T12:00:00",
   "event_type" : "Autre...",
-  "event_type" : "Autre...",
   "format" : "Université",
   "venue" : "Amphi A",
   "venue_id" : "1",
@@ -124,7 +123,7 @@
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Vous vous dites que Elon Musk est un flambeur et que n'importe quel canaille armée d'un portable et d'un client Websocket peut poser des fusée sur la Lune ? Vous avez raison !\r\nJe vous invite dans cet atelier à venir le prouver dans un Coding Contest en mode bot battle multi-joueurs !\r\nÀ vous d'écrire l'algorithme qui permettra à votre fusée d'atterrir sans exploser sur le sol lunaire, équipé seulement de votre ordinateur, de votre meilleure salade de `if` et de votre flegme habituelle."
+  "description" : "Vous vous dites que Elon Musk est un flambeur et que n'importe quel canaille armée d'un portable et d'un client Websocket peut poser des fusée sur la Lune ? Vous avez raison !\r\nJe vous invite dans cet atelier à venir le prouver dans un Coding Contest en mode bot battle multi-joueurs !\r\nÀ vous d'écrire l'algorithme qui permettra à votre fusée d'atterrir sans exploser sur le sol lunaire, équipé seulement de votre ordinateur, de votre meilleure salade de `if` et de votre flegme habituelle.\r\n\r\nPré-requis :\r\nUne machine avec Node >= 16"
 }, {
   "id" : "482768",
   "name" : "SvelteKit à l'attaque des dinosaures",
@@ -616,24 +615,10 @@
   "slides_url" : null,
   "description" : "S'il y a bien un langage de programmation qui a le vent en poupe, c'est Rust. Les arguments en sa faveur ne manquent pas : programmation sûre, performance d'exécution, écosystème vivant, etc. Il n'est même pas nécessaire d'y ajouter l'argument d'autorité \"Linus Torvalds approuve\" !\r\n\r\nComme toute personne curieuse, nous nous sommes lancés... pour se prendre de plein fouet la courbe d'apprentissage rude qui fait aussi la réputation du langage. Mais bon, nous sommes utilisateurs de Vi au quotidien depuis des années, il n'y a pas de raison qu'on n'arrive pas à coder en Rust !\r\n\r\nDans cette présentation, nous proposons une approche visuelle pour illustrer le plus simplement possible les points d'achoppement de la montée en compétence sur Rust... et vous verrez qu'en fait, c'est pas compliqué, on a juste été très mal habitués par les autres langages depuis des années. Notre but ? Que vous repartiez avec les bons outils pour écrire vos premiers petits programmes en Rust et ne paniquiez pas face à la volubilité du compilateur."
 }, {
-  "id" : "476263",
-  "name" : "Elixir: une potion pour mixer complexité et concurrence en temps réel",
-  "event_start" : "2023-06-29T14:35:00",
-  "event_end" : "2023-06-29T15:30:00",
-  "event_type" : "Développement",
-  "format" : "Conférence",
-  "venue" : "Amphi C",
-  "venue_id" : "3",
-  "speakers" : "Maxime Janvier",
-  "video_url" : null,
-  "files_url" : null,
-  "slides_url" : null,
-  "description" : "Distribution, haute tolérance à la faute, temps réel, et déploiement avec zéro secondes d'interruption sont les promesses que Erricson se fait, pour ses réseaux de téléphonie, dès 1986 avec le language Erlang et l'Open Telecom Platform. 36 ans plus tard, l'industrie logicielle cherche toujours de nouvelles approches pour assurer la haute disponibilité et le déploiement continu de ses applications . Et si une solution était déjà sous nos yeux ? Construit sur l'écosystème Erlang, le language Elixir, à partir de 2011, propose un nouvel écosystème moderne grandissant dans le développement web, le streaming, l'analyse de données, le machine learning,...\r\n\r\nSi apprendre à lancer 100.000 processus en parallèle ne vous fait pas peur, accompagnez moi, pendant 45 minutes, pour un tour complet du language Elixir et comprendre pourquoi les forces d'un language et de son écosystème aident à adopter les principes d 'architecture logicielle qui nous sont chers comme le Domain-Driven Design, les monolithes ou les microservices.\r\n"
-}, {
   "id" : "470217",
   "name" : "L'Architecture Hexagonale par la pratique, le live coding qui rendra vos applications plus pérennes",
-  "event_start" : "2023-06-29T16:00:00",
-  "event_end" : "2023-06-29T16:55:00",
+  "event_start" : "2023-06-29T14:35:00",
+  "event_end" : "2023-06-29T15:30:00",
   "event_type" : "Architecture",
   "format" : "Conférence",
   "venue" : "Amphi C",
@@ -643,6 +628,20 @@
   "files_url" : null,
   "slides_url" : null,
   "description" : "Il arrive toujours un moment où, le logiciel est tellement gros et vieux qu’il devient inmaintenable. Impossible de mettre à jour la stack technique sans tout casser, les nouvelles fonctionnalités deviennent de plus en plus longue à implémenter et la dette technique étant tellement lourde que le refactoring devient exorbitant.\r\n\r\nEt si on vous disait que tout ça était plus un problème de pratique qu’un problème de vieillesse du logiciel ?\r\n\r\nVenez découvrir par la pratique via ce 100% live coding, comment l’Architecture Hexagonale peut tacler la complexité logicielle en vous permettant d’être évolutif et pérenne tout en vous aidant à mieux gérer votre dette technique."
+}, {
+  "id" : "471907",
+  "name" : "Event Driven, qu'est-ce donc ?! Un nouveau buzzword ?",
+  "event_start" : "2023-06-29T16:00:00",
+  "event_end" : "2023-06-29T16:55:00",
+  "event_type" : "Architecture",
+  "format" : "Conférence",
+  "venue" : "Amphi C",
+  "venue_id" : "3",
+  "speakers" : "Céline Louvet",
+  "video_url" : null,
+  "files_url" : null,
+  "slides_url" : null,
+  "description" : "On entend, de plus en plus, parler d'Event Driven Systems. C'est un peu le nouveau truc à la mode, mais en quoi ça consiste réellement ? Pour le comprendre, nous repartirons des fondamentaux, pour progressivement voir ce que peut nous apporter le modèle événementiel publisher / subscriber, ses avantages et ses inconvénients. Nous verrons comment l'utiliser dans certains cas fréquents.\r\n\r\nPar le passé, j'ai eu à travailler sur un SI qui a grossi au fil du temps. A chaque nouveau service ajouté, à chaque nouvelle fonctionnalité ajoutée, de la complexité s'est cumulée jusqu'à rendre des évolutions impossibles, voire dangereuses. De plus, soyons honnête, parfois de fausses \"bonnes\" idées ont pu empirer la situation. Nous allons nous inspirer de ce SI tout au long pour voir ce que nous pourrions y apporter.\r\n\r\nPour chaque situation, nous pourrons voir les besoins auxquels elle répond, ses avantages ainsi que ses défauts, défauts que nous essayerons de corriger ensuite.\r\nNotre objectif ? Des services moins interdépendants et qui y gagneront en performance et en stabilité."
 }, {
   "id" : "472290",
   "name" : "Mob.sh : La présentation dont vous êtes le héros",
@@ -736,7 +735,7 @@
   "format" : "Conférence",
   "venue" : "Amphi D",
   "venue_id" : "4",
-  "speakers" : "Sylvain Révéreault",
+  "speakers" : "Sylvain Révéreault, Pascal Greboval",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
@@ -862,7 +861,7 @@
   "format" : "Conférence",
   "venue" : "Amphi A",
   "venue_id" : "1",
-  "speakers" : "Julien Perron",
+  "speakers" : "Julien Perron, Ibrahima Ba",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
@@ -1118,7 +1117,7 @@
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "L'empreinte carbone des services numériques est en constante augmentation, ce qui entraîne des conséquences négatives sur notre environnement. Dans cette conférence, nous explorerons EcoCode, un projet open-source qui vise à réduire l'empreinte carbone des projets de développement en proposant des outils et des pratiques durables. Nous présenterons l’étendu de cet écosystème de plugins mobiles et web multilangages SonarQube et vous montrerons comment les utiliser pour mesurer l'empreinte carbone de votre code et réduire votre impact environnemental. Pour comprendre la mise en place et l’emploi des plugins ecoCode android (mobile) et php (web) : rien de tel qu’un live coding !"
+  "description" : "L'empreinte carbone des services numériques est en constante augmentation, ce qui entraîne des conséquences négatives sur notre environnement. Dans cette conférence, nous explorerons ecoCode, un projet open-source qui vise à réduire l'empreinte carbone des projets de développement en proposant des outils et des pratiques durables. Nous présenterons l’étendu de cet écosystème de plugins mobiles et web multilangages SonarQube et vous montrerons comment les utiliser pour mesurer l'empreinte carbone de votre code et réduire votre impact environnemental. Pour comprendre la mise en place et l’emploi des plugins ecoCode android (mobile) et Python (web) : rien de tel qu’un live coding !"
 }, {
   "id" : "477534",
   "name" : "Live-coding d'un serveur web avec Ktor",
