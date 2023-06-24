@@ -41,9 +41,9 @@ items:
   - name: Gaël Salaün
     picture: "https://pbs.twimg.com/profile_images/1653001139049119745/6Hi83BLW_400x400.jpg"
     twitter: gsalaun1
-  #  - name: Léna Ndiaye
-  #    picture: "https://pbs.twimg.com/profile_images/1213830230701330432/ZmbVFFrr_400x400.jpg"
-  #    twitter: annetLenaNDIAYE
+  - name: Léna Ndiaye
+    picture: "https://pbs.twimg.com/profile_images/1213830230701330432/ZmbVFFrr_400x400.jpg"
+    twitter: annetLenaNDIAYE
   - name: Pascal Le Merrer
     picture: "https://pbs.twimg.com/profile_images/1442455098035220480/ZYJh_zFj_400x400.jpg"
     link:
@@ -101,9 +101,9 @@ items:
   - name: Johanna Duigou
     twitter: johanna_duigou
     picture: "https://media.licdn.com/dms/image/C4D03AQG4j6YoJwWV8A/profile-displayphoto-shrink_400_400/0/1571805536245?e=1689206400&v=beta&t=Iy0pvGUI-x-1EpuLgzXfuRvce7f3kOPF2sUyhM6z3sg"
-  - name: Nicolas Bouron
-    picture: "https://avatars.githubusercontent.com/u/118923?v=4"
-    twitter: nbouron
+  # - name: Nicolas Bouron
+  #   picture: "https://avatars.githubusercontent.com/u/118923?v=4"
+  #   twitter: nbouron
   - name: Maxime Odye
     twitter: MaxOdye
     picture: "https://media.licdn.com/dms/image/C4D03AQFx4j6Gz_KFdQ/profile-displayphoto-shrink_400_400/0/1605532124340?e=1689206400&v=beta&t=MPhLcJIYcqqdr7FH_U6QIZWdXh-9inWrJaOsaED2rGs"
