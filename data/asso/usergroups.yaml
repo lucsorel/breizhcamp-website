@@ -4,33 +4,33 @@ items:
     url: "http://www.breizhjug.org"
     text: "Le Java User Group à l'origine du BreizhCamp en 2011"
     organizers:
-      - name: Nicolas De Loof
-        twitter: ndeloof
-        picture: "https://sessionize.com/image?f=837d472e07bb9a8458c1532b19b1f893,200,200,True,False,f5-93d3-44e7-92f7-ebaadadf3095.ad1a032b-c146-4dfe-82a5-f8d665158aff.jpg"
-      - name: Yoann Dubreuil
-        picture: "https://pbs.twimg.com/profile_images/654638174354960384/8EBvD1-D_400x400.jpg"
-        twitter: yoanndubreuil
-      - name: Alexandre Thomazo
-        picture: "https://pbs.twimg.com/profile_images/1863590812/alex_400x400.jpg"
-        twitter: alexlg
-      - name: Loïc Guibert
-        picture: "https://www.eizhel.fr/img/lgu_rect_200px.png"
-        link:
-          fa_icon: "linkedin-square"
-          label: "loicguibert"
-          url: "https://www.linkedin.com/in/loicguibert/"
-      - name: Sébastien Brousse
-        picture: "https://pbs.twimg.com/profile_images/654642904753917953/q6Z4Zmub_400x400.jpg"
-        twitter: seb_brousse
-      - name: Julien Coste
-        picture: "https://pbs.twimg.com/profile_images/1202320757/julien_400x400.png"
-        twitter: CosteJulien
+      # - name: Nicolas De Loof
+      #   twitter: ndeloof
+      #   picture: "https://sessionize.com/image?f=837d472e07bb9a8458c1532b19b1f893,200,200,True,False,f5-93d3-44e7-92f7-ebaadadf3095.ad1a032b-c146-4dfe-82a5-f8d665158aff.jpg"
+      # - name: Yoann Dubreuil
+      #   picture: "https://pbs.twimg.com/profile_images/654638174354960384/8EBvD1-D_400x400.jpg"
+      #   twitter: yoanndubreuil
+      # - name: Alexandre Thomazo
+      #   picture: "https://pbs.twimg.com/profile_images/1863590812/alex_400x400.jpg"
+      #   twitter: alexlg
+      # - name: Loïc Guibert
+      #   picture: "https://www.eizhel.fr/img/lgu_rect_200px.png"
+      #   link:
+      #     fa_icon: "linkedin-square"
+      #     label: "loicguibert"
+      #     url: "https://www.linkedin.com/in/loicguibert/"
+      # - name: Sébastien Brousse
+      #   picture: "https://pbs.twimg.com/profile_images/654642904753917953/q6Z4Zmub_400x400.jpg"
+      #   twitter: seb_brousse
+      # - name: Julien Coste
+      #   picture: "https://pbs.twimg.com/profile_images/1202320757/julien_400x400.png"
+      #   twitter: CosteJulien
       - name: Laurent Huet
         picture: "https://pbs.twimg.com/profile_images/2160253817/laurent_400x400.png"
         twitter: lhuet35
-      - name: Jean-Louis Jouannic
-        picture: "https://secure.gravatar.com/avatar/e7508b5118339906805a8f143df58ebc?s=320"
-        twitter: jljouannic
+      #- name: Jean-Louis Jouannic
+      #  picture: "https://secure.gravatar.com/avatar/e7508b5118339906805a8f143df58ebc?s=320"
+      #  twitter: jljouannic
   - name: "Rennes JS"
     logo: "https://rennesjs.org/images/logo-rennesjs.jpg"
     url: "https://rennesjs.org"
@@ -51,23 +51,6 @@ items:
           label: "ghoullier"
           url: "https://www.linkedin.com/in/ghoullier/"
   
-  - name: "Golang Rennes"
-    logo: "https://pbs.twimg.com/profile_images/761950032065093632/oL_fGJyP_400x400.jpg"
-    url: "https://www.meetup.com/fr/Golang-Rennes/"
-    organizers:
-      - name: Marc Audefroy
-        picture: "https://pbs.twimg.com/profile_images/927570015624335360/8jS60rpn_400x400.jpg"
-        twitter: MarcAudefroy
-      - name: Benoît Masson
-        picture: "https://avatars2.githubusercontent.com/u/10956459"
-        link:
-          fa_icon: "linkedin-square"
-          label: "benoitmasson"
-          url: "https://www.linkedin.com/in/benoitmasson/"
-      - name: Gwendal Leclerc
-        picture: "https://media.licdn.com/dms/image/C4D03AQHm_Jp7HkNKqQ/profile-displayphoto-shrink_400_400/0/1598266731077?e=1693440000&v=beta&t=FbXrHW2KV4p0xS3GACcVEyLi7n51Hqd4e1bCGn6pXLc"
-        twitter: Skillo1989
-
   - name: "Android Rennes"
     logo: "https://pbs.twimg.com/profile_images/884148623394603010/A8bDF4gQ_400x400.jpg"
     url: "https://www.meetup.com/fr-FR/AndroidRennes/"
@@ -144,17 +127,6 @@ items:
         picture: "https://pbs.twimg.com/profile_images/673174224555626496/e8AJ-MEv_400x400.jpg"
         twitter: srevereault
 
-  - name: "Lambda Rennes"
-    logo: "https://secure.meetupstatic.com/photos/event/5/0/c/4/600_477200676.jpeg"
-    url: "https://www.meetup.com/fr-FR/Meetup-Lambda-Rennes-Programmation-fonctionnelle/"
-    organizers:
-      - name: Caroline Gaudreau
-        picture: "https://pbs.twimg.com/profile_images/1221414650631327744/c5G7hxFp_400x400.jpg"
-        twitter: akhesacaro
-      - name: Gaël Deest
-        picture: "https://pbs.twimg.com/profile_images/1048161192185946113/xVV67qHt_400x400.jpg"
-        twitter: gael_deest
-
   - name: "Breizh Data Club"
     logo: "https://secure.meetupstatic.com/photos/event/a/d/a/5/clean_490484453.jpeg"
     url: "https://www.meetup.com/fr-FR/Breizh-Data-Club/"
@@ -171,10 +143,40 @@ items:
           fa_icon: "linkedin-square"
           label: "keyan-bennaceur"
           url: "https://www.linkedin.com/in/keyan-bennaceur/"       
+  
   - name: "Csscade"
     logo: "https://media.licdn.com/dms/image/C4D0BAQHT4twp7ZPWBg/company-logo_200_200/0/1640208536741?e=1695859200&v=beta&t=LPsVyayDAuhO6w1uwfwRbpCkLWhSx7lZJ9qmpmAF8GE"
     url: "http://csscade.fr/"
     organizers:
       - name: Manon Carbonnel
         picture: "https://pbs.twimg.com/profile_images/1538954081993216001/zyXBD37K_400x400.jpg"
-        twitter: manoncarbonnel_
+        twitter: manoncarbonnel_  
+  
+  - name: "Golang Rennes"
+    logo: "https://pbs.twimg.com/profile_images/761950032065093632/oL_fGJyP_400x400.jpg"
+    url: "https://www.meetup.com/fr/Golang-Rennes/"
+    organizers:
+      - name: Marc Audefroy
+        picture: "https://pbs.twimg.com/profile_images/927570015624335360/8jS60rpn_400x400.jpg"
+        twitter: MarcAudefroy
+      - name: Benoît Masson
+        picture: "https://avatars2.githubusercontent.com/u/10956459"
+        link:
+          fa_icon: "linkedin-square"
+          label: "benoitmasson"
+          url: "https://www.linkedin.com/in/benoitmasson/"
+      - name: Gwendal Leclerc
+        picture: "https://media.licdn.com/dms/image/C4D03AQHm_Jp7HkNKqQ/profile-displayphoto-shrink_400_400/0/1598266731077?e=1693440000&v=beta&t=FbXrHW2KV4p0xS3GACcVEyLi7n51Hqd4e1bCGn6pXLc"
+        twitter: Skillo1989
+
+  - name: "Lambda Rennes"
+    logo: "https://secure.meetupstatic.com/photos/event/5/0/c/4/600_477200676.jpeg"
+    url: "https://www.meetup.com/fr-FR/Meetup-Lambda-Rennes-Programmation-fonctionnelle/"
+    organizers:
+      - name: Caroline Gaudreau
+        picture: "https://pbs.twimg.com/profile_images/1221414650631327744/c5G7hxFp_400x400.jpg"
+        twitter: akhesacaro
+      - name: Gaël Deest
+        picture: "https://pbs.twimg.com/profile_images/1048161192185946113/xVV67qHt_400x400.jpg"
+        twitter: gael_deest
+
