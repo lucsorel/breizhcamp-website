@@ -1,37 +1,91 @@
 items:
-  - name: Nicolas De Loof
-    twitter: ndeloof
-    picture: "https://sessionize.com/image?f=837d472e07bb9a8458c1532b19b1f893,200,200,True,False,f5-93d3-44e7-92f7-ebaadadf3095.ad1a032b-c146-4dfe-82a5-f8d665158aff.jpg"
-  - name: Yoann Dubreuil
-    twitter: yoanndubreuil
-    picture: "https://pbs.twimg.com/profile_images/654638174354960384/8EBvD1-D_400x400.jpg"
   - name: Alexandre Thomazo
     twitter: alexlg
     picture: "https://pbs.twimg.com/profile_images/1863590812/alex_400x400.jpg"
-  - name: Loïc Guibert
-    picture: "https://www.eizhel.fr/img/lgu_rect_200px.png"
+  - name: Annelore Bidaux 
+    picture: "https://media.licdn.com/dms/image/D4E03AQFR3GySFyRR2w/profile-displayphoto-shrink_400_400/0/1669384700102?e=1692835200&v=beta&t=NQv65l_XHDDSIetYvp_wHU7W6wuEN7wGPQj27xwxxj8"
     link:
       fa_icon: "linkedin-square"
-      label: "loicguibert"
-      url: "https://www.linkedin.com/in/loicguibert/"
-  - name: Nicolas Ledez
-    twitter: nledez
-    picture: "https://nicolas.ledez.net/nledez-2015-round-256.png"
-  - name: Sébastien Brousse
-    twitter: seb_brousse 
-    picture: "https://pbs.twimg.com/profile_images/654642904753917953/q6Z4Zmub_400x400.jpg"
+      label: "annelore-bidaux"
+      url: "https://www.linkedin.com/in/annelore-bidaux-nsounga-32a71ba9"
+  - name: Benoit Miedan-Gros
+    picture: "https://pbs.twimg.com/profile_images/876333463376363520/H-JZUYYg_400x400.jpg"
+    twitter: bmiedangros
+  - name: Caroline Mouden
+    picture: "https://pbs.twimg.com/profile_images/859753339311071234/mw3gPidu_400x400.jpg"
+    twitter: CarolineMouden
+  - name: Etienne Besson
+    picture: "https://pbs.twimg.com/profile_images/992299580539654145/yVwPF6_p_400x400.jpg"
+    twitter: etienne_besson
+  - name: Gaël Salaün
+    picture: "https://pbs.twimg.com/profile_images/1653001139049119745/6Hi83BLW_400x400.jpg"
+    twitter: gsalaun1
+  - name: Hermann Nsounga
+    picture: "https://media.licdn.com/dms/image/D5635AQEnuJSGVZz4sA/profile-framedphoto-shrink_400_400/0/1685949551037?e=1688238000&v=beta&t=vp2-5rUf3H2SXyFX7J3gb_LYIjw7nP4AuxEpFtQ8rFE"
+    link:
+      fa_icon: "linkedin-square"
+      label: "hermann-n"
+      url: "https://www.linkedin.com/in/hermann-n/"
+  - name: Johanna Duigou
+    twitter: johanna_duigou
+    picture: "https://media.licdn.com/dms/image/C4D03AQG4j6YoJwWV8A/profile-displayphoto-shrink_400_400/0/1571805536245?e=1689206400&v=beta&t=Iy0pvGUI-x-1EpuLgzXfuRvce7f3kOPF2sUyhM6z3sg"
   - name: Julien Coste
     twitter: CosteJulien
     picture: "https://pbs.twimg.com/profile_images/1202320757/julien_400x400.png"
+  - name: Julien Stephan
+    picture: "https://media.licdn.com/dms/image/C5603AQH_tweVNhLb5Q/profile-displayphoto-shrink_800_800/0/1517621319577?e=1687996800&v=beta&t=QNfvxcXK1m1x9AculGkyrPWMY9nDm8AQvtfu0hrCDrU"
+    link:
+      fa_icon: "linkedin-square"
+      label: "julienstephan"
+      url: "https://fr.linkedin.com/in/julien-stephan-70a5522b"
   - name: Laurent Huet
     twitter: lhuet35
     picture: "https://pbs.twimg.com/profile_images/2160253817/laurent_400x400.png"
-  - name: Jean-Louis Jouannic
-    twitter: jljouannic
-    picture: "https://secure.gravatar.com/avatar/e7508b5118339906805a8f143df58ebc?s=320"
-  - name: Guillaume Collic
-    twitter: gcollic
-    picture: "https://pbs.twimg.com/profile_images/559701780108283904/HEf8vt1y_400x400.png"
+  - name: Léna Ndiaye
+    picture: "https://pbs.twimg.com/profile_images/1213830230701330432/ZmbVFFrr_400x400.jpg"
+    twitter: annetLenaNDIAYE
+  - name: Luc Sorel-Giffo
+    picture: "https://cdn.masto.host/floss/accounts/avatars/109/411/441/544/209/828/original/53bea23ed0e184c8.jpg"
+    link:
+      fa_icon: "mastodon-square"
+      label: "lucsorelgiffo"
+      url: "https://floss.social/@lucsorelgiffo"
+  - name: Marc Audefroy
+    picture: "https://pbs.twimg.com/profile_images/927570015624335360/8jS60rpn_400x400.jpg"
+    twitter: MarcAudefroy
+  - name: Maxime Odye
+    twitter: MaxOdye
+    picture: "https://media.licdn.com/dms/image/C4D03AQFx4j6Gz_KFdQ/profile-displayphoto-shrink_400_400/0/1605532124340?e=1689206400&v=beta&t=MPhLcJIYcqqdr7FH_U6QIZWdXh-9inWrJaOsaED2rGs"
+  - name: Nicolas Ledez
+    twitter: nledez
+    picture: "https://nicolas.ledez.net/nledez-2015-round-256.png"
+  - name: Pascal Le Merrer
+    picture: "https://pbs.twimg.com/profile_images/1442455098035220480/ZYJh_zFj_400x400.jpg"
+    link:
+      fa_icon: "linkedin-square"
+      label: "pascallemerrer"
+      url: "https://www.linkedin.com/in/pascal-le-merrer-872a478/"
+  - name: Sébastien Brousse
+    twitter: seb_brousse 
+    picture: "https://pbs.twimg.com/profile_images/654642904753917953/q6Z4Zmub_400x400.jpg"
+  # - name: Jean-Louis Jouannic
+  #   twitter: jljouannic
+  #   picture: "https://secure.gravatar.com/avatar/e7508b5118339906805a8f143df58ebc?s=320"
+  # - name: Guillaume Collic
+  #   twitter: gcollic
+  #   picture: "https://pbs.twimg.com/profile_images/559701780108283904/HEf8vt1y_400x400.png"
+  - name: Sébastien Chédor
+    picture: "https://pbs.twimg.com/profile_images/1068824743091101696/QP7CPGp7_400x400.jpg"
+    twitter: SebastienChedor
   - name: Sylvain Révéreault
     twitter: srevereault
     picture: "https://pbs.twimg.com/profile_images/673174224555626496/e8AJ-MEv_400x400.jpg"
+  - name: Sylvain Tranchand
+    picture: "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_face,h_130,q_auto:good,w_130/v1/gcs/platform-data-goog/avatars/sylvain_tranchand_EV3DU5N.jpg"
+    link:
+      fa_icon: "linkedin-square"
+      label: "tranchandsylvain"
+      url: "https://www.linkedin.com/in/tranchandsylvain/"
+  - name: Yoann Dubreuil
+    twitter: yoanndubreuil
+    picture: "https://pbs.twimg.com/profile_images/654638174354960384/8EBvD1-D_400x400.jpg"
