@@ -8,7 +8,31 @@
     </div>
     <!-- /.row -->
 
+    <div class="heading text-center">
+        <h2>Les membres du bureau</h2>
+    </div>
+    <div class="row">
+        <div class="container-fluid team-members-orga">
+            <div class="row">
+                {{ range $.Site.Data.team.members_bureau.items }}
+                {{ partial "widgets/member.html" . }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
 
+    <div class="heading text-center">
+        <h2>Anciens membres du bureau</h2>
+    </div>
+    <div class="row">
+        <div class="container-fluid team-members-orga">
+            <div class="row">
+                {{ range $.Site.Data.team.members_bureau_old.items }}
+                {{ partial "widgets/member.html" . }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
 
     <div class="heading text-center">
         <h2>Les user groups</h2>
