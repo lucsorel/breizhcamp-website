@@ -3,39 +3,180 @@ items:
     logo: "https://secure.meetupstatic.com/photos/event/8/f/d/e/600_456516830.jpeg"
     url: "http://www.breizhjug.org"
     text: "Le Java User Group à l'origine du BreizhCamp en 2011"
-
+    organizers:
+      # - name: Nicolas De Loof
+      #   twitter: ndeloof
+      #   picture: "https://sessionize.com/image?f=837d472e07bb9a8458c1532b19b1f893,200,200,True,False,f5-93d3-44e7-92f7-ebaadadf3095.ad1a032b-c146-4dfe-82a5-f8d665158aff.jpg"
+      # - name: Yoann Dubreuil
+      #   picture: "https://pbs.twimg.com/profile_images/654638174354960384/8EBvD1-D_400x400.jpg"
+      #   twitter: yoanndubreuil
+      # - name: Alexandre Thomazo
+      #   picture: "https://pbs.twimg.com/profile_images/1863590812/alex_400x400.jpg"
+      #   twitter: alexlg
+      # - name: Loïc Guibert
+      #   picture: "https://www.eizhel.fr/img/lgu_rect_200px.png"
+      #   link:
+      #     fa_icon: "linkedin-square"
+      #     label: "loicguibert"
+      #     url: "https://www.linkedin.com/in/loicguibert/"
+      # - name: Sébastien Brousse
+      #   picture: "https://pbs.twimg.com/profile_images/654642904753917953/q6Z4Zmub_400x400.jpg"
+      #   twitter: seb_brousse
+      # - name: Julien Coste
+      #   picture: "https://pbs.twimg.com/profile_images/1202320757/julien_400x400.png"
+      #   twitter: CosteJulien
+      - name: Laurent Huet
+        picture: "https://pbs.twimg.com/profile_images/2160253817/laurent_400x400.png"
+        twitter: lhuet35
+      #- name: Jean-Louis Jouannic
+      #  picture: "https://secure.gravatar.com/avatar/e7508b5118339906805a8f143df58ebc?s=320"
+      #  twitter: jljouannic
   - name: "Rennes JS"
     logo: "https://rennesjs.org/images/logo-rennesjs.jpg"
     url: "https://rennesjs.org"
-
-  - name: "Golang Rennes"
-    logo: "https://pbs.twimg.com/profile_images/761950032065093632/oL_fGJyP_400x400.jpg"
-    url: "https://www.meetup.com/fr/Golang-Rennes/"
-
+    organizers:
+      - name: Nicolas Pennec
+        picture: "https://secure.meetupstatic.com/photos/member/e/9/7/1/highres_252419761.jpeg"
+        twitter: NicoPennec
+      - name: François Eoche
+        picture: "https://media.licdn.com/dms/image/D4E03AQFGpHiGuM0JcA/profile-displayphoto-shrink_400_400/0/1666778135699?e=1693440000&v=beta&t=N-o5z86V-4OhMCaphHvoSm7EPLFOQ6QRpjFp-OKB8oo"
+        link:
+          fa_icon: "linkedin-square"
+          label: "francois-eoche"
+          url: "https://www.linkedin.com/in/francois-eoche/"
+      - name: "Grégory Houllier"
+        picture: "https://media.licdn.com/dms/image/C4E03AQFGXVD7T8LtNg/profile-displayphoto-shrink_400_400/0/1517249498247?e=1693440000&v=beta&t=iIewC4xM9L34mbyJ_jrUqdFBYErjRbRw5goI908Ly9g" 
+        link:
+          fa_icon: "linkedin-square"
+          label: "ghoullier"
+          url: "https://www.linkedin.com/in/ghoullier/"
+  
   - name: "Android Rennes"
     logo: "https://pbs.twimg.com/profile_images/884148623394603010/A8bDF4gQ_400x400.jpg"
     url: "https://www.meetup.com/fr-FR/AndroidRennes/"
+    organizers:
+      - name: Léna Ndiaye
+        picture: "https://pbs.twimg.com/profile_images/1213830230701330432/ZmbVFFrr_400x400.jpg"
+        twitter: annetLenaNDIAYE
+      - name: Caroline Mouden
+        picture: "https://pbs.twimg.com/profile_images/859753339311071234/mw3gPidu_400x400.jpg"
+        twitter: CarolineMouden
+      - name: Sylvain Tranchand
+        picture: "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_face,h_130,q_auto:good,w_130/v1/gcs/platform-data-goog/avatars/sylvain_tranchand_EV3DU5N.jpg"
+        link:
+          fa_icon: "linkedin-square"
+          label: "tranchandsylvain"
+          url: "https://www.linkedin.com/in/tranchandsylvain/"
+      - name: Johanna Duigou
+        twitter: johanna_duigou
+        picture: "https://media.licdn.com/dms/image/C4D03AQG4j6YoJwWV8A/profile-displayphoto-shrink_400_400/0/1571805536245?e=1689206400&v=beta&t=Iy0pvGUI-x-1EpuLgzXfuRvce7f3kOPF2sUyhM6z3sg"
 
   - name: "Software Crafters Rennes"
     logo: "https://pbs.twimg.com/profile_images/869988942770307072/5eE0osqk_400x400.jpg"
     url: "https://www.meetup.com/fr-FR/Software-Craftsmanship-Rennes/"
+    organizers:
+      - name: Benoît Masson
+        picture: "https://avatars2.githubusercontent.com/u/10956459"
+        link:
+          fa_icon: "linkedin-square"
+          label: "benoitmasson"
+          url: "https://www.linkedin.com/in/benoitmasson/"
+      - name: Gaël Salaün
+        picture: "https://pbs.twimg.com/profile_images/1653001139049119745/6Hi83BLW_400x400.jpg"
+        twitter: gsalaun1
+      - name: Pascal Le Merrer
+        picture: "https://pbs.twimg.com/profile_images/1442455098035220480/ZYJh_zFj_400x400.jpg"
+        link:
+          fa_icon: "linkedin-square"
+          label: "pascallemerrer"
+          url: "https://www.linkedin.com/in/pascal-le-merrer-872a478/"
 
   - name: "Rennes DevOps"
     logo: "https://pbs.twimg.com/profile_images/2185370459/Logo-Rennes-DevOps_400x400.png"
     url: "https://www.meetup.com/fr-FR/rennes-devops/"
+    organizers:
+      - name: Nicolas Ledez
+        picture: "https://nicolas.ledez.net/nledez-2015-round-256.png"
+        twitter: nledez
+      - name: Nicolas Bouron
+        picture: "https://avatars.githubusercontent.com/u/118923?v=4"
+        twitter: nbouron
+      - name: Etienne Besson
+        picture: "https://pbs.twimg.com/profile_images/992299580539654145/yVwPF6_p_400x400.jpg"
+        twitter: etienne_besson
 
   - name: "Python Rennes"
     logo: "https://pbs.twimg.com/profile_images/1451128458050945024/Gm1vyzTx_400x400.jpg"
     url: "https://www.meetup.com/fr-FR/python-rennes/"
+    organizers:
+      - name: Luc Sorel-Giffo
+        picture: "https://cdn.masto.host/floss/accounts/avatars/109/411/441/544/209/828/original/53bea23ed0e184c8.jpg"
+        link:
+          fa_icon: "mastodon-square"
+          label: "lucsorelgiffo"
+          url: "https://floss.social/@lucsorelgiffo"
+      - name: Nicolas Ledez
+        picture: "https://nicolas.ledez.net/nledez-2015-round-256.png"
+        twitter: nledez
 
-  - name: "Ecoconception de services numériques - Rennes"
+  - name: "Écoconception de services numériques - Rennes"
     logo: "https://secure.meetupstatic.com/photos/event/7/8/d/a/clean_506730938.jpeg"
     url: "https://www.meetup.com/fr-FR/ecoconception-de-services-numeriques-rennes/"
-
-  - name: "Lambda Rennes"
-    logo: "https://secure.meetupstatic.com/photos/event/5/0/c/4/600_477200676.jpeg"
-    url: "https://www.meetup.com/fr-FR/Meetup-Lambda-Rennes-Programmation-fonctionnelle/"
+    organizers:
+      - name: Sylvain Révéreault
+        picture: "https://pbs.twimg.com/profile_images/673174224555626496/e8AJ-MEv_400x400.jpg"
+        twitter: srevereault
 
   - name: "Breizh Data Club"
     logo: "https://secure.meetupstatic.com/photos/event/a/d/a/5/clean_490484453.jpeg"
     url: "https://www.meetup.com/fr-FR/Breizh-Data-Club/"
+    organizers:
+      - name: Didier Certain
+        picture: "https://media.licdn.com/dms/image/C5103AQH2cIyzl32qOw/profile-displayphoto-shrink_400_400/0/1516278948054?e=1693440000&v=beta&t=7WD6fE8J6Q1qU4fdR3deJfsCQtEiXSc7M7q6f0pJ5gQ"
+        link:
+          fa_icon: "linkedin-square"
+          label: "didier-certain"
+          url: "https://www.linkedin.com/in/didier-certain-46950a1/"       
+      - name: Keyan Bennaceur
+        picture: "https://media.licdn.com/dms/image/C4E03AQFSrjeMOnJyJg/profile-displayphoto-shrink_400_400/0/1662716446695?e=1693440000&v=beta&t=aHILRjEpDJa-XppulVa3-2B20Yi3IjlzjvvSK6tPzXY"
+        link:
+          fa_icon: "linkedin-square"
+          label: "keyan-bennaceur"
+          url: "https://www.linkedin.com/in/keyan-bennaceur/"       
+  
+  - name: "Csscade"
+    logo: "https://media.licdn.com/dms/image/C4D0BAQHT4twp7ZPWBg/company-logo_200_200/0/1640208536741?e=1695859200&v=beta&t=LPsVyayDAuhO6w1uwfwRbpCkLWhSx7lZJ9qmpmAF8GE"
+    url: "http://csscade.fr/"
+    organizers:
+      - name: Manon Carbonnel
+        picture: "https://pbs.twimg.com/profile_images/1538954081993216001/zyXBD37K_400x400.jpg"
+        twitter: manoncarbonnel_  
+  
+  - name: "Golang Rennes"
+    logo: "https://pbs.twimg.com/profile_images/761950032065093632/oL_fGJyP_400x400.jpg"
+    url: "https://www.meetup.com/fr/Golang-Rennes/"
+    organizers:
+      - name: Marc Audefroy
+        picture: "https://pbs.twimg.com/profile_images/927570015624335360/8jS60rpn_400x400.jpg"
+        twitter: MarcAudefroy
+      - name: Benoît Masson
+        picture: "https://avatars2.githubusercontent.com/u/10956459"
+        link:
+          fa_icon: "linkedin-square"
+          label: "benoitmasson"
+          url: "https://www.linkedin.com/in/benoitmasson/"
+      - name: Gwendal Leclerc
+        picture: "https://media.licdn.com/dms/image/C4D03AQHm_Jp7HkNKqQ/profile-displayphoto-shrink_400_400/0/1598266731077?e=1693440000&v=beta&t=FbXrHW2KV4p0xS3GACcVEyLi7n51Hqd4e1bCGn6pXLc"
+        twitter: Skillo1989
+
+  - name: "Lambda Rennes"
+    logo: "https://secure.meetupstatic.com/photos/event/5/0/c/4/600_477200676.jpeg"
+    url: "https://www.meetup.com/fr-FR/Meetup-Lambda-Rennes-Programmation-fonctionnelle/"
+    organizers:
+      - name: Caroline Gaudreau
+        picture: "https://pbs.twimg.com/profile_images/1221414650631327744/c5G7hxFp_400x400.jpg"
+        twitter: akhesacaro
+      - name: Gaël Deest
+        picture: "https://pbs.twimg.com/profile_images/1048161192185946113/xVV67qHt_400x400.jpg"
+        twitter: gael_deest
+

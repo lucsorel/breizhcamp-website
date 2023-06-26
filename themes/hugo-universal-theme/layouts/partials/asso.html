@@ -39,15 +39,24 @@
     </div>
     <div class="row">
         {{ range $index, $ug := $.Site.Data.asso.usergroups.items }}
-            <div class="col-md-6 col-sm-12">
-                <div class="asso-usergroup">
+            <div class="col-md-12 col-sm-12">
+                <div class="asso-usergroup text-center">
                     <a href="{{ .url }}" target="_blank">
                         {{ if .logo }}<img src="{{ .logo }}" title="{{ .name }}" alt="{{ .name }}" class="asso-usergroup-logo" />{{ end }}
                         <h3>{{ .name }}</h3>
                     </a>
                     {{ if .text }}
-                        {{ .text }}
+                      <p>{{ .text }}</p>
                     {{ end }}
+                    <div class="row">
+                        <div class="container-fluid team-members-orga">
+                            <div class="row">
+                                {{ range .organizers }}
+                                {{ partial "widgets/member.html" . }}
+                                {{ end }}
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             {{ if not (modBool $index 2) }}
