@@ -19,6 +19,16 @@
   "twitter" : "@CruuzAzul",
   "social" : "https://www.linkedin.com/in/mickaelalves/"
 }, {
+  "id" : "992fe8f3-f4dd-4c12-a23a-153ad6fd46d8",
+  "lastname" : "Ba",
+  "firstname" : "Ibrahima",
+  "imageProfilURL" : "https://sessionize.com/image/c7d4-400o400o2-819eaebe-1e3f-4467-b9e6-faed10207e7a.jpg",
+  "bio" : "Ingénieur en deep learning, spécialisé en traitement des images et la programmation distribuée(ZeroMQ).",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
   "id" : "66670a42-43be-49d9-9715-b11aede4c65e",
   "lastname" : "Baconnais",
   "firstname" : "Jean-Philippe",
@@ -112,7 +122,7 @@
   "id" : "64da05a4-9778-41cf-aab2-07c1776f1487",
   "lastname" : "Buret",
   "firstname" : "Julien",
-  "imageProfilURL" : null,
+  "imageProfilURL" : "https://sessionize.com/image/7603-400o400o2-SA34MGxfk4Vh22kM4Lh31g.jpeg",
   "bio" : "Julien participe à plein temps depuis une bonne vingtaine d'années maintenant au développement d'un grand nombre d'applicatifs, avec une forte appétence pour l'open-source.",
   "github" : null,
   "googleplus" : null,
@@ -329,6 +339,16 @@
   "twitter" : "@sebfauvel",
   "social" : "https://www.linkedin.com/in/s%C3%A9bastien-fauvel-3429201b/"
 }, {
+  "id" : "02f2cc2a-890f-4b09-bff8-4ebec078663f",
+  "lastname" : "Greboval",
+  "firstname" : "Pascal",
+  "imageProfilURL" : "https://sessionize.com/image/7e81-400o400o2-9d2e15a5-595d-4bfd-ac18-1d1ace732ad8.jpg",
+  "bio" : "Co-créateur du magazine et rédacteur en chef depuis 2012",
+  "github" : null,
+  "googleplus" : null,
+  "twitter" : null,
+  "social" : null
+}, {
   "id" : "98d7d9fb-f0d3-49ac-ae5e-bf24443b6436",
   "lastname" : "Greffier",
   "firstname" : "Jean-François",
@@ -404,16 +424,6 @@
   "firstname" : "Etienne",
   "imageProfilURL" : "https://sessionize.com/image/2add-400o400o2-3csNzZJ2oGoqVXkFzkHYha.png",
   "bio" : "Développeur web et consultant chez Zenika, je m'intéresse à tout ce qui touche à la tech !",
-  "github" : null,
-  "googleplus" : null,
-  "twitter" : null,
-  "social" : null
-}, {
-  "id" : "76df89f8-ee61-4eee-a61e-59a565e10d14",
-  "lastname" : "Janvier",
-  "firstname" : "Maxime",
-  "imageProfilURL" : "https://sessionize.com/image/71e4-400o400o2-XNTistzJ1kWvW2YtL9Frko.jpeg",
-  "bio" : "Developer in backend an IoT applications",
   "github" : null,
   "googleplus" : null,
   "twitter" : null,
@@ -557,7 +567,7 @@
   "github" : null,
   "googleplus" : null,
   "twitter" : "@celine_louvet",
-  "social" : null
+  "social" : "https://www.linkedin.com/in/celinelouvet"
 }, {
   "id" : "73405c8d-ec8d-441a-82bc-dbc71fbe2357",
   "lastname" : "Martin",
@@ -697,7 +707,7 @@
   "github" : null,
   "googleplus" : null,
   "twitter" : "@SimplyGreenIT",
-  "social" : "https://www.linkedin.com/in/olivier-philippot-06a7907/"
+  "social" : "https://www.linkedin.com/in/olivier-philippot-06a7907"
 }, {
   "id" : "bc34fdc8-be25-4c32-ae1d-9fd6f1905b02",
   "lastname" : "Piscitelli",
@@ -776,7 +786,7 @@
   "bio" : "Luc Sorel-Giffo est consultant Zenika en tant que développeur-formateur Python et consultant en écoconception de services numériques.\r\n\r\nCôté Python, il a co-fondé la communauté Python Rennes [1] qu'il anime régulièrement et développe 2 outils doc-as-code Python : py2puml ([2] génération de diagrammes de classes par introspection de code) et pydoctrace ([3] traçage d'exécution à des fins documentaires).\r\n\r\nEn tant qu'éco-ambassadeur chez Zenika, il facilite les transitions éco-responsables des organisations et contribue au collectif GreenIT.fr ([4], [5]).\r\n\r\n[1] : https://www.meetup.com/fr-FR/python-rennes/\r\n[2] : https://pypi.org/project/py2puml/\r\n[3] : https://pypi.org/project/pydoctrace/\r\n[4] : https://www.greenit.fr/2020/11/03/100-portables-rechauffent-1-hectare-de-planete-dun-degre-pendant-60-ans/\r\n[5] : https://blog.zenika.com/2021/10/08/transition-ecoresponsable-zenika-test-ordinateur-portable-ecoconcu-par-why/",
   "github" : null,
   "googleplus" : null,
-  "twitter" : "@lucsorel",
+  "twitter" : null,
   "social" : "https://www.linkedin.com/in/lucsorel"
 }, {
   "id" : "1f7c4bf7-7cd4-4940-8f16-018ae5c50c5a",

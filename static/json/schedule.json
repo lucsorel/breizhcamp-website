@@ -95,7 +95,7 @@
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "La documentation dans un context agile est un vrai défi.\r\nLes évolutions constantes rendent les mises à jour chronophages pour un résultat souvent insuffisant.\r\nIl faut repenser le problème autrement.\r\n\r\nLa combinaison des approches Living Documentation et Approval Testing ouvre une nouvelle voie,\r\nen utilisant les tests comme des générateurs de documentation.\r\nLe comportement de l'application est décrit sous une forme adaptée à sa compréhension, sans contrainte de représentation.\r\nOn obtient une documentation lisible par tous et continuellement à jour tout en assurant la non regression.\r\n\r\nVous allez découvrir comment cette approche,\r\nen remettant à plat la gestion de la documentation, des spécifications et des tests pour les penser comme un seul et même élément,\r\npermet de favoriser le dialogue entre les intervenants, de réduire les coûts de maintenance et d'assurer une parfaite synchronisation avec le code.\r\nVous repartirez de cette session avec de nouvelles perspectives pour vos tests et votre documentation\r\nainsi que les bases pour expérimenter par vous même."
+  "description" : "La documentation dans un context agile est un vrai défi.\r\nLes évolutions constantes rendent les mises à jour chronophages pour un résultat souvent insuffisant.\r\nIl faut repenser le problème autrement.\r\n\r\nLa combinaison des approches Living Documentation et Approval Testing ouvre une nouvelle voie,\r\nen utilisant les tests comme des générateurs de documentation.\r\nLe comportement de l'application est décrit sous une forme adaptée à sa compréhension, sans contrainte de représentation.\r\nOn obtient une documentation lisible par tous et continuellement à jour tout en assurant la non regression.\r\n\r\nVous allez découvrir comment cette approche,\r\nen remettant à plat la gestion de la documentation, des spécifications et des tests pour les penser comme un seul et même élément,\r\npermet de favoriser le dialogue entre les intervenants, de réduire les coûts de maintenance et d'assurer une parfaite synchronisation avec le code.\r\nVous repartirez de cette session avec de nouvelles perspectives pour vos tests et votre documentation\r\nainsi que les bases pour expérimenter par vous même.\r\n\r\nPour cet atelier, vous aurez besoin d'un ordinateur avec un environnement de développement (au moins un pour deux ou trois).\r\nComme il n'y a aura pas de Wifi disponible, merci de cloner au préalable le repository suivant: https://github.com/sfauvel/Parrot-Refactoring-Kata\r\nVérifier que vous êtes en mesure d'exécuter, hors ligne, les tests de ce projet avec le langage que vous aurez choisi.\r\nInstallez également un plugin pour asciidoc sur votre IDE ou sur votre navigateur."
 }, {
   "id" : "476759",
   "name" : "Code Lab Collaboratif",
@@ -109,7 +109,7 @@
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "C’est quoi un code Lab collaboratif ?\r\nJe te proposerai un bout de code en JavaScript. Je te dirais ce qui pose problème niveau accessibilité web.\r\nTu auras 10 ou 15 mn (en fonction du niveau de code) pour le rendre accessible.\r\nUn-e volontaire ira proposer sa solution au tableau, qu’on comparera avec la mienne.\r\nIl y aura du code pour tous les niveaux (Débutant à Avancé).\r\nSi tu as un bout de code JavaScript qui te donne des migraines en essayant de le rendre accessible, viens nous le proposer, tu repartiras avec un début de solution.\r\nTu peux venir avec ton PC portable. Mais sans PC portable, tu pourras quand même utiliser le mien pour proposer ta solution au tableau. \r\nA la fin de la session, tu auras appris ou révisé certaines parties du RGAA et tu auras amélioré ou aider à améliorer le niveau JS de tes camarades."
+  "description" : "C’est quoi un code Lab collaboratif ?\r\nJe te proposerai un bout de code en JavaScript. Je te dirais ce qui pose problème niveau accessibilité web.\r\nTu auras 10 ou 15 mn (en fonction du niveau de code) pour le rendre accessible.\r\nUn-e volontaire ira proposer sa solution au tableau, qu’on comparera avec la mienne\r\n Il y aura du code pour tous les niveaux (Débutant à Avancé).\r\nSi tu as un bout de code JavaScript qui te donne des migraines en essayant de le rendre accessible, viens nous le proposer, tu repartiras avec un début de solution.\r\nTu peux venir avec ton PC portable. Mais sans PC portable, tu pourras quand même utiliser le mien pour proposer ta solution au tableau.\r\nA la fin de la session, tu auras appris ou révisé certaines parties du RGAA et tu auras amélioré ou aider à améliorer le niveau JS de tes camarades.\r\n\r\nPenses quand même à télécharger les bouts de code : https://docs.google.com/document/d/1UPU-aqQLmq1lpHCABsIZZ6BVyCCYB13oXkPy6vOh3zU/edit"
 }, {
   "id" : "478377",
   "name" : "Poser une fusée sur la Lune : Artemis 2.0-RC \uD83D\uDE80",
@@ -405,19 +405,19 @@
   "slides_url" : null,
   "description" : "Pourquoi et comment tracer vos choix d'architecture ?\r\n\r\nVenez découvrir une méthode pour tracer vos choix d'architecture de plus en plus populaire, qui nous fait gagner énormément de temps et qui augmente la connaissance des équipes. Cette méthode, utilisant les **ADR (Architecture Decision Record)**, met en avant la simplicité : *Keep It Simple, Stupid* !\r\n\r\nAu travers d'un retour d'expérience de plusieurs années, nous verrons donc comment documenter le plus simplement possible un choix d'architecture ou de conception tout en gardant une trace du contexte, des options et des compromis qui ont menés à cette décision.\r\n\r\nCette session sera également l'occasion de revenir sur la mise en pratique à l'échelle de l'entreprise."
 }, {
-  "id" : "478809",
-  "name" : "Hook'il est beau, notre code ! Guider la qualité de code avec pre-commit",
-  "event_start" : "2023-06-30T16:00:00",
-  "event_end" : "2023-06-30T16:25:00",
-  "event_type" : "Méthodologie",
+  "id" : "478324",
+  "name" : "L'open source rendu beaucoup plus accessible avec Gitpod \uD83E\uDEF6",
+  "event_start" : "2023-06-29T17:35:00",
+  "event_end" : "2023-06-29T18:00:00",
+  "event_type" : "Développement",
   "format" : "Tool in action",
-  "venue" : "Amphi B",
-  "venue_id" : "2",
-  "speakers" : "Luc Sorel-Giffo",
+  "venue" : "Amphi A",
+  "venue_id" : "1",
+  "speakers" : "Jean-Philippe Baconnais",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Votre équipe s'est accordée sur des règles de qualité de la base de code :\r\n- formatage\r\n- bonnes pratiques\r\n- patterns ou anti-patterns, etc.\r\n\r\nVous y prêtez attention (ou vos collègues vous les rappellent *trop* souvent… \uD83D\uDE0F) lors des relectures de code, qui devraient plutôt se focaliser sur le métier.\r\n\r\nEt si on utilisait les hooks git pour appliquer ces règles automatiquement pour une plus grande efficacité d'équipe, du commit à l'intégration continue ? Pas besoin de réinventer la roue : l'outil pre-commit est là [1], avec un écosystème de plugins très fourni [2].\r\n\r\nDurant cette intervention orientée *démos*, je vous présenterai cet outil sur des exemples concrets d’applications. Pre-commit s’interface avec les outils de qualité de code d’une grande diversité de projets : Python, mais aussi Java, Node.js, rust, go, PHP, infra-as-code, la détection de secrets ou de fichiers volumineux avant de commiter, etc.\r\n\r\nUn vrai guide pour la qualité de la base de code !\r\n\r\n[1] : https://pre-commit.com/\r\n[2] : https://pre-commit.com/hooks.html\r\n\r\nLe plan s'articule selon 3 objectifs :\r\n- intro succincte sur la qualité de code : pratiques (TDD, revue de code) et outils (formateurs de code, linters)\r\n- technique : découverte des hooks git\r\n- opérationnels : mise en pratique de pre-commit et de différents hooks (hooks natifs de validations, hooks vers des outils tiers de formatage et de lint) et dans différents contextes (poste de développement, intégration continue) pour que vous ayez tous les éléments nécessaires à sa mise en œuvre sur vos projets."
+  "description" : "Vous avez déjà entendu parler d'open source ? Tout le monde peut contribuer. Si si ! Que vous soyez développeur·se, product owner, SRE ou tout autre poste, vous pouvez apporter votre aide à un projet.\r\n\r\nPersonnellement, en tant que dév, j'ai voulu aller contribuer sur de multiples projets. Et régulièrement, je me suis cassé les dents pour déployer l'outil sur mon poste et ce, malgré la présence de documentation. Dans le pire des cas, j'ai même fini par abandonner.\r\n\r\nDésormais, avec le bouton \"Open with Gitpod\" ou \"Contribute with Gitpod\" (visible dans les README.md des projets), je sais tout de suite que les projets auront un minimum de configuration que je n’aurai PAS à faire. Et c'est sacrément pratique \uD83D\uDE04\r\n\r\nDans ce talk, après vous avoir rapidement introduit ce qu'est Gitpod, je vous expliquerai en quoi cela m'a aidé à contribuer sur des projets open source et vous convaincrai, peut-être, de passer du temps, en tant que mainteneur, à configurer vos projets pour qu'ils soit \"prêt à l'emploi\" pour vos (futurs?) contributeurs.  \r\n\r\n"
 }, {
   "id" : "482676",
   "name" : "3P pour sortir du Legacy",
@@ -1021,19 +1021,19 @@
   "slides_url" : null,
   "description" : "Vous en avez marre de vous sentir traqué sur Internet ? \uD83D\uDE12 Nous aussi ! Mais est-il réellement possible de nos jours de devenir un véritable ninja digital ? \uD83E\uDD77\uD83C\uDFFB Et si pour protéger votre vie privée en ligne, il fallait tout d’abord comprendre qui a accès à vos données et ce qu’ils peuvent faire avec ?\r\n\r\nNous allons vous apprendre comment être un vrai pro de la confidentialité et de la sécurité des données, mais surtout comment devenir anonyme en ligne et éviter les curieux… \uD83D\uDC40 Sortez vos loupes et suivez-nous dans cette enquête pour reprendre le contrôle de votre vie numérique !\r\n\r\nEt si vous êtes chanceux, nous vous dévoilerons peut-être quelques secrets de ninja pour échapper aux espions ! Venez nous rejoindre et apprenez comment devenir le maître du camouflage numérique ! \uD83D\uDE36‍\uD83C\uDF2B️"
 }, {
-  "id" : "478324",
-  "name" : "L'open source rendu beaucoup plus accessible avec Gitpod \uD83E\uDEF6",
-  "event_start" : "2023-06-29T17:35:00",
-  "event_end" : "2023-06-29T18:00:00",
-  "event_type" : "Développement",
+  "id" : "478809",
+  "name" : "Hook'il est beau, notre code ! Guider la qualité de code avec pre-commit",
+  "event_start" : "2023-06-30T16:00:00",
+  "event_end" : "2023-06-30T16:25:00",
+  "event_type" : "Méthodologie",
   "format" : "Tool in action",
-  "venue" : "Amphi A",
-  "venue_id" : "1",
-  "speakers" : "Jean-Philippe Baconnais",
+  "venue" : "Amphi B",
+  "venue_id" : "2",
+  "speakers" : "Luc Sorel-Giffo",
   "video_url" : null,
   "files_url" : null,
   "slides_url" : null,
-  "description" : "Vous avez déjà entendu parler d'open source ? Tout le monde peut contribuer. Si si ! Que vous soyez développeur·se, product owner, SRE ou tout autre poste, vous pouvez apporter votre aide à un projet.\r\n\r\nPersonnellement, en tant que dév, j'ai voulu aller contribuer sur de multiples projets. Et régulièrement, je me suis cassé les dents pour déployer l'outil sur mon poste et ce, malgré la présence de documentation. Dans le pire des cas, j'ai même fini par abandonner.\r\n\r\nDésormais, avec le bouton \"Open with Gitpod\" ou \"Contribute with Gitpod\" (visible dans les README.md des projets), je sais tout de suite que les projets auront un minimum de configuration que je n’aurai PAS à faire. Et c'est sacrément pratique \uD83D\uDE04\r\n\r\nDans ce talk, après vous avoir rapidement introduit ce qu'est Gitpod, je vous expliquerai en quoi cela m'a aidé à contribuer sur des projets open source et vous convaincrai, peut-être, de passer du temps, en tant que mainteneur, à configurer vos projets pour qu'ils soit \"prêt à l'emploi\" pour vos (futurs?) contributeurs.  \r\n\r\n"
+  "description" : "Votre équipe s'est accordée sur des règles de qualité de la base de code :\r\n- formatage\r\n- bonnes pratiques\r\n- patterns ou anti-patterns, etc.\r\n\r\nVous y prêtez attention (ou vos collègues vous les rappellent *trop* souvent… \uD83D\uDE0F) lors des relectures de code, qui devraient plutôt se focaliser sur le métier.\r\n\r\nEt si on utilisait les hooks git pour appliquer ces règles automatiquement pour une plus grande efficacité d'équipe, du commit à l'intégration continue ? Pas besoin de réinventer la roue : l'outil pre-commit est là [1], avec un écosystème de plugins très fourni [2].\r\n\r\nDurant cette intervention orientée *démos*, je vous présenterai cet outil sur des exemples concrets d’applications. Pre-commit s’interface avec les outils de qualité de code d’une grande diversité de projets : Python, mais aussi Java, Node.js, rust, go, PHP, infra-as-code, la détection de secrets ou de fichiers volumineux avant de commiter, etc.\r\n\r\nUn vrai guide pour la qualité de la base de code !\r\n\r\n[1] : https://pre-commit.com/\r\n[2] : https://pre-commit.com/hooks.html\r\n\r\nLe plan s'articule selon 3 objectifs :\r\n- intro succincte sur la qualité de code : pratiques (TDD, revue de code) et outils (formateurs de code, linters)\r\n- technique : découverte des hooks git\r\n- opérationnels : mise en pratique de pre-commit et de différents hooks (hooks natifs de validations, hooks vers des outils tiers de formatage et de lint) et dans différents contextes (poste de développement, intégration continue) pour que vous ayez tous les éléments nécessaires à sa mise en œuvre sur vos projets."
 }, {
   "id" : "481868",
   "name" : "Dans le Monorepo vous n'êtes jamais seul, le Park est ouvert... \uD83E\uDD96\uD83E\uDD95\uD83D\uDC22",
