@@ -1,5 +1,50 @@
 [
   {
+    "id": "112",
+    "name": "Keynote jeudi soir - Pour en finir avec la loi de Moore",
+    "event_start": "2023-06-29T18:05:00",
+    "event_end": "2023-06-29T18:50:00",
+    "event_type": "Keynote",
+    "format": "Keynote",
+    "venue": "Amphi C",
+    "venue_id": "1",
+    "speakers": "Tristan Nitot",
+    "video_url": "https://www.youtube.com/watch?v=fHIWs5EsOkM",
+    "files_url": null,
+    "slides_url": null,
+    "description": "Keynote de Tristan Nitot - Pour en finir avec la loi de Moore"
+  },
+  {
+    "id": "121",
+    "name": "Keynote de clôture",
+    "event_start": "2023-06-30T16:30:00",
+    "event_end": "2023-06-30T17:00:00",
+    "event_type": "Keynote",
+    "format": "Keynote",
+    "venue": "Amphi C",
+    "venue_id": "1",
+    "speakers": "Equipe Breizhcamp",
+    "video_url": "https://www.youtube.com/watch?v=vZWxAAqZLDQ",
+    "files_url": null,
+    "slides_url": null,
+    "description": "Keynote de clôture de l'équipe Breizhcamp"
+  },
+  {
+    "id": "13d27402-0da3-42c3-8546-c7769f104860",
+    "name": "Keynote vendredi matin - Comment le numérique aggrave les inégalités",
+    "event_start": "2023-06-30T09:00:00",
+    "event_end": "2023-06-30T10:00:00",
+    "event_type": "Keynote",
+    "format": "Keynote",
+    "venue": "Amphi C",
+    "venue_id": "1",
+    "speakers": "Mathilde SALIOU",
+    "video_url": "https://www.youtube.com/watch?v=DdY62OTdSME",
+    "files_url": null,
+    "slides_url": null,
+    "description": "Keynote de Mathilde SALIOU - Comment le numérique aggrave les inégalités"
+  },
+  {
     "id": "470096",
     "name": "Une autre manière de tester vos microservices",
     "event_start": "2023-06-30T16:00:00",
@@ -1123,5 +1168,20 @@
     "files_url": null,
     "slides_url": null,
     "description": "Il n'est plus rare aujourd'hui t'entendre parler d'eBPF en conférence. Tantôt présenté comme LA solution monitoring pour Linux, tantôt mentionné dans un contexte DevOps ou sécurité, le terme et ce qu'il représente restent obscur pour beaucoup, l'acronyme n'aidant pas.\r\n\r\nDans cette présentation, nous repartirons des bases, un syscall Linux, pour expliquer ce qu'est concrètement eBPF, comment ça fonctionne dans les grandes lignes et ce que ça permet de faire.\r\nNous en profiterons pour aborder quelques fausses idées sur sa sécurité, ses limites et ses origines.\r\nLes principaux cas d'usages connus aujourd'hui permettront d'illustrer ce qu'eBPF permet ET ne permet pas de faire."
+  },
+  {
+    "id": "91a597f5-56df-44ee-b299-866031bf3c7f",
+    "name": "Keynote ouverture jeudi matin",
+    "event_start": "2023-06-29T09:00:00",
+    "event_end": "2023-06-29T10:00:00",
+    "event_type": "Keynote",
+    "format": "Keynote",
+    "venue": "Amphi C",
+    "venue_id": "1",
+    "speakers": "Equipe Breizhcamp, Noémie Delrue",
+    "video_url": "https://www.youtube.com/watch?v=Z-yhr-gycsM",
+    "files_url": null,
+    "slides_url": null,
+    "description": "Keynote d'ouverture par l'équipe Breizhcamp puis keynote de Noémie Delrue - "
   }
 ]
