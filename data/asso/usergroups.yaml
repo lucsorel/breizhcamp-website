@@ -39,13 +39,13 @@ items:
         picture: "https://secure.meetupstatic.com/photos/member/e/9/7/1/highres_252419761.jpeg"
         twitter: NicoPennec
       - name: François Eoche
-        picture: "https://media.licdn.com/dms/image/D4E03AQFGpHiGuM0JcA/profile-displayphoto-shrink_400_400/0/1666778135699?e=1693440000&v=beta&t=N-o5z86V-4OhMCaphHvoSm7EPLFOQ6QRpjFp-OKB8oo"
+        picture: "https://media.licdn.com/dms/image/D4E03AQFGpHiGuM0JcA/profile-displayphoto-shrink_400_400/0/1666778135699?e=1702512000&v=beta&t=VQ36WEUCx_OeGPma5JcSGo5FIGm43KOOvQdQKl_y-TQ"
         link:
           fa_icon: "linkedin-square"
           label: "francois-eoche"
           url: "https://www.linkedin.com/in/francois-eoche/"
       - name: "Grégory Houllier"
-        picture: "https://media.licdn.com/dms/image/C4E03AQFGXVD7T8LtNg/profile-displayphoto-shrink_400_400/0/1517249498247?e=1693440000&v=beta&t=iIewC4xM9L34mbyJ_jrUqdFBYErjRbRw5goI908Ly9g" 
+        picture: "https://media.licdn.com/dms/image/C4E03AQFGXVD7T8LtNg/profile-displayphoto-shrink_400_400/0/1517249498247?e=1702512000&v=beta&t=pv_GkTIoTNcBF257i2B9JzpLHFQfvInEV8TltfKhrQI"
         link:
           fa_icon: "linkedin-square"
           label: "ghoullier"
@@ -144,13 +144,13 @@ items:
     url: "https://www.meetup.com/fr-FR/Breizh-Data-Club/"
     organizers:
       - name: Didier Certain
-        picture: "https://media.licdn.com/dms/image/C5103AQH2cIyzl32qOw/profile-displayphoto-shrink_400_400/0/1516278948054?e=1693440000&v=beta&t=7WD6fE8J6Q1qU4fdR3deJfsCQtEiXSc7M7q6f0pJ5gQ"
+        picture: "https://media.licdn.com/dms/image/C5103AQH2cIyzl32qOw/profile-displayphoto-shrink_800_800/0/1516278948054?e=1702512000&v=beta&t=xizxVz7JXx_b2MJ5lj1jjjMJSS4BLJiV_IZNOxza7Gg"
         link:
           fa_icon: "linkedin-square"
           label: "didier-certain"
           url: "https://www.linkedin.com/in/didier-certain-46950a1/"       
       - name: Keyan Bennaceur
-        picture: "https://media.licdn.com/dms/image/C4E03AQFSrjeMOnJyJg/profile-displayphoto-shrink_400_400/0/1662716446695?e=1693440000&v=beta&t=aHILRjEpDJa-XppulVa3-2B20Yi3IjlzjvvSK6tPzXY"
+        picture: "https://media.licdn.com/dms/image/C4E03AQFSrjeMOnJyJg/profile-displayphoto-shrink_400_400/0/1662716446695?e=1702512000&v=beta&t=zoNl-iPq7xbNc6xeGX1ophH-XsY0KZ552TJPus7msbs"
         link:
           fa_icon: "linkedin-square"
           label: "keyan-bennaceur"
@@ -178,7 +178,7 @@ items:
           label: "benoitmasson"
           url: "https://www.linkedin.com/in/benoitmasson/"
       - name: Gwendal Leclerc
-        picture: "https://media.licdn.com/dms/image/C4D03AQHm_Jp7HkNKqQ/profile-displayphoto-shrink_400_400/0/1598266731077?e=1693440000&v=beta&t=FbXrHW2KV4p0xS3GACcVEyLi7n51Hqd4e1bCGn6pXLc"
+        picture: "https://media.licdn.com/dms/image/C4D03AQHm_Jp7HkNKqQ/profile-displayphoto-shrink_800_800/0/1598266731077?e=1702512000&v=beta&t=Hz2K7u9cBmVQu1Nds_rMDKOP_V1VODddYnp7iLISWJU"
         twitter: Skillo1989
 
   - name: "Lambda Rennes"
