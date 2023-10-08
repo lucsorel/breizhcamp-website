@@ -70,6 +70,18 @@ items:
       - name: Johanna Duigou
         twitter: johanna_duigou
         picture: "https://media.licdn.com/dms/image/C4D03AQG4j6YoJwWV8A/profile-displayphoto-shrink_400_400/0/1571805536245?e=1689206400&v=beta&t=Iy0pvGUI-x-1EpuLgzXfuRvce7f3kOPF2sUyhM6z3sg"
+      - name: Alain Muller
+        picture: "https://media.licdn.com/dms/image/D5603AQGPeh6cUqVaXA/profile-displayphoto-shrink_800_800/0/1675939956598?e=1702512000&v=beta&t=9f-RtYKzQpjDWylqDPl5C3fEO4aRrqsHw6st3soUYQE" 
+        link:
+          fa_icon: "linkedin-square"
+          label: "alainmuller"
+          url: "https://www.linkedin.com/in/alainmuller/"
+      - name: Pierre Boulch
+        picture: "https://media.licdn.com/dms/image/D4E03AQH2jV0Fq7p-xQ/profile-displayphoto-shrink_400_400/0/1687770654439?e=1702512000&v=beta&t=09Hew9_5B9wBmprJl7N3sDathGVLzTBT81HbznVTHPA" 
+        link:
+          fa_icon: "linkedin-square"
+          label: "piereboulch"
+          url: "https://www.linkedin.com/in/pierre-boulc-h-31ab3188/"
 
   - name: "Software Crafters Rennes"
     logo: "https://pbs.twimg.com/profile_images/869988942770307072/5eE0osqk_400x400.jpg"
