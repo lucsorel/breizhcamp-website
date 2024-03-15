@@ -12,9 +12,9 @@ Elle se tiendra dans le bâtiment 2A de l’Université Rennes 1 comme les anné
 L'adresse exacte est :
 
 > Université de Rennes 1, Campus de Beaulieu
-
+>
 > 263, avenue du Général Leclerc
-
+>
 > 35042 RENNES
 
 # Comment me rendre au BreizhCamp ?
@@ -143,5 +143,4 @@ N'hésitez pas à consulter la page détaillant les
 [modalités pratiques](/conference/toutlereste) durant la conférence (accueil,
 restauration, vestiaire, …).
 Et s'il vous reste encore une interrogation, merci d'envoyer un mail à
-**contact@breizhcamp.org** ou contactez-nous sur Twitter
-[@breizhcamp](https://twitter.com/breizhcamp)
+**contact@breizhcamp.org**
