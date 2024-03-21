@@ -57,7 +57,11 @@ nous sommes limités en nombre de places et les nombreux messages que nous recev
 que la pression va être forte sur la billetterie. Alors pour éviter toute frustration, nous mettons
 en place une billetterie par tirage au sort.
 
+<!--
 Vous pouvez vous inscrire à la lotterie de la billetterie sur https://billets.breizhcamp.org.
+-->
+
+Mais pour l'instant le système de billetterie __n'est pas encore ouvert__.
 
 Restez au courant sur nos réseaux [Twitter](https://twitter.com/breizhcamp) et [LinkedIn](https://www.linkedin.com/in/breizhcamp-%F0%9F%92%BB-26991589/).
 
