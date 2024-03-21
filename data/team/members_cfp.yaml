@@ -1,109 +1,82 @@
 items:
   - name: Yoann Dubreuil
-    picture: "https://pbs.twimg.com/profile_images/654638174354960384/8EBvD1-D_400x400.jpg"
+    picture: /img/team/yoanndubreuil.jpg
     twitter: yoanndubreuil
   - name: Alexandre Thomazo
-    picture: "https://pbs.twimg.com/profile_images/1863590812/alex_400x400.jpg"
+    picture: /img/team/alexlg.jpg
     twitter: alexlg
-  # - name: Loïc Guibert
-  #   picture: "https://www.eizhel.fr/img/lgu_rect_200px.png"
-  #   link:
-  #     fa_icon: "linkedin-square"
-  #     label: "loicguibert"
-  #     url: "https://www.linkedin.com/in/loicguibert/"
-  #  - name: Nicolas Ledez
-  #    picture: "https://nicolas.ledez.net/nledez-2015-round-256.png"
-  #    twitter: nledez
   - name: Sébastien Brousse
-    picture: "https://pbs.twimg.com/profile_images/654642904753917953/q6Z4Zmub_400x400.jpg"
+    picture: /img/team/seb_brousse.jpg
     twitter: seb_brousse
-  # - name: Julien Coste
-  #   picture: "https://pbs.twimg.com/profile_images/1202320757/julien_400x400.png"
-  #   twitter: CosteJulien
   - name: Laurent Huet
-    picture: "https://pbs.twimg.com/profile_images/2160253817/laurent_400x400.png"
+    picture: /img/team/lhuet35.png
     twitter: lhuet35
   - name: Marc Audefroy
-    picture: "https://pbs.twimg.com/profile_images/927570015624335360/8jS60rpn_400x400.jpg"
+    picture: /img/team/MarcAudefroy.jpg
     twitter: MarcAudefroy
-  # - name: Jean-Louis Jouannic
-  #   picture: "https://secure.gravatar.com/avatar/e7508b5118339906805a8f143df58ebc?s=320"
-  #   twitter: jljouannic
   - name: Guillaume Collic
-    picture: "https://pbs.twimg.com/profile_images/559701780108283904/HEf8vt1y_400x400.png"
+    picture: /img/team/gcollic.png
     twitter: gcollic
   - name: Benoît Masson
-    picture: "https://avatars2.githubusercontent.com/u/10956459"
+    picture: /img/team/benoitmasson.png
     link:
       fa_icon: "linkedin-square"
       label: "benoitmasson"
       url: "https://www.linkedin.com/in/benoitmasson/"
   - name: Gaël Salaün
-    picture: "https://pbs.twimg.com/profile_images/1653001139049119745/6Hi83BLW_400x400.jpg"
+    picture: /img/team/gsalaun1.jpg
     twitter: gsalaun1
   - name: Léna Ndiaye
-    picture: "https://pbs.twimg.com/profile_images/1213830230701330432/ZmbVFFrr_400x400.jpg"
+    picture: /img/team/annetLenaNDIAYE.jpg
     twitter: annetLenaNDIAYE
   - name: Pascal Le Merrer
-    picture: "https://pbs.twimg.com/profile_images/1442455098035220480/ZYJh_zFj_400x400.jpg"
+    picture: /img/team/pascallemerrer.jpeg
     link:
       fa_icon: "linkedin-square"
       label: "pascallemerrer"
       url: "https://www.linkedin.com/in/pascal-le-merrer-872a478/"
   - name: Nicolas Pennec
-    picture: "https://secure.meetupstatic.com/photos/member/e/9/7/1/highres_252419761.jpeg"
+    picture: /img/team/NicoPennec.jpeg
     twitter: NicoPennec
-  #   - name: Caroline Gaudreau
-  #     picture: "https://pbs.twimg.com/profile_images/1221414650631327744/c5G7hxFp_400x400.jpg"
-  #     twitter: akhesacaro
-  #   - name: Gaël Deest
-  #     picture: "https://pbs.twimg.com/profile_images/1048161192185946113/xVV67qHt_400x400.jpg"
-  #     twitter: gael_deest
-  #   - name: Nicolas Bulteau
-  #     picture: "https://pbs.twimg.com/profile_images/762634644458205184/UqxX0XCC_400x400.jpg"
-  #     twitter: nbulteau
   - name: Sylvain Révéreault
-    picture: "https://pbs.twimg.com/profile_images/673174224555626496/e8AJ-MEv_400x400.jpg"
+    picture: /img/team/srevereault.jpg
     twitter: srevereault
   - name: Sylvain Guernion
-    picture: "https://pbs.twimg.com/profile_images/2172133690/photo_400x400.jpg"
+    picture: /img/team/sguernion.jpg
     twitter: sguernion
   - name: Luc Sorel-Giffo
-    picture: "https://cdn.masto.host/floss/accounts/avatars/109/411/441/544/209/828/original/53bea23ed0e184c8.jpg"
+    picture: /img/team/lucsorelgiffo.jpg
     link:
       fa_icon: "mastodon-square"
       label: "lucsorelgiffo"
       url: "https://floss.social/@lucsorelgiffo"
   - name: Etienne Besson
-    picture: "https://pbs.twimg.com/profile_images/992299580539654145/yVwPF6_p_400x400.jpg"
+    picture: /img/team/etienne_besson.jpg
     twitter: etienne_besson
   - name: Caroline Mouden
-    picture: "https://pbs.twimg.com/profile_images/859753339311071234/mw3gPidu_400x400.jpg"
+    picture: /img/team/CarolineMouden.jpg
     twitter: CarolineMouden
   - name: Sylvain Tranchand
-    picture: "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_3,f_auto,g_face,h_130,q_auto:good,w_130/v1/gcs/platform-data-goog/avatars/sylvain_tranchand_EV3DU5N.jpg"
+    picture: /img/team/tranchandsylvain.webp
     link:
       fa_icon: "linkedin-square"
       label: "tranchandsylvain"
       url: "https://www.linkedin.com/in/tranchandsylvain/"
   - name: Benoit Miedan-Gros
-    picture: "https://pbs.twimg.com/profile_images/876333463376363520/H-JZUYYg_400x400.jpg"
+    picture: /img/team/bmiedangros.jpg
     twitter: bmiedangros
   - name: Sébastien Chédor
-    picture: "https://pbs.twimg.com/profile_images/1068824743091101696/QP7CPGp7_400x400.jpg"
+    picture: /img/team/SebastienChedor.jpg
     twitter: SebastienChedor
   - name: Julien Stephan
-    picture: "https://media.licdn.com/dms/image/C5603AQH_tweVNhLb5Q/profile-displayphoto-shrink_800_800/0/1517621319577?e=1687996800&v=beta&t=QNfvxcXK1m1x9AculGkyrPWMY9nDm8AQvtfu0hrCDrU"
+    picture: /img/team/julienstephan.jpeg
     link:
       fa_icon: "linkedin-square"
       label: "julienstephan"
       url: "https://fr.linkedin.com/in/julien-stephan-70a5522b"
   - name: Johanna Duigou
     twitter: johanna_duigou
-    picture: "https://media.licdn.com/dms/image/C4D03AQG4j6YoJwWV8A/profile-displayphoto-shrink_400_400/0/1571805536245?e=1689206400&v=beta&t=Iy0pvGUI-x-1EpuLgzXfuRvce7f3kOPF2sUyhM6z3sg"
-  # - name: Nicolas Bouron
-  #   picture: "https://avatars.githubusercontent.com/u/118923?v=4"
-  #   twitter: nbouron
+    picture: /img/team/johanna_duigou.jpg
   - name: Maxime Odye
     twitter: MaxOdye
-    picture: "https://media.licdn.com/dms/image/C4D03AQFx4j6Gz_KFdQ/profile-displayphoto-shrink_400_400/0/1605532124340?e=1689206400&v=beta&t=MPhLcJIYcqqdr7FH_U6QIZWdXh-9inWrJaOsaED2rGs"
+    picture: /img/team/MaxOdye.jpg
