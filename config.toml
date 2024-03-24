@@ -21,7 +21,7 @@ mediatype ="application/json"
 [markup.goldmark.renderer]
 unsafe= true
 [params]
-    viewMorePostLink = "/blog/"
+    # viewMorePostLink = "/blog/"
     author = "BreizhCamp"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
@@ -62,7 +62,7 @@ unsafe= true
     edition_date_place = "26 au 28 juin à Rennes"
     edition_date_start = "2024-06-26"
     edition_date_end = "2024-06-28"
-    previous_editions = ["2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2022", "2023"]
+    previous_editions = ["2013", "2014", "2015", "2016", "2017", "2018", "2019", "2022", "2023"]
     programme_get_talks_method = "static"  # static | cfp_api
     programme_get_speakers_method = "static"  # static | cfp_api
 
@@ -82,8 +82,8 @@ unsafe= true
     url = "https://www.flickr.com/photos/170850707@N06/"
 
 
-[Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+# [Permalinks]
+#     blog = "/blog/:year/:month/:day/:filename/"
 
 [[params.menu]]
    name = "CFP"
@@ -129,10 +129,10 @@ unsafe= true
    url  = "/faq/"
    weight = 10
 
-[[params.menu]]
-    name = "Blog"
-    url  = "/blog/"
-    weight = 11
+# [[params.menu]]
+#     name = "Blog"
+#     url  = "/blog/"
+#     weight = 11
 
 [[params.menu]]
     name = "Equipe"
