@@ -37,12 +37,6 @@ items:
       - name: Caroline Mouden
         picture: /img/team/CarolineMouden.jpg
         twitter: CarolineMouden
-      - name: Sylvain Tranchand
-        picture: /img/team/tranchandsylvain.webp
-        link:
-          fa_icon: "linkedin-square"
-          label: "tranchandsylvain"
-          url: "https://www.linkedin.com/in/tranchandsylvain/"
       - name: Johanna Duigou
         twitter: johanna_duigou
         picture: /img/team/johanna_duigou.jpg
