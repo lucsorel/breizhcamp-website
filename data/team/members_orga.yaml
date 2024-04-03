@@ -74,12 +74,6 @@ items:
   - name: Sylvain Révéreault
     twitter: srevereault
     picture: /img/team/srevereault.jpg
-  - name: Sylvain Tranchand
-    picture: /img/team/tranchandsylvain.webp
-    link:
-      fa_icon: "linkedin-square"
-      label: "tranchandsylvain"
-      url: "https://www.linkedin.com/in/tranchandsylvain/"
   - name: Yoann Dubreuil
     twitter: yoanndubreuil
     picture: /img/team/yoanndubreuil.jpg
