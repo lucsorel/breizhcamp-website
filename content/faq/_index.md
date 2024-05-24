@@ -57,13 +57,17 @@ nous sommes limités en nombre de places et les nombreux messages que nous recev
 que la pression va être forte sur la billetterie. Alors pour éviter toute frustration, nous mettons
 en place une billetterie par tirage au sort.
 
+Afin de donner la même chance à tout le monde, une seule participation par personne physique / téléphone 
+ne pourra être validée. De plus, vous ne pourrez pas changer le nom du billet une fois validé.
+Si une tentative de contournement est détectée, les inscriptions seront sorties du tirage au sort.
+
+Vous pouvez vous inscrire à la loterie de la billetterie sur https://billets.breizhcamp.org.
+
 <!--
-Vous pouvez vous inscrire à la lotterie de la billetterie sur https://billets.breizhcamp.org.
+Mais pour l'instant le système de billetterie __n'est pas encore ouvert__.
 -->
 
-Mais pour l'instant le système de billetterie __n'est pas encore ouvert__.
-
-Restez au courant sur nos réseaux [Twitter](https://twitter.com/breizhcamp) et [LinkedIn](https://www.linkedin.com/in/breizhcamp-%F0%9F%92%BB-26991589/).
+Tenez-vous au courant sur nos réseaux [Twitter](https://twitter.com/breizhcamp) et [LinkedIn](https://www.linkedin.com/in/breizhcamp-%F0%9F%92%BB-26991589/).
 
 Il n'est pas possible d'acheter des billets pendant l'événement.
 
@@ -72,8 +76,8 @@ Il n'est pas possible d'acheter des billets pendant l'événement.
 Lors de l'inscription au tirage au sort pour la billetterie, vous pourrez exprimer 
 votre préférence pour une des formules suivantes :
 
-  * billet **« Conférences »** (2 jours, jeudi et vendredi) : 75 €
-  * billet **« Combo »** (3 jours, mercredi, jeudi et vendredi) : 90 €
+  * billet **« 2 jours »** (jeudi et vendredi) : 75 €
+  * billet **« 3 jours »** (mercredi, jeudi et vendredi) : 90 €
 
 # Je suis speaker, dois-je acheter un billet ?
 
@@ -86,7 +90,7 @@ conférence ! Il n'est donc pas nécessaire d'acheter un billet.
 dans lequel figure un lien pour éditer le billet.
 
 Ce lien vous permet d'annuler votre participation et de vous faire rembourser
-votre achat. Le remboursement est possible jusqu'à **14 jours** avant
+votre achat. Le remboursement est possible jusqu'à **7 jours** avant
 l'événement, avec une retenue de **1 €**.
 
 # Qui organise cet évènement ?
