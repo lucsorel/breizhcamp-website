@@ -2914,6 +2914,9 @@ fieldset[disabled] .btn-template-primary.active {
   line-height: 20px;
   height: 62px;
 }
+.navbar-brand img {
+  filter: drop-shadow(0 0 20px #fbcf80);
+}
 .navbar-brand:hover,
 .navbar-brand:focus {
   text-decoration: none;
