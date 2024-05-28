@@ -1,15 +1,11 @@
 items:
-#  - name: "XXX"
-#    logo: "/img/sponsors/logo_XXX.png"
-#    url: "https://www.XXX.com/"
-#    asso_level: "licorne" / "nyancat" / "usergroup"
-#    hidden: false (optionnel)
-#    breizhcamp_level: "platinum" / "gold" / "silver" / "bronze" / "partenaire" / "meetandgreet"
-#    background_dark: true (optionnel)
-
-
-
-  # ========== PLATINUM ==========
+  #  - name: "XXX"
+  #    logo: "/img/sponsors/logo_XXX.png"
+  #    url: "https://www.XXX.com/"
+  #    asso_level: "licorne" / "nyancat" / "usergroup"
+  #    hidden: false (optionnel)
+  #    breizhcamp_level: "platinum" / "gold" / "silver" / "bronze" / "partenaire" / "meetandgreet"
+  #    background_dark: true (optionnel)
 
   - name: "CYIM"
     logo: "/img/sponsors/logo_cyim.svg"
@@ -19,6 +15,16 @@ items:
   - name: "GROUPE SII"
     logo: "/img/sponsors/logo_groupe_sii.png"
     url: "https://sii-group.com"
+    breizhcamp_level: "platinum"
+
+  - name: "HelloWork"
+    logo: "/img/sponsors/logo_hellowork.png"
+    url: "https://www.hellowork-group.com/"
+    breizhcamp_level: "platinum"
+
+  - name: "IDnow"
+    logo: "/img/sponsors/logo_idnow.png"
+    url: "https://www.idnow.io/fr/"
     breizhcamp_level: "platinum"
 
   - name: "Liksi"
@@ -31,26 +37,9 @@ items:
     url: "https://www.zenika.com/"
     breizhcamp_level: "platinum"
 
-  # ========== GOLD ==========
-
   - name: "Coexya"
     logo: "/img/sponsors/logo_coexya.png"
     url: "https://www.coexya.eu/"
-    breizhcamp_level: "gold"
-    note: |
-      Coexya, acteur indépendant du numérique et multi-spécialiste (conseil, intégration & software), est ravie d'être sponsor Gold de la 11ème édition du BreizhCamp.
-      Cette année, plongez dans l'aventure palpitante du Coexya Park ! Rejoignez-nous pour des animations captivantes et ''dangereuses'' pour tenter de remporter des dino-laots.
-      Nos aventuriers passionnés de tech (et de projets santé notamment) seront là pour vous accueillir et vous guider dans le Coexya Park et son redouté Tir(Ex) de balles !"
-    id: "coexia"
-
-  - name: "Conserto"
-    logo: "/img/sponsors/logo_conserto.png"
-    url: "https://conserto.pro/"
-    breizhcamp_level: "gold"
-
-  - name: "Créative Ingénierie"
-    logo: "/img/sponsors/logo_creative_ingenierie.png"
-    url: "https://www.groupe-creative.fr/"
     breizhcamp_level: "gold"
 
   - name: "Delia Technologies"
@@ -58,9 +47,24 @@ items:
     url: "https://www.delia.tech/"
     breizhcamp_level: "gold"
 
-  - name: "HelloWork"
-    logo: "/img/sponsors/logo_hellowork.png"
-    url: "https://www.hellowork-group.com/"
+  - name: "Fellows"
+    logo: "/img/sponsors/logo_fellows.png"
+    url: "https://www.fellows-consulting.com/"
+    breizhcamp_level: "gold"
+
+  - name: "G2S"
+    logo: "/img/sponsors/logo_g2s.png"
+    url: "https://www.g2s-groupama-technologies.fr/"
+    breizhcamp_level: "gold"
+
+  - name: "Groupe Créative"
+    logo: "/img/sponsors/logo_groupe_creative.svg"
+    url: "https://www.groupe-creative.fr/"
+    breizhcamp_level: "gold"
+
+  - name: "Groupe SIPA Ouest-France - Additi"
+    logo: "/img/sponsors/logo_groupe_sipa_ouest-france_-_additi.png"
+    url: "https://www.ouest-france.fr/"
     breizhcamp_level: "gold"
 
   - name: "Infotel"
@@ -68,14 +72,14 @@ items:
     url: "https://infotel.com/"
     breizhcamp_level: "gold"
 
-  - name: "Luminess"
-    logo: "/img/sponsors/logo_luminess.png"
-    url: "https://www.luminess.eu/"
-    breizhcamp_level: "gold"
-
   - name: "Max DS"
     logo: "/img/sponsors/logo_max_ds.svg"
     url: "https://maxds.fr/"
+    breizhcamp_level: "gold"
+
+  - name: "Microsoft"
+    logo: "/img/sponsors/logo_microsoft.png"
+    url: "https://www.microsoft.com/fr-fr/"
     breizhcamp_level: "gold"
 
   - name: "Niji"
@@ -83,9 +87,9 @@ items:
     url: "https://www.niji.fr/"
     breizhcamp_level: "gold"
 
-  - name: "Néosoft"
-    logo: "/img/sponsors/logo_neosoft.svg"
-    url: "https://www.neo-soft.fr/"
+  - name: "Océane Consulting Data Management"
+    logo: "/img/sponsors/logo_oceane_consulting_data_management.png"
+    url: "https://dm.oceaneconsulting.com/?hsLang=fr-fr"
     breizhcamp_level: "gold"
 
   - name: "Onepoint"
@@ -93,19 +97,9 @@ items:
     url: "https://www.groupeonepoint.com"
     breizhcamp_level: "gold"
 
-  - name: "Ouest-France Groupe SIPA"
-    logo: "/img/sponsors/logo_ouest-france_groupe_sipa.png"
-    url: "https://www.ouest-france.fr/"
-    breizhcamp_level: "gold"
-
   - name: "Oxxeo"
     logo: "/img/sponsors/logo_oxxeo.png"
     url: "https://www.oxxeo.fr/"
-    breizhcamp_level: "gold"
-
-  - name: "Shodo"
-    logo: "/img/sponsors/logo_shodo.png"
-    url: "https://shodo.io/"
     breizhcamp_level: "gold"
 
   - name: "Slickteam"
@@ -117,24 +111,6 @@ items:
     logo: "/img/sponsors/logo_sopra_steria.png"
     url: "https://www.soprasteria.com/fr"
     breizhcamp_level: "gold"
-
-  - name: "Worldline"
-    logo: "/img/sponsors/logo_worldline.png"
-    url: "https://fr.worldline.com/"
-    breizhcamp_level: "gold"
-
-  - name: "Younup"
-    logo: "/img/sponsors/logo_younup.png"
-    url: "https://www.younup.fr/"
-    breizhcamp_level: "gold"
-
-
-  # ========== SILVER ==========
-
-  - name: "A5sys"
-    logo: "/img/sponsors/logo_a5sys.png"
-    url: "https://www.a5sys.com"
-    breizhcamp_level: "silver"
 
   - name: "ASI"
     logo: "/img/sponsors/logo_asi.bin"
@@ -151,28 +127,33 @@ items:
     url: "https://www.apside.com/"
     breizhcamp_level: "silver"
 
-  - name: "Arche MC2"
-    logo: "/img/sponsors/logo_arche_mc2.png"
-    url: "https://www.arche-mc2.fr/"
+  - name: "Cat-Amania"
+    logo: "/img/sponsors/logo_cat-amania.svg"
+    url: "https://www.cat-amania.com/"
     breizhcamp_level: "silver"
 
-  - name: "CGI"
-    logo: "/img/sponsors/logo_cgi.png"
-    url: "https://www.cgi.fr/fr-fr"
-    breizhcamp_level: "silver"
-
-  - name: "G2S"
-    logo: "/img/sponsors/logo_g2s.png"
-    url: "https://www.g2s-groupama-technologies.fr/"
+  - name: "Inetum"
+    logo: "/img/sponsors/logo_inetum.png"
+    url: "https://www.inetum.com/fr"
     breizhcamp_level: "silver"
 
   - name: "Kanoma"
-    logo: "/img/sponsors/logo_kanoma.png"
+    logo: "/img/sponsors/logo_kanoma.svg"
     url: "https://www.kanoma.fr/"
     breizhcamp_level: "silver"
 
+  - name: "LACROIX"
+    logo: "/img/sponsors/logo_lacroix.svg"
+    url: "https://fr.lacroix-group.com/"
+    breizhcamp_level: "silver"
+
+  - name: "Luminess"
+    logo: "/img/sponsors/logo_luminess.png"
+    url: "https://www.luminess.eu/"
+    breizhcamp_level: "silver"
+
   - name: "Net-ng"
-    logo: "/img/sponsors/logo_net-ng.png"
+    logo: "/img/sponsors/logo_net-ng.svg"
     url: "https://www.net-ng.com/"
     breizhcamp_level: "silver"
 
@@ -186,12 +167,30 @@ items:
     url: "https://www.serli.com/"
     breizhcamp_level: "silver"
 
+  - name: "Sogeti Capgemini"
+    logo: "/img/sponsors/logo_sogeti_capgemini.png"
+    url: "https://www.capgemini.com/fr-fr/"
+    breizhcamp_level: "silver"
+
+  - name: "Thales"
+    logo: "/img/sponsors/logo_thales.png"
+    url: "https://www.thalesgroup.com/fr"
+    breizhcamp_level: "silver"
+
+  - name: "Veonum"
+    logo: "/img/sponsors/logo_veonum.svg"
+    url: "http://www.veonum.com"
+    breizhcamp_level: "silver"
+
   - name: "Wijin"
     logo: "/img/sponsors/logo_wijin.png"
     url: "https://www.wijin.tech/"
     breizhcamp_level: "silver"
 
-  # ========== BRONZE ==========
+  - name: "Younup"
+    logo: "/img/sponsors/logo_younup.png"
+    url: "https://www.younup.fr/"
+    breizhcamp_level: "silver"
 
   - name: "DEVmachine"
     logo: "/img/sponsors/logo_devmachine.png"
@@ -203,150 +202,19 @@ items:
     url: "https://www.externatic.fr/"
     breizhcamp_level: "bronze"
 
-  - name: "Open"
-    logo: "/img/sponsors/logo_open.png"
-    url: "https://www.open.global/fr/rennes"
+  - name: "OKwind"
+    logo: "/img/sponsors/logo_okwind.svg"
+    url: "https://www.okwind.fr"
     breizhcamp_level: "bronze"
 
-  # ========== Meet & Greet ==========
-
+  - name: "Open"
+    logo: "/img/sponsors/logo_open.png"
+    url: "https://www.open.global/fr"
+    breizhcamp_level: "bronze"
 
   # ========== PARTENAIRE ==========
 
   - name: "Université Rennes 1"
     logo: "/img/sponsors/logo_univ_rennes_1.png"
-    url: "http://www.univ-rennes1.fr/"
+    url: "https://www.univ-rennes.fr/"
     breizhcamp_level: "partenaire"
-
-
-
-  # ========== OTHER ==========
-
-  - name: "Orange"
-    logo: "/img/sponsors/logo_orange.png"
-    url: "https://www.orange.com"
-    asso_level: "usergroup"
-
-
-  # ========== OLD ==========
-
-  - name: "Alten"
-    logo: "/img/sponsors/logo_alten.svg"
-    url: "https://www.alten.com/fr/"
-    hidden: true
-
-  - name: "Ariadnext"
-    logo: "/img/sponsors/logo_ariadnext.png"
-    url: "https://www.ariadnext.com"
-    hidden: true
-
-  - name: "Claranet"
-    logo: "/img/sponsors/logo_claranet.png"
-    url: "https://www.claranet.fr"
-    hidden: true
-
-  - name: "Clever Cloud"
-    logo: "/img/sponsors/logo_clevercloud.svg"
-    url: "https://www.clever-cloud.com"
-    hidden: true
-
-  - name: "Creative"
-    logo: "/img/sponsors/logo_creative.png"
-    url: "https://www.groupe-creative.fr/"
-    hidden: true
-
-  - name: "Elastic"
-    logo: "/img/sponsors/logo_elastic.svg"
-    url: "https://www.elastic.co/fr/"
-    hidden: true
-
-  - name: "Energiency"
-    logo: "/img/sponsors/logo_energiency.svg"
-    url: "http://www.energiency.com"
-    hidden: true
-
-  - name: "Harmonic"
-    logo: "/img/sponsors/logo_harmonic.png"
-    url: "https://www.harmonicinc.com/"
-    hidden: true
-
-  - name: "ISTIC, UFR Informatique - Électronique"
-    logo: "/img/sponsors/logo_istic.png"
-    url: "http://www.istic.univ-rennes1.fr/"
-    # breizhcamp_level: "partenaire"
-    hidden: true
-
-  - name: "Jenji"
-    logo: "/img/sponsors/logo_jenji.png"
-    url: "https://www.jenji.io/"
-    hidden: true
-
-  - name: "JFrog"
-    logo: "/img/sponsors/logo_jfrog.png"
-    url: "https://www.jfrog.com/"
-    hidden: true
-
-  - name: "Jouve"
-    logo: "/img/sponsors/logo_jouve.png"
-    url: "http://www.jouve.com/fr/"
-    hidden: true
-
-  - name: "Kristal"
-    logo: "/img/sponsors/logo_kristal.jpg"
-    url: "https://kristal.io/fr/"
-    hidden: true
-
-  - name: "Microsoft"
-    logo: "/img/sponsors/logo_microsoft.png"
-    url: "https://www.microsoft.com/fr-fr/"
-    hidden: true
-
-  - name: "OVHcloud"
-    logo: "/img/sponsors/logo_ovhcloud.png"
-    url: "https://www.ovh.com/fr/"
-    hidden: true
-
-  - name: "Planet Work"
-    logo: "/img/sponsors/logo_planet-work.svg"
-    url: "https://www.planet-work.com/"
-    hidden: true
-
-  - name: "Pr0Ph3Cy"
-    logo: "/img/sponsors/logo_pr0ph3cy.png"
-    url: "https://www.pr0ph3cy.com/"
-    hidden: true
-
-  - name: "reThink"
-    logo: "/img/sponsors/logo_rethink.jpg"
-    url: "https://rethink-project.eu/"
-    hidden: true
-
-  - name: "Saagie"
-    logo: "/img/sponsors/logo_saagie.png"
-    url: "https://www.saagie.com"
-    hidden: true
-
-  - name: "Silicom"
-    logo: "/img/sponsors/logo_silicom.svg"
-    url: "http://www.silicom.fr"
-    hidden: true
- 
-  - name: "Softeam"
-    logo: "/img/sponsors/logo_softeam.png"
-    url: "https://www.softeamgroup.fr"
-    hidden: true
-
-  - name: "Sogeti"
-    logo: "/img/sponsors/logo_sogeti.gif"
-    url: "http://www.fr.sogeti.com/"
-    hidden: true
-
-  - name: "Solocal"
-    logo: "/img/sponsors/logo_solocal.svg"
-    url: "https://www.solocal.com"
-    hidden: true
-
-  - name: "Unitee"
-    logo: "/img/sponsors/logo_unitee.png"
-    url: "https://www.unitee.io/fr/"
-    hidden: true
