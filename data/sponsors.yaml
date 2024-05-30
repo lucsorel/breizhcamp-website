@@ -126,7 +126,12 @@ items:
     logo: "/img/sponsors/logo_apside.png"
     url: "https://www.apside.com/"
     breizhcamp_level: "silver"
-
+    
+  - name: "CGI"
+    logo: "/img/sponsors/logo_cgi.png"
+    url: "https://www.cgi.fr/fr-fr"
+    breizhcamp_level: "silver"
+    
   - name: "Cat-Amania"
     logo: "/img/sponsors/logo_cat-amania.svg"
     url: "https://www.cat-amania.com/"
@@ -152,6 +157,11 @@ items:
     url: "https://www.luminess.eu/"
     breizhcamp_level: "silver"
 
+  - name: "SIB"
+    logo: "/img/sponsors/logo_sib.png"
+    url: "https://www.sib.fr"
+    breizhcamp_level: "silver"
+    
   - name: "Net-ng"
     logo: "/img/sponsors/logo_net-ng.svg"
     url: "https://www.net-ng.com/"

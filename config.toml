@@ -205,7 +205,7 @@ unsafe= true
     enable = true
     # cf 'data/sponsors.yaml'
     title = "Sponsors & Partenaires"
-    subtitle = "Le BreizhCamp est possible grâce au soutien de nos sponsors. N'hésitez pas à nous contacter pour devenir vous aussi sponsor de l'évènement à l'adresse contact@breizhcamp.org"
+    subtitle = "Le BreizhCamp est possible grâce au soutien de nos sponsors. N'hésitez pas à nous contacter pour devenir vous aussi sponsor de l'évènement à l'adresse sponsoring@breizhcamp.org"
     thankyou = "Un grand merci à tous nos Sponsors et Partenaires !"
     # Lister les sponsors
     show_list = true
